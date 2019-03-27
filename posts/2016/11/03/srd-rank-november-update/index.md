@@ -1,0 +1,20 @@
+<html><body><p>As we've mentioned in <strong><a href="https://scottishrollerderbyblog.com/2016/11/03/november-56th-non-usa-derby-roundup/">our weekend roundup</a></strong>, the November update of the Scottish Roller Derby Ranking system is also available today. This draws from Flat Track Stats records for the 12 lunar months upto and including the 1st November.
+
+SRD Rank is an evolving system, but there's four changes we want to particularly mention for this second update. (The original SRD Rank document is <strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/2">here</a></strong>.)
+
+Firstly, SRD Rank is now hosted off of this wordpress site, at our technical web hosting: <strong><a href="http://aoanla.pythonanywhere.com/16-Nov-ranking.html">HERE</a></strong>.
+
+This allows us to provide a much more responsive view of the Ranking Table than we could previously. You can now interactively select and limit the data on a large number of factors (geography, "gender" etc) as well as jump around in the table with some quick links.
+
+Secondly, we've looked at the performance of the October SRD Rank and have decided that the blended approach we're using doesn't add as much to the accuracy as it needs to, given the additional limitations it brings. SRD Rank is now based entirely on score ratio based calculations. We also show how the rankings have changed month on month - these are calculated with respect to the ratio-only rankings for October.
+
+Thirdly, we've completed the additional work needed to show "ghost ranks". As our rating scheme only includes the set of teams which have all played other members of the group in the rating period, it is possible for a team to leave the ranking from one month to the next, if the only bouts which connect them are now 13 lunar months away. In order to provide continuity, we place these "technically unrankable" teams in a special (hidden by default) "GHOST" category, in the position in the ranking where they would most likely be, if they could be ranked.
+
+Fourthly, we've completed the additional work we needed to do to provide relative "confidence" measures for any given rating and rank. These are hidden by default to make the table narrower, but clicking "Reveal Confidences" shows them. Larger numbers are better, and show there's more evidence linking the rating to the rest of the teams.
+We actually provide two Confidences, as some cliques are more "confidently" rated within their own clique than they are to the rest of the world. [These cliques, or "Local Groups", are automatically detected by the SRD Rank processing, and you can interactively hide or show any combination of them, too. Nicely, they tend to map to actual divisions in the Flat Track derby community - the first "Local Group" proper turns out to be Men's Roller Derby, for example.]
+
+ 
+
+Finally: In order to improve the quality of FlatTrackStats and our predictions, we've also done a bit of research to fill in missing bout data. Thanks, especially, to: <span class="s1">Demolitia Derby Queens, Heart of Appalachia, Cornfed Derby Dames, </span><span class="s1">Dark River Derby Coalition, Cen-Tex Rollergirls, Big Easy Rollergirls, LeHigh Valley Rollergirls, Neo Roller Derby, Cape Fear Roller Girls, Hammer City Roller Girls, Sintral Florida Derby Demons, Grand Raggidy Roller Girls, Piedmont Riot, Hellions of Troy, Black Hills Wildfire Roller Derby, West Coast Derby Knockouts and Peterborough Area Roller Derby, who have all responded to requests for missing bout data when I couldn't identify it elsewhere.</span>
+
+[&lt;a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;&lt;img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.]</p></body></html>

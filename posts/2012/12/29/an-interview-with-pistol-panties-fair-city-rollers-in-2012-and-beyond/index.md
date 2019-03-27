@@ -1,0 +1,27 @@
+<html><body><p>As part of the blog's End of Year interview series, we caught up with Fair City Rollers' Pistol Panties to talk about roller derby in Perth, and the future.
+
+<a href="http://scottishrollerderbyblog.com/2012/12/29/an-interview-with-pistol-panties-fair-city-rollers-in-2012-and-beyond/271296_475653322465325_1961521013_o/" rel="attachment wp-att-2014"><img class=" wp-image-2014  " alt="Pistol Panties and the rest of FCR vs Furness Firecrackers. (Photo by Ian Mccreadie)" src="http://scottishrollerderbyblog.com/2012/12/271296_475653322465325_1961521013_o.jpg" width="663" height="442"></a> Pistol Panties and the rest of FCR vs Furness Firecrackers. (Photo by Ian Mccreadie)
+
+<strong>Despite complications in the latter half of the year, Fair City managed 4 bouts in the past year, including a strong showing against the Furness Firecrackers in September. What's the high point of the year from a bouting perspective?</strong>
+
+I think we showed over the past year how a team can improve with hard graft. We think that's reflected in our scores, especially against Furness, we all really enjoyed the bout and even though it wasn't a win, we were still very proud of what we achieved. We are very grateful for the help we had from guest coaches from the other Scottish Leagues and most notably from Alma Geddon of ARRG, who has been a constant source of support for us, both from a training perspective and with the league as a whole. We wouldn't have improved as much as we have without the support we have had from Alma, and Scotland's leagues in general.
+
+<strong>What's the best moment of the year from Fair City's perspective?</strong>
+
+Its hard to pick a specific moment... for me it was drawing a small lead in our bout against Wakey Wheeled Cats in June. That Cats are such a great bunch of girls so it was great to host our re-match, and we had a feeling it might be a close bout, because we thought we had improved as a team, and we felt sure they would have too. I think it was during the second half when we pulled ahead by only a few points there was a flash of "We could actually win this", and I think that was enough to push us to work harder and come back fighting. Even though we didn't win the game, it was definitely a high point for the whole team.
+
+<strong>Bell's Sports Centre is a fantastic venue, and you've been kind enough to donate it to Granite City for their home bouts this year. Do you think it helps a league to have a really solid venue for bout hosting, and how difficult was it getting Bell's?</strong>
+
+We've had a lot of support from Granite City in the past, so that decision wasn't a hard one, but yes it helps to have a really good relationship with your venue, which we have with Bells. They're always accommodating towards us, when sometimes it can be difficult to find that with a fairly new sport, I'm sure most leagues have experience of that.
+
+<strong>You gained a new sponsor in IntoTheNitemare this year as well. What's your relationship with Raven, and how do you feel about the sponsorship and money-raising side of derby? (How is hire a Fear Maiden going?)</strong>
+
+I know there is a split at the moment between those who see sponsorship in Derby is crucial, and those who see it as moving towards the more commercial side of the sport. When the relationship is mutually beneficial, and everyone is in agreement we see it as a positive thing for the league. That's what we have with Raven, and supporting the derby family is our priority. We think that its important to keep things fresh and capture peoples imagination, which is where the Hire a Fear Maiden came into existence.....its going really well, were hoping to have more success with it next year.
+
+<strong>The big shock for all of Scottish Roller Derby was Fair City's announcement that they were going rec-only for a while. While it's still sensitive, would you like to tell us a little about the difficult decision that this involved?</strong>
+
+It really wasn't a choice, it is a necessity at the moment. It has been a blow for us to lose so many skaters this year but we feel really positive about what's happening and where we go from here. At the end of the day there were people who weren't getting what they wanted from the league, or there was another league closer to where they actually live. People should always pursue what is best for them at that time, rather than stay with the league that doesn't suit their needs. There have been some really positive developments for us recently, and were hoping that the new year will bring more of the same!
+
+<strong>The promise of a future revival is implicit in the announcement on the Fair City facebook page. What do you have planned for 2013? (This isn't the first time a roller derby league has reinvented itself and come back stronger.)</strong>
+
+We are still a Roller Derby League first a foremost, but we are taking time out to focus on recruitment. As a team FCR are full of people who are really pro-active and positive about the future, and who really want the league to succeed, and that's what's most important to us. Right now were concentrating on listening to our members and giving them what they want from the league. The recreational element facilitates this because it allows us to draw in a bigger audience and get people interested in skating, and we can think about forming a team when we have a solid foundation to build that on. So watch this space!</p></body></html>

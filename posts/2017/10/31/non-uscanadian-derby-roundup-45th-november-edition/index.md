@@ -1,0 +1,197 @@
+<html><body><span class="s1">We’re bringing you another roundup of the upcoming Roller Derby this weekend from across the world. As always, we’re using <a href="http://flattrackstats.com/"><span class="s2"><b>Flat Track Stats</b></span></a> for much of this information – for regions with less good coverage, we also do a bit of intensive searching using a tool which scans the Facebook events of Roller Derby leagues known to <strong><a href="http://derbylisting.com/dl/grid/">Derby Listing</a></strong>.</span>
+<p class="p1"><span class="s1">Predictions of bouts are from FTS, if possible, and from our own <strong><a href="http://aoanla.pythonanywhere.com/SRDRankv2.html">SRD Rank</a></strong> where FTS cannot make predictions (for example: Latin America, or non-MRDA men’s bouts).  (SRDRank also has recent WFTDA rankings, including the 31st June ranking, as well as SRDRank, and allows you to make predictions from them.)</span></p>
+<p class="p1"><span class="s1">If we’ve missed you from our roundup, please let us know! [Or add yourselves to FTS and/or Derbylisting]</span></p>
+
+<h2 class="p2"><span class="s1"><b>Scotland</b></span></h2>
+<p class="p2">This weekend, there's home teams and National teams stuff both here and down south:</p>
+
+<ul>
+	<li>Friday, Glasgow: Resistance Roller Derby are hosting a Watch Party for WFTDA Champs, Night 1 [<a href="https://www.facebook.com/events/107139260025479/"><strong>EVENT</strong></a>]</li>
+	<li>Friday, Perth: Fair City Rollers are hosting a fundraising Pub Quiz [<a href="https://www.facebook.com/events/1930110647209084/"><strong>EVENT</strong></a>]</li>
+	<li>Glasgow: Power of Scotland, the Scottish Men's National Team, are running their bootcamp, featuring both Referee sessions + skater coaching from Team Scotland's Gigg, Mckenzie, Owl and Morris, plus a scrimmage to test everything you've learned. [<a href="https://www.facebook.com/events/286067055133823/"><strong>EVENT</strong></a>]</li>
+	<li>Dundee: Dundee Roller Girls host their home teams extravaganza - a three-way round robin between the Jutes of Hazard, Press Gangers and Jammin' Dodgers, followed by a mashup Championship bout [<a href="https://www.facebook.com/events/1334870333288214/"><strong>EVENT</strong></a>]</li>
+</ul>
+<h2 class="p1">UK</h2>
+With Halloween providing an excuse, there's a ton of derby in the UK (and a very special Bootcamp):
+<ul>
+	<li>Dorset, England: Dorset Roller Girls host a Thriller themed double header [<a href="https://www.facebook.com/events/174680133088824/"><strong>EVENT</strong></a>]
+<ul>
+	<li>Mixed, A-team level opener</li>
+	<li>Dorset B (debut!) versus Southampton [<a href="http://flattrackstats.com/node/97742"><strong>FTS</strong></a>]</li>
+</ul>
+</li>
+	<li>Liverpool, England: Liverpool Roller Birds host a double header against Oxford [<a href="https://www.facebook.com/events/114609632567073/"><strong>EVENT</strong></a>]
+<ul>
+	<li>Yellow Shovemarines (Liverpool B) versus Oxford B [<a href="http://flattrackstats.com/node/97244"><strong>FTS</strong></a>]</li>
+	<li>Sisters of Mercy (Liverpool A) versus Oxford A [<a href="http://flattrackstats.com/node/97243"><strong>FTS</strong></a>]</li>
+</ul>
+</li>
+	<li>Newcastle, England: Newcastle Roller Girls host an exciting double header versus Scotland: [<a href="https://www.facebook.com/events/310075669468792/"><strong>EVENT</strong></a>]
+<ul>
+	<li>Canny Belters (Newcastle A) versus Team Scotland Roller Derby [<a href="http://flattrackstats.com/node/97431"><strong>FTS</strong></a>]</li>
+	<li>Whippin' Hinnies (Newcastle B) versus Granite City Northern Fights (Aberdeen A) [<a href="http://flattrackstats.com/node/97430"><strong>FTS</strong></a>]</li>
+</ul>
+</li>
+	<li>Sunday, Eastbourne, England: Eastbourne Roller Derby host a bootcamp coached by Tori Bee, built around techniques associated with eating the baby. [<a href="https://www.facebook.com/events/812229828948149/"><strong>EVENT</strong></a>]</li>
+	<li>Sunday, Preston, England: Preston Roller Girls are running a recruitment/ open day, all day [<a href="https://www.facebook.com/events/135110160573207/"><strong>EVENT</strong></a>]</li>
+	<li>Sunday, Rochester, England: the Apex Predators host a Rookie Women Sevens Tournament [<a href="https://www.facebook.com/events/156939314887487/"><strong>EVENT</strong></a>]</li>
+	<li>Sunday, Taunton, England: South-West Angels of Terror host a double header [<a href="https://www.facebook.com/events/497591227266140/"><strong>EVENT</strong></a>]
+<ul>
+	<li>SWAT B versus Bridgend Roller Derby [<a href="http://flattrackstats.com/node/98046"><strong>FTS</strong></a>]</li>
+	<li>Mixed Scrim: Dynamite Dames v Bonfire Bruisers</li>
+</ul>
+</li>
+	<li>Sunday, York, England: York Minxters are hosting a Sunday open-scrim, as York Minxters take on The World [<a href="https://www.facebook.com/events/1487280324696082/"><strong>EVENT</strong></a>]</li>
+	<li>Tuesday, Leeds, England: Leeds Roller Derby, newly en-logoed, are hosting their next guest skater / open scrim night [<a href="https://www.facebook.com/events/1423733011043555/"><strong>EVENT</strong></a>]</li>
+</ul>
+<h2 class="p1">Europe</h2>
+<p class="p1"><span class="s1">In Europe, the 2017/8 series continues to pick up, as French, German and Swedish national tournaments all have bouts, along with two separate tournaments in addition!</span></p>
+
+<ul>
+	<li>Friday, Gothenburg, Sweden: Gothenburg Roller Derby are one of many league running a viewing party for WFTDA Champs [<a href="https://www.facebook.com/events/1539197166160103/"><strong>EVENT</strong></a>]</li>
+	<li>Antwerp, Belgium: One Love Roller Dolls host the first ever Brabo Cup, a 4-team round robin tournament of European scope. [<a href="http://flattrackstats.com/tournaments/98133/overview"><strong>FTS Tournament</strong></a>][<a href="https://www.facebook.com/events/859412850902885/"><strong>EVENT</strong></a>]. Competing:
+<ul>
+	<li>One Love Roller Dolls</li>
+	<li>Nantes Derby Girls</li>
+	<li>Nottingham Hellfire Harlots</li>
+	<li>Lille Roller Girls
+<ul>
+	<li>Also, there will be a men's exhibition, Manneken Beasts (Brussels) versus Panam Squad (Paris)</li>
+</ul>
+</li>
+</ul>
+</li>
+	<li>Prague, Czech Republic: the Hard Breaking Dolls host The Hague's Parliament of Pain B (The Jokers) for a game [<a href="http://flattrackstats.com/bouts/97879/overview"><strong>FTS</strong></a>][<a href="https://www.facebook.com/events/506667029698613/"><strong>EVENT</strong></a>]</li>
+	<li>(sat+sun) Brest, France: B. M. O. Roller Derby Girls host the first bouts of the French Nationale 2017/8 Division 2, Zone 2: [<a href="http://flattrackstats.com/tournaments/97753/overview"><strong>FTS Tournament</strong></a>][<a href="https://www.facebook.com/events/121263241896288/"><strong>EVENT</strong></a>]
+<ul>
+	<li>BMO (Brest) v Les Vilaines (Rennes B)</li>
+	<li>Missfeet (Le Mans) v Les Morues (Lorient)</li>
+	<li>BMO v Les Pétroleuses (Caen B)</li>
+	<li>Les Simones (Orléans) v Les Vilaines</li>
+	<li>Les Pétroleuses v Les Morues</li>
+</ul>
+</li>
+	<li>(sat+sun) Lyon, France: Lyon Roller Derby hosts the first bouts of the French National 2017/8 Division 2, zone 6: [<a href="http://flattrackstats.com/tournaments/97753/overview"><strong>FTS Tournament</strong></a>][<a href="https://www.facebook.com/events/476669899386486/"><strong>EVENT</strong></a>]
+<ul>
+	<li>Toxic Ladies (Toulon) v Rabbit Skulls (Avignon)</li>
+	<li>Mars Invaders (Marseille B) v Faux Soyeuses (Lyon)</li>
+	<li>Les Amazones (Aix en Provence) v Baywitch Project (Nice)</li>
+	<li>Faux Soyeuses v Rabbit Skulls</li>
+	<li>Mars Invaders v Baywitch Project</li>
+</ul>
+</li>
+	<li>Nantes, France: Les Jules Veneres host a bootcamp run by Optimus Quad (of Puget Sound Outcasts + the Argentinean Men's team) [<a href="https://www.facebook.com/events/489036231459678/"><strong>EVENT</strong></a>]</li>
+	<li>Bremen, Germany: Bremen Meatgrinders host a Bundesliga div 3 bout against Berlin Rollergirls [<a href="http://flattrackstats.com/tournaments/88660/overview"><strong>FTS Tournament</strong></a>][<a href="https://www.facebook.com/events/1494717747291993/"><strong>EVENT</strong></a>]</li>
+	<li>Ruhrpott, Germany: Ruhrpott Roller Girls host a Bundesliga div 1 bout against Hamburg's St Pauli Harbor Girls [<a href="http://flattrackstats.com/tournaments/88658/overview"><strong>FTS Tournament</strong></a>][<a href="https://www.facebook.com/events/1953854261532076/"><strong>EVENT</strong></a>]</li>
+	<li>Stuttgart, Germany: Stuttgart Valley Rollergirls host a Bundesliga div 1 bout against Dresden Pioneers [<a href="http://flattrackstats.com/tournaments/88658/overview"><strong>FTS Tournament</strong></a>][<a href="https://www.facebook.com/events/1961079657465754/"><strong>EVENT</strong></a>]</li>
+	<li>Milan, Italy: Hosted by Harpies Roller Derby Milano, the Daga Denter Tournament returns for another year [<a href="http://flattrackstats.com/tournaments/98358/overview"><strong>FTS Tournament</strong></a>][<a href="https://www.facebook.com/events/1928417774047238/"><strong>EVENT</strong></a>] competing are
+<ul>
+	<li>Marseille's Bloody Skulls</li>
+	<li>Vicenza's Anguanas</li>
+	<li>Milan's Harpies</li>
+	<li>Valencia's Rayo Dockers</li>
+	<li>Vienna Roller Derby</li>
+	<li>Barcelona Roller Derby Ingles de Acero (B)</li>
+	<li>Lutece Destroyeueses (Paris)</li>
+	<li>Zürich City Roller Girlz</li>
+	<li>Panthers Graou (Saint-Gratien)</li>
+	<li>Helsinki C-Cassette</li>
+</ul>
+</li>
+	<li>Almada, Portugal: the Liberty Dolls host Lisbon Grrrls Roller Derby for a bout [<a href="http://flattrackstats.com/node/98246"><strong>FTS</strong></a>], as part of the celebration of 2 years of Liberty Dolls in Almada [<a href="https://www.facebook.com/events/1730588013620340/"><strong>EVENT</strong></a>]</li>
+	<li>Gothenburg, Sweden: Gothenburg Roller Derby host the 2017/8 Swedish Eliteserien (the Elite tier of the Swedish nationals) fixtures: [<a href="http://flattrackstats.com/tournaments/97334/overview"><strong>FTS Tournament</strong></a>][<a href="https://www.facebook.com/events/112833989426044/"><strong>EVENT</strong></a>]
+<ul>
+	<li>Crime City Rollers (Malmö) versus Gothenburg Roller Derby</li>
+	<li>Dock City Rollers (Gothenburg) versus Luleå Roller Derby</li>
+	<li>Crime City Rollers versus Dock City Rollers</li>
+	<li>Luleå Roller Derby versus Gothenburg Roller Derby</li>
+</ul>
+</li>
+	<li>Sunday, Calais, France: Roller Derby Calaisis host a triple header [<a href="https://www.facebook.com/events/1743103525723392/"><strong>EVENT</strong></a>]
+<ul>
+	<li>Zombeers (Calais Men) versus Unnamed Basterds (France Exhibition)</li>
+	<li>Dead Dragibus (Calais Juniors) versus Blackland Teenage Terrors (Charleroi Juniors)</li>
+	<li>The Black Tagada (Calais Women)versus Blackland Rockin' K-Rollers (Charleroi Women) [<a href="http://flattrackstats.com/node/97558"><strong>FTS</strong></a>]</li>
+</ul>
+</li>
+	<li>Sunday, Karlsruhe, Germany: the RockArollers are holding an open fresh-meat recruiting day for anyone interested in joining + seeing what it's like [<a href="https://www.facebook.com/events/409730036091797/"><strong>EVENT</strong></a>]</li>
+	<li>Sunday, Stavanger, Norway: Oil City Rollers host an open training session session for those interested in seeing how the sport works + maybe joining up [<a href="https://www.facebook.com/events/119535895410545/"><strong>EVENT</strong></a>]</li>
+	<li>Monday, Orebro, Sweden: Orebro Roller Derby host a recruitment/ open training session (for which pre-registration is required, for kit). [<a href="https://www.facebook.com/events/1989526821260690/"><strong>EVENT</strong></a>]</li>
+</ul>
+<h2 class="p2"><span class="s1"><b>Pacific</b></span></h2>
+In Australia and New Zealand the season is coming to an end with intake days and parties for the most part - in Hong Kong there's also intake, and bouts in Japan:
+<ul>
+	<li>Friday, Gold Coast, QLD, Australia: East Coast Derby Dolls are hosting another intake day (their previous one being Wednesday 1st). This starts off their 6 week training course [<a href="https://www.facebook.com/events/1855767214665142/"><strong>EVENT</strong></a>]</li>
+	<li>Wagga Wagga, NSW, Australia: Wagga Derby Dolls are holding a garage sale fundraiser [<a href="https://www.facebook.com/events/156456528291171/"><strong>EVENT</strong></a>]</li>
+	<li>Darwin, NT, Australia: Darwin Roller Girls are hosting an Exhibition Day to show off derby to those who might be interested in joining the league [<a href="https://www.facebook.com/events/157178924874160/"><strong>EVENT</strong></a>]</li>
+	<li>Brisbane, QLD, Australia: Sun State Roller Girls are holding a party to celebrate the end of another years' competitive season [<a href="https://www.facebook.com/events/1420504247997954/"><strong>EVENT</strong></a>]</li>
+	<li>Mackay, QLD, Australia: Mackay City Roller Maidens are hosting their annual Christmas Pot Luck Scrim  (yes, we know this is in November...), teams drawn from those signing up [<a href="https://www.facebook.com/events/1743773042582976/"><strong>EVENT</strong></a>]</li>
+	<li>Victoria, Australia: Melbourne Northside Rollers host Rebellion 2017, Victoria's biggest yearly tournament [<a href="http://flattrackstats.com/tournaments/98210"><strong>FTS Tournament</strong></a>][<a href="https://www.facebook.com/events/509139246109053/"><strong>EVENT</strong></a>] competing:
+<ul>
+	<li>Kingston City Rollers (Mordailloc)</li>
+	<li>WestSide Derby Dollz (West Footscray)</li>
+	<li>Devil State Derby League (Launceton, Tasmania)</li>
+	<li>Melbourne Northside Rebel Alliance (B)</li>
+	<li>East Vic Roller Derby (Bayswater)</li>
+	<li>Brisbane City Rollers Nasty Nancies (B)</li>
+	<li>Otway Derby Dolls' gODD almighty</li>
+	<li>Van Diemen Rollers (Launceton, Tasmania)</li>
+	<li>Canberra Roller Derby League's VCBs (B)</li>
+	<li>Victorian Roller Derby League's Notorious V.I.C.s (B)</li>
+	<li>Adelaide Roller Derby's Radelaides (B)</li>
+	<li>Diamond Valley Roller Derby Club (Eltham)</li>
+	<li>South Island Sirens (Hobart, Tasmania)</li>
+	<li>Convict City Roller Derby (Glenorchy, Tasmania)</li>
+	<li>South Sea Roller Derby (Melbourne) ...!</li>
+</ul>
+</li>
+	<li>Kalgoorlie, WA, Australia: Gold City Rollers are hosting a Marvel v DC themed home teams bout. [<a href="https://www.facebook.com/events/2014758588758901/"><strong>EVENT</strong></a>]</li>
+	<li>Napier, New Zealand: Bay City Rollers host a double header [<a href="https://www.facebook.com/events/903646149811885/"><strong>EVENT</strong></a>]
+<ul>
+	<li>Iron Maidens (Napier A) versus Vagine Regime Aotearoa [<a href="http://flattrackstats.com/bouts/98357/overview"><strong>FTS</strong></a>]</li>
+	<li>Twisted Sisters (Napier B) versus Whenua Fatales (Levin) [<a href="http://flattrackstats.com/bouts/98356/overview"><strong>FTS</strong></a>]</li>
+</ul>
+</li>
+	<li>Palmerston North, New Zealand: Swamp City Roller Derby host a fundraising quiz night. [<a href="https://www.facebook.com/events/1961532070803196/"><strong>EVENT</strong></a>]</li>
+	<li>Wellington, New Zealand: Richter City Roller Derby host a double header: [<a href="https://www.facebook.com/events/360209457763192/"><strong>EVENT</strong></a>]
+<ul>
+	<li>Richter City Convicts (B) versus Sirens of Smash (Nelson) [<a href="http://flattrackstats.com/bouts/98355/overview"><strong>FTS</strong></a>]</li>
+	<li>Home teams: Comic Slams versus Smash Malice</li>
+</ul>
+</li>
+	<li>Sunday, Okinawa, Japan: Okinawa Roller Derby and Devil Dog Derby Dames co-host a mash-up bout for Halloween, featuring Vampires versus Zombies - fancy dress welcome! [<a href="https://www.facebook.com/events/1843633295948529/"><strong>EVENT</strong></a>]</li>
+	<li>Sunday, Hong Hong: Hong Kong Roller Derby are hosting a Fresh Meat Recruitment day, for anyone who wants to join Roller Derby, as a skater, referee, NSO or anything else. [<a href="https://www.facebook.com/events/829220703915570/"><strong>EVENT</strong></a>]</li>
+	<li>Monday, Wagga Wagga, NSW, Australia: Wagga Derby Dolls are running their next intake day for those who want to join in [<a href="https://www.facebook.com/events/151511602112811/"><strong>EVENT</strong></a>]</li>
+	<li>Monday, Victoria, Australia: Victorian Roller Derby League are hosting a live viewing party for WFTDA Champs' Championship Game (which gives VRDL's All-Stars even more incentive to definitely make it there...) [<a href="https://www.facebook.com/events/305759673236905/"><strong>EVENT</strong></a>]</li>
+</ul>
+<h2><b>Latin America</b></h2>
+<p class="p2">In Latin America, it's a little quiet:</p>
+
+<ul>
+	<li>São Paulo, Brazil: the Ladies of Helltown celebrate Halloween with a "Hell-o-ween" Party. [<a href="https://www.facebook.com/events/316347648844306/"><strong>EVENT</strong></a>]</li>
+	<li>Sunday, Buenos Aires, Argentina: 2x4 Roller Derby are holding a double-header to raise funds for their C team to compete in the Torneo Patagonia Rebelde later in November. [<a href="https://www.facebook.com/events/376204342814877/"><strong>EVENT</strong></a>]
+<ul>
+	<li>Home teams: Cowgirls from Hell play Bully Chicks</li>
+	<li>Followed by a COED/Open to All mixed game</li>
+</ul>
+</li>
+</ul>
+<h2>Africa and Middle East</h2>
+<ul>
+	<li>Sunday, Abu Dhabi: Abu Dhabi Roller Derby are hosting a Halloween themed practice session, open to spectators [<a href="https://www.facebook.com/events/933061796848022/"><strong>EVENT</strong></a>]</li>
+</ul>
+<h2>Elsewhere</h2>
+<ul>
+	<li>As usual, we're calling out an event hosted in the USA or Canada which is nevertheless of interest because of it's non-North American content.
+<ul>
+	<li>Philadelphia, Pennsylvania, USA: The 2017 WFTDA Championships will feature the following Australian or European teams: [<a href="http://flattrackstats.com/tournaments/95158/overview"><strong>FTS Tournament</strong></a>][<a href="https://wftda.com/events/tournament-central/championships/"><strong>EVENT</strong></a>]
+<ul>
+	<li>Victoria, Australia's Victorian Roller Derby League All-Stars (significant chance of a 1st or 2nd place)</li>
+	<li>London, England's London Rollergirls</li>
+	<li>Malmö, Sweden's Crime City Rollers</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2></h2></body></html>

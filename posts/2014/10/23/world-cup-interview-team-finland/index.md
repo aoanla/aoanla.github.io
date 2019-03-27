@@ -1,0 +1,49 @@
+<html><body><p>The next team to be interviewed from Scandinavia are <a title="Team Finland on Facebook" href="https://www.facebook.com/teamfinlandrollerderby" target="_blank">Team Finland</a>, who will be making a return appearance in the Blood &amp; Thunder World Cup this year. After finishing in a very respectable 5th place in 2011, Suvi Hokkanen - Head Coach for Team Finland- has shared how her team are preparing for Dallas later this year.
+
+<a href="https://scottishrollerderbyblog.com/2014/10/team-finland.png"><img class="aligncenter wp-image-4113 size-medium" src="https://scottishrollerderbyblog.com/2014/10/team-finland.png?w=300" alt="Team Finland Logo" width="300" height="263"></a>
+
+<strong>1. Team Finland is filled with skaters from 4 different Finnish teams, as well as skaters from Sweden; England and USA! How did you organise the team selection process since your skaters come from so many different countries?</strong> We had our try-outs in August 2013 in Helsinki. Our skaters are very dedicated, and nearly all of them made it to the try-out weekend. There were only two skaters who couldn't come to the try-outs, but we were able to host an alternative try-out session for them. 60 skaters tried out, and after 2 days of skating we picked 30 skaters for the squad. All of the skaters were picked under the eyes of the coaching crew and we didn't need any video material in order to form our squad.
+
+<strong>2. How often are you able to meet up, and what do you focus on to make the best use of your training time together?</strong> We have Team Finland boot camps every 2 to 3 months. The boot camps are weekends filled with skating, strategy and also getting to know each other. Last spring we focused on forming the final team for the World Cup and now as the roster is out, we are focusing on the overall tool box that we need in order to play well together as a team.
+
+<strong>3. Several of the other European national teams have recently participated in tournaments to get in some extra practice ahead of the World Cup. What does Team Finland have planned?</strong> We have already played against Team Sweden in February. On our next boot camp, we will play against Tampere Rollin Bros, one of the men's roller derby teams in Finland. Many of the Bros skated in the Men's World Cup in Birmingham back in March, so they'll be an appropriate opponent to test our skills on. We do have little something special planned, but I still need to keep our plans a secret. Unfortunately, we are quite isolated, and the flights to/from Finland are expensive. The skaters have to travel a lot with their home leagues, and the travel expenses to Dallas are massive. We are glad that Finland has such a talented derby community, and we get to practise against high level teams on home soil before the tournament.
+
+<strong>4. As a team which did participate in the 2011 World Cup, you already have experience of playing in a tournament. This must test your team mentally, as well as physically - how will you ensure that Team Finland stays motivated throughout the tournament?</strong> I don't think that the national team skaters need to worry about being motivated when they are skating for their country.
+
+<strong>5. Given the expense of getting to Dallas for the World Cup, how are you raising funds and gaining sponsorship?</strong> We have applied for a fund from a Finnish organisation. They picked us for their September campaign, and if we get the most votes on their website, well be getting the fund we applied for. All the local leagues and our fans have been active in promoting the campaign. We've also been selling Team Finland merchandise, and we will bring some with us to Dallas as well. We have teamed up with roller derby companies too: we all skate in S-One sponsored helmets, and Radar Wheels is providing us with new wheels. A local skater, Ysi Musta from Lahti Roller Derby is coming out with a line of protective garments designed for roller derby, and she's letting us try them out. We're open for other collaborations as well, so just shoot us a message!
+
+<strong>6. And just for fun, does your team have a mascot? If you don't, what would type of mascot would symbolise your national team?</strong> Most of the national sports teams in Finland are named after animals. For example the basketball team is known as wolf pack;  ice-hockey as lions; footballers as owls. In the last World Cup we had silver shirts and people started to call us herrings. (BTW Herring is a really popular dish in Finland). We are our own mascots, power animals and heroes. Please bring your herring signs to Dallas, and cheer for us!
+
+<a href="/2014/09/team-finland.jpg"><img class="wp-image-3827 size-full" src="/2014/09/team-finland.jpg" alt="Team Finland in Action!" width="960" height="641"></a> Team Finland in action!<br> Image courtesy of Marko Niemela
+</p><h3>Team Finland Roster</h3>
+<ul>
+	<li>OONA #00</li>
+	<li>Only #1 CC</li>
+	<li>Pygmi #101</li>
+	<li>MIA #156</li>
+	<li>Elina Ruhoranta #18</li>
+	<li>Super Maria # 1UP</li>
+	<li>Nina Erwes #28 CC</li>
+	<li>Maiju Rinne #39</li>
+	<li>Iiris Suominen #404</li>
+	<li>Doomey B. Hind #4444</li>
+	<li>Dominå F. Äkt #455</li>
+	<li>The Blizzard #54</li>
+	<li>A. M. Chaos #5</li>
+	<li>Kira Horpi #56</li>
+	<li>Sara Ekholm #604</li>
+	<li>Rita Hateworthy #8</li>
+	<li>T-Bag #9</li>
+	<li>Linda #96</li>
+	<li>Tsubutex #99</li>
+</ul>
+<strong>Coach Crew:</strong>
+<ul>
+	<li>Suvi Hokkanen - Head coach</li>
+	<li>Jori Hämäläinen - Assistant coach</li>
+</ul>
+<strong>Team Management:</strong>
+<ul>
+	<li>Raisa Siivola</li>
+	<li>Anna Miettinen</li>
+</ul></body></html>

@@ -1,0 +1,3 @@
+<html><body><p>Fierce Valley Roller Cubs are excited to announce their fourth intake of new skaters!  Open to girls and boys aged between 5 and 17, the taster session will take place on Sunday 29th June in the Mariner Centre, Falkirk.  Email freshmeat@fiercevalleyrollercubs.co.uk for more details.
+<a href="http://scottishrollerderbyblog.com/2014/06/fresh-meat-june-2014-page-001.jpg"><img src="http://scottishrollerderbyblog.com/2014/06/fresh-meat-june-2014-page-001.jpg?w=614" alt="fresh meat June 2014-page-001" width="614" height="868" class="aligncenter size-large wp-image-3493"></a>
+</p></body></html>

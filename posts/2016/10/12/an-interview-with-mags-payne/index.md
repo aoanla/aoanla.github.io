@@ -1,0 +1,39 @@
+<html><body><p>With the <strong><a href="http://champs.mrda.org/">Men's Roller Derby Association Champs</a></strong> this weekend, we thought we'd catch up with someone who's been a key part of Scotland's own National Men's Team, but perhaps got a little less attention: <strong><a href="https://www.facebook.com/PowerOfScotland/?fref=ts">Power of Scotland</a></strong> Head Official (2015/16), and ubiquitous referee (especially if you're in Newcastle or her home league <strong><a href="http://arrg.co.uk">Auld Reekie Roller Girls</a></strong>), <em>Mags Payne</em>.
+
+<img class=" size-full wp-image-9430 aligncenter" src="/2016/10/14380016_10100686642377194_6212990695481911800_o.jpg" alt="14380016_10100686642377194_6212990695481911800_o" width="1600" height="1600"> Mags Payne (centre) Photograph by: Laura MacDonald
+
+<strong>So, first, let's start with the introductions: Who are you, Mags Payne?</strong>
+Mags Payne is an NYPD cop, hell-bent on vengeance after the murder of his wife and child..wait. No. That's MAX Payne. I am Mags Payne, referee with ARRG, Power of Scotland's Head Official for 2015/2016, Agent of S.T.R.I.P.E, and MRDA Recognised Official. I've been refereeing for 4 years. I'm also a Crazy Cat Lady, follower of the Winnipeg Jets, and all-round nerd.
+
+<strong>So, in your day job, you're a technical writer. Quite a few referees have day jobs in contexts which require attention to detail, and an ability to apply complex rules - do you think Refereeing appeals because the skills are already there, or is it the other way around (that you Referee for the same reason you have the jobs you have).</strong>
+I think in a lot of ways, competent refs are born rather than made! There's a lot of things that are incredibly important for refs, that you can't really learn - it's a character trait you just have to have.
+
+Like you've mentioned, attention to detail is important, but you have to be able to pay attention to a lot of detail at once. You have to focus without being <em>too</em> focused on one thing. You also have to be able to think on your feet - that doesn't mean you have to be super smart, but simply you can think fast with clarity. Every awesome ref I can think of has a lot of the same traits: fast thinking, calm under pressure, walks a fine line between eye on the minutiae and keeping the bigger picture in mind, and a fair lack of ego. I think certain kinds of people are drawn to reffing. And you'll see a lot of the attributes required to ref showing up in their jobs.
+
+<strong>You were selected as Power of Scotland's Head Official for 2015/2016. What did that involve, how did it feel, would you do it again?</strong>
+I revolved between being chuffed and terrified when they chose me! I would go and ref their practices and feed back any sort of 'ref' thing I noticed. So; highlighting if someone was particularly getting clockwise blocks, and what they were doing that was causing it. The guys made me feel absolutely welcome, despite the fact that 90% of my interactions with them was blowing my whistle and yelling at them!
+
+I have absolutely loved the experience though - it felt like a really collaborative relationship, and it gave me a lot of confidence that I hadn't had before. When you've head reffed a scrim between the best male skaters in Scotland and Mild Discomfort, it does kind of give you a little confidence boost! Honestly, I would do it again in a heartbeat - it really was one of the best things I've ever applied for!
+
+<strong>You've also been raising your own crop of new refs, via the Ref School you ran with ARRG. Can we talk a bit about the importance of nurturing officials in the community like this?</strong>
+Honestly,I think sometimes leagues think refs grow on trees! And we've seen a swathe of referees retiring in the past couple of years, but not as many refs stepping up to fill their places. It also takes at least a year until people are about ready for some of the teams in Scotland! So really, I wanted to foster an environment where new referees could learn and grow, but also in a formalised way that meant there was a 'path' for them with a support network build in.
+
+Sometimes being an official can be a lonely endeavour - you're not really <em>part</em> of a team as such. Although you're usually affiliated with a league, because you're always trying to remain professional and impartial, you can seem a little stand-offish. There's also the fact that when you're first starting out you're trying to build your confidence to make your calls, and be respected by the skaters as having the necessary authority. Having a weekly meeting (ours was in the backroom of a pub!), where you can chat and really go over the rules theory, in a friendly and supportive environment does wonders for new refs. I learned a lot from it too - cause sometimes they'd ask me things I'd never thought of! I'm only new to the head reffing thing, so I stole <strong><a href="http://www.sleazethezebra.com/2015/06/26/allow-me-to-introduce-you-to-ref-school/">Von Sleaze's Ref School</a></strong> wholesale. It was an absolute life line, and is set out in a great way.
+
+I'm quite protective of my new refs (I may have a few referees, and at least one PoS skater, who call me Mama Mags...) and I wanted them to have the confidence to ask questions. In fact, I laid down a rule of 'there are no such thing as stupid questions, just stupid people who think they know everything'. As a referee, you're always asking questions - did I see that? Did that have impact? Does this rule mean what I think it means? With the information I've just been given in this official review, was my call correct? It's something I really wanted to encourage people to do. Don't doubt yourself (you should only call what you're 100% about), but be open to being wrong, to asking questions, and always looking for the truth.
+
+I hope that the guys found it useful, and I'd be looking to run it again in future. Dundee also does mini reffing bootcamps which new refs should definitely try and attend.
+
+<strong>Your next big Refereeing event is the <a href="https://www.facebook.com/MensEuropeanCup/?fref=ts">Mens's European Cup</a>, hosted by Newcastle's Tyne and Fear! It's the Nth time you've been in Newcastle this year, but probably the biggest event: how are you preparing, and what are you most looking forward to?</strong>
+Honestly, I'm nervous as anything. Have you <em>seen</em> the crews?! Trying to get over the 'superstar refs...and Mags' feeling is tough. But I've been trying to get as many opportunities to get some practice as possible, seeking feedback wherever I can get it, and upping my strength program. I basically want to be in the best possible shape I can be for it, physically and mentally.
+
+I'm really looking forward to meeting some of the 'big names' of officiating. Skaters have their big name heroes - we have it too! I'm also looking forward to meeting people like Duncan Disorderly and Momo whom I've spoken to on messenger etc, but never actually chatted to in real life. Big name heroes who might actually know my name! And it's always great to hang out with the Newcastle crowd.
+
+I hope to do my tiny part to keep Scotland's officiating reputation high!
+
+<strong>As well as all of this Roller Derby Officiating, you're also a keen gamer; we know you're taking a break from Refereeing this weekend for a good cause - can we end this article with a little look at that?</strong>
+Yes please! I'm playing video games for 30 hours this weekend to raise money for Edinburgh's Sick Kids Hospital. It's part of an event known as Sick Kids' Save Point. If you could throw me a pound, that would be AMAZING! <a href="https://sksp.everydayhero.com/uk/magsthepirate">https://sksp.everydayhero.com/uk/magsthepirate</a>
+
+-
+
+ </p></body></html>

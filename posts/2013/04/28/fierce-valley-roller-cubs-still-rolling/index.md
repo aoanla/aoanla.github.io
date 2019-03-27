@@ -1,0 +1,10 @@
+<html><body><p>It may appear to have gone quiet on the FVRC front recently, but behind the scenes, it's been a busy time.  It has been a bit of a slog, but the good news is that the end, or rather, the start, is now in sight.  
+ 
+We've had an ongoing "wheel amnesty", looking for old, unloved indoor wheels that you no longer use, which we can use on kids' skates.  In addition, we're now appealing for donations of any old kit that you no longer have any use for, which is doing nothing but clutter up your house.  Any pads or even skates which you or your kids have outgrown would be gratefully recieved.  They don't have to be perfect, merely functional (and safe, obviously!).  We won't be able to have full spare kit for everyone, but we would like to have at least bits and pieces that we can lend.  If you have any wheels or kit that you would like to donate, please contact us either on Facebook or by emailing cubs@fvrg.co.uk.
+ 
+Similary, we're also looking for people to help out in various ways - no derby experience neccessary!  Being involved with the Cubs doesn't have to mean being a coach, there's lots to do so it's all hands on deck.  Contact us if you'd like to be a part of the fun.
+ 
+Finally, with a view to raising some much-needed funds, we now have a PayPal account so we can accept donations.  I, along with a group of skaters from Fierce Valley Roller Girls, am climbing Ben Nevis next month and have decided to try to raise some money for the Cubs at the same time.  Any donations would be much appreciated, and would make the blisters worth it!  Our PayPal account can be found  
+<a href="http://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&amp;SESSION=NVUfRa1f3v4rSdWQYoxudu1ibf1FYEa0ZzrxQ58D9e_5tjHYIHSa06fKQvK&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d96fc0752e9614158f04872d2f2ae25dc">here</a> 
+Remember to look out for further information, hopefully coming soon.  If you're not already on our mailing list, drop us an email and we'll add you, to make sure you don't miss any important annoucements.
+ </p></body></html>

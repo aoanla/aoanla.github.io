@@ -1,0 +1,43 @@
+<html><body><a href="http://www.arrg.co.uk"><strong>Auld Reekie Roller Girls</strong></a> have a had a pretty good year to date, and perhaps no better is this expressed than in the fortunes of their new C Team, the Auld Reekie All-Stars Rookies, who've been busily bouting since March this year, and already clocked up two wins.
+On the <strong>19th</strong>, they'll be flying across to Belfast to take on Belfast City Rockets in their first "international" bout, so we thought we'd catch up with ASTROs Captain Princess Die to see how they've managed to do so much so quickly!
+
+<img class="aligncenter size-medium wp-image-11272" src="https://scottishrollerderbyblog.com/2016/11/die.jpg?w=400" alt="die" width="500">
+
+*<strong>So, you've been in ARRG since before the ASTROs ever existed, and now you're captaining them. Tell us a bit about how being Captain is going, since … March this year?</strong>
+
+Die: So, we set up the team in March, and had our first game around June [against Granite City's Fight Hawks].
+
+I was captain of the [ARRG B, the Cannon] Belles, and then the Reserves after that (when the Belles changed their name to the Reserves), and I've been Captain for a home seasons team as well, so I've been a Captain for quite a long time, and I'm really proud of that. When the ASTROs were set up, it was a sort of mixed team - it was a team of newer skaters, coupled with some returning skaters - I'd just taken a year off skating to have a baby, so I was returning - and we had some people who were just returning from injury and things. I suppose the two factors - my previous experience, and that I'd returned from a year off skates - meant that I could relate to all levels of experience in the team, and bring a lot as captain, so I was totally honoured to be nominated. To be fair, I was the only one who was nominated, so I didn't have a lot of choice, but I'm still very proud to lead our team!
+It's been really good: developing new skaters is something that I love doing; I coach the Fresh Meat classes, or Skate Skills as we call it now, I coach at all levels, but I mostly coach the beginner classes. I really enjoy developing new skaters, so it's been really fun.
+
+*<strong>The ASTROs have had a pretty good innings so far, with victories over Granite City B, and Mean City Women, and a not bad loss against your strongest opponents so far, Dundee's Bonnie Colliders. You must be happy with the track record to date?</strong>
+
+Die: Yes! We've done really well! We've developed some quite specific tactics, that we've really really worked hard on, and, when we played Mean City away a couple of weeks ago, and we really saw how good our tactics were, and how they worked, that was lovely to see.
+Everybody in the team is incredibly dedicated, working towards these tactics, and thankfully they're all really responsive to my ideas, (which sometimes are really bad!). But we go with it, and we work things out, and see what works and what doesn't and it's been really interesting and fun, but we've done very well.
+We've also had two closed bouts, which we won both of as well!
+So, yeah, we've had a really good run, so far.
+
+<img class="aligncenter size-large wp-image-11253" src="https://scottishrollerderbyblog.com/2016/11/princessdphoto.jpg?w=2048" alt="princessdphoto" width="1024" height="683"> Princess Die, left, facing off against Mean City in the ASTROs' most recent victory. (Photo: Laura MacDonald)
+
+*<strong>Of course, your next bout is on the 19th, against Belfast City Rockets, your first "proper" away game, flying across the Irish Sea. How do you feel about the extra challenge of your first international - Flat Track Stats today <a href="http://flattrackstats.com/predictortool/q/20657/79213">predicts</a> a 50:50 perfect split as to the winner!</strong>
+
+Die:Oh, really? [laughs] Okay, that's exciting!
+
+Erm; we're <em>incredibly</em> excited. There are just four people on the team who've travelled for away games before, for the kind of away games where you're leaving the country, so it's relatively new for pretty much everyone on the team. So, everyone's really excited that we're going away, first of all.
+A lot of people who are on the ASTROs have been members of ARRG and skating for a while, but haven't been on a travel team, so they've been through seeing other teams go on their trips and things, So everyone's very excited about this.
+
+In terms of the game, we are really really working to nail down our tactics, and we do really think that our strengths lie in our tactical knowledge and our tactical awareness, and how together we are as a team. We have a lot of trust, we do a lot of trust-building skills and exercises and things, and we've really developed this intense trust with each other which I think really works on track. So we're hoping we can bring that with us.
+
+*<strong>Yes, one comment that's often been made of the ASTROs when seeing you for the first time, is that you're very "together" for a C, or even a B team. Sometimes B teams tend to be more 'relaxed', but you're all doing very cohesive activity as soon as you arrive at a venue.</strong>
+
+Die: Yeah, we do, yeah. I think its just an "ARRG" way of being I think: we practise "zenfully", so we keep ourselves calm and into each other. We don't watch the track, or we try not to, when we're on the bench; we don't watch the play that's happening, we try to focus on what we're gonna do, rather than what's happening right now. We focus on each other, rather than the other team, and you know, that's the kind of way that *ARRG* works, right from All-Stars all the way down.
+Certainly, in terms of my experience, having played on the B team for a couple of years before I had taken time off and our Bench Coach [Lex Louthor] also a Reserves skater - we were on the Belles and the Reserves together at the B-team level - we've kind of brought that experience down to the C team. Straight from Day 1, we've been like, "we're playing this as seriously as any other travel team". And I think that takes some people that we play by surprise, because, like you say, they tend to be a bit more relaxed at B team level, and so when coming to a C team, they think it's going to be really quite relaxed, and quite easy, and then we just put up a fight, and they're like, "Allright, okay!"
+
+*<strong>So, we hear that, even after Belfast, there's more excitement in the ASTROs' future?</strong>
+
+Die: Yeah, we've got a tournament! We're hosting a Scottish tournament on the 26th of November; we've invited .. we've got 2 B teams, and an A team, and the ASTROs playing in the tournament. There's Lothian Derby Dolls, A team, Granite City B team, and Dundee's B team. The four teams are going to play off against each other in short games, in the morning, and then in the afternoon there'll be two full games - one for our 3rd and 4th place playoff , and one for 1st and 2nd place. So, we're very excited about that.
+Obviously, we've played Dundee B team this year, and Granite City B team this year, and we won against Granite City, but we lost against Dundee. So, I don't want to call this a grudge match, but we're all really wanting to beat Dundee this time…
+A number of us played in the WarriARRGs, which is our ARRG pick-up team, a mixed-ability pickup team, with advanced and less advanced skaters together, and we played also Dundee's B team as the WarriARRGs this year,… and we lost. So we really want to beat Dundee in the tournament! That's our biggest goal at the moment!
+
+If you can make it to Belfast on the <strong>19th</strong>, the <strong><a href="https://www.facebook.com/events/761145590695158/">bout</a></strong> will be held at <strong><a href="https://www.google.co.uk/maps/place/Queen's+Sport/@54.580861,-5.9318286,17z/data=!3m1!4b1!4m5!3m4!1s0x486108e58874e8db:0x50f3671ebfcba059!8m2!3d54.580861!4d-5.9296346">Queen's Sport</a></strong>, with doors opening at <strong>1pm</strong>. Tickets <strong>£5</strong> on the door, under 12s free.
+We'll have details of the tournament on the 26th, as well as more content, closer to the time!</body></html>

@@ -1,0 +1,966 @@
+<html><body><p>There's an understandable level of anticipation surrounding the announcement of the next WFTDA Rankings, in a week or so's time, as they have the material effect of determining who makes it to WFTDA Playoffs. (Even if teams decline the invitation, then the ranking still determines who filters in from the bottom to replace them.)
+
+Similar excitement, of course, surrounds the MRDA rankings, and all of the National rankings and placements which are slowly being announced as the various National seasons draw to a close (Finland's is determined this weekend, for example).
+
+However, sometimes it is interesting to take a more Global view. Not all the best teams in the world are members of WFTDA or MRDA, and of course, few rating or ranking schemes attempt to transcend gender in comparing Men's to Women's to Junior derby (or even recognise the existence of Coed/OpenToAll derby at all!).
+
+This lack is one reason why we developed the SRDRank rating and ranking system (the other reason being the lack of ratings or coverage for Latin America). While you all wait to see who gets to go to WFTDA Playoffs, we're going to indulge ourselves by working on that Global scale.
+
+(Sadly, as SRDRank depends on records in <a href="http://www.flattrackstats.com"><strong>Flat Track Stats</strong></a>, some teams may be unfairly represented here, as they simply don't bother uploading data to FTS. We're actively working on this ourselves, but we really need the teams themselves to engage as well - especially, sadly, in those Latin American regions which are <em>also</em> unfairly lacking in coverage.)
+
+All of the top X listings can be viewed (and interactively manipulated) via our <a href="http://aoanla.pythonanywhere.com/SRDRankv2.html"><strong>SRDRank</strong></a> main page (which also provides a map view, and score predictions, for both SRDRank and WFTDA), which is also prettier!
+
+Let's start with the potentially most controversial result... the Global (All Gender) Rankings for 4 July 2017, Top 50. This covers both A and B teams, which matters only a little bit - most of the teams in the Top 50 are A teams. Blue is Men's teams, and Green is Women.
+
+(We should note, and the main SRDRank clique analysis makes clear, that the relative rankings of Mens and Women's teams are the least certain thing here - perhaps more Men's teams should play Women's teams, and help to improve our data here ;) )
+</p><table>
+<tbody>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">1</td>
+<td>Saint Louis GateKeepers</td>
+<td style="width:60pt;">6.102</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">2</td>
+<td>Your Mom Men's Roller Derby</td>
+<td style="width:60pt;">5.936</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">3</td>
+<td>Bridgetown Roller Derby</td>
+<td style="width:60pt;">5.826</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">4</td>
+<td>Victorian Roller Derby League</td>
+<td style="width:60pt;">5.653</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">5</td>
+<td>Southern Discomfort Roller Derby</td>
+<td style="width:60pt;">5.625</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">6</td>
+<td>Gotham Girls Roller Derby</td>
+<td style="width:60pt;">5.562</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">7</td>
+<td>Rose City Rollers</td>
+<td style="width:60pt;">5.467</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">8</td>
+<td>Angel City Derby Girls</td>
+<td style="width:60pt;">5.449</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">9</td>
+<td>San Diego Aftershocks</td>
+<td style="width:60pt;">5.377</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">10</td>
+<td>Texas Men's Roller Derby</td>
+<td style="width:60pt;">5.357</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">11</td>
+<td>Denver Roller Derby</td>
+<td style="width:60pt;">5.223</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">12</td>
+<td>Texas Rollergirls</td>
+<td style="width:60pt;">5.103</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">13</td>
+<td>Puget Sound Outcast Derby</td>
+<td style="width:60pt;">5.068</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">14</td>
+<td>Pennsylvania All-Stars Roller Derby</td>
+<td style="width:60pt;">4.997</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">15</td>
+<td>London Rollergirls</td>
+<td style="width:60pt;">4.980</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">16</td>
+<td>Arch Rival Roller Derby</td>
+<td style="width:60pt;">4.974</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">17</td>
+<td>Magic City Misfits</td>
+<td style="width:60pt;">4.856</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">18</td>
+<td>Minnesota RollerGirls</td>
+<td style="width:60pt;">4.847</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">19</td>
+<td>Jacksonville Roller Derby</td>
+<td style="width:60pt;">4.776</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">20</td>
+<td>New York Shock Exchange</td>
+<td style="width:60pt;">4.749</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">21</td>
+<td>Tyne &amp; Fear Roller Derby</td>
+<td style="width:60pt;">4.736</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">22</td>
+<td>The Vancouver Murder</td>
+<td style="width:60pt;">4.699</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">23</td>
+<td>Roller Derby Toulouse (Men's)</td>
+<td style="width:60pt;">4.641</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">24</td>
+<td>Atlanta Rollergirls</td>
+<td style="width:60pt;">4.606</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">25</td>
+<td>Crime City Rollers</td>
+<td style="width:60pt;">4.588</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">26</td>
+<td>Montreal Roller Derby</td>
+<td style="width:60pt;">4.556</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">27</td>
+<td>Bay Area Derby</td>
+<td style="width:60pt;">4.552</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">28</td>
+<td>Lincolnshire Rolling Thunder</td>
+<td style="width:60pt;">4.475</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">29</td>
+<td>Rat City Roller Girls</td>
+<td style="width:60pt;">4.470</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">30</td>
+<td>Roller Derby Toulouse (Women's)</td>
+<td style="width:60pt;">4.459</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">31</td>
+<td>ThunderQuads Roller Derby Masculino</td>
+<td style="width:60pt;">4.330</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">32</td>
+<td>Philadelphia Hooligans</td>
+<td style="width:60pt;">4.314</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">33</td>
+<td>Rainy City Roller Derby</td>
+<td style="width:60pt;">4.291</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">34</td>
+<td>Denver Roller Derby (Men's)</td>
+<td style="width:60pt;">4.282</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">35</td>
+<td>Helsinki Roller Derby</td>
+<td style="width:60pt;">4.275</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">36</td>
+<td>Mass Maelstrom Roller Derby</td>
+<td style="width:60pt;">4.265</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">37</td>
+<td>Stockholm Roller Derby</td>
+<td style="width:60pt;">4.242</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">38</td>
+<td>Manchester Roller Derby (Men's)</td>
+<td style="width:60pt;">4.220</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">39</td>
+<td>Dallas Derby Devils</td>
+<td style="width:60pt;">4.201</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">40</td>
+<td>Philly Roller Derby</td>
+<td style="width:60pt;">4.183</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">41</td>
+<td>Tampa Roller Derby</td>
+<td style="width:60pt;">4.173</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">42</td>
+<td>Panam Squad</td>
+<td style="width:60pt;">4.101</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">43</td>
+<td>Tampa Bay Men's Roller Derby</td>
+<td style="width:60pt;">4.033</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">44</td>
+<td>Detroit Roller Derby</td>
+<td style="width:60pt;">4.022</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">45</td>
+<td>Victoria Mens Roller Derby</td>
+<td style="width:60pt;">4.004</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">46</td>
+<td>Oklahoma Men's Roller Derby</td>
+<td style="width:60pt;">3.971</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">47</td>
+<td>Race City Rebels</td>
+<td style="width:60pt;">3.951</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">48</td>
+<td>Team Gold (Bay Area Derby B)</td>
+<td style="width:60pt;">3.929</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">49</td>
+<td>Oly Rollers</td>
+<td style="width:60pt;">3.893</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">50</td>
+<td>Santa Cruz Derby Girls</td>
+<td style="width:60pt;">3.883</td>
+</tr>
+</tbody>
+</table>
+Given the uncertainty in gender relative rankings, we should also look at the ratings for just Mens and just Women's derby.
+Starting with the Men (because there's less of them) - the parenthesis shows their ranking in the Global standings above.
+<table>
+<tbody>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">1</td>
+<td style="width:40pt;">(1)</td>
+<td>Saint Louis GateKeepers</td>
+<td style="width:60pt;">6.102</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">2</td>
+<td style="width:40pt;">(2)</td>
+<td>Your Mom Men's Roller Derby</td>
+<td style="width:60pt;">5.936</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">3</td>
+<td style="width:40pt;">(3)</td>
+<td>Bridgetown Roller Derby</td>
+<td style="width:60pt;">5.826</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">4</td>
+<td style="width:40pt;">(5)</td>
+<td>Southern Discomfort Roller Derby</td>
+<td style="width:60pt;">5.625</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">5</td>
+<td style="width:40pt;">(9)</td>
+<td>San Diego Aftershocks</td>
+<td style="width:60pt;">5.377</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">6</td>
+<td style="width:40pt;">(10)</td>
+<td>Texas Men's Roller Derby</td>
+<td style="width:60pt;">5.357</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">7</td>
+<td style="width:40pt;">(13)</td>
+<td>Puget Sound Outcast Derby</td>
+<td style="width:60pt;">5.068</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">8</td>
+<td style="width:40pt;">(17)</td>
+<td>Magic City Misfits</td>
+<td style="width:60pt;">4.856</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">9</td>
+<td style="width:40pt;">(20)</td>
+<td>New York Shock Exchange</td>
+<td style="width:60pt;">4.749</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">10</td>
+<td style="width:40pt;">(21)</td>
+<td>Tyne &amp; Fear Roller Derby</td>
+<td style="width:60pt;">4.736</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">11</td>
+<td style="width:40pt;">(22)</td>
+<td>The Vancouver Murder</td>
+<td style="width:60pt;">4.699</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">12</td>
+<td style="width:40pt;">(23)</td>
+<td>Roller Derby Toulouse (Men's)</td>
+<td style="width:60pt;">4.641</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">13</td>
+<td style="width:40pt;">(28)</td>
+<td>Lincolnshire Rolling Thunder</td>
+<td style="width:60pt;">4.475</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">14</td>
+<td style="width:40pt;">(31)</td>
+<td>ThunderQuads Roller Derby Masculino</td>
+<td style="width:60pt;">4.330</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">15</td>
+<td style="width:40pt;">(32)</td>
+<td>Philadelphia Hooligans</td>
+<td style="width:60pt;">4.314</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">16</td>
+<td style="width:40pt;">(34)</td>
+<td>Denver Roller Derby (Men's)</td>
+<td style="width:60pt;">4.282</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">17</td>
+<td style="width:40pt;">(36)</td>
+<td>Mass Maelstrom Roller Derby</td>
+<td style="width:60pt;">4.265</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">18</td>
+<td style="width:40pt;">(38)</td>
+<td>Manchester Roller Derby (Men's)</td>
+<td style="width:60pt;">4.220</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">19</td>
+<td style="width:40pt;">(42)</td>
+<td>Panam Squad</td>
+<td style="width:60pt;">4.101</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">20</td>
+<td style="width:40pt;">(43)</td>
+<td>Tampa Bay Men's Roller Derby</td>
+<td style="width:60pt;">4.033</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">21</td>
+<td style="width:40pt;">(45)</td>
+<td>Victoria Mens Roller Derby</td>
+<td style="width:60pt;">4.004</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">22</td>
+<td style="width:40pt;">(46)</td>
+<td>Oklahoma Men's Roller Derby</td>
+<td style="width:60pt;">3.971</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">23</td>
+<td style="width:40pt;">(47)</td>
+<td>Race City Rebels</td>
+<td style="width:60pt;">3.951</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">24</td>
+<td style="width:40pt;">(52)</td>
+<td>Austin Anarchy Men's Roller Derby</td>
+<td style="width:60pt;">3.877</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">25</td>
+<td style="width:40pt;">(55)</td>
+<td>Dakota Men's Roller Derby</td>
+<td style="width:60pt;">3.818</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">26</td>
+<td style="width:40pt;">(58)</td>
+<td>Deskarriados Roller Derby</td>
+<td style="width:60pt;">3.781</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">27</td>
+<td style="width:40pt;">(60)</td>
+<td>Montreal Men's Roller Derby</td>
+<td style="width:60pt;">3.744</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">28</td>
+<td style="width:40pt;">(62)</td>
+<td>Minnesota Men's Roller Derby</td>
+<td style="width:60pt;">3.720</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">29</td>
+<td style="width:40pt;">(70)</td>
+<td>The Skaters Grim</td>
+<td style="width:60pt;">3.608</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">30</td>
+<td style="width:40pt;">(75)</td>
+<td>Toronto Men's Roller Derby</td>
+<td style="width:60pt;">3.593</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">31</td>
+<td style="width:40pt;">(77)</td>
+<td>Chinook City Roller Derby (Men's)</td>
+<td style="width:60pt;">3.584</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">32</td>
+<td style="width:40pt;">(81)</td>
+<td>Drive-By City Rollers</td>
+<td style="width:60pt;">3.498</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">33</td>
+<td style="width:40pt;">(82)</td>
+<td>Sioux City Kornstalkers</td>
+<td style="width:60pt;">3.490</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">34</td>
+<td style="width:40pt;">(83)</td>
+<td>Carolina Wreckingballs Derby Team</td>
+<td style="width:60pt;">3.460</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">35</td>
+<td style="width:40pt;">(84)</td>
+<td>Orcet Roller Derby Wolfgang</td>
+<td style="width:60pt;">3.455</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">36</td>
+<td style="width:40pt;">(87)</td>
+<td>Bototos Bandidos</td>
+<td style="width:60pt;">3.397</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">37</td>
+<td style="width:40pt;">(89)</td>
+<td>Warren Track Rollers</td>
+<td style="width:60pt;">3.390</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">38</td>
+<td style="width:40pt;">(90)</td>
+<td>Wheels of Mayhem</td>
+<td style="width:60pt;">3.374</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">39</td>
+<td style="width:40pt;">(93)</td>
+<td>Sydney City SMASH Men's Derby</td>
+<td style="width:60pt;">3.371</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">40</td>
+<td style="width:40pt;">(97)</td>
+<td>Mild Discomfort (Southern Discomfort B)</td>
+<td style="width:60pt;">3.360</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">41</td>
+<td style="width:40pt;">(100)</td>
+<td>Killer Apes from Outer Space</td>
+<td style="width:60pt;">3.333</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">42</td>
+<td style="width:40pt;">(103)</td>
+<td>Cincinnati Battering Rams Men's Roller Derby</td>
+<td style="width:60pt;">3.314</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">43</td>
+<td style="width:40pt;">(106)</td>
+<td>Dow Jones Average (NYSE B)</td>
+<td style="width:60pt;">3.285</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">44</td>
+<td style="width:40pt;">(112)</td>
+<td>Tampere Rollin' Bros</td>
+<td style="width:60pt;">3.222</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">45</td>
+<td style="width:40pt;">(124)</td>
+<td>Collision Roller Derby</td>
+<td style="width:60pt;">3.156</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">46</td>
+<td style="width:40pt;">(126)</td>
+<td>B-Keepers (St Louis Gatekeepers B)</td>
+<td style="width:60pt;">3.143</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">47</td>
+<td style="width:40pt;">(128)</td>
+<td>Oxford Men's Roller Derby</td>
+<td style="width:60pt;">3.137</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">48</td>
+<td style="width:40pt;">(131)</td>
+<td>Lane County Concussion</td>
+<td style="width:60pt;">3.103</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">49</td>
+<td style="width:40pt;">(133)</td>
+<td>Derby Club le Crès Lattes Montpellier (Men's)</td>
+<td style="width:60pt;">3.095</td>
+</tr>
+<tr style="background-color:#eeeeff;">
+<td style="width:30pt;">50</td>
+<td style="width:40pt;">(134)</td>
+<td>South Wales Silures</td>
+<td style="width:60pt;">3.075</td>
+</tr>
+</tbody>
+</table>
+and then the Women:
+<table>
+<tbody>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">1</td>
+<td style="width:40pt;">(4)</td>
+<td>Victorian Roller Derby League</td>
+<td style="width:60pt;">5.653</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">2</td>
+<td style="width:40pt;">(6)</td>
+<td>Gotham Girls Roller Derby</td>
+<td style="width:60pt;">5.562</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">3</td>
+<td style="width:40pt;">(7)</td>
+<td>Rose City Rollers</td>
+<td style="width:60pt;">5.467</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">4</td>
+<td style="width:40pt;">(8)</td>
+<td>Angel City Derby Girls</td>
+<td style="width:60pt;">5.449</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">5</td>
+<td style="width:40pt;">(11)</td>
+<td>Denver Roller Derby</td>
+<td style="width:60pt;">5.223</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">6</td>
+<td style="width:40pt;">(12)</td>
+<td>Texas Rollergirls</td>
+<td style="width:60pt;">5.103</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">7</td>
+<td style="width:40pt;">(14)</td>
+<td>Pennsylvania All-Stars Roller Derby</td>
+<td style="width:60pt;">4.997</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">8</td>
+<td style="width:40pt;">(15)</td>
+<td>London Rollergirls</td>
+<td style="width:60pt;">4.980</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">9</td>
+<td style="width:40pt;">(16)</td>
+<td>Arch Rival Roller Derby</td>
+<td style="width:60pt;">4.974</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">10</td>
+<td style="width:40pt;">(18)</td>
+<td>Minnesota RollerGirls</td>
+<td style="width:60pt;">4.847</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">11</td>
+<td style="width:40pt;">(19)</td>
+<td>Jacksonville Roller Derby</td>
+<td style="width:60pt;">4.776</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">12</td>
+<td style="width:40pt;">(24)</td>
+<td>Atlanta Rollergirls</td>
+<td style="width:60pt;">4.606</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">13</td>
+<td style="width:40pt;">(25)</td>
+<td>Crime City Rollers</td>
+<td style="width:60pt;">4.588</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">14</td>
+<td style="width:40pt;">(26)</td>
+<td>Montreal Roller Derby</td>
+<td style="width:60pt;">4.556</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">15</td>
+<td style="width:40pt;">(27)</td>
+<td>Bay Area Derby</td>
+<td style="width:60pt;">4.552</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">16</td>
+<td style="width:40pt;">(29)</td>
+<td>Rat City Roller Girls</td>
+<td style="width:60pt;">4.470</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">17</td>
+<td style="width:40pt;">(30)</td>
+<td>Roller Derby Toulouse (Women's)</td>
+<td style="width:60pt;">4.459</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">18</td>
+<td style="width:40pt;">(33)</td>
+<td>Rainy City Roller Derby</td>
+<td style="width:60pt;">4.291</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">19</td>
+<td style="width:40pt;">(35)</td>
+<td>Helsinki Roller Derby</td>
+<td style="width:60pt;">4.275</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">20</td>
+<td style="width:40pt;">(37)</td>
+<td>Stockholm Roller Derby</td>
+<td style="width:60pt;">4.242</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">21</td>
+<td style="width:40pt;">(39)</td>
+<td>Dallas Derby Devils</td>
+<td style="width:60pt;">4.201</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">22</td>
+<td style="width:40pt;">(40)</td>
+<td>Philly Roller Derby</td>
+<td style="width:60pt;">4.183</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">23</td>
+<td style="width:40pt;">(41)</td>
+<td>Tampa Roller Derby</td>
+<td style="width:60pt;">4.173</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">24</td>
+<td style="width:40pt;">(44)</td>
+<td>Detroit Roller Derby</td>
+<td style="width:60pt;">4.022</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">25</td>
+<td style="width:40pt;">(48)</td>
+<td>Team Gold (Bay Area Derby B)</td>
+<td style="width:60pt;">3.929</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">26</td>
+<td style="width:40pt;">(49)</td>
+<td>Oly Rollers</td>
+<td style="width:60pt;">3.893</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">27</td>
+<td style="width:40pt;">(50)</td>
+<td>Santa Cruz Derby Girls</td>
+<td style="width:60pt;">3.883</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">28</td>
+<td style="width:40pt;">(51)</td>
+<td>Middlesbrough Roller Derby</td>
+<td style="width:60pt;">3.879</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">29</td>
+<td style="width:40pt;">(53)</td>
+<td>Team United Roller Derby</td>
+<td style="width:60pt;">3.857</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">30</td>
+<td style="width:40pt;">(54)</td>
+<td>Paris Rollergirls</td>
+<td style="width:60pt;">3.849</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">31</td>
+<td style="width:40pt;">(56)</td>
+<td>Queen City Roller Girls</td>
+<td style="width:60pt;">3.812</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">32</td>
+<td style="width:40pt;">(57)</td>
+<td>Terminal City Rollergirls</td>
+<td style="width:60pt;">3.804</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">33</td>
+<td style="width:40pt;">(59)</td>
+<td>Queen Bees (Victorian B)</td>
+<td style="width:60pt;">3.748</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">34</td>
+<td style="width:40pt;">(61)</td>
+<td>Kallio Rolling Rainbow</td>
+<td style="width:60pt;">3.742</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">35</td>
+<td style="width:40pt;">(63)</td>
+<td>Elitserien (Crime City Rollers' National tournament team)</td>
+<td style="width:60pt;">3.710</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">36</td>
+<td style="width:40pt;">(64)</td>
+<td>Axles of Annihilation (Rose City B)</td>
+<td style="width:60pt;">3.709</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">37</td>
+<td style="width:40pt;">(65)</td>
+<td>Arizona Roller Derby</td>
+<td style="width:60pt;">3.704</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">38</td>
+<td style="width:40pt;">(66)</td>
+<td>Perth Roller Derby</td>
+<td style="width:60pt;">3.674</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">39</td>
+<td style="width:40pt;">(67)</td>
+<td>Queen B’s (Helsinki B)</td>
+<td style="width:60pt;">3.671</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">40</td>
+<td style="width:40pt;">(68)</td>
+<td>Boston Roller Derby</td>
+<td style="width:60pt;">3.670</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">41</td>
+<td style="width:40pt;">(69)</td>
+<td>Tender Hooligans (Rainy City B)</td>
+<td style="width:60pt;">3.645</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">42</td>
+<td style="width:40pt;">(71)</td>
+<td>2x4 Roller Derby</td>
+<td style="width:60pt;">3.607</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">43</td>
+<td style="width:40pt;">(72)</td>
+<td>Sailor City Rollers</td>
+<td style="width:60pt;">3.605</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">44</td>
+<td style="width:40pt;">(73)</td>
+<td>Rocky Mountain Rollergirls</td>
+<td style="width:60pt;">3.598</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">45</td>
+<td style="width:40pt;">(74)</td>
+<td>Lille Roller Girls</td>
+<td style="width:60pt;">3.594</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">46</td>
+<td style="width:40pt;">(76)</td>
+<td>Windy City Rollers</td>
+<td style="width:60pt;">3.587</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">47</td>
+<td style="width:40pt;">(78)</td>
+<td>Wall Street Traitors (Gotham B)</td>
+<td style="width:60pt;">3.539</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">48</td>
+<td style="width:40pt;">(79)</td>
+<td>Mad Rollin' Dolls Roller Derby</td>
+<td style="width:60pt;">3.512</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">49</td>
+<td style="width:40pt;">(80)</td>
+<td>Ann Arbor Derby Dimes</td>
+<td style="width:60pt;">3.505</td>
+</tr>
+<tr style="background-color:#eeffee;">
+<td style="width:30pt;">50</td>
+<td style="width:40pt;">(85)</td>
+<td>Rage City Rollergirls</td>
+<td style="width:60pt;">3.440</td>
+</tr>
+</tbody>
+</table>
+The striking thing for us is how international both rankings are - with the USA, Canada, Australia, Europe and Latin America all appearing in the listing somewhere. For the Women's ranking, it should be no surprise to see non-WFTDA member, Roller Derby Toulouse, sitting at #17, given their performance in the French Nationale.
+Oly Rollers (who do still play WFTDA rules derby, but just don't turn up to WFTDA playoffs) might be more of a surprise at #26!
+
+Sadly, there's not enough Coed/OTA derby tracked by FTS to provide a Top 50 - and the OTA teams are also geographically siloed - teams in the UK only play UK teams, and so on. We suspect that this is partly also due to poor recording of actual coed/OTA derby when it happens - so you can help us fix that by letting us know when you play a bout, and what the result is!
+
+On <a href="https://scottishrollerderbyblog.com/2017/07/06/world-roller-derby-rankings-top-40s-movers-shakers/2/"><strong>Page 2</strong></a>, we'll cover the big movers in the rankings in the last few months.
+<!--nextpage-->
+<h2>Movers and Shakers</h2>
+Of course, static Top 50s are all very well (if you want to see them, they're back on <a href="https://scottishrollerderbyblog.com/2017/07/06/world-roller-derby-rankings-top-40s-movers-shakers/1/"><strong>Page 1</strong></a>), but what's exciting is seeing how teams have moved around over the season.
+So, lets look at the way in which teams have changed ranking from our first rating of the season - 31 Jan - to the most recent rating on 4 July...
+There's several ways we could measure the degree to which a team has improved (or not) - we could look at the change in ranking position, or we could compare their change in rating in various ways.
+
+Comparing just change in ranking has the issue that teams in a closely-matched patch of the ranking (where lots of teams are close in ability) could move many more ranking spots with a small change in relative strength... whereas teams in a part of the ranking where the difference between teams is large (say, the top 50) have to improve much more to make the same jumps.
+On the other hand, comparing rating changes has its own problem - as the ratings are generated each month based upon the teams eligible for that month, the absolute values of the ratings themselves can fluctuate a little. (We can fix this by comparing against normalised ratings, where adjust the values to have the same mean and variance from month to month... but that introduces its own biases.)
+
+What we're going to do is select teams which have moved a large amount by more than one of these measures - these teams are absolutely the big movers, regardless of how you work it out. It's also important to ensure we have enough bouts on record to make a move statistically solid, so we're going to start with the big movers in the Top 200:
+<h3>Top 200 Risers and Fallers</h3>
+The biggest risers are:
+
+<strong>162. Glasgow Men's Roller Derby</strong>
+<strong>23. Roller Derby Toulouse (Quad Guards)</strong>
+<strong>194. Team Rock'Est ()</strong>
+<strong>46. Oklahoma Men's Roller Derby</strong>
+<strong>42. Panam Squad </strong>[Paris]
+
+where, yes, they're all men's teams with the biggest movement, as the smaller set of Mens leagues makes rating and ranking more volatile.
+Glasgow Men's Roller Derby have had a very good first year, and it's a mix of how good their year has been, and also their newness as a team, which has resulted in them topping the movers here.
+Toulouse have also had a great year - and they're the highest ranked Men's team to show significant movement here - just due to consistent good work in all of their bouts.
+
+... with the first rising women's teams as:
+<p class="p1"><span class="s1"><strong>172 Crossroads City Derby Girls</strong> [New Mexico, USA]
+</span><span class="s1"><strong>113 Treasure Valley Roller Derby Inc</strong> [Idaho, USA]</span><span class="s1">
+</span><span class="s1"><strong>187 Beckley Area Derby Dames</strong> [West Virginia, USA]
+</span><span class="s1"><strong>144 Tampere Roller Derby</strong> [Finland]
+</span><span class="s1"><strong>11 Denver Roller Derby</strong> [Colorado, USA]</span></p>
+Crossroads may surprise here, as their WFTDA rating has not changed that positively - however, they played a lot of B-teams, not eligible for WFTDA Sanctioning, and we (and FTS) rate them highly on their performance there. Treasure Valley mostly benefit from having almost nothing on record for 2016 - something they might want to address in FTS - and a solid 2017. BADD have just had a very solid few years since joining WFTDA in 2016 - they've fairly consistently improved in every game, a testament to good coaching and good learning.
+Tampere, our sole Euro Women's team in the risers, have had a very good start to 2017, although a slight weakness in their last few bouts (against Gent and Lille) is starting to show, just as they enter the Suomi Cup finals.
+Finally, Denver are the big news here - and our friends at The Derby Apex have included them in <a href="https://thederbyapex.com/the-9-true-climbers-of-the-2017-wftda-regular-season-136951917bbd"><strong>their risers</strong></a> for WFTDA rankings as well. (We don't have some of their other risers and fallers here, because FTS and SRDRank ratings adapted much faster to the European teams ratings way back in 2016.)
+
+The biggest fallers are also dominated by movement in the Men's part of the charts, with the list as (biggest fall at top):
+<p class="p1"><strong><span class="s1">77 Chinook City Roller Derby (Men's) </span></strong><span class="s1">[Calgary, Canada]</span><strong><span class="s1">
+</span><span class="s1">161 Brisbane City-Rollers (Men's)
+</span><span class="s1">20 New York Shock Exchange
+</span><span class="s1">197 Chain Gang (Arizona B)
+</span><span class="s1">106 Dow Jones Average (NYSE B)
+</span><span class="s1">45 Victoria Mens Roller Derby
+</span><span class="s1">93 Sydney City SMASH Men's Derby </span></strong><strong><span class="s1">
+</span>15 London Rollergirls </strong>
+<strong><span class="s1">130 Orangeville Roller Girls </span></strong><span class="s1">[Ontario, Canada]</span></p>
+Chinook City (Glenmore Reservoir Dogs) have just had a somewhat less exciting 2017 than their 2016 - much of their drop is due to their performance at The Big O, coupled with the fall in NYSE's rating, which of course affects the teams they played as well.
+
+All the drops in Australian Men's Derby are complex, and mainly due to the sparse nature of Men's Derby ratings in general. The last MRDA Down Under pulled a few ratings down due to the cumulative effect of Argentina's ThunderQuads visiting, and doing a bit better than expected against Australia as a whole...
+
+The shock here is perhaps that London Rollergirls have dropped off significantly, mostly due to a very uncertain start to the season - they've underperformed against essentially every European team they've played so far in 2017, with only pretty solid performances more recently across in the USA arresting their fall in ranking more. (It's not clear if this is more to do with all of Europe catching up with London, and pulling them down in compensation, or if London really are suffering from some of their recent roster changes this much.)
+
+Finally, Orangeville were in the unfortunate state of having a really good... end to 2016 (a great game against Muddy River) which pushed up their rating entering the new season. Unfortunately, (relatively) poor performances against Montreal and Boston at the start of 2017 pulled them back down again to where they'd been for most of 2016...
+<h3>Overall Risers and Fallers</h3>
+<p class="p1"> If we extend our view outside the top 200, we get a lot more big movers in both directions, although we're also sacrificing some reliability here - the lower rated teams also have less good records in FTS, so their ratings are more volatile in general.</p>
+Our biggest gainers for 2017, then, are all UK Men's teams, one of whom will be familiar:
+
+<strong>242. Beta Test Brummies (Crash Test Brummies B) </strong>[Birmingham]<strong>
+162. Glasgow Men's Roller Derby
+</strong>and<strong>
+372. Granite City Brawlers </strong>[Aberdeen]
+all climbing more than <em>800 spots</em>, and more than <em> 2 rating units</em> (a factor of 8 strength increase) over the course of the year to date. Of course, these teams have also not played too many games in the last 6 months [GMRD have played the most, and have the most solid record here, whilst the Brawlers are mostly trading off of a single, impressive, victory over the Knights of Oldham ], so we'll need to wait and see if their ratings stabilise at their new values.
+
+Slightly less impressive on ranking, but almost as strong on rating, the remaining crop of really big movers, all shifting by more than <em>1.5 rating</em> points, and on average 500 ranking spots:
+<strong>798 Shee Devils (Sitka Sound Slayers B)</strong> [Alaska, USA]
+<strong>461 Mandrágoras Roller Derby</strong> [Patagonia, Argentina]
+<strong>1072 Lindsay Roller Derby</strong> [Ontario, Canada]
+<strong>1644 Silver Bridge Bruisers</strong> [Ohio/West Virginia, USA]
+
+As with the biggest movers, some of these are shifting on the basis of a single result (the Shee Devils victory over Rage City B), whilst others are more solid (Mandrágoras moving on the basis of an impressive performance at Torneo Sucio, Lindsay recovering from a poor end to 2016 with consistent performances in 2017, and the relatively new Silver Bridge just improving with experience).
+
+On the other end of things, most of the big falls happened for teams who were already fairly far down the table... which also makes their ranking more stable in general. As a result, we're only listing 4 fallers, all of whom dropped significantly in ranking and rating this season:
+<strong>1530 Oxford Roller Derby B</strong> [Oxford, UK]
+<strong>774 Air Raid Roller Girls</strong> [Oregon, USA]
+<strong>1630 Insurrexion Roller Derby (a member of No Excuses Roller Derby)</strong> [Argentina]
+<strong>1492 Borderland Brawlers Roller Derby (Coed)</strong> [Peterbourgh/Rutland, UK]
+
+Of these, Insurrexion and Borderland Brawlers have dropped on the basis of a single significant bout this year, which was nevertheless sufficient to pull them down. If the two teams in question have more bouts to add to FTS, who knows what it would do to their actual rating? Oxford B seem to have had a much harder time of it consistently, although given that they only have a single bout on record in 2016, it's possible that they were just overranked previously...
+
+We hope this look at a world beyond just WFTDA ratings has distracted you from those WFTDA Rankings themselves!
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1"> </span></p></body></html>

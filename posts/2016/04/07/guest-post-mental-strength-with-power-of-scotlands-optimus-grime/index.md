@@ -1,0 +1,130 @@
+<html><body><p>The recent <strong><a href="https://www.facebook.com/events/753462044787328/">Power of Scotland Bootcamp</a></strong> was a huge success, but unfortunately time pressure meant that <strong>Optimus Grime</strong>'s <em>Mental Strength</em> presentation (a complement to his <em>Physical Strength</em> seminar) was cut.
+For posterity, and to provide everyone with its benefits, Grime has written it up and graciously allowed us to publish it.
+The below is all Optimus Grime's work (including selection of images, although the images themselves are the work of others, and credited appropriately).
+
+</p><hr>
+
+ 
+
+***WARNING***
+
+The following is best consumed with epic 80's motivational soundtracks from such films as the Rocky series, Karate Kid or Commando [The editor would also like to recommend <a href="http://powergloveaudio.bandcamp.com/album/ep-1">PowerGlove's EP1</a> for a similar effect]. The author intent was for it to be spoken aloud &amp; PROUD. Side effects may include feelings of Getupandgoitis, motivationarrhoea &amp; goosebumposis!! You have been WARNED!
+
+<a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021054231.jpg"><img title="wp-1460021054231" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021054231.jpg" alt="image" width="699" height="400"></a> (Unknown copyright: please let us know if this is your image.)
+
+Mental Strength:
+It starts with a dream:
+Conceive - A dream to achieve a goal. A dream to become something you can be proud of. Whether the goal is big or small is not important, as long as it IS important. It must mean something significant to you.
+Believe - Thoughts .....become.....things. You must think about what it is you want and believe 100%, without any doubt that it is achievable. Doubts......will .......delay ......dreams.
+
+Achieve - For a goal to be a successful, a plan on how to achieve that goal must be made.
+
+Questions need to be asked. How do I get there? What must I do? How long will it take? Who do I need to learn from? IT IS ABOUT THE REMOVAL OF VARIABLES. Variables lead to detriment, distraction &amp; even destruction. Questions are variables and once all the questions are answered, the journey can begin.
+It's about creating a foundation:
+
+For a body to become proficient at something it must be practiced &amp; built up from a foundation. The same applies to the mind. Treat your mind like a wall or building. The first brick in your foundation is a dream. It is the root of achievement.
+
+This initial brick in your foundation must be strong. To do this a decision has to be made. You have to decide to commit to this dream and with that endeavour to not quit on it until it is completed. Decision is an extremely difficult thing to do. It is scary, new and takes a huge effort, but in a way it is wonderfully frightening. Once the decision is made, the rest is much easier.
+
+Decision is incision. To decide is to cut off the chance of being deterred or distracted away from completion of your goal.
+
+So just DECIDE. (Variable eliminated).
+
+<a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021066618.jpg"><img title="wp-1460021066618" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021066618.jpg" alt="image" width="960" height="540"></a> (Photo: <a href="http://lauramacd.co.uk/roller-derby-photography/">Laura MacDonald</a>)
+
+The Mind of a Building:
+
+From this point on you must think in a certain way. Think of the following metaphorically.
+This starts with outlook and the words you use. It progresses with building on your foundation using metaphorical bricks. This ends with success &amp; achievement. Each brick represents a new skill and/or success. Each brick is a new happiness. Once a brick has been laid, it is enduring, immovable and timeless. It is here to stay.
+
+Outlook:
+
+Forget the terms positive and negative. Nothing is negative. There is only learning &amp; growing. All "negative" experiences are now lessons. "Every failure can only teach me. Every success will only make me grow and become more than I was". Adding "yet", changes everything. "I can't do that.....yet!".
+
+"Forget the little feelings" - little feelings are the pieces of inner monologue
+
+We have that tells us, "we're tired, we can't be bothered, we can do it later". Identification of the little feelings is very hard. We as humans live by feelings that our body and mind perceive; hunger, thirst, pain, cold, warm, sadness, excitement etc. Our lives are dictated by our sensations. So learning to prioritise the essentials and ignore the non-essentials is key to keeping my mind as strong as a building.
+Identify and don't listen to the little feelings. (Variable eliminated)
+
+Scenario-ize:
+Think of all the things that scare you with regards to your dream. List them. Think about all the things that can go wrong with regards to your goals. List them. Feelings of negativity &amp; emotional turmoil arise happen...through shock of the unexpected.
+
+So we Scenario-ize. We go through the list of what we fear and what can go wrong;
+Injury, defeat, abuse, pain, losing, ineffectiveness, anger - and we pretend internally that it has really happened. We go over the situation and tell ourselves how we want to behave/react.
+
+"If someone hits me illegally, i will keep my cool and keep on track with my team"
+"If someone yells at me, i will not take it personally nor let it effect me"
+"If someone does better than me, it doesn't mean I was in anyway bad. It only means I have more to do"
+"If I foul out, I will respect the decision and not argue it. Then analyse my performance after I have supported my team and been respectful to those around me".
+
+Mental preparation and practice, prevents poor performance and promotes positive prognosis. (Variables eliminated)
+
+<a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021074061.jpg"><img title="wp-1460021074061" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021074061.jpg" alt="image" width="1080" height="720"></a> (Photo: <a href="http://lauramacd.co.uk/roller-derby-photography/">Laura MacDonald</a>)
+
+Learning &amp; Growing:
+
+Not if....but when these negative situations occur &amp; you have successfully behaved how you planned, its time to learn.
+Analyse. "What went wrong? Who's to blame? Why did it go wrong? How do I ensure this doesn't happen again". Ask these questions and learn from their answers. Let the learning fuel you to work hard to prevent this happening again. New variables will always arise and some old ones may come back. Scenario-ize these too and view them only as more lessons.
+(Variable eliminated).
+
+The little victories:
+With every failure will come a few small or even tiny victories. Focus on them. When you are the underdog or out numbered with a high likelihood of failure, play for the little victories."We held that amazing jammer for 30sec"
+"I got 1 lead jammer over someone far better than me"
+"I finally used that thing i learnt at training and it worked"
+"We were expected to lose by 100 and only lost by 50"
+
+No matter what happens, good or bad nothing will detriment me. Be prepared to lose but also get ready to win.
+(Variable eliminated).
+
+Growing:
+
+The mini victories are bricks too. The mind is built with stones of all sizes. For every achievement my wall gets bigger. For every success my building only grows.
+Every brick makes my mind stronger. They are skills, they are happiness and they are esteem.
+
+3 bricks forward, 1 brick back:
+"Don't get too high".
+Consider the idea of numeracy. We as humans love numbers. "I have £200. I lost 3kg. We won the last 2 games. I scored a 30point jam". Using this theme and if we  allocated points to our success bricks, we will start to accumulate points. If each brick represents 3 points we will eventually over the course of time build up a lot. Success breeds success. The more we achieve.....the more we achieve and the more we want to achieve. However, with success come a few poisonous characteristics that CAN cause our building to crumble.
+
+Selfishness, arrogance, vanity &amp; looking down on those considered weaker etc.
+The points acquired are your points and for you to do as you want with them. So consider that if I use all 3 point to always climb high and feel better about myself,I may topple. "My ego was my down fall. My head got too big. He/she/they are amazing, but they are arrogant dicks". 2 to move up and one to step back..... and reflect.
+
+The best heroes are the humble ones. "They were incredible &amp; it was amazing how DOWN to earth they are". Be that hero and view the points as things to be rationed.
+If I start at ZERO 0, my first success will give me 3 points with a potential score of 3. But! If i only use 2 and put 1 away for something else, i am still at 2 and still higher than I was at the beginning. Then over time, I will grow as my bricks add up. i will grow slower but, more stable. I will not get too high, I will NOT poison my wall with ego, arrogance and vanity &amp; I will aim to be of use to others.
+
+(Variable eliminated).
+
+<a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021080516.jpg"><img title="wp-1460021080516" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021080516.jpg" alt="image" width="1120" height="720"></a> (Photo: <a href="https://www.facebook.com/john.hesse.902">John Hesse</a>)
+
+Sharing is caring : I grow, we grow:
+"If you want to succeed quickly go alone. If you want to succeed forever, go together"
+The effect you have on others is the most valuable currency there is. Life is built in teams. My family team. My relationship team. My work team. My friend team. My health team....my derby team.
+
+"2 points for me &amp; 1 for you".
+
+As a metaphor, use 1 of those points that was for your growth that was stored away and give it to someone else. Use it to fuel their need.
+
+Compliments, praise, gifts, smiles, congratulations, feedback, encouragement. Be that humble hero and lift those up around you. Reflect on your needs, but also your teams needs. Recognise who could do with a boost emotionally. What do they need that your talent can provide? Succeed, Grow &amp; Give back, as there may be someone in your Team that will need it more than you do.
+
+The final variable:
+Mental strength is about control. Control of your own mind, thoughts, ideas and emotions. Mental strength is about controlling and eliminating variables that may be of detriment to your minds. 'The final &amp; uncontrollable variable is other people'. Not everyone will have the same goals as you, or be as strong or as driven as you. Drive and strength are variable. There is nothing anyone can do to change that. We can only gently influence those who are involved in our journey to be as positive as we are. Set an example. "Monkey see. Monkey do"
+
+So Scenario-ize the reactions of other people. Pretend in your head the eventuality they will react negatively. Then plan what you can do to help them &amp; prevent them being of detriment to themselves, to others and to you.
+
+Focus on:
+○Avoiding the little feelings
+○Their little victories
+○Scenario-ize with them (prior)
+○Share your defeats &amp; successes together.
+
+(Variable eliminated).
+
+The Body &amp; the Mind:
+One will always effect the other. Neither is more or less important than the other but they both need the same due care.
+
+If my body becomes stronger, I will perform better and grow the success bricks for my mind.
+
+If my mind becomes stronger I will eliminate variables that would deter me to try new things in my skates or exercise my body more.
+
+Become balanced. Become more. Become awesome.
+
+<a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021085772.jpg"><img title="wp-1460021085772" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021085772.jpg" alt="image" width="800" height="800"></a> (Photo: <a href="http://lauramacd.co.uk/roller-derby-photography/">Laura MacDonald</a>)</body></html>

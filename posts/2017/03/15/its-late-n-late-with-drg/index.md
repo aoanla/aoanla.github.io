@@ -1,0 +1,58 @@
+<html><body><p>Dundee Roller Girls' popular Late n' Lite officials bootcamp is back for 2017. On the <strong>3rd of April</strong> at <strong>Manhattan Works, Dundee, </strong>DRG officials are opening their doors at <strong>7pm </strong>for a three hour bootcamp, all for a <strong>fiver!</strong>
+
+<img class="alignnone size-large wp-image-15994" src="https://scottishrollerderbyblog.com/2017/03/13517416_1130444287020985_6335893209574319226_o.jpg?w=1024" alt="Courtesy: DRG" width="1024" height="768"> Obligatory after bootcamp photo!
+
+Last year saw three instalments of this officials orientated bootcamp, inviting NSO's, Referees and anyone that wanted to expand their rules knowledge to DRG's Manhattan Works venue in Dundee. Not only do they offer the chance to learn from some of the most experienced referees in Scotland but also to try out the tiled sports court that is so common across the US derby scene!
+
+Their previous <em>Late n' Lite</em>'<em>s</em> have covered a variety of topics to help veteran and new officials alike! The first, in 2016, covered “<em>Oddly phrased Skater Queries”</em> and “<em>Official Reviews</em>”; the second: “<em>OPR like a Pro</em>” and “<em>Positive Self Talk!</em>”; with the third covering “<em>Defusing Difficult Situations</em>” and “<em>Level up your JR and OPR positioning</em>”.
+
+[gallery ids="16013,16012,16014" type="rectangular"]
+
+Each mini-bootcamp consists of two 45 minute off-skate sessions, usually one broad subject is covered initially and then another role-specific focus is brought out. After which, on skates referees are given the chance to put these new skills to the test by refereeing the Dundee Roller Girls skaters in a final hour scrim!
+
+To learn a bit more about the reasoning behind these bootcamps, and just have a wee catch up with some of Scotland's referees, we had a wee chat with <strong>Ruby RaGe (R) </strong>and<strong> Tiny Tearaway (T)</strong> (head officials for DRG 2017).
+
+[gallery ids="16028,16027" type="circle" columns="2"]
+
+<i><b>Q:</b></i><i> So to start us off, how did these bootcamps come around? Was it something that DRG officials were working on for a long time?</i>
+
+<b>R: </b>I guess we started having a chat amongst the group and Righteous Oxide came up with the idea!
+
+<b>T:</b> I wasn’t actually part of the league when the bootcamps were first talked about. I think it was commented on that there wasn’t anything like this already in Scotland and it would be a good idea to look into it. A few months later the first bootcamp popped up!
+
+<i>Q: There's quite a lot of you DRG officials isn't there? Do you all take it in turns for leading a session or how is it all planned?</i>
+
+<strong>R:</strong> What tends to happen is that folks volunteer to take a session. When it comes to the ‘classroom’ stuff it’s not everyone’s bag to stand up in front of a room full of people. I think the great thing is we all bring something different to the table. This makes it really varied and interesting.
+
+<strong>T:</strong> All of the officials at DRG have their own amazing skillsets. We have a wee chat about topics for a bootcamp and usually someone volunteers to take a session on a specific subject. I was really excited to do my session on jam reffing as I can get quite passionate about it and want all the refs to love it as much as I do <span style="font-family:Wingdings;"></span>
+
+<em><strong>Q:</strong> What's planned for your fourth installment then?</em>
+
+<strong>R:</strong> Ahhh, I’m not part of the planning for this one, I'll let Tiny take this question..!
+
+<strong>T:</strong> The fourth bootcamp is probably going to be the most exciting. So far we have focused mainly on skating officials but with so many people at DRG and across all of the Scottish leagues taking an interest in the non skating side of things, we decided to make the bootcamp for skating officials as well as anyone wanting to delve into the wonderful world of nso’ing. We are delighted that the very talented <em>Peggy Kreugar</em> from ARRG has agreed to take this session. After the theory side of things all of the officials get the chance to ref and NSO a scrim with the lovely skaters from DRG.
+
+<em><strong>Q:</strong> How do you feel running bootcamps like these impacts the movement of Scottish Officials? Especially when specific focus is being put into our lovely NSOs?</em>
+
+<strong>R:</strong> I think what our league is offering is very special. It’s fair to say that NSO’s are sometimes overlooked and we very much feel they are part of the big picture. Nurturing on &amp; off skates officials is integral to the sport.
+
+<strong>T:</strong> It is a bit of a laugh between the Scottish officials that DRG have all the refs in Scotland. This isn’t quite true but we are very lucky to have 10 referees who ref at different levels throughout Scotland, the rest of the uk and the rest of the world. We are a league who have an open door policy when it comes to helping anyone who wants to learn how to ref or nso. We saw the bootcamps as a way to help newer officials and newer leagues with fewer refs.
+
+<em><strong>Q:</strong> Are there any major barriers you feel for Scottish Officials breaking through into officiating outside of bonnie Scotland or even into international derby?</em>
+
+<strong>R:</strong> I think you have to get yourself known &amp; put yourself out there. It will get harder as the pool of Officials increases but it’s good to have contacts!
+
+<strong>T:</strong>The Scottish officials are a very close community. We are always happy to help each other out and because of this I think we have built a reputation of being knowledgeable, fair and reliable. I think for a lot of newer officials it is quite daunting to start applying to events and games over the border and abroad. The advice I was given was apply to everything, get your name out there and get known. If you get rejected, although it sucks at the time there will always be more opportunities. Work hard, ask for help and be the best you can be.
+
+<em><strong>Q:</strong> To finish off, do you guys wanna give us some hints to the next few bootcamps? What are your main goals for these?</em>
+
+<strong>R:</strong> Well there will be lots of OPR training from our wonderful<em> Shuggs Bunny</em> and of course some great insight into Jam ref’ing like a true super star from Tiny. I’ve done some of the more mental rather than physical aspects of Derby in the past (positive self-talk) and would love to do something similar again this year. We just love the fact that lots of Officials are prepared to travel some distance to attend these Boot Camps. I think we must be doing something right!
+
+<strong>T:</strong> Yeah, just what Rubes has said, having the next few bootcamps continuing along the same path. Looking at focused and specific learning, but at the same time making sure there is a bit of something to keep everyone interested. It is great to see that other leagues such as <em>Glasgow Roller Derby</em> are offering more officiating events, aimed more at nso’s but also welcome refs. I think if leagues continue with these bootcamps and training sessions the future of Scottish officiating can only become stronger.
+
+</p><hr>
+
+So if you want to polish up your NSO skills, OPR like a PRO and have some scrim time practice then DRG's Late n' Lite Bootcamp is for you!
+
+Doors open at<strong> 7pm</strong> at <strong>Manhattan Works, Dundee.
+</strong>Check out the <strong><em><a href="https://www.facebook.com/events/253050515139093/">facebook event page</a></em></strong> for more details!</body></html>

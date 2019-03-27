@@ -1,0 +1,72 @@
+<html><body><a href="http://scottishrollerderbyblog.com/2013/01/424389_907757491774_2107291117_n.jpg"><img class="size-large wp-image-2133" alt="424389_907757491774_2107291117_n" src="http://scottishrollerderbyblog.com/2013/01/424389_907757491774_2107291117_n.jpg?w=614" width="614" height="460"></a> Cherry Bombers Best Blocker Maulibu Barbie watches out for the Leithals' Sharlotte Fever, jamming.
+
+Saturday 19th of January saw the first public bout in Scotland played under the new WFTDA rules. Most famously, these rules remove minor penalties in favour of a streamlined officiation process where only major penalties can be awarded; however, they also make a host of other changed, including starting both the pack and the jammers on the same single starting whistle.
+Auld Reekie started their home season last year in the first third of the year as, amongst other things, a way to warm up after the Christmas/Hogmanay break, but the timing this year has been particularly advantageous, giving them also a chance to get more practice with the new rules before bouting against other leagues.
+
+This first bout saw last home season winners, the nautical/steampunk themed Leithal Weapons, up against "zombie highschool" themed Cherry Bombers. Both teams were playing with a reduced roster, with the Bombers particularly affected, down to only 9 skaters, and one of their star jammers, Circuit Breaker, suffering from the flu. The skate-out can be found <a href="http://www.youtube.com/watch?v=ggVfYvsFSlI&amp;list=PLsfV1BOiVrnEvF6D1YCYGwx1C4pdeBGeb&amp;index=1">here</a>.
+
+From the start, the Leithal Weapons pulled out an initial advantage, ARRG star jammer Admiral Attackbar (11:11) and vice-captain Alma Geddon (42) both scoring in the initial jams, to bring the score after the first 4 minutes to a 13 to nil lead.
+Nevertheless, 13 points is nothing at the start of a bout, and the Bombers looked like fighting right back when new skater Para'beat'em'all (62) took lead jammer in the very next jam... only to pick up a track cut major during her scoring pass just before trying to call the jam off! With the power-jam for Leithals new skater Sharlotte Fever (1924) to exploit, things went from bad to worse for the Bombers, a chain reaction of penalties resulting in, at one point, only Teenie Bash (208), ex of Fair City Rollers, on the track to oppose her.
+Hampered by their reduced roster, the Bombers were unable to recover quickly from their penalty situation, with the penalty box refilling as overstretched blockers picked up more penalties before their comrades could escape to join them. The Leithals capitalised, pushing the score into triple figures with multiple power jams before Teenie Bash finally managed to score for the red team,
+<p style="text-align:center;"><b>6</b> Cherry Bombers : <strong>115</strong> Leithal Weapons</p>
+<p style="text-align:left;">still with around 12 minutes left in the period.</p>
+<a href="http://www.youtube.com/watch?v=JtiUWIvYJOo&amp;list=PLsfV1BOiVrnEvF6D1YCYGwx1C4pdeBGeb&amp;index=2">VIDEO</a>
+
+A power-jam for Circuit Breaker, brought a much needed boost in the underdogs' score, almost tripling it to 16 before she called the jam. The Leithals struck back immediately, however, with Yin and Bang effortlessly taking lead jammer the very next jam, while Teenie Bash struggled for some time with an imposing front-wall masterminded by Leithals pivot Admiral Attackbar, although both jammers were held well on their scoring passes, Velosidy exerting herself particularly to hold back the opposing scorer. Still, Teenie managed to pick up a single scoring pass, to be followed by a second magnificent display from Circuit, taking lead jammer and sneaking in a single scoring pass ahead of an accelerating Alma Geddon in hot pursuit.
+
+That was the final scoring pass for the red team this period, though, with the final 8 minutes dominated by the Leithal Weapons once more, thanks partly to a recurrence of the Bombers' penalty issues from earlier on. Playing with such a reduced roster was telling on their skaters, allowing the Leithals to dominate the track.
+
+By the end of the period, the score stood at an intimidating
+<p style="text-align:center;"><strong>24</strong> Cherry Bombers : <strong>216</strong> Leithal Weapons</p>
+-
+
+Half-time saw the second appearance of <a href="http://www.choiredinburgh.co.uk/">Sing in the City</a> at a bout, an Edinburgh-based modern choir and Auld Reekie's regular half-time entertainment for this Home Season. Beginning with a medley including "Auld Reekie", the reworked version of "Hey Mickey" that serves as Auld Reekie's anthem, the choir moved on to Coldplay's "Viva La Vida", a safe choice for a modern choir's first opening to an audience.
+
+-
+
+<a href="http://scottishrollerderbyblog.com/2013/01/385277_907756438884_1922633653_n.jpg"><img class="size-large wp-image-2134" alt="Ciderella chases down Circuit Breaker in one of the several jammer-on-jammer duels in the bout." src="http://scottishrollerderbyblog.com/2013/01/385277_907756438884_1922633653_n.jpg?w=614" width="614" height="409"></a> Ciderella chases down Circuit Breaker in one of the several jammer-on-jammer duels in the bout.
+
+Returning from half-time, the Cherry Bombers faced a difficult challenge to win with an almost 200 point deficit. In fact, an almost immediate<a href="http://www.youtube.com/watch?v=zip5T4OB1mg&amp;list=PLsfV1BOiVrnEvF6D1YCYGwx1C4pdeBGeb&amp;index=3"> power jam</a> for the Leithals once more, Circuit Breaker (100) spending time in the penalty box, whilst Yin and Bang (39) racked up a few more points, immediately increased their deficit even more...
+
+The increasingly exhausted Bombers only managing to pick up 10 points in by the end of the third 15 minutes, it was looking even better for the team in blue as they picked up 113 in the same time, bringing the score to
+<p style="text-align:center;"><strong>34</strong> Cherry Bombers : <strong>329</strong> Leithal Weapons</p>
+A long official timeout sent additional members of both teams to the penalty box and, devastatingly for a team with an already tiny roster, sent Bombers team captain Velosidy off track as she fouled out at her 7th sin-bin trip.
+
+With the Leithal Weapons also down on blockers, however, the very next jam saw Teenie Bash pick up a valuable 3-point pass, albeit the last scoring tha the Bombers would get for the next five minutes. Superior blocking from the Leithals continued to tell, pushing their score closer and closer to a 10:1 ratio, sitting at:
+<p style="text-align:center;"><strong>37</strong> Cherry Bombers : <strong>354</strong> Leithal Weapons</p>
+with only 10 minutes on the clock.
+
+<a href="http://www.youtube.com/watch?v=r6djsx2XIV8&amp;list=PLsfV1BOiVrnEvF6D1YCYGwx1C4pdeBGeb&amp;index=4">VIDEO</a>
+
+Just when it looked like the Leithals would actually manage to win with a 10:1 score ratio, a slightly misjudged piece of skating by Alma Geddon, returning from stradding the line to in-bounds to pick up a track cut major, handed the power jam to the Bombers' Teenie Bash, to the loud delight of all of the Cherry Bombers fans in the audience. After getting over her own elation, Teenie capitalised, pushing her team's score up by 10 vital points. After a brief team-timeout, The Bombers maintained their momentum, Circuit Breaking taking lead jammer mere fractions of a second ahead of the Leithals' Ciderella (3), and engaging in a protracted and close-fought defensive jamming duel before calling it off. With Teenie Bash back on track for the next jam, yet another Leithals track cut, this time by Yin and Bang, handed the her the second power jam of the last 5 minutes, and a 19 point power jam. Just 5 minutes had made Teenie the Cherry Bombers' highest scoring player by a landslide, bringing in more than half of the teams' score for the bout.
+
+With a bout timing issue causing head ref Righteous Oxide to allow one final jam, it was Kaos Moss who took back control for the Leithal Weapons for a final frosting of points, leaving the final score at:
+<p style="text-align:center;"><strong>66</strong> Cherry Bombers : <strong>395</strong> Leithal Weapons</p>
+<a href="http://scottishrollerderbyblog.com/2013/01/74614_907756049664_1997508534_n.jpg"><img class="aligncenter size-large wp-image-2135" alt="74614_907756049664_1997508534_n" src="http://scottishrollerderbyblog.com/2013/01/74614_907756049664_1997508534_n.jpg?w=614" width="614" height="409"></a>
+
+The Skater awards were given to:
+<table border="0" align="center">
+<tbody>
+<tr>
+<td></td>
+<td><strong>Cherry Bombers</strong></td>
+<td><strong>Leithal Weapons</strong></td>
+</tr>
+<tr>
+<td style="text-align:center;"><strong>Best Blocker</strong></td>
+<td style="text-align:center;">Maulibu Barbie</td>
+<td style="text-align:center;">Minnie Riot</td>
+</tr>
+<tr>
+<td style="text-align:center;"><strong>Best Jammer</strong></td>
+<td style="text-align:center;">Teenie Bash</td>
+<td style="text-align:center;">Sharlotte Fever</td>
+</tr>
+<tr>
+<td style="text-align:center;"><strong>Most Valuable Player</strong></td>
+<td style="text-align:center;">Circuit Breaker</td>
+<td style="text-align:center;">Ciderella</td>
+</tr>
+</tbody>
+</table>
+The next bout in the Auld Reekie Roller Girls Home Season is February 16th, where the Cherry Bombers, hopefully back up to a full roster, will take on The Skatefast Club.</body></html>

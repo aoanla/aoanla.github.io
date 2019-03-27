@@ -1,0 +1,44 @@
+<html><body><p>Sometimes it feels like you wait for a long time for a double header to come along, and then they all turn up at once. The <strong>12th of March</strong> is one of those days, with both <a href="http://arrg.co.uk/">Auld Reekie Roller Girls</a> and Mean City Roller Derby holding double headers at opposite sides of the Central Belt. This article will cover the first of these, with a follow up article coming on events in Glasgow.
+
+In Edinburgh's <strong><a href="https://goo.gl/maps/Cs9b7YiJF4m">Meadowbank Stadium</a></strong>, from <strong>1pm,</strong> Auld Reekie will be playing two games in a row: their All-Star Reserves taking on <a href="https://www.facebook.com/dundeerollergirls/">Dundee Roller Girls</a>' Silvery Tayzers first, followed by the All-Stars facing off against <a href="http://www.newcastlerollergirls.org.uk/">Newcastle Roller Girls</a>' Canny Belters.
+
+Dundee Roller Girls are fresh off a very convincing victory over Preston Roller Girls during the opening British Champs Tier 3 North fixture. <a href="http://flattrackstats.com/predictortool/q/7728/7776">FlatTrackStats</a> sees them continuing the trend into this game a little closer to home, with a 76% projected probability of victory.
+
+Silvery Tayzers' Co-Captain, Laura 'Milky' Liston told us: "We're really excited, it's been about three years since we've played ARRG. The Tayzers are hoping to channel a bit of the [Bonnie] Colliders' teamwork, positivity and calm for this one. We've got so many new skaters moving up through the league who are gelling so well, and forcing us all to up our game. We're feeling really ready for this game and this season."
+
+Meanwhile, the All-Star Reserves themselves took an impressive European win in January over Dresden Roller Derby, and won't want to relinquish the momentum this has given them. We anticipate this being a very hard fought bout, with both teams pulling out all the stops.
+
+</p><hr>
+
+ 
+
+Newcastle's Canny Belters are fresh from a significant win over Glasgow Roller Derby at the British Champs T1. They will be looking to solidify the ranking improvements this could bring, with a win over the East Coast's premier Scottish league as well.
+NRG's Head Coach, Kalamity James, is sure that the Belters can have a shot. "We're really looking forward to the game against ARRG. We're pretty sure it’s going to be the hardest game we’ve played up until this point, but we’ve been training really intensely and buoyed by our recent success against Glasgow we’re hoping we can give them a very good run for their money! We love having such a top class team so close to us, we can’t wait to travel up to Scotland on Saturday."
+
+<img class="alignnone size-full wp-image-6220" src="/2016/03/kalamity.gif" alt="Kalamity" width="800" height="532"> Newcastle's Kalamity James was so happy about her laterals playing versus Glasgow last month that she made this gif to show them off... (Credit: Original images Dave <a href="https://boutday.com">McAleavy</a>. Gif generation: <a href="http://giphy.com">giphy.com</a>.)
+
+On the other side, Auld Reekie's All-Stars will also be very intent on a win; the first game in their season, this could set the tone for the proceeding year.  FlatTrackStats is on the Home team's side, predicting a <a href="http://flattrackstats.com/bouts/75175/rankings">97% probability</a> of their taking home the win. This reporter spotted many All-Stars skaters in the audience to see Newcastle play Glasgow, so we are sure that they will have been taking notes to ensure victory!
+
+Both Auld Reekie Roller Girls and Newcastle Roller Girls will be playing over in the States later this year - ARRG at <a href="http://ecrg.com/bigo/">The Big O</a>, and NRG at <a href="http://www.beachbrawlrollerderby.com/">Beach Brawl</a> - so early WFTDA ranking improvements will be significant to them in this context too.
+
+Newcastle Roller Girls are raising money for their USA trip (their very first across the Atlantic) via a variety of means, but the easiest way to support them is via their <a href="https://www.gofundme.com/nrgtobeachbrawl">GoFundMe</a>.
+
+Tickets are available for the double header <a href="http://www.brownpapertickets.com/event/2492972">online for just £5</a>, or for £8 on the door. Under-14s are free, as always, and there are group ticket discounts available on prior request.
+
+The projected running order of this double header is:
+
+<strong>1pm</strong> - Doors Open.
+
+<strong>1.15pm</strong> - First Bout (Dundee/All-Star Reserves) Starts
+
+<strong>4pm</strong> - Second Bout (Newcastle/All-Stars) Starts
+
+<strong>6.15pm</strong> - Event concludes.
+
+The <a href="http://citycafeedinburgh.co.uk/">City Cafe Edinburgh</a> is booked for the afterparty from <strong>8pm</strong>.
+
+<hr>
+
+ 
+
+ </body></html>

@@ -1,0 +1,56 @@
+<html><body><i><span style="font-weight:400;">As part of our irregular series of Guest Articles, we're bringing you a feature from Blind Io (NSO, Paris Rollergirls + Flat Track Stats (European region)), presenting a position on why European WFTDA leagues should play more SFCs.</span></i>
+
+<hr>
+
+<span style="font-weight:400;">I want to talk about the Strength Factor Challenge (SFC), and its under-use as a tool for improving the rankings of competitive European WFTDA leagues.</span>
+<h2><b>The Problem:</b></h2>
+<span style="font-weight:400;">As the 2018 WFTDA European Continental Cup has just wrapped up (and oh my what an exciting one it was!) it’s reasonable to imagine that quite a few European leagues are making goals to qualify for the 2019 version, by becoming one of the top-most European leagues in the WFTDA rankings.</span>
+
+<span style="font-weight:400;">However, climbing the WFTDA rankings table isn’t as straightforward as “being the best”. The most highly-ranked teams put a lot of work into determining which teams they should play, as well as precisely by how much they must beat them (or how little to lose by), in order to get into the highest ranks.</span>
+
+<span style="font-weight:400;">A team’s rise and fall in the WFTDA rankings is decided by the WFTDA Rankings Algorithm (<a href="https://wftda.org/rankings-policy/algorithm">https://wftda.org/rankings-policy/algorithm</a>), which is an equation that uses the score from a sanctioned game as well as the “strength factor” of each team to calculate by how much each team’s ranking will change. We’re not going into the fine details of the algorithm, but for the purposes of this article it’s important to know that in a sanctioned game, as the rankings difference increases between the two teams, the higher-ranked team has to win by a greater and greater margin in order for their ranking to improve (or break even). There is a point at which the score margin becomes physically impossible to achieve (for example a Rank 20 team would have to prevent a Rank 80 team from scoring <strong>any</strong> points just to break even, and the Rank 80 team would have the same problem against a Rank 200 team).</span>
+
+<span style="font-weight:400;">For an extreme example of the difficulties involved with finding suitable sanctioned games for high-ranked teams, consider a little piece of London Rollergirls' history. For many years London was the only European team in the top tier of the WFTDA Rankings: at the end of 2014 when London was ranked 6th in the world, everyone else in Europe was ranked 50 or worse! Such a great rankings gap meant that London was unable to play a Sanctioned game against any other European team, as it would have guaranteed a drop in their rankings and reduced their chances of going to WFTDA Playoffs &amp; Champs. Because of this, London couldn’t play a single sanctioned game against another European team for 3 years from the end of 2012 until late 2015!</span>
+
+<b>Here’s a TLDR:</b><span style="font-weight:400;"> teams become less and less likely to sanction games against each other as their ranking differences increase; and when high-ranked teams won’t play low-ranked teams, it gets very difficult for the low-ranked teams to climb the rankings ladder!</span>
+
+<span style="font-weight:400;">Clearly, making it into the top-X European teams that qualify for the European Cup is not easy! At the time when the qualifying teams were selected for this year’s European Cup (July 2018), the average ranking of the 8 chosen teams was 55 -- and there were only 6 other European teams within 40 ranks of that (15-95). With so few teams at the top levels of European rankings, it can be very hard to find enough suitable sanctioned games needed in order to join them, at least not without travelling to North America as many teams have had to do in the past.</span>
+<h2><b>The Strength Factor Challenge:</b></h2>
+<span style="font-weight:400;">Four years ago, WFTDA came up with a solution to this problem of ‘not enough similarly-ranked local teams’: the Strength Factor Challenge (SFC). This was a tool that would allow unranked/new teams and under-ranked teams to play a special SFC game against a higher-ranked opponent, that if successful would make them much more attractive to higher-ranked opponents for subsequent sanctioned game play. It means that under-ranked teams can jump up the ranks very quickly if they know what they’re doing!</span>
+
+<b>The Details </b><span style="font-weight:400;">(</span><a href="https://wftda.org/rankings-policy/strength-factor-challenge-program"><span style="font-weight:400;">https://wftda.org/rankings-policy/strength-factor-challenge-program</span></a><span style="font-weight:400;">)</span><b>:</b>
+
+<span style="font-weight:400;">A Strength Factor Challenge game (SFC) is an unsanctioned game that a lower-ranked charter team (Challenging Team) schedules versus a higher-ranked charter team (Opponent Team) in order to attempt to temporarily increase their strength factor. If they are successful with their challenge, the Challenging Team will be assigned a higher strength factor for a limited time (4 months), while there is no effect on the Opponent Team. A team can lose an SFC game and still be successful in their challenge. To prevent over-use, each team is only allowed to challenge another once every 12 months</span>
+
+<span style="font-weight:400;">The benefit to the Challenging Team is indirect. Having a higher and more reflective strength factor of their skill level will make a Challenging Team a more attractive opponent for subsequent sanctioned game play. Potential future opponents who would not have sanctioned games solely because the Challenging Team’s strength factor was too low, are more likely to schedule a game with the boosted strength factor.</span>
+
+<span style="font-weight:400;">Challenging Teams must choose their SFC strategy wisely. An SFC game alone will not impact the Challenging Team’s rank: a team’s rank is purely based on successful sanctioned game results against more attractively ranked teams in the months in which the boosted strength factor is active.</span>
+
+<span style="font-weight:400;">Note: the Opponent team gets zero rankings effect from the SFC Game, they do this purely from the goodness of their own heart, but will benefit in the long run from having another team to play sanctioned games against in the future.</span>
+
+<b>The Example:</b>
+
+<span style="font-weight:400;">Are you an under-ranked team? You’re rank 200, but can give a rank team 100 a real run for their money but they never want to play against you? Then SFCs are for you!</span>
+
+<span style="font-weight:400;">If you perform well in a SFC game against the rank 100 Opponent, then you will be granted a several-months-long boost to your strength factor, which will mean that anyone who plays against you in that time will get all the rankings benefits of playing against a team much-higher-ranked than your current rank. Suddenly everyone will want to play against you and you can finally get your sanctioned games against the rank 100s, or maybe even better!</span>
+
+<span style="font-weight:400;">And if you fail your SFC game, well, you don’t get the boost and you can try again next year.</span>
+
+<b>Should My Team Try It?</b>
+
+<span style="font-weight:400;">Probably, yes! There are roughly 60 WFTDA leagues in Europe spanning the full range of rankings all the way up to rank 350, and there have been only 3 SFC game in Europe in the last 2 years. That’s far too little (remember that every team is allowed to SFC once every 12 months)! Many people know at least one example where a team has been unable to find a suitable sanctioned game against a good opponent because they’re “too lowly ranked”, especially when the teams involved are aiming for Continental Cups or WFTDA Playoffs, and this issue is exactly what the SFC game is designed to solve.</span>
+
+<span style="font-weight:400;">For more evidence, let’s have a look at the top 25 teams in the FTS-Euro* (Flat Track Stats European rankings system</span><span style="font-weight:400;">, </span><a href="http://flattrackstats.com/europe"><span style="font-weight:400;">http://flattrackstats.com/europe</span></a><span style="font-weight:400;">). Pictured below is a snapshot of the FTS-Euro rankings compared with the WFTDA rankings from October 18th, just before the Continental Cup.</span>
+<img class="aligncenter size-large wp-image-27688" src="https://scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-19-48-17.png?w=1024" alt="FTS-Euro versus WFTDA Rank (Oct 2018)" width="1024" height="879">
+
+<span style="font-weight:400;">From this picture we can see that there are a number of teams that appear to be significantly under-ranked in the WFTDA rankings. For example, FTS believes that a game between Antwerp and Tiger Bay could be very close, but the current WFTDA rankings difference is so great (112th to 49th) that this game will almost never get sanctioned without costing Tiger Bay greatly in the WFTDA rankings. However, if Antwerp were to have a SFC game against Tiger Bay (or, for example, Dock City), they could have a good enough game to grant them a much higher strength factor, that then makes them very enticing for all of this year’s Continental Cup teams to play sanctioned games against. Why, with a few well-planned SFC games I can easily imagine the number of European teams in the top 100 growing from 18 to 25+ during 2019!</span>
+
+<span style="font-weight:400;">For those who really like their charts, here’s another one showing the comparison between FTS-Euro rankings and WFTDA rankings, which should demonstrate that there are a number of European teams that are clearly under-ranked (and perhaps even some that are over-ranked):</span>
+
+<img class="aligncenter size-large wp-image-27689" src="https://scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-19-50-54.png?w=1024" alt="Graph of WFTDA Rank v FTS-Euro Rank" width="1024" height="609">
+<h2><b>The Summary:</b></h2>
+<span style="font-weight:400;">There are a number of under-ranked teams in Europe, and the WFTDA Rankings Algorithm makes it very hard for these teams to find their appropriate ranking without using SFC games. There’s also very few SFC games taking place in Europe at all, (probably because it’s not a heavily-advertised programme). Having more SFC games in Europe will improve the rankings of a lot of teams, and is recommended particularly for anyone who is aiming to get into the Continental Cups and WFTDA Playoffs. One can also use alternate rankings systems like FTS (or SRDRank <a href="http://aoanla.pythonanywhere.com/SRDRank.html">http://aoanla.pythonanywhere.com/SRDRank.html</a>) to help find suitable opponents for SFC games.</span>
+
+<hr>
+
+<i><span style="font-weight:400;">*Note: The FTS rankings algorithm is different from the WFTDA rankings algorithm, and the FTS-Euro uses a different set of data (all recorded Sanctioned &amp; Regulation games between European teams). Because of this, one much always be careful when making comparisons between FTS and WFTDA rankings. I’m gonna do it anyway, but take my analysis with a pinch of salt ;)</span></i></body></html>

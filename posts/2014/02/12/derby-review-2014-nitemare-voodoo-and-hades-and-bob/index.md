@@ -1,0 +1,37 @@
+<html><body><p>A slightly unusual Review entry this time: not a league, but a collection of Derby Happenings all tied together by one common feature: Falkirk's own skate and roller derby store, <a href="https://www.facebook.com/intothe.nitemareclothing">Into The Nitemare</a>. We thought that, what with having their own exhibition team, founding two others during the year <em>and</em> putting on a national tournament, they probably deserved an article to themselves...
+
+<a href="http://scottishrollerderbyblog.com/2014/02/img_0002.png"><img class=" wp-image-3280" alt="img_0002" src="http://scottishrollerderbyblog.com/2014/02/img_0002.png?w=614" width="368" height="553"></a> Titan and Raven, Into The Nitemare, at the end of Battle of Britain (Copyright: Sam Skipsey)
+
+<a href="http://scottishrollerderbyblog.com/2014/02/img_0001.png"><img class="size-large wp-image-3281" alt="Newcastle Roller Girls, winners of BoB." src="http://scottishrollerderbyblog.com/2014/02/img_0001.png?w=614" width="614" height="408"></a> Newcastle Roller Girls, winners of BoB.
+
+<strong>This has been an eventful year for Into The Nitemare's derby involvement, with Team Nitemare holding their first exhibition bouts, the formation of Hades Roller Boys and Voodoo Roller Dollies, and the successful hosting of Scotland's second ever national tournament, Battle of Britain. What has been the standout experience for the two of you?</strong>
+
+We’ve had an amazing year derby wise, and there are far too many highlights to name just one. Team Nitemare was just amazing, I remember welling up at the skateout. Just so proud to see two amazing groups of such talent under one roof. The Jakey Tayzers proved to be a force to be reckoned with and as it turns out, many of them have found themselves on their gender's National Team Scotland. That was also the day of the Hades debut, which was one of the most exciting bouts I’ve had the pleasure of experiencing…I got so wrapped up in the game I have since been sacked as Line Up…by my own husband no less, hehe. I am so not cut out for that position.
+The Hades boys put together a charity bout in November, just the week before BoB, which got people coming from all over the UK, and we were chuffed to bits that all these people made such an effort to come, from Manchester Roller Derby, Blackpool Roller Derby League and Belfast Men's Roller Derby, not to mention representation from leagues all over Scotland. It was an amazing day.
+Then we get to BoB…well that was a year in the making and we’d again like to pass along our thanks to all that made it possible. We had representation from wider Europe and even the good ole USofA. The only drawback of the day was not skating in it!
+As for the Voodoo Roller Dollies, well you’ll have to keep your eyes peeled for our upcoming news but needless to say we’re training hard in preparation for an incredible first year.
+
+<strong>Coming back to the events in sequence, last time we spoke, we talked about your plans for coed exhibition team, Team Nitemare. This year, they managed to bout for the first time, taking on the Jakey Tayzers for a narrow 174:215 loss and then travelling to play Middlesborough Milk Rollers' Milk Invaders away to a resounding 278:168 win! How was the experience of building to those two bouts?</strong>
+
+The beauty of Team Nitemare is that we have built on it throughout the year and we have expanded our ranks. There were a few hiccups in the the run up to the Jakey Tayzer bout, but in true roller derby fashion, it pulled together and ran smoothly on the day. The Tayzers were a formidable force and showed how well a co-ed team can work together. All of the lead up to the Milk Invaders (Middlesborough Milk Rollers and Teeside Skate Invaders Mash up) was all down to the lovely Terri Sudron and we the team. It was intense in the run up though, especially the first one, it was almost like Christmas, so much tension for an hour or so of watching it all come together.
+
+<strong>Team Nitemare's debut was also Hades Roller Boys', the second bout pitting them against Ireland's Men Behaving Derby, for a narrow win. Hades later played Wirral's men's team away in December. This is a bit of a reversal for the two of you, with Raven getting to cheer on Titan[Cronos?] for the first time! Tell us a bit about the experience…</strong>
+
+I have to admit here, I was a very bad wife and abandoned Titan to go and have fun at Team Scotland Try-outs… The debut is the only bout I’ve seen of Hades, as their next one was over in Montpellier against the Kamiquads.
+Although I will be at their next game, most definitely!
+
+<strong>A little after Hades was founded, the Falkirk area also gained its third women's team in Voodoo Roller Dollies. With Fierce Valley and Bairn City already in the region, how are Voodoo planning on distinguishing themselves?</strong>
+
+We set ourselves apart from the two other big teams in the area by being small. We are not looking at expanding to league proportions but our initial aim is to gain a roster of 20. I’ve been a part of a big and fast growing league and found that it wasn’t for me. I like feeling that I know all of my team mates and we speak every day. We aim to conduct the team with as little of the traditional structure as is expected. So if you’re looking to become a new blood at Voodoo, you can expect to have fun , just skate and be a valued member of VRD.
+
+<strong>Capping off the year for Into The Nitemare was the 6-way Battle of Britain tournament, pitting teams from across the UK (with a few last minute substitutions from the original lineup) against each other. With three teams in the event, Scotland did creditably, with Dundee finishing a strong second after Newcastle's Whippin Hinnies' first place.</strong>
+<strong> How was the experience of running your first big event? Anything you'd do differently next time [will there be a next time]?</strong>
+
+BoB as it was fondly known was a great day. We were so proud to see Scotland do so well, with Dundee rampaging home in silver position, Lothian Representing extremely well on the day despite injury and some brand new skaters and the Belters getting their first win.
+Newcastle, having stepped in at the last minute, were valiant in their win, Belfast showing some massive hits and the Reapers playing their first open bouts and getting that first public win under their belts too. The day was fantastic and without the help of Teams, Refs, NSOs, Photographers, Announcers and event staff it would not have been possible. As I said before the nature of derby is to throw a spanner in the works and there were more than a few in the final weeks of preparation with two teams pulling out, venue issues and then on the day a minor mishap with a team bus..but it all came together in the end.
+Special mention has to go to Head Ref: Ella Bella Bang Bang (ARRG) and our Head NSO [Crashing] Wookiee [Broken Zebra] (GCRG) without whom, I would have been pretty much a wreck.
+Will we do another tournament? Maybe, you’ll just have to wait and see.
+
+<strong>With all that happening in 2013, Into The Nitemare must have plans for 2014. Is there anything you can reveal now, or is it all secret?</strong>
+
+It’s not secret, but it hasn’t been announced yet. We have a busy year ahead in all aspects, Hades, Voodoo and Team Nitemare , so you’ll just have to watch on the facebooks and twitters to keep abreast of all our happenings!</p></body></html>

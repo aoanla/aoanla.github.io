@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Geography of British Champs - 2015 to 2017 | Scottish Roller Derby Blog</title>
+<link href="../../../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../../rss.xml">
+<link rel="canonical" href="https://scottishrollerderbyblog.com/posts/2017/06/20/geography-of-british-champs-2015-to-2017/">
+<!--[if lt IE 9]><script src="../../../../../assets/js/html5.js"></script><![endif]-->
+</head>
+<body class="home blog">
+    <div id="wrap" style="width:850px">
+        <div id="container" style="width:560px">
+            
+            
+    <div class="post">
+    
+    <h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Geography of British Champs - 2015 to 2017</a></h1>
+
+        <div class="meta" style="background-color: rgb(234, 234, 234); ">
+        <span class="authordate">
+            Posted: by <b>aoanla</b> <time class="published" datetime="2017-06-20T11:25:19+01:00">2017-06-20 11:25</time>
+               [<a href="index.md" id="sourcelink">Source</a>]
+        </span>
+        <br><span class="tags">Tags: 
+                    <a class="tag" href="../../../../../categories/analysis/"><span>analysis</span></a>
+                    <a class="tag" href="../../../../../categories/articles/"><span>articles</span></a>
+                    <a class="tag" href="../../../../../categories/british-championship/"><span>british championship</span></a>
+                    <a class="tag" href="../../../../../categories/british-roller-derby-championships/"><span>british roller derby championships</span></a>
+                    <a class="tag" href="../../../../../categories/scheduling/"><span>scheduling</span></a>
+                    <a class="tag" href="../../../../../categories/statistics/"><span>statistics</span></a>
+                    <a class="tag" href="../../../../../categories/tournament/"><span>tournament</span></a>
+                </span>
+                <br><span class="authordate">
+            
+
+        </span>
+        </div>
+    <div>
+<p></p>
+<p>Since its inaugural run in 2015, the UK's "National Tournament", British Champs, has run on a complex hierarchical tiers and divisions system - with 4 (or 5 in 2016) ability-binned tiers, each subdivided into a variable number of geographically-binned subdivisions (depending on the number of teams in the tier, the number of geographical "divisions" is selected to give 5 to 6 teams per division).</p>
+<p>If a team ends the year at the top (or bottom) of its tier, it is promoted (or relegated) to an adjacent tier - but the destination <em>division</em> must also be selected, which causes complications.</p>
+<p>Running a geographically split tournament division structure is, arguably, making a rod for one's own back. Quite apart from the geopolitics of "north" and "south" in the British psyche, the additional splitting constraint makes it almost impossible to balance relegation and promotion whilst keeping the bounds of the regions sensible.</p>
+<p>This is increasingly hard for the UK's British Championships, as the tournament is, in fact, <em>shrinking</em> year-on-year. In 2015, there were 72 competing women's teams; in 2016, 66, and this year there are just <em>61</em>.
+British Champs themselves <em>claim</em> to be growing, but this is purely because they had no men's tier in 2015 - adding the 20 men's teams in 2016 makes the tournament "bigger", but only in a <em>technical</em> sense, as there's no cross-over between the men's and women's British Champs tiers. (The Men's British Champs has not changed in size between 2016 and 2017, so overall, Champs has still declined overall in the last year.)</p>
+<p>We've plotted the shapes of the various British Champs Tiers + Divisions over the years to illustrate how they've changed shape - both from teams leaving and (less so) joining the tournament; and from promotion and relegation. (The Tier 5 is not animated, as it only existed for 2016.) On these plots, the dotted straight lines mark the North-South and East-West centrelines of the UK, so you can judge how well Champs manages to represent the geography of the UK in its divisions each year.</p>
+<p><img class="alignnone size-full wp-image-21048" src="../../../../../2017/06/bct1.gif" alt="bct1" width="618" height="683"><img class="alignnone size-full wp-image-21049" src="../../../../../2017/06/bct2.gif" alt="bct2" width="583" height="681"><img class="alignnone size-full wp-image-21050" src="../../../../../2017/06/bct3.gif" alt="bct3" width="629" height="692"><img class="alignnone size-full wp-image-21051" src="../../../../../2017/06/bct4.gif" alt="bct4" width="567" height="700"><img class="alignnone size-full wp-image-21052" src="../../../../../2017/06/bct5.png" alt="bct5" width="580" height="697"></p>
+<p>As can be seen, there are some very odd phenomena caused by the strict tier-and-geographical-division format. We can also see where excessive travel - remember, at least one pair of teams in a given fixture is hosted at another venue in their tier+division - can be a wear on opponents.
+One interesting phenomenon is the general migration of several of the South divisions towards the south-west, as promotion and relegation (which is uneven in Champs) requires more central teams to be added to the East divisions.
+</p>
+<h3>Solutions</h3>
+One should, of course, prefer to critique than criticise. In this spirit, we have some suggestions (drawn from work ongoing for the Roller Derby World Cup 2018) as to how British Champs could improve its efficiency, whilst still providing the core benefit of giving a guaranteed, structured, 4 or 5 games to each participating team. Our suggestions also allow matching teams to close-by opponents, of similar strength; and provided a UK-wide "ranking" and "rating" of the participants.
+<p><strong>Firstly</strong>: throw away the strict categories - not just the divisions, but also the tiers. Strict boundaries are the enemy of efficient matching - the teams at the bottom of Tier X should be able to play the top of Tier X+1, and the eastmost teams in West division should be able to play the westmost teams in East division.
+Teams in any tier should be able to host games for any other tier. [The German Bundesliga allows this already, for example.]</p>
+<p><strong>Secondly</strong>: match each team to 5 opponents, on the basis of their proximity and strength relative to the team in question. There are well-understood algorithms for doing this: the minimum-weight, maximum-width matching algorithm has been used for much larger problems than this for decades (and is used by RDWC2018 for scheduling).
+[We actually have one additional constraint here: we want the network of teams connected by bouts to span the entire set of competitors. This is easily ensured by using an alternate matching approach for one or two of the picks for each team.]</p>
+<p><strong>Thirdly</strong>: scheduling of bouts should be arranged so that every team hosts 1 double or triple header. Importantly, none of the games they host should involve them competing - this avoids home team advantage - but instead should be drawn from matches where both teams are closeby. [Because we have no Tiers, there's an ample supply of such matches here.] We assign bouts to hosts by total travel distance, using maximum-weight matching again.</p>
+<p><strong>Fourthly</strong>: thanks to the constraints in matching above, we can produce a ranking for the teams via any reasonable rating algorithm - Flat Track Stats' Elo-derived rating, either of the SRDRank mechanisms, or others - on the basis of all of the games played over the season. The published yearly rating can be used to establish "Champions", and also to inform the matches for next year.
+</p>
+<h3>Example - 2017</h3>
+As an example, we present how the 2017 British Champs would have looked, if run as we propose. In this case, matches have been made using SRDRank ratings from February 2017, if they existed - there are 3 teams which are problematic here (<span class="s1">Durham City Rolling Angels, </span><span class="s1">Riverside Rebels Roller Derby, </span><span class="s1">Arcadia Roller Derby</span><span class="s1">) for which we assigned an "average" ranking as a placeholder. We stand by the <em>bouts</em> themselves as the best matches possible.</span>
+<p>The resulting assignments of bouts to hosts would be the following fixtures (these don't take into account the size of the hosting venue, which obviously may be significant for some fixtures - a more polished version that was written in less than a day would include other considerations, but the bouts themselves would be the same):
+</p>
+<ul>
+<li class="p2">
+<span class="s1">Riot City Ravens hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Swansea City Roller Derby vs Bristol Roller Derby (Women's)</span></li>
+    <li class="p2"><span class="s1">Birmingham Blitz Dames vs Tiger Bay Brawlers</span></li>
+    <li class="p2"><span class="s1">Reaper Roller Derby vs Oxford Wheels of Gory Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Leeds Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Wakey Wheeled Cats vs Spa Town Roller Derby</span></li>
+    <li class="p2"><span class="s1">York Minxters Roller Derby vs North Cheshire Victory Rollers</span></li>
+    <li class="p2"><span class="s1">Preston Roller Girls vs Hereford Roller Girls</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Royal Windsor Roller Girls hosts:</span>
+<ul>
+<li class="p2"><span class="s1">London Rockin' Rollers vs Big Bucks High Rollers</span></li>
+    <li class="p2"><span class="s1">Hertfordshire Roller Derby vs Wiltshire Roller Derby (Womens)</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">York Minxters Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Spa Town Roller Derby vs Lincolnshire Bombers</span></li>
+    <li class="p2"><span class="s1">Grim Reavers vs North Cheshire Victory Rollers</span></li>
+    <li class="p2"><span class="s1">Cambridge Rollerbillies vs Whippin' Hinnies</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">London Brawl Saints hosts:</span>
+<ul>
+<li class="p2"><span class="s1">London Rockin' Rollers vs Cambridge Rollerbillies</span></li>
+    <li class="p2"><span class="s1">Vendetta Vixens vs Killa Hurtz Roller Girls</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Wolverhampton Honour Rollers hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Birmingham Blitz Dames vs Tender Hooligans</span></li>
+    <li class="p2"><span class="s1">Bristol Roller Derby (Women's) vs Tender Hooligans</span></li>
+    <li class="p2"><span class="s1">Leeds Roller Derby vs Tiger Bay Brawlers</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Middlesbrough Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Hallam Hellcats Roller Derby vs Durham City Rolling Angels</span></li>
+    <li class="p2"><span class="s1">Grim Reavers vs Durham Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Cheshire Hellcats Roller Derbyhosts:</span>
+<ul>
+<li class="p2"><span class="s1">Wolverhampton Honour Rollers vs Riverside Rebels Roller Derby</span></li>
+    <li class="p2"><span class="s1">Bath Roller Derby Girls vs Preston Roller Girls</span></li>
+    <li class="p2"><span class="s1">Middlesbrough Roller Derby vs Swansea City Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Mansfield Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Nottingham Roller Derby (Women's) vs Hallam Hellcats Roller Derby</span></li>
+    <li class="p2"><span class="s1">Roller Derby Leicester vs Wakey Wheeled Cats</span></li>
+    <li class="p2"><span class="s1">London Brawl Saints vs Middlesbrough Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Nottingham Roller Derby (Women's) hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Dolly Rockit Rollers vs Sheffield Steel Rollergirls</span></li>
+    <li class="p2"><span class="s1">Lincolnshire Bombers vs Vendetta Vixens</span></li>
+    <li class="p2"><span class="s1">Manchester Roller Derby (Women's) vs Cambridge Rollerbillies</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Tiger Bay Brawlers hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Reaper Roller Derby vs Riot City Ravens</span></li>
+    <li class="p2"><span class="s1">Dorset Roller Girls vs Hereford Roller Girls</span></li>
+    <li class="p2"><span class="s1">North Cheshire Victory Rollers vs Plymouth City Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Sheffield Steel Rollergirls hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Spa Town Roller Derby vs Mansfield Roller Derby</span></li>
+    <li class="p2"><span class="s1">Leeds Roller Derby vs Birmingham Blitz Dames</span></li>
+    <li class="p2"><span class="s1">Cheshire Hellcats Roller Derby vs Grim Reavers</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Cambridge Rollerbillies hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Rebellion Roller Derby vs Hertfordshire Roller Derby</span></li>
+    <li class="p2"><span class="s1">Vendetta Vixens vs Suffolk Roller Derby (Women's)</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Rebellion Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Milton Keynes Roller Derby vs Hertfordshire Roller Derby</span></li>
+    <li class="p2"><span class="s1">Suffolk Roller Derby (Women's) vs Roller Derby Leicester</span></li>
+    <li class="p2"><span class="s1">Dolly Rockit Rollers vs Kent Roller Girls</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Bath Roller Derby Girls hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Dorset Roller Girls vs Wiltshire Roller Derby (Womens)</span></li>
+    <li class="p2"><span class="s1">Riot City Ravens vs Oxford Wheels of Gory Roller Derby</span></li>
+    <li class="p2"><span class="s1">Big Bucks High Rollers vs South West Angels of Terror</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Swansea City Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Reaper Roller Derby vs North Devon Roller Derby</span></li>
+    <li class="p2"><span class="s1">Neath Port Talbot Roller Derby vs Wirral Roller Derby</span></li>
+    <li class="p2"><span class="s1">Cornwall Roller Derby vs Riverside Rebels Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Grim Reavers hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Lincolnshire Bombers vs Mansfield Roller Derby</span></li>
+    <li class="p2"><span class="s1">Norfolk Roller Derby vs Nottingham Roller Derby (Women's)</span></li>
+    <li class="p2"><span class="s1">Sheffield Steel Rollergirls vs Norfolk Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Hallam Hellcats Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Mansfield Roller Derby vs York Minxters Roller Derby</span></li>
+    <li class="p2"><span class="s1">Nottingham Roller Derby (Women's) vs Arcadia Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">Halifax Bruising Banditas hosts:
+<ul>
+<li class="p2"><span class="s1">Tender Hooligans vs Leeds Roller Derby</span></li>
+    <li class="p2"><span class="s1">York Minxters Roller Derby vs Cheshire Hellcats Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">Severn Roller Torrent hosts:
+<ul>
+<li class="p2"><span class="s1">Wiltshire Roller Derby (Womens) vs Wolverhampton Honour Rollers</span></li>
+    <li class="p2"><span class="s1">Bath Roller Derby Girls vs Roller Derby Leicester</span></li>
+    <li class="p2"><span class="s1">Swansea City Roller Derby vs London Brawl Saints</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Hertfordshire Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Cambridge Rollerbillies vs Big Bucks High Rollers</span></li>
+    <li class="p2"><span class="s1">Roller Derby Leicester vs Killa Hurtz Roller Girls</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Roller Derby Leicester hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Nottingham Roller Derby (Women's) vs Dolly Rockit Rollers</span></li>
+    <li class="p2"><span class="s1">Milton Keynes Roller Derby vs Wolverhampton Honour Rollers</span></li>
+    <li class="p2"><span class="s1">Tender Hooligans vs London Rockin' Rollers</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Riverside Rebels Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Wirral Roller Derby vs Manchester Roller Derby (Women's)</span></li>
+    <li class="p2"><span class="s1">Furness Firecrackers (Women's) vs Halifax Bruising Banditas</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Bristol Roller Derby (Women's) hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Hereford Roller Girls vs Bath Roller Derby Girls</span></li>
+    <li class="p2"><span class="s1">Wolverhampton Honour Rollers vs Dorset Roller Girls</span></li>
+    <li class="p2"><span class="s1">Neath Port Talbot Roller Derby vs Big Bucks High Rollers</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Dolly Rockit Rollers hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Sheffield Steel Rollergirls vs Nottingham Roller Derby (Women's)</span></li>
+    <li class="p2"><span class="s1">Sheffield Steel Rollergirls vs Rebellion Roller Derby</span></li>
+    <li class="p2"><span class="s1">Royal Windsor Roller Girls vs Manchester Roller Derby (Women's)</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Cornwall Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Plymouth City Roller Derby vs Reaper Roller Derby</span></li>
+    <li class="p2"><span class="s1">Severn Roller Torrent vs Plymouth City Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Surrey Roller Girls hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Royal Windsor Roller Girls vs London Rockin' Rollers</span></li>
+    <li class="p2"><span class="s1">Big Bucks High Rollers vs Kent Roller Girls</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Neath Port Talbot Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Tiger Bay Brawlers vs Swansea City Roller Derby</span></li>
+    <li class="p2"><span class="s1">Severn Roller Torrent vs Reaper Roller Derby</span></li>
+    <li class="p2"><span class="s1">Cheshire Hellcats Roller Derby vs Plymouth City Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Birmingham Blitz Dames hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Wolverhampton Honour Rollers vs Hereford Roller Girls</span></li>
+    <li class="p2"><span class="s1">Vendetta Vixens vs Severn Roller Torrent</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Norfolk Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Killa Hurtz Roller Girls vs Suffolk Roller Derby (Women's)</span></li>
+    <li class="p2"><span class="s1">Lincolnshire Bombers vs Killa Hurtz Roller Girls</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Vendetta Vixens hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Rebellion Roller Derby vs Dolly Rockit Rollers</span></li>
+    <li class="p2"><span class="s1">Oxford Wheels of Gory Roller Derby vs Lincolnshire Bombers</span></li>
+    <li class="p2"><span class="s1">London Brawl Saints vs Leeds Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Lincolnshire Bombers hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Mansfield Roller Derby vs Grim Reavers</span></li>
+    <li class="p2"><span class="s1">York Minxters Roller Derby vs Grim Reavers</span></li>
+    <li class="p2"><span class="s1">Suffolk Roller Derby (Women's) vs Halifax Bruising Banditas</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Arcadia Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Halifax Bruising Banditas vs Preston Roller Girls</span></li>
+    <li class="p2"><span class="s1">Wakey Wheeled Cats vs Furness Firecrackers (Women's)</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Wakey Wheeled Cats hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Halifax Bruising Banditas vs Spa Town Roller Derby</span></li>
+    <li class="p2"><span class="s1">Middlesbrough Roller Derby vs Birmingham Blitz Dames</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Granite City Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">All Star Reserves vs Whippin' Hinnies</span></li>
+    <li class="p2"><span class="s1">All Star Reserves vs Durham City Rolling Angels</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Whippin' Hinnies hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Durham Roller Derby vs York Minxters Roller Derby</span></li>
+    <li class="p2"><span class="s1">Durham Roller Derby vs Cheshire Hellcats Roller Derby</span></li>
+    <li class="p2"><span class="s1">Granite City Roller Derby vs All Star Reserves</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">London Rockin' Rollers hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Cambridge Rollerbillies vs Royal Windsor Roller Girls</span></li>
+    <li class="p2"><span class="s1">Kent Roller Girls vs Rebellion Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">North Cheshire Victory Rollers hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Manchester Roller Derby (Women's) vs Liverpool Roller Birds</span></li>
+    <li class="p2"><span class="s1">Riverside Rebels Roller Derby vs Hallam Hellcats Roller Derby</span></li>
+    <li class="p2"><span class="s1">Middlesbrough Roller Derby vs Tiger Bay Brawlers</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Spa Town Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Halifax Bruising Banditas vs Wakey Wheeled Cats</span></li>
+    <li class="p2"><span class="s1">North Cheshire Victory Rollers vs Durham Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Reaper Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">South West Angels of Terror vs Neath Port Talbot Roller Derby</span></li>
+    <li class="p2"><span class="s1">Hereford Roller Girls vs North Devon Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Durham Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Durham City Rolling Angels vs Arcadia Roller Derby</span></li>
+    <li class="p2"><span class="s1">Liverpool Roller Birds vs Whippin' Hinnies</span></li>
+    <li class="p2"><span class="s1">Hallam Hellcats Roller Derby vs Granite City Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">North Devon Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">South West Angels of Terror vs Swansea City Roller Derby</span></li>
+    <li class="p2"><span class="s1">Neath Port Talbot Roller Derby vs Cornwall Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Manchester Roller Derby (Women's) hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Arcadia Roller Derby vs Hallam Hellcats Roller Derby</span></li>
+    <li class="p2"><span class="s1">Mansfield Roller Derby vs Cheshire Hellcats Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Liverpool Roller Birds hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Preston Roller Girls vs Furness Firecrackers (Women's)</span></li>
+    <li class="p2"><span class="s1">Furness Firecrackers (Women's) vs Spa Town Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Oxford Wheels of Gory Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Wiltshire Roller Derby (Womens) vs Milton Keynes Roller Derby</span></li>
+    <li class="p2"><span class="s1">Milton Keynes Roller Derby vs Dorset Roller Girls</span></li>
+    <li class="p2"><span class="s1">London Brawl Saints vs Bristol Roller Derby (Women's)</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Big Bucks High Rollers hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Surrey Roller Girls vs Milton Keynes Roller Derby</span></li>
+    <li class="p2"><span class="s1">Roller Derby Leicester vs Surrey Roller Girls</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Tender Hooligans hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Preston Roller Girls vs Wakey Wheeled Cats</span></li>
+    <li class="p2"><span class="s1">Riverside Rebels Roller Derby vs Durham City Rolling Angels</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Kent Roller Girls hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Killa Hurtz Roller Girls vs Surrey Roller Girls</span></li>
+    <li class="p2"><span class="s1">Surrey Roller Girls vs Suffolk Roller Derby (Women's)</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Wiltshire Roller Derby (Womens) hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Severn Roller Torrent vs Oxford Wheels of Gory Roller Derby</span></li>
+    <li class="p2"><span class="s1">Bristol Roller Derby (Women's) vs Royal Windsor Roller Girls</span></li>
+    <li class="p2"><span class="s1">London Rockin' Rollers vs South West Angels of Terror</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Milton Keynes Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Oxford Wheels of Gory Roller Derby vs Vendetta Vixens</span></li>
+    <li class="p2"><span class="s1">Birmingham Blitz Dames vs London Brawl Saints</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">All Star Reserves hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Durham City Rolling Angels vs Granite City Roller Derby</span></li>
+    <li class="p2"><span class="s1">Arcadia Roller Derby vs Granite City Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">South West Angels of Terror hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Plymouth City Roller Derby vs Riot City Ravens</span></li>
+    <li class="p2"><span class="s1">North Devon Roller Derby vs Bath Roller Derby Girls</span></li>
+    <li class="p2"><span class="s1">Cornwall Roller Derby vs Wiltshire Roller Derby (Womens)</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Killa Hurtz Roller Girls hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Kent Roller Girls vs Hertfordshire Roller Derby</span></li>
+    <li class="p2"><span class="s1">Hertfordshire Roller Derby vs Norfolk Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">Durham City Rolling Angels hosts:
+<ul>
+<li class="p2"><span class="s1">Leeds Roller Derby vs Middlesbrough Roller Derby</span></li>
+    <li class="p2"><span class="s1">Whippin' Hinnies vs Manchester Roller Derby (Women's)</span></li>
+    <li class="p2"><span class="s1">Granite City Roller Derby vs Sheffield Steel Rollergirls</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Furness Firecrackers (Women's) hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Liverpool Roller Birds vs Wirral Roller Derby</span></li>
+    <li class="p2"><span class="s1">All Star Reserves vs Liverpool Roller Birds</span></li>
+    <li class="p2"><span class="s1">Wirral Roller Derby vs All Star Reserves</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Plymouth City Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">North Devon Roller Derby vs Cornwall Roller Derby</span></li>
+    <li class="p2"><span class="s1">Cornwall Roller Derby vs Dorset Roller Girls</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Wirral Roller Derby hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Arcadia Roller Derby vs Riverside Rebels Roller Derby</span></li>
+    <li class="p2"><span class="s1">Preston Roller Girls vs Hereford Roller Girls</span></li>
+    <li class="p2"><span class="s1">North Devon Roller Derby vs Furness Firecrackers (Women's)</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Preston Roller Girls-hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Liverpool Roller Birds vs Tender Hooligans</span></li>
+    <li class="p2"><span class="s1">Whippin' Hinnies vs Wirral Roller Derby</span></li>
+</ul>
+</li>
+    <li>Suffolk Roller Derby (Women's) hosts:
+<ul>
+<li class="p2"><span class="s1">Norfolk Roller Derby vs Kent Roller Girls</span></li>
+    <li class="p2"><span class="s1">Rebellion Roller Derby vs Norfolk Roller Derby</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Dorset Roller Girls hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Tiger Bay Brawlers vs Bristol Roller Derby (Women's)</span></li>
+    <li class="p2"><span class="s1">Bath Roller Derby Girls vs Surrey Roller Girls</span></li>
+    <li class="p2"><span class="s1">Royal Windsor Roller Girls vs South West Angels of Terror</span></li>
+</ul>
+</li>
+    <li class="p2">
+<span class="s1">Hereford Roller Girls hosts:</span>
+<ul>
+<li class="p2"><span class="s1">Riot City Ravens vs Severn Roller Torrent</span></li>
+    <li class="p2"><span class="s1">Riot City Ravens vs North Cheshire Victory Rollers</span></li>
+    <li class="p2"><span class="s1">Dolly Rockit Rollers vs Neath Port Talbot Roller Derby</span></li>
+</ul>
+</li>
+</ul>
+</div>
+    
+        <ul class="pager hidden-print">
+<li class="previous">
+                <a href="../../19/non-uscanadian-derby-roundup-23rd-25th-june-edition/" rel="prev" title="Non-US/Canadian Derby Roundup: 23rd-25th June Edition">Previous post</a>
+            </li>
+            <li class="next">
+                <a href="../../27/non-uscanadian-derby-roundup-1st2nd-july-edition/" rel="next" title="Non-US/Canadian Derby Roundup: 1st/2nd July Edition">Next post</a>
+            </li>
+        </ul>
+</div>
+
+        </div>
+        <div id="sidebar">
+            <!--Sidebar content-->
+            <h1 id="blog-title">
+                <a href="https://scottishrollerderbyblog.com/" title="Scottish Roller Derby Blog">Scottish Roller Derby Blog</a>
+            </h1>
+            
+            
+            <ul class="unstyled">
+<li>
+ <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+ <img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
+</li>
+            
+                <li>
+<a href="../../../../../archive.html">Archive</a>
+                </li>
+<li>
+<a href="../../../../../categories/">Tags</a>
+                </li>
+<li>
+<a href="../../../../../rss.xml">RSS feed</a>
+
+            </li>
+<li>
+            
+            
+            </ul>
+</div>
+        <div id="footer">
+            Contents © 2019         <a href="mailto:scottishrollerderby@gmail.com">SRD</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+ <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+ <img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
+            
+        </div>
+    </div>
+    
+            <script src="../../../../../assets/js/all-nocdn.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

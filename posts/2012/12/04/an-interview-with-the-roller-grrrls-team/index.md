@@ -1,0 +1,67 @@
+<html><body><p>Perhaps one sign that you've arrived as a sport is having works of fiction made about you. If that's the case, then Roller Derby has certainly made it, through the forthcoming <a href="http://www.rollergrrrls.com/">Roller Grrrls</a> comic series, which has had much support and publicity over the past year.
+
+After the official launch of the Roller Grrrls Sketchbook at <a href="http://glasgowrollerderby.com/">Glasgow Roller Derby</a>'s Chaos on the Clyde tournament, Gary Erskine, Anna Malady and the rest of the team have had a very busy few months with promotion and touring the various comics events around the world. We caught up with them via email to talk about the project, derby, and comics in general...
+
+<a href="http://scottishrollerderbyblog.com/2012/12/04/an-interview-with-the-roller-grrrls-team/roller-grrrls_banner_reference/" rel="attachment wp-att-1948"><img class="size-medium wp-image-1948" alt="The Roller Grrrls Sketchbook: Available now!" src="http://scottishrollerderbyblog.com/2012/12/roller-grrrls_banner_reference.jpg?w=161" height="300" width="161"></a> The Roller Grrrls Sketchbook: Available now!
+
+<strong>Gary, you've been doing line-art for comics for about 24 years now; since your start in Marvel + 2000AD, there's quite a lot of the "traditional" SF + superhero work in your back catalogue, but also less conventional work. Do you have a preference for a particular genre, and how do you (and the others) feel about the popular pigeon-holing of comics as “SF+capes”?</strong>
+
+[Gary Erskine]I love comics as a medium. The genres I work with are just that, and I like working with them all. Each one gives me a new challenge.
+Future sci-fi nonsense allows a completely free canvas to design a new world environment and the characters within that (the Irons:Hybrids work for Madefire has a Blade Runner vibe about it) Working on Roller Grrrls offers new challenges, as a contemporary story requires a similar attention to detail since EVERYONE will recognise the settings and people within the story. Another new project I am working on with my former studio colleague Dominic Regan is a horror/western. That also requires an approach and attention to detail to ensure that the setting helps the story.
+
+<strong>How did the three of you get into Roller Derby? Obviously, you know Glasgow Roller Derby well, but what was your first encounter?</strong>
+
+[Anna Malady] I remember seeing reports of Roller Derby in Glasgow from 4 years ago. Unfortunately it took another 2 years for either Gary or I to get to a live Bout. This was courtesy of some friends (Turbulinz and Bruisedog) who posted a Bout poster up on Facebook. I remember being confused for the majority of the time, but still coming away hoarse from shouting. It was exhilarating and just fantastic!
+Gary joined me at the afterparty that night and we were hooked by not just the sport but the community spirit, the personalities, individuality, and colour. The whole atmosphere and pure community spirit of the sport gets into your blood and lifts you to believe in yourself. That may come across a bit new age, but for us, and many people we talk to its fact, so I don’t apologise for sounding like a hippy!
+
+Gary and I then asked Yel to colour our project as Gary had worked with her in the past and we’re both massively impressed with her work. She is a talented colourist who has worked on quite a few projects with Gary including The Irons:Hybrids motion comic published by Madefire. Her colourist credits of note include The Only Good Dalek (BBC books, 2010), Need for Speed; The Run (EA Games/Firebrand, 2011) and she is currently working on the ongoing graphic novel series Hero; 9-5 for Markosia. You can see more of her work at <a href="http://yelzamor.carbonmade.com/projects/">http://yelzamor.carbonmade.com/projects/</a>
+
+[Gary] We were both fans of the sport following it online but were never able to attend a bout due to travelling and convention commitments. Our first bout proved an exhilarating experience and encouraged/convinced both Anna and I that a comic book series about the sport and characters within that would be a similarly exciting project to work on.
+
+<strong>Anna, how did you get into the comic book scene?</strong>
+
+[Anna] My first introduction to the whole world of comics was exiting a lift into the lobby of a convention hotel and seeing 4 stormtroopers explaining to 2 firemen how the imperial guard were stuck in the next lift and they needed out to do their guest appearance. The next morning Star Fox (in full costume) was complaining to the bewildered front desk staff that there was no hot water in her room and that afternoon there was a showdown between a squad of Stormtoopers and a bronze Dalek. I mean, how could you not love this scene?!
+
+<a href="http://scottishrollerderbyblog.com/2012/12/04/an-interview-with-the-roller-grrrls-team/rollergrrlssplace/" rel="attachment wp-att-1949"><img class="size-medium wp-image-1949" alt="Probably the most popularly distributed preview from Roller Grrrls." src="http://scottishrollerderbyblog.com/2012/12/rollergrrlssplace.jpg?w=193" height="300" width="193"></a> Probably the most popularly distributed preview from Roller Grrrls.
+
+<strong>There are some obvious life models for some of the Roller Grrrls character studies (especially for anyone who knows Glasgow Roller Derby's skaters and announcers), but the majority have no single origin. Roughly, how much of real personalities went into the comic as a whole (as opposed to the other influences, such as Helles Belles)?</strong>
+
+[Anna] Many of the characters are collages of real people. A body build from here, a tattoo from there, a hair style or colour from someone else. A couple of characters are drawn from real people, close friends who got us into Roller Derby in the first place. They know who they are. Being close friends they also know that it’s their image we are borrowing, not their characters or lives.
+
+Important to emphasise is that none of the character traits, personalities or story arcs are from real life. HOWEVER, we’ve been amazed how often we find that fiction has unwittingly reflected someone’s reality. We were seriously worried about it for a while. It seemed that, as we got to know the girls from the awesome Glasgow Roller Derby, and got round to discussing our project with them (often, although not always, after a few drinks at the afterparties) that someone in the team had been through the experiences we were writing about. Then as we got to know the UK Derby community we found out that quite a few girls had experienced a rough journey to get where they are and realised that these are people who
+1) aren’t afraid to live a full life, and
+2) are in general happy to talk about it and share their experience, especially if by doing so they can help others living through the same challenges.
+We realised that of course we were going to come across people with experience of what we’d written. So we stopped worrying.
+
+But finally I would like to re-emphasise that the Roller Grrrls are totally fictitious and the situations they find themselves in, and their reactions, are totally made up!
+
+[Gary] See above!
+
+<strong>As roller derby can be a very fast paced game, I guess you do most of your reference work against photography, but some of the panels are from perspectives you can’t have had a reference for (the big “downed skater” view, for example). Can you guys talk a little about the process of constructing a page, and if there are particular challenges for sporting/action vs more sedentary scenes.</strong>
+
+[Gary] There are certain considerations regarding the representation of any fast sport in an illustrated format. With some experience of storyboarding and animatics for game trailers there are visual tricks available to help keep the frantic and exciting energy of roller derby in a static/frozen image. Drawing the characters in layers with a separate background allows me to put on a motion blur for each parallax layer to help show the speed of the foreground figures and the blurring of other team members (and the crowd) in the background.
+It is a similar effect to the slow shutter speed on a camera. Forced perspectives and POV shots also help give an immediacy to the action and provide new shots for the bout action. I also particularly want to show shots from 'in pack’ which would be near impossible to do in a real life bout. The comic format allows new opportunities to show some exciting possibilities of how the sport can be seen (in an illustrated format).
+
+Another trick we are toying with is to use motion effects and transitions (testing with Powerpoint initially) to create actual movement and subtle animation for a possible Roller Grrrls trailer. If successful then we may well have a digital release with bout action that moves on the page/screen. Watch this space! ;)
+
+<strong>I assume this is the first "wholly self-supported" comic project the three of you have worked on? How's the experience of the indie comic project compare to previous work?</strong>
+
+[Gary]My own previous experience in the industry has always been on the creative side, so this new publishing (and distribution) venture has been both exciting and scary for both of us and fairly new territory.
+Having said that we have had a lot of very good (and much appreciated) advice from Jessica Ali of <a href="http://www.insidelinemagazine.co.uk/">Inside Line</a> and Vic Croughan of <a href="http://www.leadjammermag.com/">Lead Jammer</a> magazines. They have been especially helpful and generous with us and we really couldn't have got to this stage as quickly or comfortably without their help. Jessica was kind enough to recommend the printer to us (possibly the single most important decision for us!) and we can't thank her enough and Vic was offering indispensable advice for InDesign. Without those two key points we would not have our Roller Grrrls Sketchbook printed.
+
+<strong>It's easy to compare Roller Grrrls with other "slice of life" comics, like the Hernandez' <a href="http://en.wikipedia.org/wiki/Love_and_Rockets_(comics)">Love and Rockets</a> (or even <a href="http://www.strangersinparadise.com/">Strangers in Paradise</a>, before it got all Gritty). Do you think this is a valid comparison? - I notice that both came from an initially SF setting (albeit pre-design in RG's case) which went away as the concept solidified.</strong>
+
+[Gary]Roller Grrrls is very definitely inspired by Love and Rockets first and Strangers in Paradise also serves as an influence. There is little else out there that we would consider similar to what we are wanting to do (although some super hero team books do also have 'slice of life' storylines in between the predictable battles and villians) The Helles Belles project was something we wanted to work on a few years ago when we were living in Germany and was an all-female sci-fi adventure that unfortunately turned into Firefly (which we had never seen) The similarities were obvious and added to the work involved to design a new world environment kind of killed the project for us. We both still felt that female teams and characters were desperately under-valued and presented in mainstream books or worse still, shown in over-sexualised forms. I then considered a Rollerball reboot for Rebellion with the girls replacing Jonathan and the Houston team but the initial response from a couple of writers I approached was lukewarm and it stalled again. A casual chat with Mhairi one night about what needed to change with the ensemble story coincided with that fateful invitation to the GRD bout.
+
+Why not write the story in a contemporary setting instead and the ideas and references (Love and Rockets/Strangers in Paradise) literally flowed out over dinner. I quickly decided on the name Roller Grrrls as I liked the association with the Riot Grrrls movement and the rest as they say is history.
+
+<strong>Reading the little “pocket bio” strips you did to introduce the characters, each of them has a fairly distinctive “trait” - from the cultural barriers of the Hindu student roller girls, and the clear drama of the pregnant “ex” derby girl with the difficult home life through to contrasts between “tame” librarianship and active derby playing. With a large ensemble cast, each with a potentially complex personal plotline, how are you planning on balancing the comic? Are we going to see character-specific issues, or something more interwoven?</strong>
+
+[Anna]Just as real life is a tangle of relationships and stories this is what we want to do with RG. Obviously it will have to be oversimplified and the time frames will be shortened. There is also an obvious balance to be struck between putting too much into a single issue and not enough.
+We obviously think we’ve struck that balance, I guess we’ll really find out when we start to get feedback from the fans.
+
+[Gary] Redacted! ;)
+
+-
+
+The Roller Grrrls Sketchbook is available to buy now, with the Roller Grrrls comic proper due sometime next year. All images in this post are, of course, copyright Roller Grrls</p></body></html>

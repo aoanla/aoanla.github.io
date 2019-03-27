@@ -1,0 +1,68 @@
+<html><body><p>It would be remiss of us to run a series on Tournaments which deserve more attention without covering Scotland's own example of this.
+
+Whilst there have been many tournaments run in Scotland, there have been relatively fewer "Men's Derby" focussed events. Given the lack of MRDA member leagues in Scotland until almost a year ago, when Granite City Brawlers were accepted, it was also impossible for there to have been any "officially" sanctioned tournaments at all.
+
+Now, though, with two MRDA member teams (Glasgow Men's Roller Derby having quietly unofficially joined a few months ago, in June, although only officially announced by MRDA this week), the time is right for an international Men's Roller Derby tournament, and where better than the home of the first MRDA members in the country, Aberdeen.
+
+The Silver City Cup - named for the poetic description of Aberdeen as the "Silver City, with the Golden Sands", possibly dating to an early guide to the city* - will host 6 teams from across Europe, in a group+placement format.
+
+When we reported on the Men's European Cup, we noted that several of the teams involved were also facing each other in other MRDA sanctioned events this year. Conversely, the Silver City Cup seems to have attracted all the teams who aren't appearing as much elsewhere... so this is a great opportunity to see some matchups you can't get elsewhere.
+
+<img class="alignnone size-full wp-image-27437" src="/2018/09/silvercity_map_out.png" alt="Silvercity_map_out" width="1332" height="1436">
+
+England: Super Smash Brollers (Nottingham), Crash Test Brummies (Birmingham)
+Finland: Tampere Rollin' Bros (Tampere)
+France: Kamiquadz (Montpellier)
+Scotland: Granite City Brawlers (Aberdeen)
+Wales: South Wales Silures (Cardiff)
+</p><h3>Structure</h3>
+<table>
+<tbody>
+<tr>
+<td style="text-align:center;">GROUP 1</td>
+<td style="text-align:center;">GROUP 2</td>
+</tr>
+<tr>
+<td style="text-align:center;">Granite City Brawlers [661]{2.94}</td>
+<td style="text-align:center;">Crash Test Brummies [618]{2.92}</td>
+</tr>
+<tr>
+<td style="text-align:center;">South Wales Silures [706]{3.24}</td>
+<td style="text-align:center;">KamiQuads [737]{3.8}</td>
+</tr>
+<tr>
+<td style="text-align:center;">Tampere Rollin' Bros [777]{2.9}</td>
+<td style="text-align:center;">Super Smash Brollers [612]{2.5}</td>
+</tr>
+<tr>
+<td style="text-align:center;" colspan="2">[FTS MRDA rating**]{SRDRank May 2018 rating}</td>
+</tr>
+</tbody>
+</table>
+Within each group of 3, the teams will play round-robin (3 games per group), to produce a final group-ranking.
+The 1st place winners in each group will play each other for Tournament 1st Place, whilst the 2nd places in each group will play for overall Tournament 3rd, and the bottom teams in each group will play for Tournament 5th.
+
+Looking at Flat Track Stats' "MRDA" ratings (which are derived only from MRDA sanctioned games played by teams), there's a pretty wide spread in predicted strength across the groups - second-highest-rated contenders, DCCLM's Kamiquadz are expected to beat lowest-rated contenders, Super Smash Brollers, by around a three-to-one points ratio! Ironically, the hosts have given themselves the harder of the two groups, based on prediction: they will be playing FTS' 1st and 3rd ranked teams of the tournament, as FTS' 4th ranked team themselves. In order to achieve their "rightful" position, they'd need to defeat the fearsome SWS in their group, before taking on the 2nd place team from Group 2.
+
+Looking at pure history, rather than ratings, the Kamiquadz are really the wildcards here. Most of their past bouts on record are, understandably, given the geography, against French men's teams, or teams from nearby Barcelona in Spain. As far as we can tell from their FTS record, the Kamiquadz have never played outside of mainland Europe before, so this will be a big change for them - the weather in Aberdeen will be a bit of a change to Montpellier! On the basis of their performances in France, however, we have no hesitation in considering them the favourites to take the 1st place in this tournament overall.
+
+Only slightly less of an historical wildcard for the other teams, Tampere Rollin Bros actually did play the Kamiquadz - way back in 2015 - but also have a more extensive set of travel experiences under their belts (being based in Finland forces that upon you, to some extent). In recent years, Tampere's bouts have not been MRDA-sanctioned (according to FTS), and so have not factored into their estimated strength*** - we'd actually say Tampere are somewhat overranked at present, going by their performance in their last tournament in 2017. [On the other hand, that tournament was in Barcelona, one of the most distant places Tampere have played, so it almost certainly represents a lowest bound on their expected strength at the time.]
+The SRDRank ratings, which do include those games from 2017, tend to agree, placing Tampere in the same "closely-competitive" group as the rest of the field excluding KamiQuads and SWS.
+
+Of the UK based teams, Wales's South Wales Silures have had the strongest, year to date, although far from the busiest. Despite losing 2 of their three games in May (to Manneken Beasts, and, by 2 points only!, Gothenburg Salty Seamen), their incredibly strong first game performance against the Crash Test Brummies has kept their overall performance estimate high.
+
+The aforementioned Brummies have, along with Nottingham's Super Smash Brollers, been extremely busy this year - with fixtures in British Champs MRDA-side (Tier 1 for the Brummies, and 2 for the Brollers) at the start of the year, and MRDA Qualifiers for the Super Smash Brollers as well. Fittingly, perhaps, the most recent bout for the two teams to date is against each other, a narrowish win for the higher-rated Brummies (162 to 199). The two teams will get to repeat that match-up again in their Group 2 bouts, almost certainly deciding which plays for 3rd and which for 5th overall in the tournament.
+
+Finally, the hosts, Granite City Brawlers, have been stepping on the gas in terms of bout scheduling since getting MRDA membership - meeting the activity requirements to be ranked in the official rankings is a strong incentive for all members of official governing bodies. They, also, have played one of the other contenders most recently: a repeat matchup with the Super Smash Brollers resulting in a second win in a row for the Aberdeen team. FTS's MRDA rating for them, based on their past 4 games, is still trending upward, but it's not clear if it is "really" above the 700-odd mark needed to beat the Silures in their group - however, if Tampere really is as overranked as we think, the Brawlers may only need to be slightly stronger than they're currently rated to be to take their groups' 2nd place spot, and play for a likely 3rd overall.
+
+<hr>
+
+The Silver City Cup will be held at <a href="https://goo.gl/maps/3fr8ugyweUs"><strong>The Beach Leisure Centre, Aberdeen</strong>; <strong>22-23 September</strong></a>.
+Event page: <a href="https://www.facebook.com/events/616684768693015/"><strong>https://www.facebook.com/events/616684768693015/</strong></a>
+Tickets are available from Brown Paper Tickets: <strong><a href="https://www.brownpapertickets.com/event/3446103https://www.brownpapertickets.com/event/3446103">https://www.brownpapertickets.com/event/3446103</a></strong>
+
+<hr>
+
+*The "Silver" here is generally considered a reference to the "silver darlings", the herring which formed the basis of Aberdeen's historic fishing industry.
+**Flat Track Stats' MRDA Rating as of <span class="lighter smaller notbold">9/4/18 [<a href="http://flattrackstats.com/rankings/mrda/"><strong>http://flattrackstats.com/rankings/mrda/</strong></a>]
+***Only <em>two</em> of Tampere Rollin Bros' bouts are listed as MRDA Sanctioned, both in 2016, and those are the only source for FTS's MRDA rating for them.</span></body></html>

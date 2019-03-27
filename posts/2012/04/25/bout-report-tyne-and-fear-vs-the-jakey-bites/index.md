@@ -1,0 +1,94 @@
+<html><body><p style="text-align:justify;">This is a first on the Scottish Roller Derby Blog... Men's Roller Derby! <a title="The Jakey Bites Facebook Page" href="https://www.facebook.com/pages/The-Jakey-Bites-Scottish-Mens-Roller-Derby/190825187685857" target="_blank">The Jakey Bites</a>, Scotland's first export of "merby" or "broller derby" (my personal favourite!), travelled south of the border on Saturday 21st April to take on Newcastle's <a title="Tyne and Fear Website" href="http://www.tyneandfear.co.uk/" target="_blank">Tyne and Fear</a>.</p>
+<p style="text-align:justify;">The Jakey Bites hail from all over Scotland and are a mixture of Roller Derby Referees and enthusiastic new skaters. After just a few short months of training together, The Jakey's put on a valiant display of grit and determination when up against Tyne and Fear. The home team were keen to continue their winning streak by notching up their fourth consecutive triumph in their first bout played at home.</p>
+<p style="text-align:justify;">The support for The Jakey Bites was unbelievable. Despite playing away from home, it was noted by the announcers that the Scottish crowd were louder than the Newcastle supporters! With fans holding up hand-made posters for their favourite players, and shouting encouragement to their team throughout, the whole experience was incredible!</p>
+<p style="text-align:justify;">Well that's enough of the soppy stuff, so now on to the action!</p>
+
+
+<a href="https://www.facebook.com/photo.php?fbid=299161900159162&amp;set=a.299146920160660.68858.128154623926558&amp;type=3&amp;theater" target="_blank"><img class="size-full wp-image-1184  " title="Tyne and Fear vs. The Jakey Bites" src="http://scottishrollerderbyblog.com/2012/04/group.jpg" alt="Tyne and Fear vs. The Jakey Bites" width="614" height="342"></a>
+
+<strong>Tyne and Fear:</strong>
+<ul>
+	<li>#82 Captain: Man shaped Dog</li>
+	<li>#26 Alternate: Chemic-Al</li>
+	<li>#4J Reanimated.GIF</li>
+	<li>#5 Da Little Waster</li>
+	<li>#22 Rubba Duk</li>
+	<li>#v1 Dark Matter</li>
+	<li>#14pt Markoleptic</li>
+	<li>#8 Porky</li>
+	<li>#511 Gay Fawkes</li>
+	<li>#1701 Jams T. Kirk</li>
+	<li>#80 Adsinthe</li>
+	<li>#2x4 Man From Del Munky</li>
+	<li>#13 Pablo Diablo</li>
+	<li>#64 Sixty Quad Bit</li>
+</ul>
+<strong>The Jakey Bites:</strong>
+<ul>
+	<li>#IQ0 Captain: Genuine Miller Draft</li>
+	<li>#8 Alternate: Skol-Krushr</li>
+	<li>#Red5 X-Kaliber</li>
+	<li>#19 Judder Jam</li>
+	<li>#6 Bruise Dog</li>
+	<li>#N7 Crash Effect</li>
+	<li>#4 Brutally Frank</li>
+	<li>#9 Diamond Fight</li>
+	<li>#57 Absolute Bar Steward</li>
+	<li>#18 Tequila Jammer</li>
+	<li>#11 Fool Throttle</li>
+	<li>#39 Duff McKegger</li>
+	<li>#2 Danny Desperado</li>
+</ul>
+<p style="text-align:center;"><strong>Period 1</strong></p>
+<p style="text-align:justify;">The first jam went off to a flying start, with Captain Genuine Miller Daft from The Jakey Bites lining up with Tyne and Fear's Da Little Waster. Tyne and Fear chose to play the tactical, and now popular, Jammer-Line start to set both jammers off quickly and get the action underway - a move that would be repeated throughout.</p>
+<p style="text-align:justify;">In the opening minutes of the game, one of Tyne and Fear's most dangerous weapons was quickly revealed: Dark Matter. In the second Jam, he flew around the track clocking up a 30-point jam, but not without being challenged by The Jakey's Skol-Krushr first. An ill-timed block from the Pivot-cum-Jammer, after a star pass from Tequila Jammer, saw Krushr taking a trip to the Sin Bin for a back block major penalty.</p>
+
+
+<a href="https://www.facebook.com/photo.php?fbid=299154420159910&amp;set=a.299146920160660.68858.128154623926558&amp;type=3&amp;theater" target="_blank"><img class="size-full wp-image-1190 " title="Dark Matter takes on The Jakey Bites" src="http://scottishrollerderbyblog.com/2012/04/diamond.jpg" alt="Dark Matter takes on The Jakey Bites" width="614" height="303"></a>
+<p style="text-align:justify;">Not to be disheartened, The Jakey's very quickly appeared to let go of their first bout nerves, with some excellent defensive walls displayed by Diamond Fight, Fool Throttle and Crash Effect. Duff McKeggar and Absolute Bar Steward took on the offensive role, and were breaking down the Tyne and Fear walls to help their Jammer through the pack to score some points.</p>
+<p style="text-align:justify;">After being on the receiving end of powerful hits from Reanimated.GIF, Porky and Rubba Duk, The Jakey's got a chance to retaliate in Jam 5. Bruise Dog returned to the track from the sin bin, shortly followed by the opposing Jammer, Man Shaped Dog, being sent off for a major penalty. With strong offensive action from X-Kaliber, Bruise Dog took full advantage of the Power Jam and clocked up The Jakey's first points of the game.</p>
+<p style="text-align:center;"><em>Jam 5: Tyne and Fear 80 - The Jakey Bites 10</em></p>
+<p style="text-align:justify;">The Jams that followed showed just why Tyne and Fear are holding on to their winning streak. Despite impressive 3 and 4-walls from The Jakey's Blockers, and aggressive jamming from Duff McKeggar, The Jakey's struggled to keep the opposing Jammer back to protect the points difference. Whenever a Jakey wall was looking to be particularly effective, the Tyne and Fear Blockers quickly changed their strategy to break the walls and clear a path through for their own teammate.</p>
+<p style="text-align:justify;">Much to the delight of Scottish announcer, Helliverance, quite a lot of major penalties were committed by both sides, often resulting in power jams. When this happened, the "sausage" tactic was played well by the advantaged team, and it was in this very situation that The Jakey's earned their first Lead Jammer status. Genuine Miller Daft started Jam 12 on a lonely Jammer line, but with help from Danny Desperado making holes in the pack, Miller made his way through opposing Blockers Porky and Man Shaped Dog, picking up more points for his team. After a team time-out followed by an official time-out, the visitor's scores were adjusted to award them 2 extra points.</p>
+<p style="text-align:center;"><em>Jam 12: Tyne and Fear 176- The Jakey Bites 21</em></p>
+<p style="text-align:justify;">Skol-Krushr from The Jakey Bites was unfortunately finding himself on the receiving end of some pretty big hits, and despite a nervous moment when he removed himself from the track with an injury, he returned unfazed as Pivot in Jam 14. Krushr's quick-thinking was put to the test when The Jakey's Jammer was sent to the sin bin, but was released early when Tyne and Fear's Jammer, Da Little Waster, was also issued a major penalty. Back on track, Genuine Miller Daft saw his chance and grabbed it with both hands, earning his team 3 more points.</p>
+<p style="text-align:justify;">With a strong power jam in their favour, The Jakey Bites fielded Fool Throttle as Jammer in Jam 15. Teammates Judder Jam and Absolute Bar Steward were determined to make the most of this advantage, and were giving it all they had to make holes in the pack to help Fool Throttle gain Lead Jammer. This was an extremely intense jam as the Tyne and Fear Jammer briefly returned to track, but was then almost instantly sent back to the bin. The whole time, Fool Throttle seemed to have gotten a good measure of the pack, and was making light work of Tyne and Fear's defensive walls. When the opposing Jammer again returned to track, Fool Throttle ended the jam just in time, to the chorus of the whole Jakey following shouting, "Call it off"!</p>
+<p style="text-align:center;"><em>Jam 15: Tyne and Fear 218 - The Jakey Bites 39</em></p>
+
+
+<a href="https://www.facebook.com/photo.php?fbid=299157513492934&amp;set=a.299146920160660.68858.128154623926558&amp;type=3&amp;theater" target="_blank"><img class="size-full wp-image-1205 " title="Fool Throttle powers through the pack" src="http://scottishrollerderbyblog.com/2012/04/fool1.jpg" alt="Fool Throttle powers through the pack" width="614" height="407"></a>
+<p style="text-align:justify;">With two Jams remaining before half-time, a tactical call-off by Lead Jammer Sixty Quad Bit with two of his Blockers in the bin, stopped The Jakey's in their tracks after only scoring 1 point. In the final Jam of the first period, TAF's Jammer, Adsinthe, increased the points difference, but kept an eye on the opposing Jammer the whole time and called off the jam - but not before Skol-Krushr collected an extra point.</p>
+<p style="text-align:center;"><em>Half time score: <em>Tyne and Fear </em>237 - <em>The Jakey Bites </em>41</em></p>
+<p style="text-align:center;"><strong>Period 2</strong></p>
+<p style="text-align:justify;">Although starting Period 1 apprehensive, The Jakey Bites gathered more confidence as the bout progressed, put their strategies into play, and gave out as good as they got! This attitude carried into Period 2, with X-Kaliber claiming the coveted Lead Jammer status in the first returning jam while Brutally Frank kept TAF's Jammer, Man Shaped Dog. The excitement was short-lived as X-Kaliber was sent to the bin, but Frank, Danny Desperado, Bruise Dog and pivot Genuine Miller Daft created a solid 4-wall in the power jam in an attempt to control the points difference. Just as X-Kaliber returned to track, the jam was called off with The Jakey's scoring just 3 points to TAF's 30.</p>
+
+
+<a href="https://www.facebook.com/photo.php?fbid=299153133493372&amp;set=a.299146920160660.68858.128154623926558&amp;type=3&amp;theater" target="_blank"><img class="size-full wp-image-1187  " title="Duff McKeggar takes on Man Shaped Dog" src="http://scottishrollerderbyblog.com/2012/04/duff.jpg" alt="Duff McKeggar takes on Man Shaped Dog" width="614" height="407"></a>
+<p style="text-align:justify;">Jammers Skol-Krushr and Da Little Waster started off strong in Jam 19, with Tequila Jammer, Judder Jam and Diamond Fight forming a strong defensive wall to hold the TAF Jammer on his first pass. Tyne and Fear quickly found themselves with the advantage of a power jam as Krushr was sent off for an elbows major, followed by blocker Absolute Bar Steward for an illegal clockwise block. TAF's pack advantage was quickly lost as Da Little Waster was sent off for a back block major but then was whistled again for insubordination after failing to leave the track quick enough. With a 2-minute penalty now issued, Referee, The Enforcer, really lived up to his name!</p>
+<p style="text-align:center;"><em>Jam 19: <em>Tyne and Fear </em>287- <em>The Jakey Bites </em>44</em></p>
+<p style="text-align:justify;">Genuine Miller Daft started off on the jam line alone in jam 20, and managed to pick up 4 points for The Jakey's despite the offensive 'hammer and nail' technique displayed by TAF's Pablo Diablo, Markoleptic and Rubba Duk. A switch of jammers in the penalty box saw Da Little Waster score 21 points then calling off the jam just as Miller Daft returned to track.</p>
+<p style="text-align:justify;">The next few jams were played very quickly and were loaded with points for Tyne and Fear who broke the 400-point barrier! Although The Jakey's showed real determination and team work, they were understandably struggling to close this huge points difference. By this point in the game it was obvious that both teams were having a great time out on track - regardless of the score - and were commending each other with hugs and high fives between  jams.</p>
+<p style="text-align:center;"><em>Jam 29: <em>Tyne and Fear </em>401- <em>The Jakey Bites </em>48</em></p>
+<p style="text-align:justify;">Jam 30 saw the power jam advantage go in the favour of Tyne and Fear again when The Jakey's X-Kaliber was binned after (a bit too) aggressively jamming his way through the pack. Although TAF Jammer Man Shaped Dog skated fast through his initial pass, it wasn't clean and he was 'Not Lead Jammer'. While The Jakey's tried hard to hold him behind their wall at the front of the pack, X-Kaliber snuck onto the track unnoticed, picked up 3 points, was declared Lead Jammer, then ended the Jam.</p>
+<p style="text-align:justify;">With only a few more jams remaining, both teams were literally throwing themselves into the competition! Da Little Waster for Tyne and Fear impressed the crowd again with his speed and light footwork, resulting in an impressive grand slam. Not to be outdone, Vice Captain Chemic-Al scored a whopping 34-point jam, with this kilt blowing in the breeze the whole time!</p>
+<p style="text-align:center;"><em>Jam 32: <em>Tyne and Fear </em>488- <em>The Jakey Bites </em>51</em></p>
+
+
+<a href="https://www.facebook.com/photo.php?fbid=299150150160337&amp;set=a.299146920160660.68858.128154623926558&amp;type=3&amp;theater" target="_blank"><img class="size-full wp-image-1188  " title="Chemic-Al showing off his kilt!" src="http://scottishrollerderbyblog.com/2012/04/chemic-al.jpg" alt="Chemic-Al showing off his kilt!" width="614" height="407"></a>
+<p style="text-align:justify;">Dark Matter helped his team break the 500-point barrier in Jam 37 after scoring another 20 points. He seemed to skate right through the walls that The Jakey's were putting up! In the dying minutes of the game, Jakey's X-Kaliber and Skol-Krushr worked well to take the speed from the TAF jammers, with Krushr even taking out Markoleptic in the final jam. Even with the considerable points difference, The Jakey's put up a fight right until the end.</p>
+<p style="text-align:center;"> <em>Full time score: <em>Tyne and Fear </em>536 - <em>The Jakey Bites </em>54</em></p>
+<p style="text-align:justify;"><strong>The Awards</strong></p>
+<p style="text-align:justify;"><em>For Tyne and Fear:</em></p>
+
+<ul>
+	<li>Best Jammer: Dark Matter</li>
+	<li>Best Blocker: Porky</li>
+	<li>Most Valuable Player: Chemic-Al</li>
+</ul>
+<p style="text-align:justify;"><em>And for the Jakey Bites:</em></p>
+
+<ul>
+	<li>Best Jammer: Duff McKeggar</li>
+	<li>Best Blocker: Brutally Frank</li>
+	<li>Most Valuable Player: Genuine Miller Daft</li>
+</ul></body></html>

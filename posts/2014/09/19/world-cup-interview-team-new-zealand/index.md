@@ -1,0 +1,101 @@
+<html><body><div>
+<div>
+<div>
+
+Our last team for this week, and the last team in our Africa and Asia-Pacific group, in our <a href="http://rollerderbyworldcup.com">World Cup</a> coverage is the second veteran team from 2011 - <a href="http://teamnzrollerderby.tumblr.com/">Team New Zealand!</a>
+
+Team New Zealand shared the same initial group as Team Scotland in 2011, and despite the unfortunate effects of both having to play Team USA in their placement bouts, eventually fought their way all the way to 8th place. They're returning to the World Cup this time around with a definite intent to improve on that!
+
+Team New Zealand Coach Pieces of Hate took the time to answer our questions, around a month ago. (We've added updates as always to cover changes since the interview took place).
+
+<a href="/2014/09/teamnz.jpg"><img class="size-full wp-image-3803" src="http://scottishrollerderbyblog.com/2014/09/teamnz.jpg" alt="Team New Zealand logo." width="645" height="645"></a> Team New Zealand logo. (Also by Pieces of Hate!)
+
+<strong><span class="im">On the topic of team selection - Team NZ is strongly predominantly composed of skaters from NZ leagues (with only a few from USA,Canada,Australia). I believe that was also the case in 2011. Can you tell me a bit about how your team selection process worked (including getting Coach positions etc)?</span></strong>
+New Zealand has formed an association to govern the sport here and set some standards. It was also formed to take complete control of the World Cup Team and the selection process. So we had an AGM and defined the positions needed to put the team together and its requirements and that went to vote. After the AGM a job description was set out to all leagues that joined the NZRDA (New Zealand Roller Derby Association) advertising for the position of Head Coach, Team Manager and Two Selectors. Once people applied for these roles, they were then voted in by member leagues.
+The Selectors (Head Coach being one of them), traveled to Auckland, Wellington and Christchurch and held try outs over 1 full day at each venue. We also had criteria for overseas based players to send video unedited, complete a skills test and fitness test, pass a written test and strategy test put together by the Head Coach. Each person had to become a member of NZRDA and if not through their own league then as an associate member for a cost of $50, and we charged everyone $50 to try-out for Team NZ too. This covered the cost of flights for the coaches and selectors, Stadium hire and admin fees.
+
+</div>
+<div>Some of the things the selectors looked for were: effective in the game, fitness, stamina, knowledge of the game and rules. Penalties were noted and getting on with people they didn't know. Seeing who worked well with others. We also filmed every bit of warm-up and looked really hard at skating skills. (Some people are incredibly fit and fast off skates, but on skates, they are a lot less effective.)</div>
+<div>Also each person trying out had to sign a contract saying they would be able to afford to attend even if the price they paid was going to be around $5,000.00 NZD each.</div>
+<div></div>
+<div><strong>I guess that having most of the skaters be NZ-based helps with team training sessions. How are your training sessions going?</strong></div>
+<div>I think for the most part, our training sessions have been going well. We repeat a lot of drills and mix up the skaters a lot each time. We don't want to just do things ok this time round, we want to make sure that the stuff we are doing is at a world-class level. We have some of our best players currently based in Australia and USA and they don't get home for any trainings. They do however help the team with feedback, watching scrimmage footage and they send us drills. They are people most of the team know well and have seen them skate at a very high level. We stay in touch via Skype a lot and send each other short videos of what we're doing. I also send the whole training plan I create each month for training, attached to that are very clear strategy diagrams and a clear language that we are using so every member of the team is on the same page. It's taken a while but I have noticed it just starting to work quite well and the NZ based girls are working really well together.</div>
+<div></div>
+<div></div>
+<div><strong>Compared to some of the other nations which competed in the 2011 World Cup, I think Team NZ has relatively few skaters returning from the 2011 Team this time (5, not including you as Coach). Does that reflect any turnover in NZ derby in general, an influx of new exciting skaters, or just that many of the 2011 Team decided for individual reasons not to try out?</strong></div>
+<div>Oh firstly, you have to understand that we have been playing derby in NZ for 9 years, so obviously some of the girls who played at the last World Cup have gotten a lot older and some were just hanging on for that last chance. We had good skaters who should have been in the team last time, not make themselves available, but this year, we got everyone we wanted. Back then, we also only had one league that had played interleague, so the dynamic of Derby is NZ is more spread out now with talent. We probably had a few skaters that were in the team last time that tried out and didn't make it. Going through the motions of derby is not good enough for us, we were looking for people who had more drive and wanted it really badly. The sport has really grown here and I'm excited by all the new talent and the few remaining from last time.</div>
+<div></div>
+<div></div>
+<div><strong>A lot of the European national teams are involved in various planned tournaments or match ups pre-World Cup, which gives them a chance to both play teams at national level and also raise awareness and funds. Being geographically where you are, what are Team NZ's plans for bouts and training pre-World Cup?</strong></div>
+<div>This is the only thing that sucks about living on the pimple of the Earth's backside, we can't even afford to travel to Aussie and play them for a warm-up. Some of the team got to play at TGSS [<a href="http://greatsouthernslam.com.au/">The Great Southern Slam</a>, held annually in Adelaide, Australia], and the only games we are getting are against ourselves at training. As selectors, we chose a training squad of 30, so we could bout each other at every training. The games are the hardest they are going to get here because the talent drops off too much outside the squad. We have been offered a game with our Men's team, that's still in the pipeline, but right now, the best challenge we have is playing against each other. I make it hard, we play two full games in one afternoon, sometimes we only have 10 aside. And both teams know each other's strategy, so it's been really challenging and its the best we can afford to do :(</div>
+<div></div>
+<div><strong>In 2011, both Team NZ and Team Australia came into the competition as somewhat unknowns to the majority of competitors - the European teams all knew something about each other, and of course Teams USA and Canada were pretty well understood phenomena. NZ and Australia's performance was really very impressive - now as you return in 2014, having performed as you did last time, what are your goals for the World Cup?</strong></div>
+<div>Well to be honest, I really believed we could have done a lot better in 2011, we hoped to get into the top 4, but playing USA twice kinda stopped that, then we thought we had the skill to get in the top 5. We played Germany, then USA, then Sweden, in one day.</div>
+<div>We lost to Sweden in the stupidest game we played. Our captain got concussed at the end of the USA game and refused to sit out the Sweden game, that turned into a disaster for us and a massive learning curve. We only could afford to send 18 players to the World Cup, so we have 12 people pretty much playing every game, we also played Sweden, we they had played only one game that day and we have already played two hard games.</div>
+<div>So we felt like we could've done a lot better. But it taught me the hard way about communication on the track. We had none, and Sweden deserved to win, but I still think in the back of my mind we had a better team. (I know we do now, and we got the communication well sorted, but Sweden would have a lot more experience playing other countries than us now too!). We were bummed about getting 8th, we had been playing derby a lot longer than all the European leagues and I had a real problem losing to players that had only been around a few years. I've been telling everyone to go overseas and skate in America, because the game is so different and until you do, you will never understand what I'm talking about when I say things need urgency... Some of the team were happy about being the smallest nation there and still getting 8th, but not me personally.</div>
+<div></div>
+<div>
+
+<strong>Flying to the USA from anywhere is expensive as a team (as are travel costs just for the training etc). How have you been fundraising and achieving sponsorship?</strong>
+OMG, we are so far behind on fundraising this time round, just mostly because crowd-funding is so saturated, leagues aren't making money like they used to at games, so we're not getting donations, we have a squad of 30 and some feel like not helping unless they know they're going to make the final 20, so it's been really hard. We have done an limited edition merch sale that made around $6K for the team, we've had a couple of donations and we have most members of the league out there figuring out some fundraising ideas that are going to happen in the next few months. We need to raise around $115,000.00 NZD to get there. We may have found someone to make our shirts for free, so that's a bit off the price. And we have a secret squirrel idea smouldering away behind the scenes that could be an international viral success (That will be something people can purchase and is going to be pretty fucken rad) . It's also something that none of the team know about, just me and my assistant! But all will be revealed in the next month or so... [This may be the <a href="http://teamnzrollerderby.tumblr.com/RollWithUs">Roll With Us</a> "personalise our shirts with your messages" initiative <em>Edited to add: no, it's not! According to Hate, it's something that is still secret even now!</em>].
+
+</div>
+<div>
+
+We also have people applying for sport funding, which is hard to get in NZ: unless you can finish in the Top 4 in the world or play an Olympic sport, they're not too interested. Pub charities and sponsorships are what we're hitting up in the next month. I just think this is going to cost each member traveling a lot of money this time round... it's been really hard getting money from people.
+
+</div>
+</div>
+<strong>Thank you very much for your time!</strong>
+
+</div>
+Have a great day and good luck to Scotland and all the prep the team is doing to get to Dallas.
+
+Since this interview took place, Team NZ have held a Team New Zealand v Team New Zealand public scrimmage, with added training bootcamp. They are sponsored by, amongst others, Atom Wheels.
+
+The Team New Zealand <a href="http://www.gofundme.com/bifzvc">gofundme</a> is still running. Their <a href="https://www.facebook.com/TeamNZderby">facebook</a> page is continuously updated.
+
+The Team New Zealand roster is:
+
+Elicia Nisbet-Smith, Rose City Rollers (Portland, USA)
+Hannah Jennings, Rose City Rollers (Portland, USA)
+Perky Nah Nah, Victorian Roller Derby League (Melbourne, Australia)*
+Tank-U, Paradise City Roller Derby (Australia)<span class="text_exposed_show">
+Ivy K’nivey, Victoria Roller Derby League (Melbourne, Australia)
+OrKazzMic, Dunedin Derby (NZ)
+Serious Crash Unit, Otautahi (Christchurch, NZ)
+Diva DemolisHer, Dunedin Derby (NZ)
+Nicki Noxious, Rogue Rollers, (Dunedin, NZ)
+Evil KNeevil, Dead End Derby (Christchurch, NZ)*
+Jem Molition, Richter City Roller Derby (Wellington, NZ)
+Skanda Lass, Richter City Roller Derby (Wellington, NZ)
+Justass, Swamp City Roller Rats (Palmerston North, NZ)
+Blue Blaze, Swamp City Roller Rats (Palmerston North, NZ)
+Anna Pave-U’Ova, Richter City Roller Derby (Wellington, NZ)
+Beatrix Skiddo, Richter City Roller Derby (Wellington, NZ)
+Hellvetica, Mount Militia Derby Crew (Mt Maunganui, NZ)
+Princess Slayer, Richter City Roller Derby (Wellington, NZ)
+Meat Train, Richter City Roller Derby (Wellington, NZ)
+Mel-icious Mayhem, River City Rollers (Wanganui, NZ)
+Lady Trample, Pirate City Rollers (Auckland, NZ)
+Fia Fasi Oe?, K-Town Derby Dolls (Kawerau, NZ)*
+Miss Metal Militia, Hellmilton Roller Ghouls (Hamilton, NZ)*
+Miss Crunchbull, Hellmilton Roller Ghouls (Hamilton, NZ)
+Haki Pao Pao, K-Town Derby Dolls (Kawerau, NZ)
+WhakinTawh, Taranaki Roller Corps (New Plymouth, NZ)
+Roni Diamond, Mount Militia Derby Crew (Mt Maunganui, NZ)
+Skate The Muss, Pirate City Rollers (Auckland, NZ)*
+Terror Satana, Pirate City Rollers (Auckland, NZ)*
+Coup D’eTalia, Pirate City Rollers (Auckland, NZ)
+*Skaters who played at the 2011 World Cup.</span>
+
+Pieces Of Hate*
+Head Coach, Team NZ
+
+Danger Spouse, Richter City Roller Derby (Wellington, NZ)
+Manager, Team NZ
+
+Fia Fasi Oe? Pirate City Rollers (Auckland, NZ)*
+Selector, Team NZ
+Zephyr, Mount Militia Derby Crew (Mt Maunganui, NZ)
+Selector, Team NZ</body></html>

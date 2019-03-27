@@ -1,0 +1,2 @@
+<html><body><a href="http://glasgowrollergirls.com/blog/">Glasgow Roller Girls'</a> Irn Bruisers travel down to Leeds to do battle with <a href="http://leedsrollerdolls.com/">Leeds Roller Dolls</a> ,20th August at Huddersfield Sports Centre.Its a double header match,with LRG's Whip-Its versus a tbc team.
+The last time GRG met LRD,there was not one,but two overtime jams,should be a great game</body></html>

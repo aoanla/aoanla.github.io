@@ -1,0 +1,69 @@
+<html><body><a href="http://scottishrollerderbyblog.com/2014/03/white_logo.png"><img src="http://scottishrollerderbyblog.com/2014/03/white_logo.png" alt="MRDWC Logo courtesy of MRDWC.com" width="242" height="483" class="size-full wp-image-3338"></a> MRDWC Logo courtesy of MRDWC.com
+
+What can we say about the first Men’s Roller Derby World Cup? That it’s going to be a showdown of epic proportions between nations that have never met on the flat track before. That we’re equally excited to see the derby legends as we are the total unknowns who will become our new idols over the course of three days. That there better be at least one man-sweat track mopper-upper and someone to wring out the panties between bouts. Or that there will be at least one man sporting a pair of shorts so short they rival Gerard Butler’s budgie-smugglers in 300. 
+
+So we decided to let those with the most to say do the talking. 
+
+In an undisclosed training venue, at the heart of Scotland, where boys become men, and derby dreams are made, <strong>Fun Ghoul</strong> met with Power of Scotland’s Co-captains Dafty and Judder Jam, and Assistant Coach and Line-up Manager, Ginge, to talk training, tactics, and Team Japan.
+
+<strong>According to the MRDWC countdown-clock it’s one week, five days, and twenty hours until the tournament kicks-off. What is the vibe like in the Power of Scotland camp?</strong>
+
+<strong>Dafty:</strong> It’s very good at the minute. We had a good game against New Wheeled Order last weekend and we’ve got a pre-tournament bout against Team Australia coming up on Tuesday. So I think that’s going to be a massive start for us; we get to play four or five teams in the World Cup instead of just the three that we might do from the group stages. 
+<strong>Ginge:</strong> Everyone’s really excited as well. It feels like it’s come in really, really quickly, all of a sudden it’s a week to go and it’s like ‘eeeeee’; so we’re trying to like fit in as much as we can in the next week or so before we go. But everyone’s really excited.
+<strong>Judder:</strong> Confident. In our own team anyway, as we all seem to be gelling together.
+<strong>Ginge:</strong> We’ve put a lot of work in –
+Judder: Looking forward to getting stuck in.
+<strong>Ginge:</strong> -  it’ll be good to see it all come out at the World Cup.
+
+<strong>Most of the team have been playing derby for around one to two years: what have you been doing to prepare them for going up against some much more experienced players?</strong>
+
+<strong>Ginge:</strong> We’ve been working a lot on our teamwork and staying together, especially with the skaters that were at a lower level when we started, but they’ve come on really, really, really quickly, they’ve surprised everyone. When we did the team selections we did choose a couple of skaters who hadn’t been skating as long as everyone else, but they showed so much potential and so much desire for it that they were worthwhile putting into the squad: so I’ve been really pleased with how quickly they’ve come on. So, [we’ve been] working on teamwork, working on game play, and just being able to adapt to a change in situation on track very quickly. Rather than trying to get any kind of fancy stuff drilled into them in the short period of time we’ve got, we’ve gone for practical, strong walls, little bit of offense. 
+<strong>Dafty:</strong> Although a lot of us have been skating 2-3 years, the majority of us haven’t skated against that much foreign opposition. We’ve skated against as few of the French teams, but I don’t think anyone has skated against any Belgian or Norwegian or even American or Canadians apart from those who were in the Men’s Europeans (skating as part of the mixed team Expendables 2). Everyone is really looking forward to going in on the same level, because everyone has played against New Wheeled Order and the Inhuman League , even the newer players, so in terms of experience the players are all probably about the same.
+
+<strong>Do you think that living in a small country and being able to training together regularly will benefit you against teams from much larger countries where this hasn’t been the case?</strong>
+
+<strong>Judder:</strong> I think it’s important that because we’re so close together, and we are training quite regularly, we know what everyone is going to do on track, we know where everyone’s strengths and weaknesses are, which is going to be a disadvantage for teams that are quite spread out that can’t train as often [together]. Maybe they will be quite strong skaters, but if they don’t know what the team is like then that could be a weakness.
+<strong>Ginge:</strong> I think we’ll have more of a unit than other teams; they will have strong skaters, but a lot of individuals rather than a group of skaters that are together as a team, so I’m hoping that that will definitely be an advantage for us.
+
+<strong>Have the players who took part in MERDC last year been passing on any tournament advice and how have you been preparing for tournament play rather than individual bouts?</strong>
+
+<strong>Dafty:</strong> I think we’ve all been trying to share little bits with everybody, not necessarily [just] tournament advice. We’ve been making sure that our sessions aren’t just two hours; we’ve been having longer sessions to get the overall endurance that you need to play a tournament and we’ve been doing various things, like scrimming at the very beginning, then training, then scrimming at the end, so you have to go back into scrimming and playing mode, to get that length of play that’s required.
+<strong>Judder:</strong> It’s shorter games on the first day as it’s only 30 minutes [bouts], so we’re trying to change [the skaters] so they can perform their best in the first 30 minutes – as well as the second half – but obviously the first 30 minutes is going to count the best as we only get 30 minutes to win the game before we move on, so it’s a case of getting them to limit their penalties as well as play their best and score the most amount of points.
+<strong>Ginge:</strong> And less penalties as well, as it’s only four penalties in a 30 minute game, so we’re trying to keep an eye on the penalties. Most teams play their best half in the second half and use the first half to settle in, so we’re scrimming as soon as we get in the hall, as they’re not going to have that time to settle in at the tournament: we’ve been putting a lot of work into that.
+
+<strong>You’ve already played three bouts together as a team: what have you taken away from these both as positives and training to build on?</strong>
+
+<strong>Dafty:</strong> The positives have been the progression from each of the games, getting feedback from players: we have two [PoS players] that have played in two of the bouts in the opposing team so we’ve been using them and getting their feedback as to how the team played. The progression that we’ve had in the three games, we’ve been pleased with; definitely the second half of the New Wheeled Order game, we were very pleased with how that worked.
+<strong>Ginge:</strong> The bouts have been really useful to pinpoint certain areas where we needed to strengthen to how other teams were playing. The Dave bout particularly flagged up to us that we had a lot of work to do on offense, because we could do offense off the line, but not necessarily mid-jam or going back to get our jammer out and minimise the damage the other jammer could do. So we’ve done a lot of work of that and we used it a lot more in the most recent New Wheeled Order bout; we were going back to get our jammer out. So it’s definitely been flagging up little areas where we need to come to the party a bit more! It’s been really helpful.
+
+<strong>You are in the Orange Group (with Japan, Belgium, and Canada) for the group stage – who are you most looking forward to playing?</strong>
+
+<strong>Judder:</strong> Team Japan for me, as it’s such a wild-card team, no one really knows how they’re going to play as they’re quite new to derby, but they’ve been playing Roller Game for years, so it depends if they’re all players from that area or not, as no one’s seen a men’s team from that far out come into this.
+<strong>Ginge:</strong> They’re a total mystery team. We don’t even know what they look like! Not all of them anyway. It looks like they’ll have a lot of skilful skaters, but I’m not sure how they’ll play the actual derby game, so it’s quite exciting.
+<strong>Judder:</strong> It’s more how they’re going to play that I’m looking forward to seeing, as they’re quite into all their leg-whips and stuff in Roller Game, but I don’t know if that will translate over to roller derby. Belgium is also rated at about the same level as us, so that might be a tough game. And I don’t know what’s going to happened against Team Canada –
+<strong>Ginge:</strong> We’ll learn a lot no matter from all three of them.
+
+<strong>And out of the other groups, who will you be watching?</strong>
+
+<strong>Judder:</strong> Team USA for me.
+<strong>Ginge:</strong>  Probably not politically correct, but I want to see Team England play as well, flying the flag for the UK, and there’s some excellent skaters on their team and some surprises that made the roster and I’m really excited to see how they’ve come on from having the England training.
+<strong>Dafty:</strong> The British teams as well as Team USA: it’ll be good to see how Wales do and England gets on. Wales have got a good chance of progressing into the second round, and then if England wins their group who do they get to play –
+<strong>Ginge:</strong>  It could be England/USA which would be ace, such a good final if that’s what it comes down to. But,  I really hope there’s some surprise in there, I really want to see a team that no one’s even talked about and they blast through –
+<strong>Judder:</strong> Like Team Argentina –
+<strong>Ginge:</strong> Like Karate Kid! The underdogs.
+
+<strong>You have a lot of support travelling down from Scotland – are you looking forward to getting on track with that crowd behind you?</strong>
+
+<strong>Dafty:</strong> Cant’ wait. I think we’ll probably have the loudest supporters around, definitely the most songs from looking at the Facebook group anyway. 
+<strong>Judder:</strong> Lots of flags.
+<strong>Ginge:</strong>  I think it’s going to be really good. It’s always nice to have support there. We really appreciate them coming down as we know ourselves that the hotels aren’t the cheapest.
+<strong>Dafty:</strong> I think it shows the overall commitment to roller derby in Britain. American and Argentina and such, won’t have as much support, but if we can have lots of supporters from the ‘local’ teams, like the British, French, and Belgian teams, then that will say how big a thing this actually is.
+<strong>Ginge:</strong> I think it’ll be great, and we’ve always had a reputation for being really friendly: most of the teams that played the Jakeys (Bites) at the Euros said that we were one of the nicest teams they played on the day and that our supporters are really good, so I think our supporters will do Scotland proud.
+
+<strong>And finally, what does it mean to be part of the first ever Men’s Roller Derby World Cup? </strong>
+
+<strong>Judder:</strong> It’s going to be exciting to play both the first World Cup and playing for your country as well. You won’t be able to go any higher than the World Cup, so it’s going to be really great to play for your country in the very first one; to play, do everyone proud, and maybe win something –
+<strong>Dafty:</strong> Just to be in the first one is amazing. It’s this game that everyone came into that was a bit strange in the beginning, and wasn’t even in Scotland [for men] until about two years ago, and just trying to push it in Scotland and the way it’s grown in Scotland as well; and a lot of the founders for [men’s] derby in Scotland are playing in the World Cup – so it’s going to be huge.
+<strong>Ginge:</strong> I’m super excited, and so happy that I get the chance to go with them, and a lot of the guys that I know from the Jakeys, I’ve been skating with them for a year-and-a-half now, and I’ve put quite a lot into it over the past year, so I’m so proud to go with them and see how they do and help them get there. I think it’s really nice that men’s derby is starting to get a bit of momentum in Scotland, it’s great, because for so long women’s derby has dominated in Scotland – which is amazing because they are the founders – but it’s nice that men’s derby is getting a chance to represent in the World Cup and I’m really excited to go with them. 
+
+The Men’s Roller Derby World Cup takes place at the Fustal in Birmingham 14th – 16th March 2014. For more information and live streaming of the event visit <a href="http://mrdwc.com/">MRDWC.com</a></body></html>

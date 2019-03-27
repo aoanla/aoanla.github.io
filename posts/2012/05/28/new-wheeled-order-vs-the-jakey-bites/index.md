@@ -1,0 +1,7 @@
+<html><body><a href="http://scottishrollerderbyblog.com/2012/05/new-wheeled-order.jpg"><img class="size-full wp-image-1273" title="New Wheeled Order vs The Jakey Bites" src="http://scottishrollerderbyblog.com/2012/05/new-wheeled-order.jpg" alt="New Wheeled Order vs The Jakey Bites" width="595" height="842"></a> New Wheeled Order vs The Jakey Bites - Image courtesy of Manchester Roller Derby
+
+On Saturday 9th June, <a title="Manchester Roller Derby Website" href="http://www.manchesterrollerderby.co.uk/" target="_blank">Manchester Roller Derby</a> will be hosting an action-packed double header.
+
+First up, MRD's Checkerbroads take on Gloucester's Severn Roller Torrent. But the main event for fans north of the border will be the men's bout: <a title="New Wheeled Order on Facebook" href="https://www.facebook.com/NewWheeledOrder" target="_blank">New Wheeled Order</a> versus <a title="The Jakey Bites on Facebook" href="https://www.facebook.com/pages/The-Jakey-Bites-Scottish-Mens-Roller-Derby/190825187685857" target="_blank">The Jakey Bites</a>. This will be The Jakey's second live bout, so why not organise a road trip and show them your support?
+
+Tickets are available now <a title="But tickets online" href="http://www.manchesterrollerderby.co.uk/tickets" target="_blank">online</a>: £7 adv, £6 concessions, £10 on the day - under 10s get in free! To keep updated with the latest news on both bouts, visit the <a title="Facebook Event for MRD Double Header" href="https://www.facebook.com/events/222289927882013/" target="_blank">Facebook Event</a>.</body></html>

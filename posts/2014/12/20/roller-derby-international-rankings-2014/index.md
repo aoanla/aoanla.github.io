@@ -1,0 +1,212 @@
+<html><body><p>On the back of <a title="Blood &amp; Thunder World Cup – the Wrap Up." href="http://scottishrollerderbyblog.com/2014/12/12/blood-thunder-world-cup-the-wrap-up/">our attempts</a> at a more neutral ranking scheme for the World Cup national teams, and some subsequent conversation on the Rollerderby subreddit and Twitter, we've made a few tweaks to our ranking algorithm, and fed it the games from <a href="http://euroderbytournament.eu/">European Roller Derby Tournament</a> and <a href="http://rollinnews.com/post/derbyscores-27th-october-2014">Road To Dallas</a> as well as the World Cup games it had before.
+[Technical notes: we've been persuaded that the topological sorting constraint is overly aggressive in asserting groupings from the initial ground truth, which adds some inflexible structure to the sort, so instead we iterate the inference rankings to self-consistency and sort on the relative strengths in the self-consistent inference matrix, using the final inferences only. Code for this has been added to the <a href="http://code.google.com/p/ranking-chain-inference/">repository </a>here. ]
+
+We hear that there was some controversy on our previous rankings being published, although none of the teams have actually contacted us to make any comment. (The only actual direct comments we've had have been from people expressing interest in the statistical methods used, which were chosen to be neutral. In fact, this article was written partly on the request of a number of people to see what the inclusion of additional datasets did to our ranking calculations.) We, of course, welcome any criticism of our methods and discussion of the results of our analysis.
+
+In order to allay any possible sense of bias being present in what was designed as a neutral computational statistical ranking, we have also calculated the least squares rankings for the National Teams from the same data set (plus the Italy v Switzerland result from the same timeframe), with both score difference and log(score ratio)<sup>1</sup> rankings. In this, we follow <a href="http://www.masseyratings.com/theory/massey97.pdf">Massey</a>, considering that least squares rankings are generally held to be amongst the most accurate ranking methods for predictive sports ranking.<sup>2</sup>
+
+[Technical notes: The approach used for least squares ranking was to form the usual matrix of games from Massey, but rescaling scores on the 40 minute bouts by 60/40 to estimate the score difference in a full game. For score ratios, this was not necessary, as ratios are scale-invariant measures (which is the reason we decided to use them for our metric), but we do provide the same capping of blowouts as if the zero-scoring team really scored 1/2 a point as we do in our own measure. In the National Teams dataset, this only affects the Sweden-Japan game: altering the game to give a single point to Japan instead does not affect the final placement of Sweden by the ranking, although it does adjust their predicted power. We prepared data using python scripts for processing in GNU Octave for the least squares fit; the scripts used are also available in the same repository as our ranking code.]
+
+Our modified iterative ranking predicts the following ranking of teams, with the old algorithm by the side of it for comparison and the Least Squares ranks in addition<sup>4</sup>. We've colour coded the teams by their divergence from the official B&amp;T World Cup rankings for interest (<span style="color:#000000;">Black</span> is the same as B&amp;T, <span style="color:#008000;">Green</span> is higher ranked than B&amp;T, <span style="color:#800000;">Red</span> is lower ranked than B&amp;T).
+</p><table>
+<tbody>
+<tr>
+<td>Topological Sort (old model)</td>
+<td>Iterative consistency (new model)</td>
+<td>Least Squares Rank with respect to Score Difference
+(Power is expected score diff)</td>
+<td>Least Squares Rank with respect to Score Ratio
+(Power is expected score ratio)</td>
+</tr>
+<tr>
+<td><span style="color:#000000;">1. USA</span>
+<span style="color:#000000;"> 2. England</span>
+<span style="color:#000000;"> 3. Australia</span>
+<span style="color:#000000;"> 4. Canada</span>
+<span style="color:#000000;"> 5. Finland</span>
+<span style="color:#008000;">6. Sweden</span>
+<span style="color:#008000;">7. Scotland</span>
+<span style="color:#000000;">8. Argentina</span>
+<span style="color:#008000;">9. Ireland</span>
+<span style="color:#800000;">10. France</span>
+<span style="color:#008000;">11. Germany</span>
+<span style="color:#000000;">12. NewZealand</span>
+<span style="color:#800000;">13. Belgium</span>
+<span style="color:#008000;">14. Norway</span>
+<span style="color:#800000;">15. Netherlands</span>
+<span style="color:#800000;">16. WestIndies</span>
+<span style="color:#000000;">17. Wales</span>
+<span style="color:#008000;">18. Denmark</span>
+<span style="color:#008000;">19. Colombia</span>
+<span style="color:#008000;">20. Spain</span>
+<span style="color:#008000;">21. Greece</span>
+<span style="color:#800000;">22. Brazil</span>
+<span style="color:#800000;">23. Chile</span>
+<span style="color:#800000;">24. Italy</span>
+<span style="color:#800000;">25. Mexico</span>
+<span style="color:#800000;">26. Portugal</span>
+<span style="color:#008000;">27. SouthAfrica</span>
+<span style="color:#008000;">28. Japan</span>
+<span style="color:#008000;">29. PuertoRico</span>
+<span style="color:#800000;">30. Switzerland</span></td>
+<td><span style="color:#000000;">1. USA</span>
+<span style="color:#000000;"> 2. England</span>
+<span style="color:#000000;"> 3. Australia</span>
+<span style="color:#008000;">4. Sweden</span>
+<span style="color:#800000;">5. Canada</span>
+<span style="color:#000000;">6. NewZealand</span>
+<span style="color:#800000;">7. Finland</span>
+<span style="color:#008000;">8. France</span>
+<span style="color:#008000;">9. Ireland</span>
+<span style="color:#008000;">10. Germany</span>
+<span style="color:#008000;">11. Scotland</span>
+<span style="color:#800000;">12. Argentina</span>
+<span style="color:#800000;">13. Netherlands</span>
+<span style="color:#800000;">14. Belgium</span>
+<span style="color:#008000;">15. Spain</span>
+<span style="color:#000000;">16. Norway</span>
+<span style="color:#000000;">17. Wales</span>
+<span style="color:#008000;">18. Chile</span>
+<span style="color:#000000;">19. Denmark</span>
+<span style="color:#800000;">20. WestIndies</span>
+<span style="color:#800000;">21. Colombia</span>
+<span style="color:#008000;">22. Greece</span>
+<span style="color:#800000;">23. Brazil</span>
+<span style="color:#008000;">24. SouthAfrica</span>
+<span style="color:#000000;">25. Portugal</span>
+<span style="color:#008000;">26. PuertoRico</span>
+<span style="color:#800000;">27. Mexico</span>
+<span style="color:#800000;">28. Switzerland</span>
+<span style="color:#800000;">29. Italy</span>
+<span style="color:#800000;">30. Japan</span></td>
+<td><span style="color:#000000;">1. USA 0.0</span>
+<span style="color:#000000;"> 2. England -191.00</span>
+<span style="color:#000000;"> 3. Australia -213.273</span>
+<span style="color:#000000;"> 4. Canada -294.666</span>
+<span style="color:#008000;">5. Sweden -380.901</span>
+<span style="color:#800000;">6. Finland -460.143</span>
+<span style="color:#800000;">7. NewZealand -465.461</span>
+<span style="color:#008000;">8. France -539.895</span>
+<span style="color:#008000;">9. Germany -554.373</span>
+<span style="color:#008000;"> 10. Scotland -567.636</span>
+<span style="color:#800000;">11. Argentina -570.828</span>
+<span style="color:#800000;">12. Ireland -572.967</span>
+<span style="color:#800000;">13. Belgium -721.009</span>
+<span style="color:#008000;">14. Norway -729.422</span>
+<span style="color:#008000;">15. Spain -743.184</span>
+<span style="color:#008000;"> 16. Chile -744.361</span>
+<span style="color:#000000;">17. Wales -748.199</span>
+<span style="color:#008000;">18. Denmark -752.251</span>
+<span style="color:#800000;">19. Netherlands -759.382</span>
+<span style="color:#000000;">20. Colombia -768.326</span>
+<span style="color:#800000;">21. WestIndies -788.968</span>
+<span style="color:#800000;">22. Mexico -870.077</span>
+<span style="color:#008000;">23. Greece -886.9503</span>
+<span style="color:#008000;">24. Portugal -887.2898</span>
+<span style="color:#008000;">25. SouthAfrica -893.530</span>
+<span style="color:#800000;">26. Brazil -895.490</span>
+<span style="color:#008000;">27. PuertoRico -944.083</span>
+<span style="color:#800000;">28. Switzerland -955.1116</span>
+<span style="color:#800000;"> 29. Italy -975.691</span>
+<span style="color:#800000;"> 30. Japan -1062.202</span></td>
+<td><span style="color:#000000;">1. USA 1.0</span>
+<span style="color:#000000;"> 2. England 0.3009</span>
+<span style="color:#000000;"> 3. Australia 0.2700</span>
+<span style="color:#008000;">4. Sweden 0.1516</span>
+<span style="color:#800000;">5. Canada 0.1317</span>
+<span style="color:#000000;">6. NewZealand 0.06539</span>
+<span style="color:#800000;">7. Finland 0.05634</span>
+<span style="color:#008000;">8. France 0.04562</span>
+<span style="color:#008000;">9. Ireland 0.04243</span>
+<span style="color:#008000;">10. Germany 0.04091</span>
+<span style="color:#008000;"> 11. Scotland 0.03381</span>
+<span style="color:#800000;">12. Argentina 0.03077</span>
+<span style="color:#800000;">13. Belgium 0.01542</span>
+<span style="color:#800000;">14. Netherlands 0.01384</span>
+<span style="color:#008000;">15. Norway 0.01355</span>
+<span style="color:#008000;">16. Chile 0.01341</span>
+<span style="color:#000000;">17. Wales 0.01295</span>
+<span style="color:#008000;">18. Denmark 0.01169</span>
+<span style="color:#008000;">19. Spain 0.01157</span>
+<span style="color:#800000;">20. WestIndies 0.01128</span>
+<span style="color:#800000;">21. Colombia 0.009998</span>
+<span style="color:#008000;">22. Greece 0.006950</span>
+<span style="color:#800000;">23. Brazil 0.005783</span>
+<span style="color:#008000;">24. Portugal 0.005648</span>
+<span style="color:#008000;">25. SouthAfrica 0.005354</span>
+<span style="color:#800000;">26. Mexico 0.005206</span>
+<span style="color:#008000;">27. PuertoRico 0.005150</span>
+<span style="color:#800000;">28. Switzerland 0.004456</span>
+<span style="color:#800000;">29. Italy 0.003946</span>
+<span style="color:#800000;">30. Japan 0.001298</span></td>
+</tr>
+</tbody>
+</table>
+All rankings show that there are groupings of teams with extremely close strength (for example (Canada,Sweden), (Scotland, Ireland, Argentina) and (England, Australia) ), but there are elements of disagreement in precise ranking.
+
+We also see that it is still unambiguous that Germany was unfairly relegated from the Top 16 due to poor group selection in the World Cup (another three big upward movers that we missed before are Spain,  Greece and Chile, with Spain looking like another possible-Top-16). We're particularly impressed by the performance of Greece, as they had very little practice time before the World Cup itself.
+
+The "amount of divergence" from the B&amp;T tournament ranking increases as we move away from the top ranks, which is <a href="https://www.cerge-ei.cz/pdf/wp/Wp252.pdf">precisely as expected</a> for a single-elimination tournament ranking. (The case of Wales, which is incongruous in being ranked precisely as B&amp;T does for all of the rankings, is probably due to it being a pivot point, on the edge of the Top16 ranking. As our rankings are all tournament-neutral, there's a tendency for teams to shuffle ranking relative to the tournament, pivoting around the tournament boundaries. We also see this around the Top 8 boundary, with more fuzz due to the higher concordance with the B&amp;T rankings in general. That is: this apparent structure is a reflection of the tournament structure itself, rather than the ranking methods here, which are structureless except for the Topological Sort.)
+
+In general, the pure ratio based models (our new model and log(ratio) least squares) agree with high correlation for the majority of the table, with the ranks around the 15th to 19th positions showing the worst concordance. As both methods are global optimisation schemes, we'd expect them to agree substantially on the rankings, given the same metric; the least squares method has the advantage of executing substantially more quickly! The topological sort has the highest rank disagreement with the other models, although it agrees with some general properties of the ordering (it is the only sort to agree generally with some of the B&amp;T Cup ranking properties, as it tends to lower the rank of teams who played less games, a property enforced on some teams by the tournament structure itself). The linear score difference least squares is also surprisingly congruent with the ratio-based metrics, outside of a few anomalies like the lower placement of the Netherlands, and it does tend to uprank and downrank the same teams as the ratio methods, relative to the B&amp;T tournament ranks.
+
+The pattern of up and down ranked teams in the 8-16 rank positions, with substantial agreement across all of the three latter rankings, is largely consequence of the "score difference from last bout" ranking chosen by B&amp;T. As we mentioned in other comments, there are issues with such a ranking mechanism, as score-difference is only a measure of the <em>relative</em> skill difference between two teams, not an <em>absolute</em> measure. As the difference in skill in the top 8 is unambiguously large, the score difference for 8-16 rank teams can be dominated by which of the Top 8 teams they played, rather than the actual difference in skill within the 8-16 rank.
+
+On the basis of this comparison, and for additional interest, we also calculated Least Squares rankings for the Men's National Teams who attended the Men's Roller Derby World Cup 2014. Again, we've colour coded for alterations relative to the official tournament rankings; as the MRDWC2014 allowed draws for 7th and 11th places, we've half-coloured teams which are ranked in the "7,8"th places or "11,12"th places when MRDWC2014 assigned them to the drawn 7th and 11th positions.
+<table>
+<tbody>
+<tr>
+<td>Rank with respect to Score Difference(Power is expected score difference)</td>
+<td>Rank with respect to Score Ratio(Power is expected score ratio)</td>
+</tr>
+<tr>
+<td><span style="color:#000000;">1. USA 0.0</span>
+<span style="color:#000000;"> 2. England -160.067</span>
+<span style="color:#000000;"> 3. Canada -196.457</span>
+<span style="color:#000000;"> 4. France -288.076</span>
+<span style="color:#000000;"> 5. Australia -414.936</span>
+<span style="color:#000000;"> 6. Wales -425.478</span>
+<span style="color:#000000;">7. Argentina -490.412</span>
+<span style="color:#008000;">8. Finland -566.641</span>
+<span style="color:#800000;">9. Scotland -573.354</span>
+<span style="color:#000000;">10. Ireland -576.750</span>
+<span style="color:#008000;">11. Belgium -676.660</span>
+<span style="color:#000000;">12. Germ</span><span style="color:#800000;">any -723.834</span>
+<span style="color:#800000;">13. Netherlands -738.020</span>
+<span style="color:#000000;">14. Sweden -788.960</span>
+<span style="color:#000000;"> 15. Japan -905.176</span></td>
+<td><span style="color:#000000;">1. USA 1.0</span>
+<span style="color:#000000;"> 2. England 0.273</span>
+<span style="color:#000000;"> 3. Canada 0.267</span>
+<span style="color:#000000;"> 4. France 0.132</span>
+<span style="color:#000000;"> 5. Australia 0.0664</span>
+<span style="color:#000000;"> 6. Wales 0.0531</span>
+<span style="color:#000000;">7. Argentina 0.0394</span>
+<span style="color:#000000;">8. Scotl</span><span style="color:#800000;">and 0.0271</span>
+<span style="color:#008000;">9. Ireland 0.0236</span>
+<span style="color:#800000;">10. Finland 0.0147</span>
+<span style="color:#008000;">11. Belgium 0.0136</span>
+<span style="color:#000000;">12. Nether</span><span style="color:#800000;">lands 0.00898</span>
+<span style="color:#800000;">13. Germany 0.00791</span>
+<span style="color:#008000;">14. Japan 0.00630</span>
+<span style="color:#800000;">15. Sweden 0.00491</span></td>
+</tr>
+</tbody>
+</table>
+As can be seen, despite being a single-elimination tournament, with relatively unknown team rankings, MRDWC2014 did remarkably well at ranking its teams compared with post-hoc statistical methods - even the differences in ranking are almost all 1 position shifts! This is partly because the tournament was half as big, of course, which makes ranking geometrically easier. It was also, however, because the tournament design was explicitly constructed with proper ranking in mind (this can be seen in the refusal to separate the drawn 7th, 11th positions on the principle that the paired teams never played each other, and so there is no ground truth to separate them), which helped to ameliorate the deficiencies of the single-elimination format. (Splitting the difference between the two least squares methods would seem to suggest that Ireland/Scotland/Finland deserve a three way tie for 8th place, and Germany/Netherlands should be tied for 12th rather than 11th, but these are small divergences from the tournament ranking.) This ranking, of course, does not include any other games outside the MRDWC2014, and so should only be considered representative of the state of the teams at that time.
+
+Returning to the Women's National Teams, our main conclusion is that we would really like to see Canada play Sweden at some point in the near future (and Finland take on Sweden in a rematch). In general, we'd like to promote the use of fairer ranking schemes, and more thought in planning large tournaments in order to encourage the fairer ranking of those competing. The example of MRDWC2014 shows that it is quite possible to manage a tournament, with care, to maximise the neutrality of the contest, whilst still admitting other constraints (such as getting teams from different geographical locations to play each other).
+
+<hr>
+
+Notes:
+
+<sup>1</sup>We have to use log(score ratio) for a least squares regression to make the measure linear. This issue with the linearity requirement was one reason we didn't adopt a least squares method for our initial inference model.
+
+<sup>2</sup>For example, <a href="http://www.math.duke.edu/~idrayer/2012REU.pdf">Sports Rankings REU Final Report 2012</a> notes that least squares minimisation provides the most accurate predictive rankings for Basketball and Football out of all of the (non-simulational) methods they compare, and the <a href="http://www.mathaware.org/mam/2010/essays/ChartierBracketology.pdf">Bracketology review</a> of College Basketball rankings and this <a href="http://www.science.uva.nl/onderwijs/honours-ai/201314/Sport_Rating_Systems.pdf">comprehensive analysis of ranking predictive systems</a> across many sports also show that "Massey"/least squares methods have good predictive power. Even in a comparison of <a href="http://www.few.vu.nl/~zszlavik/papers/IJAPR.pdf">football team prediction</a>, where home-team advantage is not modelled by simple Massey predictions, it is still one of the best "simple" models tested. This is unsurprising<sup>3</sup>, as least squares regression is one of the most tested means of statistical modelling of (linear) functions in modern science.
+
+<sup>3</sup>Of course, least squares methods, like our inference scheme, assume that "superiority at a game" is a transitive condition, which is not necessarily true in sports (you can imagine a team whose tactics are simply ill-suited to an opponent of similar ability). However, the real world performance tests of the method suggest that transitivity does hold strongly enough in many sports for least squares methods to provide good metrics.
+
+<sup>4</sup> <a href="http://flattrackstats.com">FlatTrackStats</a> uses <a href="http://en.wikipedia.org/wiki/Elo_rating_system">Elo</a> ranking methods instead, which do not assume transitivity, and have similar performance properties to Massey least squares rankings (the <a href="http://flattrackstats.com/about/algorithm/detailed">FTS algorithm</a> uses a normalised score difference method, slightly different to our pure ratio, to determine team strength, for the same "scale-invariance" property that we value<sup>5</sup>, and also apply a non-Gaussian error estimator). Elo rankings tend to perform better with lots of contests between players, as the estimator works by "transferring" points from a losing team to a winning one. This also means that it scales better with huge numbers of contests - it's a good choice for FTS to use, given the size of their bout database. Global estimator methods, like linear least squares, are better suited to tournament style prediction, however, where the number of contest pairs is small compared to the total space, and the games are all played in a relatively short timeframe (and there's no home-field advantage). The supplied python scripts also generate a ranking based on the FTS normalised score difference using least squares optimisation, so the interested reader can generate the pseudo FTS ranking themselves. We don't publish it here to avoid filling the table with too many very similar results (the rankings produced are generally half-way between the score difference and pure ratio least squares rankings, with the only significant deviation being a particularly low estimated ranking for Portugal, which we don't really understand).
+
+<sup>5</sup>Direct evidence in favour of scale-invariant ratio measures like log(ratio) and FTS style "normalised score difference" comes from the Men's Roller Derby World Cup. Belgium and Japan faced each other twice during the tournament, once in the group stage and once in a full length bout, as did Germany and Ireland. Computing the ratio of scores and the normalised difference of scores for both bouts produces estimated relative strengths for the two teams which match very well (almost perfectly for Germany/Ireland, and within 20% for Belgium/Japan, where we would expect a higher disparity due to Japan's own rapid skill development). Computing the score difference does much more poorly (off by 100%+ in both cases)!</body></html>

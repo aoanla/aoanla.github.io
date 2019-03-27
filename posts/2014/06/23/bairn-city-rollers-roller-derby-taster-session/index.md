@@ -1,0 +1,4 @@
+<html><body><a href="/2014/06/10374880_584126878369815_5876659374843654954_n.png"><img src="http://scottishrollerderbyblog.com/2014/06/10374880_584126878369815_5876659374843654954_n.png" alt="10374880_584126878369815_5876659374843654954_n" width="614" height="226" class="aligncenter size-full wp-image-3507"></a>
+
+<a href="http://derbygeek.co.uk/">Bairn City Rollers</a> are holding a Roller Derby taster Session. If you fancy going along to see what all the fuss is around one of the fastest growing sports in the world, then contact BCR at the email address on the <a href="https://www.facebook.com/events/872422139449893/">Facebook</a> event page.
+The event takes place at The Mariner Centre, Falkirk on Thursday the 26th of June at 8:30pm. Cost is £5 and kit is available to try. Please ensure you email BCR to register your interest in advance.</body></html>

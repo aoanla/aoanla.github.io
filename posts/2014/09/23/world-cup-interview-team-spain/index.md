@@ -1,0 +1,119 @@
+<html><body><p>As we mentioned yesterday, this week's <a href="http://rollerderbyworldcup.com">B&amp;T Roller Derby World Cup</a> coverage is focussing on Europe, specifically Southern Europe.
+
+We start today with new team to the cup, <a href="https://www.facebook.com/TeamSpainRollerDerby">Team Spain</a>.
+
+This interview was conducted in July. Since the interview, Team Spain competed in the <a href="http://euroderbytournament.eu/">European Championship Tournament</a>, placing 2nd-from-bottom (defeating Team Portugal, who we will cover tomorrow).
+
+Violent Femme was happy to answer our questions in a face to face interview in Barcelona. This article is edited from the conversation we had. [This article has been edited on the 24th of October to include Team Spain's fundraising site: <a href="http://www.lanzanos.com/proyectos/volando-voy-volando-vengo-dallas-2014/L/EN/">http://www.lanzanos.com/proyectos/volando-voy-volando-vengo-dallas-2014/L/EN/</a> ]
+
+-
+
+<a href="/2014/09/teamspain.jpg"><img class="wp-image-3842 size-large" src="http://scottishrollerderbyblog.com/2014/09/teamspain.jpg?w=614" alt="Team Spain logo - " width="614" height="614"></a> Team Spain Logo: Alicia Reyes Schwartz
+
+-
+
+<strong>So, Team Spain has quite an international line-up, how are you handling the travel and the language issues?</strong>
+
+We have people from London, from Tenerife, Barcelona, Lisbon, Madrid, Cáceres... One of our players lives in Manchester, some are in the US and Canada…  Right now it’s quite even.
+
+[As to the language barrier] It’s derby, so it’s quite an international language. Even in Spanish derby’s early stages it was never a huge problem to have English in the middle – we had to read the rule set in English anyway, and most derby stuff on the Internet is in English.
+
+[On travel] it’s tricky. But actually, you know, our country’s geographical spread is not that good anyway – Tenerife is down by the coast of Africa, and it’s super expensive for us to fly there and for them to come here [Barcelona]. So, I think that’s our biggest handicap – if most of the girls were from Madrid, or Valencia, I guess it would be more manageable.
+
+Right now, what we’ve had is two practices together – one in Barcelona, one in Tenerife – basically because it’s where the most skaters are.
+
+<strong>All the flying between Barcelona and Tenerife must place a significant cost on your training, compared to most of the other national teams?</strong>
+
+OMG, it’s so expensive. And we’re all so broke. Yeah, there are planes involved [for Team Spain] every single time. It’s just really, really tricky. Because even Lisbon is closer – if we had to travel to Portugal!  So, you know, having players from the UK and US and Canada, like we have and had, didn’t pose much of an additional problem.
+
+<strong>So, what are your aims coming in to the World Cup?</strong>
+
+That’s a good question.  We’re aiming to perform to the best of our ability. We’re well aware that we don’t have that much experience, both within the World Cup –we’re new to that—, but also as players. I mean, Tenerife is a really good league, they’re such an amazing set of skaters. However, I think they’ve existed for about four years and their ability to play bouts is really limited due to their geographical location.
+
+Then Barcelona – we have less problems to have bouts, but I wouldn’t say that we’re all that experienced whatsoever. Also, Barcelona is a city where, you know, people come and go.
+
+<strong>So, you’ve had a lot of turn over?</strong>
+
+Yeah.  Most of the selected players from Barcelona have been there pretty much from the get-go.
+
+I do think that we have a chance against the smaller, newer, teams. But I don’t even want to jinx it – ask me again after the European Tournament in September, and I’ll have a better gauge. Hopefully, September will give us a bit of an idea of where we’re standing, what we need to work on.
+
+ 
+
+<strong>And any teams you’re particularly looking forward to skating against at the Cup itself?</strong>
+
+ 
+
+My personal feeling is that I’d love to play New Zealand. Like, love, love. And [playing] England  would be so awesome. I mean, I’m sure that after that, they’d have to put us all out of commission, but it would be so amazing.
+
+I love when you go against a much stronger team, it’s kind of like you see that there is no roof to what you’re doing, so it doesn’t matter how good your team is. When you play against England, or Germany, or France, and you just see them work like that, it’s just so inspiring.
+
+It just shows that you have to keep going.  That there’s no comfortable spot, you know? No-one should ever get comfortable, and that’s the fun of it. So, it can inspire people who might be a little shy, or those who have lots of potential but might not display it just out of fear: “I don’t want to hit as hard as I can” – No, you should! You should and you can! And, look, nothing happens, no-one gets hurt… or some people get hurt, but rarely.
+
+So I’m looking forward to a big challenge. As well, I would really love to win some bouts with Team Spain. That would be amazing. I don’t want to name names, but I think we have some chances – we’re probably not going to place, but we will win something. Maybe some afterparties or something! But in all seriousness, we’re looking forward to it, it’s going to be such an incredible experience. And I’m looking forward to seeing my friends, you know, some friends in Team Scotland, some friends in Team Sweden, some friends in Team England, some friends in Team Portugal, as well.
+
+<strong>Given your increased costs especially, how are you raising money for the trip? Crowdfunding seems to be popular now…</strong>
+
+Yeah, we’ve just started a crowdfunding page; we’ve been studying different options. But the thing is that it is a little difficult because Spain right now is not in its best moment, economically; people don’t donate. So we’ve been focusing on merch, that’s been probably our biggest funds income.
+
+<strong>Well, in my experience, merchandise is always the bigger source of actual funds for most leagues in any case.</strong>
+
+Yeah, I mean, I guess it happens with everything. We’re thinking of different options and there are things happening that I don’t want to jinx. But there’s options, like maybe some sponsorship, not that we’ll  be getting monetary rewards from it, but we’re working on having this Spanish company pay for our uniforms, for example.
+
+One of the first questions that was asked to us, when we tried out, before we even made any ‘Team Spain’, or anything was: “Could you afford it?” In case there’s no funds. So, that’s one of the things that everyone understood from the beginning. That we might each have to pay for our own ticket.
+
+We also had an open scrimmage in Tenerife, there was some money from that. We’re going to do the same now in Barcelona, so, I mean, maybe you don’t make a lot of money, but you make some.
+
+ 
+
+<strong>Finally, several of the national teams seem to have decided to skate under their legal names, rather than their derby names. Others are keeping their skate names. Do you (or Team Spain) have feelings on this?</strong>
+
+I think it’s a tendency that’s happening more and more. To give derby some legitimacy, to make the sport more of a sport. I don’t know. I don’t really have thoughts on that. Some days I’m like, “No, I want to be Violent Femme forever!”, and other days I’m like, “I could just be Mia, and just own it”. I’m not a persona, it’s just fun.  But I can see why people go under their legal names. Also, I think one of the things that use to make roller derby special is that it was this small gang of ladies with cool nicknames, but when everyone has a cool nickname, then it’s not cool anymore! I do like derby names though, because usually you speak about someone, you know it’s just that one player. I don’t know how true this is anymore, because I think there’s like four or five ‘Violent Femme’s out there.
+
+<strong>But, you said that “legal names give some legitimacy” – the counter argument is that this is a kind of retreat from the position that derby is already legitimate, even with skate names.</strong>
+
+I think everyone knows [that roller derby is legitimate], though. I guess it’s like one of these tendencies… like everyone started off skating wearing fishnets, and then they realized that sports clothing is a lot more comfortable. I don’t know, this is my personal opinion, but there’s also been a trendification of the sports clothes, if that makes any sense? So there are all these leggings with cool patterns, and there’re sporty but super-fashionable.
+
+And it’s awesome, by all means – I’m a legging-loving lady!—, but the leggings are kind of the new fishnets;  and after the leggings it’ll be something more serious and more sporty. With derby there’s always these two currents that kind of criss-cross, between “we’re a serious sport”, and “but we’re so punk!”
+
+ 
+
+ 
+
+Team Spain’s roster is:
+
+ 
+
+#11 Rakel Mesa
+
+#111 Esther Arocha
+
+#12 Mercedes
+
+#17 Pólvora
+
+#19 Lola Vulkano
+
+#22 Sherry Bomb
+
+#23 Maggie Love
+
+#25 Malicia
+
+#247 Violent Femme
+
+#301 MiniRoss
+
+#314 Stacy Malibú
+
+#4 Angry Kris
+
+#72 Cookie Monster
+
+#77 Teremoto
+
+#78 Hija de Odín
+
+#8 Dadá
+
+#83 La Mano</p></body></html>

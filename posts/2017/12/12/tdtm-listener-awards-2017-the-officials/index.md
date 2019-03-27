@@ -1,0 +1,555 @@
+<html><body><p>For some years now, the Talk Derby To Me Podcast has been running their community-nominated and voted Listener Awards, recognising members of the Roller Derby community in various categories. The current 2017 Awards voting form <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgboRdciRtRrjpUl7KTQRhj0_0ItZmQBENvFRe8wsa13VTjA/viewform"><strong>is here</strong></a>.
+
+Last year, TDTM added several categories, including one to recognise NSOs as they're a somewhat unsung part of the Roller Derby space, and yet essential to the sport. In response, we created a <a href="https://scottishrollerderbyblog.com/2016/12/16/tdtm-awards-the-nsos/"><strong>companion post</strong></a> allowing those nominated NSOs to say a bit about themselves - because the problem with being unsung is that people tend to be unaware of what it is you're doing, and how much you're doing!
+
+This year, we're repeating the initiative, but opening it out to all Officials (nominees for the NSO and Referee awards) - collating responses from nominated Officials <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfNlbwAKIpxvo_ADH_YtSUmq3R07e4xJJFgfm2XH8JGvJ0Wng/viewform?usp=sf_link">here.</a></strong>
+
+At present, we have about 50% responses, and we'll be updating the below post if anyone else responds.
+</p><h2>Referee of the year</h2>
+<h3>Igor Maniac</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26402" src="https://scottishrollerderbyblog.com/2017/12/igor-maniac.jpg?w=768" alt="Igor Maniac" width="768" height="1024"></div></td>
+<td>
+<p class="p1">Croydon Roller Derby / Southern Discomfort Roller Derby</p>
+</td>
+<td><b>7 years</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event: </b></b>
+<p class="p1">The Big O was a fantastic event. Locally, I really enjoyed EuroClash</p>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year: </b></b>
+<p class="p1">I have travelled a lot over the past year to help promote the level of officiating in Europe. I still mentor a number of officials and love helping out wherever possible. Having reached 640 games this year my hope is that, in those games, I have managed to continue to help build the knowledge and confidence of both skaters and officials throughout Europe and abroad.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Duncan Disorderly</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Funk As Puck</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-medium wp-image-26401" src="https://scottishrollerderbyblog.com/2017/12/20369088_10159196283660235_6473929544143145711_o.jpg?w=300" alt="Funk as Puck" width="300" height="300"></div></td>
+<td><strong>Independent (Portsmouth)</strong></td>
+<td><b>4.5 years (3.5 on skates)</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event: </b></b>Road to Manchester</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year: </b></b>Travelling to new places to meet new leagues, and helping less-experienced refs develop their respective skills.</td>
+</tr>
+</tbody>
+</table>
+<h3>Seb</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-large wp-image-26400" src="https://scottishrollerderbyblog.com/2017/12/23669151_10155913922634321_987640007465378756_o.jpg?w=1024" alt="Seb (Lille)" width="1024" height="683"></div></td>
+<td><strong style="font-family:inherit;font-size:inherit;">Lille Roller Girls (France)</strong></td>
+<td><b>5 years</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event: </b>Eastbourne Extreme</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year: </b></b>Is "I tried to give my best" a reasonable answer ?
+<p class="p1">Otherwise, I constantly enjoyed derby, I did my best to grasp the new rules. I've taken time to review some footages, ask questions, answered a few ones; and I also did mistakes.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Big Smack &amp; Fries (Newcastle Roller Girls)</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-medium wp-image-26423" src="https://scottishrollerderbyblog.com/2017/12/20728996_10102142273529082_2678593144560131707_o.jpg?w=300" alt="BigSmack" width="300" height="300"></div></td>
+<td><b>Newcastle Roller Girls, Tyne &amp; Fear Roller Derby</b></td>
+<td><b>7 years</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event: </b></b>Not to sound like an absolute twat, but Malmö playoffs was an amazing experience</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year:</b></b> A lot of jammer reffing</td>
+</tr>
+</tbody>
+</table>
+<h3>KTea</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-full wp-image-26397" src="/2017/12/ktea.jpg" alt="Ktea" width="960" height="960"></div></td>
+<td>
+<p class="p1"><strong>Croydon Roller Derby/ Southern Discomfort Roller Derby</strong></p>
+</td>
+<td><b>4 years</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event:  </b></b>That's a really tough question, The Big O and C.A.T are my joint favorite</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year: </b></b>I have been travelling all over for Roller Derby, anywhere in the UK, France multiple times, USA and Belgium, my games have included WFTDA, MRDA and JRDA. And with this travelling and meeting some great officials, I have shared my knowledge of the rules and learnt so much.</td>
+</tr>
+</tbody>
+</table>
+<h3>Mags Payne (Newcastle Roller Girls)</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-medium wp-image-26396" src="https://scottishrollerderbyblog.com/2017/12/14380016_10100686642377194_6212990695481911800_o-1.jpg?w=600" alt="Mags" width="300" height="300"></div></td>
+<td><b>Newcastle Roller Girls</b></td>
+<td><b>5 years</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event: </b></b>Oooh either Louisey Rider Cup (super fun) or MEQ (super high level and scary)</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year: </b></b>
+<p class="p1">Changing league, focussing on reffing men's derby, pestering Power of Scotland, Head Reffing a lot, HRing Scotland's FIRST SANCTIONED MRDA GAME.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Righteous Oxide (Dundee Roller Girls)</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Glen Moreangry</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Jens Hötger</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26395" src="https://scottishrollerderbyblog.com/2017/12/21728784_169710093591642_7659644889462405129_o.jpg?w=1024" alt="Jens Hötger" width="1024" height="768"></div></td>
+<td><b>RuhrPott Roller Derby</b></td>
+<td><b>5 years (coaching), full time officiating 1 year</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event:  </b></b>The first ever WFTDA D1-Playoffs in Europe, a dream coming true for me and the community.</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year: </b></b>I was honoured to coach at the WFTDA Clinic in Manchester and help give knowledge to other officials. Worked my first full tournament season and made it to WFTDA-Playoffs. Started to NSO to widen my horizon and become a better official overall.</td>
+</tr>
+</tbody>
+</table>
+<h3>Belinda Fitzgerald</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Lee Gent (Big Whoop!)</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26417" src="https://scottishrollerderbyblog.com/2017/12/lee_gent_bigwhoop_headshot_preview.jpeg?w=1023" alt="lee_gent_bigwhoop_headshot_preview" width="1023" height="1024"></div></td>
+<td><b>Nottingham Hellfire Harlots</b></td>
+<td><b>1.5 years</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event: </b>Louisey Rider Cup 2017</td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year: </b>Training! I'm a relative rookie with a long way to go so I tried to get to every scrim, game and fun tournament I possibly could to build up skating and refereeing skills. Was lucky enough to get to put it into practice for BritChamps T3W, LRC and my home league this year.</td>
+</tr>
+</tbody>
+</table>
+<h3>Wonder Zebra</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+
+<hr>
+
+<h2>NSO of the year</h2>
+<h3>Blind Io</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26394" src="https://scottishrollerderbyblog.com/2017/12/21427582_1908186592778538_910509932593124088_o.jpg?w=450" alt="Blind Io" width="225" height="300"></div></td>
+<td><b>Independant (Edinburgh)</b></td>
+<td><b>Almost 4 years :O</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event: </b></b>It's either FINvitational or Malmö Playoffs. Both with astounding derby, crowds, hosting :)</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year:  </b></b>Less local, more travel. This was my first year of Crew Heading and Tournament Heading also!</td>
+</tr>
+</tbody>
+</table>
+<h3>X Ray Ted</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-large wp-image-26399" src="https://scottishrollerderbyblog.com/2017/12/xrayted.jpg?w=1024" alt="XRayTed" width="1024" height="768"></div></td>
+<td><b>Rainy City Roller Derby</b></td>
+<td><b>3.5 years (ish)</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event: </b></b>I <span class="s1" style="font-family:inherit;font-size:inherit;">❤</span><span style="font-family:inherit;font-size:inherit;">️ MCR fundraiser.</span></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year: </b></b>Working with British Champs as a divisional head, broadening my horizons with some European tournaments and generally just learning everything I can from the amazing bunch of officials I've worked with this year at home and away.</td>
+</tr>
+</tbody>
+</table>
+<h3>Iceman (Gothenburg)</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26433" src="https://scottishrollerderbyblog.com/2017/12/icemanchamps2017markoniemela.jpg?w=200" alt="IcemanChamps2017MarkoNiemela" width="200" height="300"></div>
+ </td>
+<td><b>Gothenburg Roller Derby</b></td>
+<td><b>almost 4 years</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event: </b>Well, the final game of WFTDA Champs is a no-brainer here. A experience I will never forget. Playoffs in Malmö and Dallas also was a blast. FINvitational was excellent. The Big O, Skate im Ring, Swedish Champs. It's hard to pick!</td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year: </b>Travelling. Reaching a lot of my goals. CHNSO at The Big O, CHNSO at Malmö Playoffs and of course, getting to do WFTDA Champs and being on the crew for the final game. Did I mention travelling?</td>
+</tr>
+</tbody>
+</table>
+<h3>Somali Clarke</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Yoshi</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-large wp-image-26393" src="https://scottishrollerderbyblog.com/2017/12/13724064_1862000684033096_5497674975027850236_o.jpg?w=1024" alt="Yoshi" width="1024" height="643"></div></td>
+<td><b>Suffolk Roller Derby</b></td>
+<td><b>8 years</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event: </b></b>It's usually Eastbourne Extreme but I wasn't able to make it this year.<span class="Apple-converted-space" style="font-family:inherit;font-size:inherit;">  </span><span style="font-family:inherit;font-size:inherit;">West Track Story 5 was incredible, and so well organized.</span></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year:  </b></b>Tattoo Freeze, Wintourope, a few boot camps, some Brit Champs, West Track Story 5, Road to Manchester, some Sevens, and some home Suffolk &amp; Cambridge bouts.<span class="Apple-converted-space" style="font-family:inherit;font-size:inherit;">  </span><span style="font-family:inherit;font-size:inherit;">(plus anywhere the masks of my face turned up)</span></td>
+</tr>
+</tbody>
+</table>
+<h3>Abi 'Bomb Weasley' Smith</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26425" src="https://scottishrollerderbyblog.com/2017/12/22712579_10155797958234801_9106142030972842195_o.jpg?w=300" alt="Bomb Weasley" width="300" height="300"></div></td>
+<td><b>Independent (Portsmouth)</b></td>
+<td><b>4 years</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event: </b>MEQ</td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year: </b>Apart from trying not to die of septic shock mid-season (true story); DHNSO for Tier 1 Mens, MEQ, EE, MRDA Champs, British Champs, THNSO for Team Wales' Road to Manchester and a smattering of games across Wales and the South Coast.</td>
+</tr>
+</tbody>
+</table>
+<h3>Resting Bexface</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Jurassic Snark</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Bee 'Badger' Tait</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Amy 'Halo' Jones</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26414" src="https://scottishrollerderbyblog.com/2017/12/jones-headshot.jpg?w=300" alt="_Jones headshot" width="300" height="300"></div></td>
+<td><b>UKRDA Independent / Oxford Wheels of Gory</b></td>
+<td><b>4 years</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event: </b>The MRDA championships in Wales (AKA ManChamps). It really pushed me to my limits, but was excellent derby to officiate and such awesome crews to work with. Proper officials bonding times.<b>  </b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year: </b>Getting into European events, working more tournaments, passing on my (limited) knowledge and trying to work outside of my comfort zone.</td>
+</tr>
+</tbody>
+</table>
+<h3>Dor Iain Grey</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-full wp-image-26392" src="/2017/12/dor-iain-grey.jpg" alt="Dor-Iain Grey" width="720" height="720"></div></td>
+<td><b>Bath Roller Derby Girls</b></td>
+<td><b>3 years</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event: </b></b>C.A.T - Creatures of the Abyss Tournament</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year: </b></b>This year I've been NSOing (and refereeing and GTOing) all over the place - visiting Belgium, France, Denmark, Sweden, and Italy, as well as travelling the UK from Cornwall to Newcastle. Looking forward to more big things coming up in 2018!</td>
+</tr>
+</tbody>
+</table>
+<h3>Sara Tonin</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-full wp-image-26391" src="/2017/12/sara_tonin.jpg" alt="Sara_Tonin" width="551" height="750"></div></td>
+<td><b>Rainy City Roller Derby</b></td>
+<td><b>3 years (almost)</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b> MRDA Champs</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year: </b></b>I've just finished my 2nd and final year as THNSO of men's Brit Champs, have worked a variety of tournaments across Europe, mainly on stats crews, and was incredibly lucky to work as THNSO of the 1st non-North American hosted MRDA Championships.</td>
+</tr>
+</tbody>
+</table>
+<h3>Dr Stevel</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Purple Pain</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"><img class="alignnone size-large wp-image-26387" src="https://scottishrollerderbyblog.com/2017/12/hnso-714-purple-pain-e1513075381443.jpg?w=1464" alt="HNSO 714 Purple Pain" width="732" height="1024"></div></td>
+<td><b>Spa Town Roller Derby</b></td>
+<td><b>3 years (in March)</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event: </b></b>This is hard!! Europe - Stronger Things, Lille, because it was my first time officiating Juniors roller derby and there was a half time Cheerleading performance! If in the UK only, probably Last Action Heroes? My 100th game and birthday weekend combination! However LRC and Road to Manchester - both after parties were AWESOME!! Officials totally won those after parties</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year:  </b></b>TRAVELLING FOR ALL THE DERBY!! 123 games this year alone (so far) includes 34 British Champs Games, 6 tournaments / game days involving international World Cup teams; 5 European tours; 5 fun tournaments / games and 2 junior games!!</td>
+</tr>
+</tbody>
+</table>
+<h3>Frankie Jaxxs</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Barney Trubble</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Jo 'Tinks' Hawalewicz</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Alex Wells</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3"></td>
+<td><b>League</b></td>
+<td><b>Time</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Favourite Event:</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>50 Words about your year:</b></td>
+</tr>
+</tbody>
+</table>
+<h3>Miss Fury</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26420" src="https://scottishrollerderbyblog.com/2017/12/pic-by-nsp189.jpg?w=1024" alt="Miss Fury: Pic by NSP189" width="1024" height="683"></div></td>
+<td><b>Dublin Roller Derby</b></td>
+<td><b>4 years (sporadically for 3)</b></td>
+</tr>
+<tr>
+<td colspan="2"><b><b>Favourite Event: </b></b>Tie between EuroClash as it was my first major tournament and French Champs as there was a great social side, and I NSOed my 100th game there.</td>
+</tr>
+<tr>
+<td colspan="2"><b><b>50 Words about your year: </b></b>I decided to give officiating a proper go this year so applied to lots of tournaments. It has been a great experience as I feel like I learned a lot about NSOing and got to meet some lovely people along the way.</td>
+</tr>
+</tbody>
+</table></body></html>

@@ -1,0 +1,401 @@
+<html><body><p>Outside of the USA, there were arguably three big "single date" tournament events last weekend:
+Newcastle Roller Girls' <strong><em>EuroClash</em></strong>, hosting European leagues, a WFTDA Recognised Tournament
+Okinawa and Japan's <strong><em>Tomodachi Derby Tournament</em></strong>, hosting East-Asia/Pacific and Alaskan leagues, with a WFTDA Sanctioned Tier
+Mendoza, Argentina's Lado Oscuro Roller Derby's <strong><em>Quad Wars</em></strong>, hosting B/C level Latin American leagues.
+
+There's a lot of games in all of them, so there's plenty of meat for statistical inference.
+
+Let's start with EuroClash.
+
+<img class="alignnone size-full wp-image-13774" src="/2017/01/euroclash.jpg" alt="euroclash" width="851" height="315">
+
+EuroClash was arranged as a pure invitational tournament, with structure set mostly by the participants' desires for opponents. As a result, EuroClash did not post a "winner" of the tournament. All bouts were WFTDA Sanctioned, as befits a WFTDA Recognised Tournament.
+
+The participating teams for all but the last fixture were: Newcastle Roller Girls, Leeds Roller Derby, Middlesbrough Roller Derby, Tiger Bay Brawlers, Central City Rollergirls, Bear City Roller Derby (Berlin), Paris Rollergirls, Auld Reekie Roller Girls (Edinburgh) and Dublin Roller Derby. (Interviews with the teams can be found on this very blog here: <strong><a href="https://scottishrollerderbyblog.com/tag/euroclash/">https://scottishrollerderbyblog.com/tag/euroclash/</a></strong> )
+
+The scores (from <strong><a href="http://flattrackstats.com/tournaments/89165">FlatTrack Stats</a></strong>) are:
+</p><table>
+<tbody>
+<tr>
+<td><em>TBB [Tiger Bay Brawlers]</em></td>
+<td><em>161</em></td>
+<td><em>CCR [Central City]</em></td>
+<td><em>167</em></td>
+</tr>
+<tr>
+<td>BCRD [Bear City]</td>
+<td>228</td>
+<td>NRG [Newcastle]</td>
+<td>94</td>
+</tr>
+<tr>
+<td><strong>ARRG [Auld Reekie]</strong></td>
+<td><strong>194</strong></td>
+<td><strong>MRD [Middlesbrough]</strong></td>
+<td><strong>99</strong></td>
+</tr>
+<tr>
+<td><em>LeedsRD [Leeds]</em></td>
+<td><em>94</em></td>
+<td><em>DRD [Dublin]</em></td>
+<td><em>312</em></td>
+</tr>
+<tr>
+<td>NRG</td>
+<td>76</td>
+<td>PRG</td>
+<td>238</td>
+</tr>
+<tr>
+<td><em>BCRD</em></td>
+<td><em>177</em></td>
+<td><em>ARRG</em></td>
+<td><em>176</em></td>
+</tr>
+<tr>
+<td><em>PRG</em></td>
+<td><em>192</em></td>
+<td><em>DRD</em></td>
+<td><em>85</em></td>
+</tr>
+<tr>
+<td><em>ARRG</em></td>
+<td><em>301</em></td>
+<td><em>LeedsRD</em></td>
+<td><em>93</em></td>
+</tr>
+<tr>
+<td>TBB</td>
+<td>117</td>
+<td>PRG</td>
+<td>203</td>
+</tr>
+<tr>
+<td>NRG</td>
+<td>135</td>
+<td>CCR</td>
+<td>177</td>
+</tr>
+<tr>
+<td><strong>MRD</strong></td>
+<td><strong>238</strong></td>
+<td><strong>BCRD</strong></td>
+<td><strong>89</strong></td>
+</tr>
+</tbody>
+</table>
+As commentators have noted (including The Derby Apex), there's some significant departures from prediction here, which we've highlighted in two different ways. Bolded results are surprising in both European and WFTDA rankings terms, whilst Italic are surprising in terms of WFTDA rank only [in this sense, we mean explicitly "from the WFTDA rankings, not from FTS's ranking based on WFTDA Sanctioned play].
+
+It's pretty clear that there are several patterns here: two ranking errors in WFTDA (Leeds Roller Derby inheriting the ranking from Leeds Roller Dolls, and Paris Rollergirls' known underranking) are responsible for the majority of the `surprises' between them. Anyone who had seen LeedsRD play in British Champs would have expected the same high individual-skill, but teamwork needing more time to gel playstyle we saw in EuroClash - which is to say that there were moments of brilliance, particularly from their jammer rotation (Killaroo, Shin Pain and Little Dark One standing out for us, and in the stats), but there's still some place to go with the cohesion.
+And Paris Rollergirls' determination to reach Division 2 playoffs this year is backed by considerable skill and effort in training over the last year - and a consciously constructed schedule of fixtures designed to gain them WFTDA ranking as quickly as possible.
+
+In this context, then, the real surprises are: Tiger Bay Brawlers holding Paris Rollergirls to their expected performance [including holding them to zero points for the first half of the first period], Central City, in turn, 's surprising win over TBB in the first bout of the tournament, Auld Reekie Roller Girls matching their European expectations of tying Bear City to a 1-point win...
+
+...and the curious case of Middlesbrough Roller Derby. The MRD bouts are the only bouts which are a really surprising result in terms of FTS - in the one case, MRD massively underperforming versus Auld Reekie, and in the second MRD massively overperforming against Bear City! (And we mean massively in both cases - Middlesbrough might have been expected to beat Auld Reekie with that kind of points margin, not lose to them by it!)
+
+The possibility, exists, of course, that it was the other teams which were unpredictable... but we can test that with the power of statistics.
+
+We performed a standard linear regression against the results from EuroClash, using score ratios as our measure of performance. As we've explained before, this assumes that the strengths of each team are simply related to each other by their performance - so if Team A is twice as strong as Team B, and three times as strong as Team C, then Team B versus Team C should give a 2/3 ratio win for the B team. Of course, performance varies from game to game, but we can use an "R-squared" value to measure just how good the approximation is for our results. A value close to 1 indicates that the results are very well described by this kind of model, whilst a value close to 0 indicates that no such relationship exists at all.
+
+Running the regression against the full set of results above gives an R-squared<sup>1</sup> of <em>0.39</em>, a disappointingly low value for Roller Derby tournaments in general (which tend to be around 0.7 or higher).
+
+However, given that we know that the MRD results are inconsistent, we can rerun the regression on the results, minus one or both of the MRD games. In this case, we get an pleasingly high R-squared of around <em>0.93</em> - actually very high for a tournament.
+This suggests that, whilst the results might have been surprising when compared with WFTDA rankings, the performance of the teams (other than Middlesbrough) across EuroClash was remarkably consistent.
+
+For interest, then, the relative power-rankings (which should be in the ratio of the points scored between two teams) are:
+
+Middlesbrough Roller Derby <strong>184</strong> *
+<em>Paris Rollergirls</em> <strong>100</strong>
+Middlesbrough Roller Derby <strong>76</strong> *
+Berlin City Roller Derby <strong>69</strong>
+Auld Reekie Roller Girls <strong>62</strong>
+Tiger Bay Brawlers <strong>51</strong>
+Dublin Roller Derby <strong>50</strong>
+Central City Rollergirls <strong>47</strong>
+Newcastle Rollergirls <strong>32</strong>
+Middlesbrough Roller Derby <strong>31</strong> *
+Leeds Roller Derby <strong>17</strong>
+
+where the three entries for Middlesbrough represent their performance against Berlin (184), Auld Reekie (31) and the average of the two (76). That average is around where we would expect MRD to actually have performed if they were consistent, which is interesting.
+
+Generally matching the results against the existing rankings produces the best matches if we assume that Paris, Dublin and perhaps Auld Reekie, are underranked, and LeedsRD are overranked, with smaller shifts for the others.
+
+This also means that, if we were awarding a Championship to any team, it would be the entirely expected Paris Rollergirls!
+
+Paris will be competing against Bear City only this coming weekend, so this will be a good test of their true strength...
+
+-
+Of course, the final event at EuroClash was the Team Scotland Roller Derby versus Team Ireland Roller Derby bout.
+A rematch of the game played at Road to TBC, where both teams were in their training roster (and Ireland had barely selected that), where Ireland won - this time Team Scotland's competition 20 were playing a more-experienced, but still training, Ireland. (Both teams had many skaters from Auld Reekie and Dublin's rosters, respectively, as well as other teams.)
+
+It's fair to say that there was a significant difference in the result, with Road to TBC's tough-but-convincing Irish victory replaced by a tight even score in at the end of the first period, becoming a strong Scottish victory by the end of the second.
+
+The final result, <strong>209</strong> Scotland : <strong>128</strong> Ireland is stronger than the expected result if Dublin had played ARRG, emphasising the importance of the other leagues making up each National Team; however, at half time, the result was a near tie.
+
+<hr>
+
+<sup>1</sup>For the statistically inclined, this is actually the adjusted R-squared, not the bare R-squared. We're also using the F-statistic for these regressions, but it closely follows adj. R-squared here.
+
+<hr>
+
+Click here: for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/2">Tomodachi</a></strong> and here: for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/3">Quad Wars</a></strong>
+
+<!--nextpage-->
+
+Over in Okinawa, the Tomodachi Derby Tournament had three tiers - a WFTDA sanctioned tier, an unsanctioned women's tier, and the men's tier (with just two competitors). Interviews with all the participants are available here: <strong><a href="https://scottishrollerderbyblog.com/tag/tomodachi-derby-tournament/">https://scottishrollerderbyblog.com/tag/tomodachi-derby-tournament/</a></strong>
+
+<img class="aligncenter size-medium wp-image-14076" src="https://scottishrollerderbyblog.com/2017/01/tomodachi.png?w=300" alt="tomodachi" width="300" height="300">
+
+ 
+<h3>WFTDA-Sanctioned Tier</h3>
+Competing in the Sanctioned Tier were: Okinawa Roller Derby, Tokyo Roller Girls, Devil Dog Derby Dames (the 3 Japanese leagues), Pacific Roller Derby (Hawai'i) and Fairbanks Rollergirls (Alaska, USA).
+This was a full round-robin, for a total of 10 games between the 5 teams.
+
+The results were [<strong><a href="http://flattrackstats.com/tournaments/88944">FTS</a></strong>]:
+<table>
+<tbody>
+<tr>
+<td>D4 (Devil Dog Derby Dames)</td>
+<td>305</td>
+<td>FR (Fairbanks Rollergirls)</td>
+<td>156</td>
+</tr>
+<tr>
+<td>TRG (Tokyo Rollergirls)</td>
+<td>167</td>
+<td>PRD (Hawai'i Pacific Roller Derby)</td>
+<td>138</td>
+</tr>
+<tr>
+<td><strong>ORD (Okinawa Roller Derby)</strong></td>
+<td><strong>124</strong></td>
+<td><strong>D4</strong></td>
+<td><strong>232</strong></td>
+</tr>
+<tr>
+<td>PRD</td>
+<td>138</td>
+<td>FR</td>
+<td>188</td>
+</tr>
+<tr>
+<td>ORD</td>
+<td>164</td>
+<td>FR</td>
+<td>170</td>
+</tr>
+<tr>
+<td>ORD</td>
+<td>126</td>
+<td>TRG</td>
+<td>127</td>
+</tr>
+<tr>
+<td>D4</td>
+<td>251</td>
+<td>PRD</td>
+<td>174</td>
+</tr>
+<tr>
+<td>D4</td>
+<td>167</td>
+<td>TRG</td>
+<td>169</td>
+</tr>
+<tr>
+<td>ORD</td>
+<td>172</td>
+<td>PRD</td>
+<td>108</td>
+</tr>
+<tr>
+<td>FR</td>
+<td>76</td>
+<td>TRG</td>
+<td>212</td>
+</tr>
+</tbody>
+</table>
+The most surprising result is highlighted - Okinawa Roller Derby (which renamed from Kokeshi Roller Dolls just before the tournament) are usually ranked around the same as their fellow Okinawans in Devil Dog Derby Dames.
+
+Running our statistical regression on the tournament, we get an R-squared value (our measure of how "consistent" the games all are) of <em>0.44</em>, which suggests that there's definitely at least one team which was variable in performance over the two days.
+
+Interestingly, whilst you might expect that removing results such as the ORD v D4 score from the set would improve the R-squared factor for our fit, this is not the case - there's very little change in the R-squared for single-bout changes for the Tomodachi. We believe that this reflects the difference in tournament-experience of the teams involved, versus the higher ranked teams at EuroClash (who are more used to managing their rosters and effort across a long event).
+
+Resulting strengths of the WFTDA tier of Tomodachi, then, are:
+
+Tokyo Roller Girls <strong>100</strong>
+Devil Dog Derby Dames <strong>100</strong>
+Okinawa Roller Derby <strong>82</strong>
+Hawai'i Pacific Roller Derby <strong>60</strong>
+Fairbanks Rollergirls <strong>60</strong>
+
+where we would give the "unofficial championship", by a whisker, to Tokyo.
+
+Your next chances to see some of these teams: Devil Dog Derby Dames will be competing in Hawai'i's Big Island Brawl against the rest of Hawai'i, and teams from the continental USA (June), where you will also find Pacific Roller Derby. Okinawa Roller Derby are off to Europe to play in a tournament hosted by Rollergirls of the Apocalypse, in Kaiserslauten, Germany. Fairbanks are concentrating on their Alaskan neighbours, with the UWR State Tournament coming up in May. And Tokyo Roller Girls are looking for people to play them, so do ask!
+<h3>Unsanctioned Tier</h3>
+With two of the three competing teams in the unsanctioned tier essentially exhibition teams (Pan-Asian Spring Rollers representing the Chinese and Thai derby leagues, and Team Women's Roller Derby Japan an open team for skaters who wanted to compete), and the third a Tokyo Roller Girls' home team (Yokosuka Sushi Rollers), there were no expectations on the three bouts.
+
+The results were:
+<table>
+<tbody>
+<tr>
+<td>YSR (Yokosuka Sushi Rollers)</td>
+<td>307</td>
+<td>PASR (Pan-Asian Spring Rollers)</td>
+<td>51</td>
+</tr>
+<tr>
+<td>YSR (Yokosuka Sushi Rollers)</td>
+<td>307</td>
+<td>PASR (Pan-Asian Spring Rollers)</td>
+<td>51</td>
+</tr>
+<tr>
+<td>YSR</td>
+<td>152</td>
+<td>WRDJ (Women's Roller Derby Japan)</td>
+<td>167</td>
+</tr>
+<tr>
+<td>WRDJ</td>
+<td>218</td>
+<td>PASR</td>
+<td>157</td>
+</tr>
+</tbody>
+</table>
+With just three teams and three bouts, there's not really much point in running statistical tests on the performance, as there's not enough data to produce a reasonable result. (The R-squared statistic is fairly poor for the set, due to the visibly wide variation in the teams' performance.)
+
+In fact, within statistical error, Yokosuka Sushi Rollers and Women's Roller Derby Japan are inseparable in performance, with the Spring Rollers' lack of time to train together evidence in their lower placing.
+
+Establishing a winner really isn't the point of the unsanctioned tier, however - it's to give the teams a chance to get good experience against people they'd never reasonably be able to play. And, in particular, for the Pan-Asian Spring Rollers, this will be a great learning experience for them to take back to their home leagues in Hong Kong, Shanghai, Beijing and Bangkok.
+<h3>Men's Tier.</h3>
+Glenmore Reservoir Dogs and Team Japan Men's Roller Derby (NinJapan Rollers) played each other twice over the tournament, with scores:
+
+GRD 273 : TJMRD 113
+GRD 288 : TJMRD 138
+
+it should be fairly evident that, despite the Canadians winning both bouts, there's a close-to-significant improvement in NinJapan Rollers even in the second bout. (In both Men's Roller Derby World Cups, NinJapan have noticeably improved over the tournament, so this is in keeping with their character.)
+These were Japan's first men's games since the last World Cup, in fact, and were more significant for the training opportunity, perhaps, than the resulting scores.
+
+<hr>
+
+Click here: for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/1">EuroClash</a></strong> and here: for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/3">Quad Wars</a></strong>
+
+<!--nextpage-->
+
+Over to Argentina now, for the Quad Wars 2017 tournament, which saw teams from Argentina and Chile compete in a "B-tier" tournament (in the sense that Argentina uses "B", which is different to Europe - most of these teams are not actual B-teams).
+
+<img class=" size-full wp-image-17011 aligncenter" src="/2017/03/qw.png" alt="QW" width="200" height="200">
+
+Competing were: hosts Lado Oscuro Roller Derby (LORD); Sailor City Rollers' B team, the Tsunami Bombs; Metropolitan Roller Derby's B team, the Bayonetas; Dirty Fucking Dolls; Brutal Lips; and the Sarcasticats.
+
+Quad Wars has a Star Wars theme, fitting for a host league whose name is "Dark Side" in Spanish, and the teams were arranged in bracketed light and dark side groups, with a playoff for the championship at the end.
+
+Results (from <strong><a href="http://flattrackstats.com/tournaments/91785">Flat Track Stats</a></strong>) are:
+<table>
+<tbody>
+<tr>
+<td>LORD</td>
+<td>45</td>
+<td>DFD</td>
+<td>215</td>
+</tr>
+<tr>
+<td>BRUTAL_LIPS</td>
+<td>51</td>
+<td>NERD</td>
+<td>203</td>
+</tr>
+<tr>
+<td>SARCASTICATS</td>
+<td>122</td>
+<td>BAYONETAS</td>
+<td>177</td>
+</tr>
+<tr>
+<td>NERD</td>
+<td>150</td>
+<td>DFD</td>
+<td>58</td>
+</tr>
+<tr>
+<td>LORD</td>
+<td>91</td>
+<td>BRUTAL_LIPS</td>
+<td>124</td>
+</tr>
+<tr>
+<td><strong>BAYONETAS</strong></td>
+<td><strong>114</strong></td>
+<td><strong>TSUNAMI</strong></td>
+<td><strong>142</strong></td>
+</tr>
+<tr>
+<td>LORD</td>
+<td>57</td>
+<td>NERD</td>
+<td>209</td>
+</tr>
+<tr>
+<td>SARCASTICATS</td>
+<td>73</td>
+<td>TSUNAMI</td>
+<td>157</td>
+</tr>
+<tr>
+<td>BRUTAL_LIPS</td>
+<td>34</td>
+<td>DFD</td>
+<td>131</td>
+</tr>
+<tr>
+<td><span style="color:#800000;">BAYONETAS</span></td>
+<td><span style="color:#800000;">37</span></td>
+<td><span style="color:#800000;">NERD</span></td>
+<td><span style="color:#800000;">247</span></td>
+</tr>
+<tr>
+<td><strong><span style="color:#800000;">DFD</span></strong></td>
+<td><strong><span style="color:#800000;">143</span></strong></td>
+<td><strong><span style="color:#800000;">TSUNAMI</span></strong></td>
+<td><strong><span style="color:#800000;">78</span></strong></td>
+</tr>
+<tr>
+<td><span style="color:#800000;">BAYONETAS</span></td>
+<td><span style="color:#800000;">47</span></td>
+<td><span style="color:#800000;">TSUNAMI</span></td>
+<td><span style="color:#800000;">63</span></td>
+</tr>
+<tr>
+<td><span style="color:#800000;">NERD</span></td>
+<td><span style="color:#800000;">155</span></td>
+<td><span style="color:#800000;">DFD</span></td>
+<td><span style="color:#800000;">27</span></td>
+</tr>
+</tbody>
+</table>
+The last four bouts (in red) represented a final playoff for the championship, which was won by NERD. We can't highlight surprising results using Flat Track Stats, as they do not have a Latin American ranking... but we can use our own <strong><a href="http://aoanla.pythonanywhere.com/SRDRank.html">SRD Rank</a></strong> to do this instead. In general, the big surprise here is the performance of Sailor City B, the Tsunami Bombs, which we rated as close to the winners, NERD in strength... but performed below expectations.
+
+NERD won the tournament overall, but we can provide the same analysis of the team ratings (and how consistent they were) as before.
+
+Running the regression over all of the scores gives us a very good R-squared value of 0.8, suggesting that the tournament was well-run, and all the teams managed their schedules and fitness well over the multiple days of competition.
+
+The estimated strengths of the teams from the regression are (with some confidence):
+
+No Excuses Roller Derby <strong>100</strong>
+Dirty Fucking Dolls <strong>41</strong>
+Tsunami Bombs (SCR B) <strong>21</strong>
+Brutal Lips <strong>17</strong>
+Bayonetas (Metropolitan B) <strong>15</strong>
+Lado Oscuro Roller Derby <strong>14</strong>
+Sarcasticats <strong>10</strong>
+
+An interesting feature here is the close grouping of most of the teams: we'd suggest that NERD and DFD could reasonably consider themselves high-B/low-A teams (in Latin American terms), rather than the B/C level of the other closely placed competitors.
+
+If you're interested in seeing more Latin American Derby, then Metropolitan and Sailor City's A teams are competing at the Violentango 5, WFTDA Recognised Tournament in just a few weeks (13-15th April).
+
+<hr>
+
+Click here for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/1">EuroClash</a></strong> and here for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/2">Tomodachi</a></strong></body></html>

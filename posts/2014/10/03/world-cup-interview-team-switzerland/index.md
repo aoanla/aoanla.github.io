@@ -1,0 +1,61 @@
+<html><body><p>Finally, to finish off the week and our tour of the European national teams heading to the <a href="http://rollerderbyworldcup.com">Blood &amp; Thunder Roller Derby World Cup</a>, we come to <a href="https://www.facebook.com/swissderbyteam">Team Switzerland</a>.
+
+Team Switzerland are new to the World Cup this year, and also did not attend the <a href="http://euroderbytournament.eu/">European Championship</a>. Their indiegogo page is here: <a href="https://www.indiegogo.com/projects/send-team-switzerland-to-the-world-cup">https://www.indiegogo.com/projects/send-team-switzerland-to-the-world-cup</a>
+
+Manta Attack was good enough to answer our questions.
+
+ 
+
+<a href="/2014/09/teamswitzerland.jpg"><img class="size-large wp-image-3920" src="http://scottishrollerderbyblog.com/2014/09/teamswitzerland.jpg?w=614" alt="Team Switzerland Logo: Kitty LaBang ( ComeauxDesign)" width="614" height="614"></a> Team Switzerland Logo: Kitty LaBang (<a href="https://www.facebook.com/pages/ComeauxDesign/168490229886054">ComeauxDesign</a>)
+
+</p><div>
+<div></div>
+<div><strong>Swiss roller derby is (relative to, say, Germany) relatively young. How did recruitment and tryouts go for the National team?</strong></div>
+</div>
+<div>The idea came up last year, so we created a crew, which includes 2 to 3 people from each league in Switzerland. The majority of those people founded the Roller Derby Switzerland Organization. They started up with Team Switzerland and selected Team Coach / Team Manager, and Assistants. The coaches sent out to each league try out dates for Lucerne, Zurich and Geneva.</div>
+<div></div>
+<div><strong>While most of your skaters are Swiss residents, you have skaters living in Scotland, USA, Japan(!). How are you organising practises to include them (or work around their absence)?</strong></div>
+<div>We have a set practice schedule that was created; however we are trying to add practices, scrimmages or something Team Switzerland related whenever we know one of our overseas players is going to be in the country.</div>
+<div></div>
+<div><strong>Team Switzerland has a crowdfunding page and put out a call for sponsors. How else are you raising funds &amp; awareness of the Team (and how is sponsorship going?) </strong></div>
+<div>We do have some really nice Sponsorship from connection from the other leagues, more sponsorship is coming up with swiss companies, as well some private donations. More or less the people are having their ears open for this "in switzerland" unknown sport. We also get asked by Atom, but there are also some other leagues which can take benefit of it :D</div>
+<div></div>
+<div><strong>You will be playing "The World" as your first bout as a Team. How did that idea come about, and what other bouts do you have planned before Dallas?</strong></div>
+<div>
+
+The idea came up, after a request for a game from Team Italy, but unfortunately in the end the location was a problem. So we decided to make up something else, and in short turns, a scrimmage came up. We are also doing some more training and also have a Bout in planning. [Team Switzerland v The World ended with a 267 to 79 win for the home team]
+
+<strong>As a team coming into the World Cup for the first time, what are your aims to achieve there?</strong>
+
+Our aims are to not lose: we very willing to attend and do our best, but we are sure we do not have same experience as other National teams. We love being part of that awesome event.
+
+<strong>Does the dominance of English in roller derby (including the rules) make it harder to spread and develop derby in Switzerland?</strong>
+
+My personal thought about that is 'yes'. Even the rules are not in easy English and Swiss people in general are slightly skeptical about new sports...
+<div>
+<div><strong><img alt="">Some teams are adopting legal names for their skaters, while others are keeping their derby names or have a mix of the two. Does Team Switzerland have a policy on this, or thoughts about the pros either way? </strong></div>
+<div>The skaters can take their names from the league or change it for the National team. There were no discussions concerning regarding family name as derby name.</div>
+<div></div>
+<div></div>
+<div></div>
+<div>The Team Switzerland Roster (to date) is:</div>
+Manta Attack #3
+Cannibalia
+Dot Morgue
+Mario Block
+Sin Sister
+Swiss Spank Her
+Womanimal
+Kitty LaBang #23
+T.N. Tina (Wreckabella von Rogue) #
+Russian Roulette Babette #69
+Miss Behaving
+Mona Mortelle #21
+Malice in Wonderland #206
+Tomorrow #9
+Bloody Cherry #44
+Chainhell No5 #CH5
+<div></div>
+<div></div>
+</div>
+</div></body></html>

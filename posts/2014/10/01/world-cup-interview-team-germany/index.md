@@ -1,0 +1,90 @@
+<html><body><p>Working our way through Northern and Central Europe, we come to the next <a href="http://rollerderbyworldcup.com">Blood &amp; Thunder Roller Derby World Cup</a> team, and also the next ranking team on the <a href="http://euroderbytournament.eu">European Championships</a> table - <a href="https://www.facebook.com/Rollerderby.Germany">Team Germany</a>.
+
+Team Germany is not new to the World Cup, having placed 9th on the table in 2011 after a close and tense game against New Zealand placed them in the consolation bracket, where they defeated Ireland and Scotland in succession.
+
+In the European Championships this past month, they performed similarly to expectations, placing 2nd against the only other team returning from 2011...
+
+Thanks to Daniel, Team Manager, for his intensive answers to our questions about the team!
+
+<a href="/2014/09/teamgermany.jpg"><img class="aligncenter size-large wp-image-3899" src="http://scottishrollerderbyblog.com/2014/09/teamgermany.jpg?w=614" alt="TeamGermany logo (continuation of 2011 logo)" width="614" height="818"></a>
+
+<strong>The Team selection this time around features just 4 veterans from the 2011 roster, and the rest new members of the team. Does this reflect the growth of derby in Germany and is it useful to have the experience of the first world cup to hand?</strong>
+
+It definitely does reflect the growth of roller derby in Germany. In 2011, a huge part of the roster consisted of players of the Berlin Bombshells and the Stuttgart Valley Rollergirls. We had wild cards which allowed one skater of every actively playing German team into the national team. Today it's all about performance - and still we widened our portfolio. In total we have welcomed skaters from nine different leagues to our team after their convincing performance at the Team Germany tryouts. Unfortunately we already lost some good players to longterm injuries. Still we can say that we have the best buildup of German skaters that can be provided.
+
+ 
+
+Though it surely is useful to come to Dallas as a World Cup veteran many of our skaters were able to collect high level tournament experiences at other occasions. For example the skaters of the Berlin Bombshells who participated at the D2-Tournament in Kitchener-Waterloo as seed 9, finished 2nd and ar going to play at the championship tournament in Nashville for the 3rd place of Division 2.  Of course the experienced skaters have to be there for the relatively new ones to give mental strength to the whole team. We have really built up to that and shown that it can work at the European Tournament in Belgium.
+
+ 
+
+<strong>Team Germany was one of the competitors at the original World Cup in 2011, where you placed 9th. With 30 teams this time around, including the 11 from the first time, what are your goals for World Cup 2014?</strong>
+
+We're aiming to be better than 2011 - that means participation in the quarter finals where the best eight teams of the world compete. Of course it depends on how the matchups will be before that - and maybe there are some teams that we can't win against (and we HAVE played Team USA in Stuttgart, Germany in July!) but we will definitely give our best and put on the track whatever action is necessary to proceed in this tournament.
+
+ 
+
+<strong>The majority of Team Germany are sourced from the many German leagues (predominantly Berlin, Hamburg, Stuttgart). However, you have a single US skater. How are you organising practices in general, and to include Lethal Lorelei in particular?</strong>
+
+I agree, it can be difficult logistically to be able to have everyone at a game or practice - even with the skaters located in Germany. Fortunately with Lorelei we have a very committed Team Germany skater. Of course she can't participate in every practice but she has been over to germany to train and play with Team Germany multiple times and we're very thankful for that! She's integrated with the team very well and has already built up some friendships. Practices in general are very difficult because we have huge problems with finding timeslots in sport halls. We had some practice weekends throughout the year but we still would like to do it more often! We really feel how practice gets our mindsets together and makes us act as one single unit.
+
+ 
+
+<strong>You are, of course, one of the teams attending the European Tournament in September. What are you hoping to gain from this (experience, awareness)? I think you've had other match-ups since your 2014 roster was announced, in your experience, how do these events help most?</strong>
+
+We are on the road to Dallas. That is why our primal goal at all of these events is and will be to get more experienced together, get to know each other and grow as a team. Of course we had competitive ambitions at the European Tournament: We wanted to reach the final and we achieved that. But the much more enjoyable thing to see is how good we finally were able to combine our individual talents to a very well coordinated team gameplay. We had some difficulties with that when we played Belgium in January this year. There is still more potential and I'm gonna be very happy to see it unfold in Dallas.
+
+ 
+
+<strong>How are you raising funds to get to Dallas?</strong>
+
+That's the most difficult question! We are discussing this a lot. Nowadays the derby community gets flooded with donation requests. Refs, skaters and teams all over the world want their gear, junior leagues and travels to big events payed by others. We don't want to do that without giving something back. So we started trying to find sponsors on our own which was very difficult because big companies don't notice Roller Derby that much, yet. We're glad that we have won Atom with all its associated brands as our friend. But still what most of the skaters need to be able to pay their travel costs is pure cash. Our next step will be asking for official help from German authorities like the sports ministry or the roof organization for skating sports in Germany, which we are a part of. For a few months we have been selling merch now which is by far the biggest money income until now - but we are still forced to try other options. So we are currently working on setting up a paypal donation account. We are primarily aiming for the non derby community when asking for donations - but of course we are thankful for everyone who is gonna be able and willing to help us do this awesome thing. So everyone just check our facebook page (Team Germany (Roller Derby)) and homepage (<a href="http://www.rollerderbygermany.de/">www.rollerderbygermany.de</a>) in the near future if you're willing to help. Our love will be guaranteed! Of course all of our members are allowed to raise funds for their trip as they wish - so some of our players started their own campaigns in order to minimize their costs.
+
+ 
+
+The most important thing at the end: If you want to experience the World Cup at Dallas live at the venue - please buy the Team Germany supporter tickets. You'll only pay 25$ more than regular but you will give 75$ to Team Germany with every purchased ticket! You can get the supporter tickets at the official online purchase site. Thank you very much.
+
+ 
+
+<strong>Some national teams have skaters adopting their legal names for their National appearance, instead of their derby names. Other national teams are uniformly retaining their skate names. Did Team Germany discuss this, and if so what was their position?</strong>
+
+Our position is very clear. It's the skaters choice! Two of our players adopted their real names for Team Germany, others have changed their skate names. This is not a sport where a team management tells skaters how they have to be named. This sport is skater operated and as such it shall give total freedom to the skaters. We're very happy that with the german roof organization for skating sports (DRIV - Deutscher Rollsport und Inline Verband) we have found a comfortable home for organized Roller Derby in Germany which let's us decide how we want to run things.
+
+ 
+
+<strong>At present, much of the rules and paraphernalia of Derby is conducted in English. How has this affected the growth of derby in Germany?</strong>
+
+Not considering the fact that I had to look up paraphernalia I have to say that we're dealing really good with that. Fortunately we can say that we have very committed people who are translating the rules and keeping up with the updates every year. THOSE people definitely have affected the growth of Roller Derby in Germany. I'd like to use this opportunity to thank Riff Reff of the Stuttgart Valley Rollergirls for coordinating these translation efforts and doing most of the work! The upcoming version of his translation will even be officially featured as the german version of the rules of Roller Derby by the WFTDA.
+
+ 
+
+The Team Germany (2014) Roster is:
+
+Coaches:
+Bee Fattal, Jens Hötger, Hell G. Slider
+
+Team Germany Roller Derby Squad 2014:
+Ellie Minate #8<span class="text_exposed_show">
+Heavy Rotation #505
+Master Blaster #2
+Public Enemy #1
+Sweet Gwenrolline #9
+Teaze the Tiger #16
+Titty-Twista #81
+Anktion #19
+Lethal Lorelei #29
+Bash #31
+Ostblocker #101
+Jeanne Dark #001
+Nitro Netty # 2X
+Donner Doro #22
+Chibi Chibster #0
+Lotta Loveless #22
+Knock ‘n Rose #234
+Lizzy Slaughter #742
+Sugar Grrrl #27
+Skullhead O'Hara #B4
+So Phiarsome #393
+Mary Toothfairy #-32
+Paulina Pocket #12
+Hanna Hellfire #75</span></p></body></html>

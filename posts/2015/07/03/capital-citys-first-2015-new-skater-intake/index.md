@@ -1,0 +1,5 @@
+<html><body><p>Capital City are on the look out for new members and are holding their first 2015 taster session for new skaters this month. The taster session is open to all men over the age of 18 looking to try out roller derby no experience or kit is needed as they will help to provide this for the taster session. There are two dates available for people to sign up for, which can be done via <a href="http://www.capitalcityrollerderby.co.uk/">their website.</a> The taster sessions will be held on Tuesday the 14th and Sunday the 19th of July at their current training venue.
+
+If you are interested head over to <a href="http://www.capitalcityrollerderby.co.uk/">their website</a> to find out more or sign up via their <a href="https://docs.google.com/forms/d/1kKJfK-CbIL5lB5uI09XrWCgk2IY3beMATIew9cwxHWY/viewform?fbzx=3453879700298045451">online form</a>.
+
+<a href="/2015/07/ccrdfm-july2015.jpg"><img class="wp-image-4766" src="https://scottishrollerderbyblog.com/2015/07/ccrdfm-july2015.jpg?w=212" alt="Capital City new skater intake 14th and 19th of July 2015" width="420" height="594"></a> Capital City new skater intake 14th and 19th of July 2015</p></body></html>

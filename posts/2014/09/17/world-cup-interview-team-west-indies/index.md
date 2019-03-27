@@ -1,0 +1,143 @@
+<html><body><p>Continuing our sweep across the Asia-Pacific and Africa group for the <a href="http://rollerderbyworldcup.com/">Blood &amp; Thunder World Cup</a>, we come to one of the more unique teams, <a href="https://www.facebook.com/pages/Team-West-Indies-Roller-Derby-World-Cup/399084460193873">Team West Indies</a>.
+
+We talked to London Rockin Rollers and Team West Indies skater DisorderLee about her team a few weeks ago via the medium of the Internet. This article is slightly edited from the freeform conversation we had.
+
+<a href="/2014/09/teamwestindies.jpg"><img class="size-full wp-image-3773 aligncenter" src="http://scottishrollerderbyblog.com/2014/09/teamwestindies.jpg" alt="Team West Indies Logo" width="660" height="933"></a>
+
+<strong>So, getting straight to the most unusual thing about Team West Indies - you appear to be the only national team based in a region with no local leagues?</strong>
+</p><div id=":z6" class="aOT">Technically, to answer your question, Puerto Rico is part of the West Indies and there is roller derby there. [Since this interview, we have heard news of a Team Barbados starting up as well.]</div>
+<div id=":z8" class="aOT">It's a little bit splitting hairs since most people think of it as Latin America, I guess, but we wanted really to represent the islands of our heritage where derby may not have a foothold <em>yet.</em></div>
+<div id=":11m" class="aOT">We have a born and bred Trinidadian on the team in Mah-Ko so maybe slowly the word will get back and we end up starting something that can be carried on by others.</div>
+<div class="aZe"></div>
+<div id=":xc" class="aOT"><strong>So this is an impetus to build more derby in the West Indies as well as a National Team?</strong></div>
+<div class="aZe"></div>
+<div id=":xd" class="aOT">If that comes out of it than so much the good - I don't think I want to say we are taking it to them when we are, for the most part, based here [in the UK]. If there are a couple of people who play and/or a league starting up and they see us and want to take over, that's great!</div>
+<div class="aZe"></div>
+<div id=":u6" class="aOT"><strong>Given your unusual origins compared to most of the National Teams, how did recruitment + selection happen?</strong></div>
+<div class="aZe"></div>
+<div id=":u8" class="aOT">We cast around for people we knew of that might be eligible - we put out a call on facebook.</div>
+<div id=":xf" class="aOT">I ended speaking to people about it at the Men's World Cup as well, as we were selling shirts and badges there.</div>
+<div id=":xg" class="aOT">The MWC was a good recruitment drive actually - I mean, who wouldn't want to be part of something like that if they could?</div>
+<div class="aZe"></div>
+<div id=":xh" class="aOT"><strong>Indeed!</strong></div>
+<div id=":xi" class="aOT"><strong>Everyone is very enthusiastic about you as a team...</strong></div>
+<div class="aOT"></div>
+<div class="aZe">
+<div class="aO2"> That's probably cos we're a bit of an unknown quantity.</div>
+</div>
+<div id=":ub" class="aOT">People don't really know what to expect from us (well, some of the Irish do cos they've played us now) but we are hoping to improve on our last performance.</div>
+<div class="aZe"></div>
+<div id=":14l" class="aOT"><strong>With, say, England, you can guess at performance from LRG and so on. With you guys...</strong></div>
+<div class="aZe"></div>
+<div id=":15o" class="aOT">Exactly - and factor in the Middleborough girls who are super awesome!</div>
+<div class="aZe"></div>
+<div id=":15n" class="aOT"><strong>There are tons of great skaters from other leagues in there! </strong></div>
+<div class="aOT"><strong>So, with the sign up process, did you have to turn people away / have selection rounds?</strong></div>
+<div class="aZe"></div>
+<div id=":xk" class="aOT">No, actually because there just aren't that many of us: some people expressed interest but dropped out because they didn't think they could get the relevant paperwork or couldn't commit time-/money-wise.</div>
+<div id=":uc" class="aOT">So there weren't try-outs <em>per se</em>, the first step was immediately, how do we work it so we can skate together and get to know each other's styles - that kind of thing. And, the main problem for leagues, never mind national teams, is halls: finding them, keeping them, paying for them.</div>
+<div class="aOT">We are all in very active leagues it seems, all working hard,  so it's google docs and trying to find that time and scrimmaging against people where we can.</div>
+<div class="aOT"></div>
+<div id=":ud" class="aOT"><strong>Aye, getting enough practice time is important.</strong></div>
+<div id=":ue" class="aOT"><strong>How's your schedule for that working? I know you played Ireland at their bootcamp..</strong><strong>  </strong><strong>and will be at the Scotland/Wales/Ireland/West Indies tournament [<a href="https://www.facebook.com/events/724704624268299/?ref=22">Road to Dallas,</a> hosted by Team Wales on October 18th]</strong></div>
+<div class="aZe"></div>
+<div id=":15k" class="aOT">Ireland was our first open door event, we'd had a few training sessions and will get another few in before the welsh tourney.</div>
+<div id=":xl" class="aOT">For myself, I choked a bit - didn't do things I knew I could, did do things that I don't usually. My teammates coped admirably, but we're looking to improve, we're not complacent and it wasn't an easy bout.</div>
+<div class="aZe"></div>
+<div id=":xm" class="aOT"><strong>How do you feel about the team now, then, in terms of aims at Dallas?</strong></div>
+<div class="aZe"></div>
+<div id=":uf" class="aOT">I'm really really optimistic about Dallas and I am really positive about the team - we are, individually, great skaters and we are prepared to put the work we need in to make a good showing.</div>
+<div id=":ug" class="aOT">Aims I am sure for everyone are the same - go there, score some points, play as hard as we can.</div>
+<div id=":uh" class="aOT">For myself, I like to come away from a game knowing I did the best I could: I'm looking for that because I didn't get that at Dublin.</div>
+<div class="aZe"></div>
+<div id=":15j" class="aOT"><strong>I think you'll probably be one of the Fan favourites too.</strong></div>
+<div class="aZe"></div>
+<div id=":15i" class="aOT">Ha, the world loves an underdog.</div>
+<div id=":15h" class="aOT">I NSO'ed the Men's World Cup and saw how the crowds reacted to Argentina and Japan.</div>
+<div id=":xn" class="aOT">No one is going to underestimate the Argentinian men next time!</div>
+<div class="aZe"></div>
+<div id=":15v" class="aOT"><strong>So, funds are the other big problem for everyone. I know you have a million crowdfunding things running + merch...</strong></div>
+<div id=":15u" class="aOT"></div>
+<div id=":15t" class="aOT">Yep, refs have personal pages for their Dallas trips and the team are looking for flights and that's without uni[forms], practice halls, all the rest of it..</div>
+<div id=":156" class="aOT">We've got some amazing sponsors but a lot of it is down to us - we've approached business within the black community but we might be at a disadvantage there as you know, most of them will never have heard of roller derby and won't realise that audience that it reaches...</div>
+<div class="aZe"></div>
+<div id=":155" class="aOT"><strong>How is the funding + awareness going? I am guessing merch is doing best?</strong></div>
+<div class="aZe">
+<div class="aO1"></div>
+<div class="aO2"> Yep, Zed, who is one of our skaters, she designed the shirts and badges and that has been the thing helping us the most.</div>
+</div>
+<div id=":xy" class="aOT">We've had some personal donations that we're very grateful for, league mates and family members are very behind us.</div>
+<div class="aZe">
+<div class="aO2"></div>
+<div class="aO2"><strong>And the sponsors are probably most kit sponsors?</strong></div>
+</div>
+<div class="aZe">
+<div class="aO1"></div>
+<div class="aO2"> People already within or with knowledge of the derby community: Atom Wheels, Bridgend skate shop, Queens Of the Sin Bin, Armourflex... Roller Derby City did our scrim stuff. They do what they do very well and they also made our shirts so that was a pretty logical step.</div>
+</div>
+<div class="aZe"></div>
+<div id=":uy" class="aOT"><strong>On a slightly different topic: London Rockin Rollers seem to have skaters in a Lot of National teams this time around - West Indies, Italy, Greece...?</strong></div>
+<div class="aZe"></div>
+<div id=":uz" class="aOT">6 in total:</div>
+<div id=":14d" class="aOT">Ireland (training squad - Lady Lazarus doesn't like to tempt fate), Wales (Blaze of Gory)</div>
+<div id=":y1" class="aOT">Dire Ria - Team Greece</div>
+<div id=":y2" class="aOT">Me, Rammit, cookie and Zed on Team WI, Betty on team England and Robscene and Sikki Sixx for Team Italy</div>
+<div class="aZe"></div>
+<div id=":y3" class="aOT"><strong>I think this might make you the most geographically distributed team nationally!</strong></div>
+<div id=":y4" class="aOT"><strong>Is it a point of pride or just a reflection of London's mix of nationalities?</strong></div>
+<div class="aZe"></div>
+<div id=":y5" class="aOT">That's London though, hahaha!</div>
+<div id=":v1" class="aOT">It's a little of both I think. We are a league that reflects our town - it's diverse, people come here for many reasons, or grew up here and derby has either found us or we've found it</div>
+<div id=":14c" class="aOT">Blitz Dames is very well represented in Team WI and that's another league that reflects the make-up of their city, despite the fact that there are not a lot of ethnic minorities in roller derby over-all.</div>
+<div class="aZe">
+<div class="aO1">I should also mention that one of our 'indiginous West Indians, She-Rarr, from Sheffield Steel Rollergirls is white;</div>
+</div>
+<div id=":y9" class="aOT">I think people don't know that there are white people in the West Indies.</div>
+<div class="aOT"></div>
+<div class="aOT"><strong>But, it is a fact that Derby is still quite a White Anglo-Saxon sport...</strong></div>
+<div class="aOT"></div>
+<div id=":ya" class="aOT">Yeah, I think it's by example - I didn't see players like Mercy or White Flight when I started, I discovered them afterwards, but I think girls coming into derby now have amazing role models in them: in Fright Train, in Mick Swagger, a lot of amazing minority players proving that it's not just 'the sport those crazy white girls play'.</div>
+<div class="aZe"></div>
+<div id=":zc" class="aOT"><strong>...and my favorite UK jammer/blocker Mighty Mighty Bash!</strong></div>
+<div class="aZe"></div>
+<div id=":zd" class="aOT">I am super lucky to have had her as a coach of mine, and my intraleague captain,and her mum Black Panther came and played in the first LRR Vs SDRD game! Bash was the first person my mum [saw] playing derby that she was like "who is that?" That was last World Cup.</div>
+<div class="aZe">
+<div class="aO1">Being into rock music and metal, I think my mum just thought it was just another thing I'd gotten myself into where there were no other black people...</div>
+</div>
+<div class="aZe"></div>
+<div id=":ty" class="aOT"><strong>and then you founded the West Indies National Team!</strong></div>
+<div class="aZe"></div>
+<div id=":tz" class="aOT">Ha, yeah she's a bit bemused by it all - she gave her Trinidad citizenship years ago. I think she's wondering why this outbreak of pride. It's been a way of connecting us with our heritage and our roots, it's been more emotional than I ever thought it would be.</div>
+<div class="aOT"></div>
+<div class="aOT"><strong>I think it's partly a generational thing, reclaiming the roots of parents/grandparents.</strong></div>
+<div class="aZe">
+<div class="aO1"></div>
+<div class="aO2">Yep, definitely: we're different but the same.</div>
+</div>
+<div id=":u4" class="aOT">And for Mah-ko it's representing, and for [She-]RARR.</div>
+<div class="aOT"></div>
+<div class="aOT"></div>
+<div class="aOT">Since this interview, Team West Indies have also joined the Mars Milk Fund competition for this month to gain additional funding. You can <a href="http://www.marsmilk.com/fund2014/clubs/team-west-indies--roller-derby-world-cup">vote</a> to help them get a chance at up to £1000 towards their costs.</div>
+<div class="aOT"></div>
+<div class="aOT">The Team West Indies Roster is:</div>
+<div class="aOT">Head Coach - Jack Attack - London Rockin' Rollers
+Asst Coach - Piston Broke London Rockin' Rollers/Southern Discomfort
+
+Captain - Rammit - London Rockin' Rollers</div>
+<div class="aOT">VC Violet Attack - Birmingham Blitz Dames
+
+Toni Smaxton - Coventry City Derby Dolls
+Cookie D'oh - London Rockin' Rollers
+DisorderLee - London Rockin' Rollers
+Zed.Z.Sputnik - London Rockin' Rollers
+Kylie Volatile - Birmingham Blitz Dames
+Sammi L.Smacks'Em - Birmingham Blitz Dames
+Suzette la Flamme - Birmingham Blitz Dames
+ENEMY - Bridgend
+Ida Bomb - Borderland Brawlers
+Mah-Ko - Chicago Outfit
+Polly Filla - Croydon
+She-RARR - Sheffield Steel
+Victory - Swansea City
+
+</div></body></html>

@@ -1,0 +1,61 @@
+<html><body><p>We bring our coverage of the South American nations taking part in the <a href="http://rollerderbyworldcup.com/">Blood &amp; Thunder Roller Derby World Cup</a> to an end, with <a href="https://www.facebook.com/TeamChileRollerDerby?fref=ts">Team Chile</a>. Like Colombia, Chile are entering the competition for the first time.
+We talked to team spokesperson Endorfina, Metropolitan Roller Derby and Team Chile skater.
+
+<a href="/2014/09/logo-team-chile.png"><img class="size-full wp-image-3834" src="http://scottishrollerderbyblog.com/2014/09/logo-team-chile.png" alt="Team Chile Logo design by Tali and Chela Navaja" width="600" height="600"></a> Team Chile Logo design by Tali and Chela Navaja
+
+
+<strong>How are the team preparing for the the World Cup?</strong>
+
+We decided late to go to the World Cup, so the preparation started in May of this year after doing tryouts to select the skaters with the best level in our country. Just one skater, from Canada, lives abroad, the rest are skaters from leagues in Chile (Metropolitan Roller Derby, Complot Derby Club and Chillanrolleras).
+
+Team Chile has been promoted mainly by the league Metropolitan Roller Derby and Team Chile is using their training facilities, hours and coaches to prepare the national selection.
+
+Sadly, the lack of funds does not allow us to have warm up bouts with nearby countries (such as Argentina) and we are only scrimmaging with the rest of Chilean players twice a month. The rest is mainly theory and practice developed by the Team Chile coach, Nino Rodríguez.(Speed Knight)
+
+<strong>Dallas is a long way away, how have the team been raising funds to get there?</strong>
+
+To date, we do not have any sponsors. We are having meetings and contact with some derby brands and other brands in our country. Chile is young in roller derby, very few people know us or have seen us play, so we think that is one of the reasons why maybe we are no so attractive to brands. Derby is also little known in Chile beyond the usual “girls who hit each other in skates”, but we are working to change that vision to a sport way of seeing us.
+
+So, participating in the world cup has been mainly a personal endeavor of the skaters. We are asking for credits in banks, and taking donations from friends or family. At this point, every skater and coach is paying for their own travel, accommodation, and all other expenses. 
+
+But we also are motivating people to collaborate. For example we started a gofundme project where people from abroad Chile can donate. <a href="http://www.gofundme.com/Chile-Roller-Derby">http://www.gofundme.com/Chile-Roller-Derby</a>.
+
+<strong>This will be the first time Chile has taken part in the World Cup, What are the Teams aims going into the competition?</strong>
+
+The main aim is to live the experience of playing at a high level. We believe that going to the World Cup is going give the skaters participating in it a lot of tools that we can share with our leagues here in Chile. We also wanna show that we have real derby here, that we are good skaters and that we can be an interesting county to visit and play with, we want to promote more visits of skaters from other countries, teams, referees, etc.
+
+There is a roller derby scene in Chile and we want it to be known.
+
+<strong>Can you give us an idea of how big that Roller Derby scene is?</strong>
+
+The first league, Metropolitan Roller Derby, has been running a little over three years. It is a league resident in Santiago, the capitol of Chile, and is the first of many now growing all over the country. We know of about 16 leagues, but every month in a different city there is interest to form a team. Today we have a lot of inter-league collaboration, we do things together among the leagues, we share tips at training, gather to scrimmage, among other things.
+
+<strong>What do think the team competing in Dallas will do for Roller Derby in Chile?</strong>
+
+We totally think it will increase the competitiveness of roller derby in Chile. Today, leagues with A-level skaters, like Metropolitan and Complot have to get out of the country to play. We hope that living this experience in the World Cup will help increase the interest not only in people interested in skating, but also will help leagues and derby in Chile to get more sponsors.
+
+We actually look at this participation with a lot of hope, we know there is not much expected from us, but we have something to show and we believe we are going to display good derby and good skating in Dallas. People are now starting to consider Chile in the derby scene and we are proud to be the reason why that is happening.
+
+The Team Chile roster is..
+Annimal -Chillanrolleras Derby Club
+Killer Cat -Chillanrolleras Derby Club
+Pink Cat -Complot Derby Club
+La Chilenita -Complot Derby Club
+Pequeña Maravilla -Complot Derby Club
+Chela Navaja -Metropolitan Roller Derby
+Endorfina -Metropolitan Roller Derby
+Teluri-K -Metropolitan Roller Derby
+Estigia -Metropolitan Roller Derby
+Rapaz -Metropolitan Roller Derby
+Chica Ye-yé -Metropolitan Roller Derby
+Verotika Fearless -Metropolitan Roller Derby
+Dulce BooP -Metropolitan Roller Derby
+Madame Peligro -Metropolitan Roller Derby
+Zatanna -Metropolitan Roller Derby
+Tali -Metropolitan Roller Derby
+Bunny Kill -Metropolitan Roller Derby
+Mamasita Muerte -Calgary Roller Derby
+
+Coaches.
+Negro P-Metropolitan Roller Derby
+Speed Knight-Metropolitan Roller Derby</p></body></html>

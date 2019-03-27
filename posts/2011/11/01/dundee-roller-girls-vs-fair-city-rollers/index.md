@@ -1,0 +1,5 @@
+<html><body><p>Perth's Fair City Rollers travel to Dundee in November for one of the most exciting rematches this year. Almost a year to the date since these two teams last met,  massive crowd gathered at the Bell's Sports Centre in Perth for one of Tayside's most hotly anticipated games. Both teams brought their 'A Game' that day, but the Dundee Roller Girls (previously Dundee Destroyers) got their first win and came out on top to beat the Fear Maidens with an impressive score of  161 - 80.
+
+Both teams have undergone some radical changes from players to team names but one thing is for sure, both teams have grown so much since their first meeting, that this game is set to be the rematch of the year!
+
+<a href="http://scottishrollerderbyblog.com/2011/10/pivots-small.jpg"><img class="alignnone size-full wp-image-400 aligncenter" title="Pivots Of The Caribean" src="http://scottishrollerderbyblog.com/2011/10/pivots-small.jpg" alt="Dundee Roller Girls" width="614" height="898"></a></p></body></html>

@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>In the News: Rating WFTDA. | Scottish Roller Derby Blog</title>
+<link href="../../../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../../rss.xml">
+<link rel="canonical" href="https://scottishrollerderbyblog.com/posts/2018/12/11/in-the-news-rating-wftda/">
+<!--[if lt IE 9]><script src="../../../../../assets/js/html5.js"></script><![endif]-->
+</head>
+<body class="home blog">
+    <div id="wrap" style="width:850px">
+        <div id="container" style="width:560px">
+            
+            
+    <div class="post">
+    
+    <h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">In the News: Rating WFTDA.</a></h1>
+
+        <div class="meta" style="background-color: rgb(234, 234, 234); ">
+        <span class="authordate">
+            Posted: by <b>aoanla</b> <time class="published" datetime="2018-12-11T16:03:25+00:00">2018-12-11 16:03</time>
+               [<a href="index.md" id="sourcelink">Source</a>]
+        </span>
+        <br><span class="tags">Tags: 
+                    <a class="tag" href="../../../../../categories/articles/"><span>articles</span></a>
+                    <a class="tag" href="../../../../../categories/flat-track-stats/"><span>flat track stats</span></a>
+                    <a class="tag" href="../../../../../categories/international-derby/"><span>international derby</span></a>
+                    <a class="tag" href="../../../../../categories/reviews/"><span>reviews</span></a>
+                    <a class="tag" href="../../../../../categories/srd-rank/"><span>srd rank</span></a>
+                    <a class="tag" href="../../../../../categories/statistics/"><span>statistics</span></a>
+                    <a class="tag" href="../../../../../categories/wftda-championships/"><span>wftda championships</span></a>
+                </span>
+                <br><span class="authordate">
+            
+
+        </span>
+        </div>
+    <div>
+<p></p>
+<p>Although we've written a lot on SRD [<a href="https://scottishrollerderbyblog.com/2016/09/27/ranking-of-roller-derby-internationally/">1</a>, <a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/">2</a>, <a href="https://scottishrollerderbyblog.com/2016/11/03/srd-rank-november-update/">3 </a>,<a href="https://scottishrollerderbyblog.com/2016/10/17/meanwhile-in-europe-the-daga-denter-tournament-2016/"> 4</a> etc] and privately [<a href="https://aoanla.wordpress.com/2015/05/31/british-championships-premier-tier-some-statistics/">1</a>,<a href="https://aoanla.wordpress.com/2016/09/27/ranking-mechanisms-from-sport-and-roller-derby/">2</a>,<a href="https://aoanla.wordpress.com/2018/02/09/the-2018-roller-derby-world-cup-rating-and-pairing-a-postmortem/"> 3</a>etc] on rating and ranking Roller Derby over the years, the question of how to do this fairly in WFTDA has been another topic of discussion recently. <br>Like Tennis, and many other sports, the WFTDA "rankings" (which are really a rating) are not slaved to the ordering of any particular tournament, including WFTDA Championships - meaning that it is possible for the current WFTDA Champions to not also be #1 in the Rankings released at the end of the year.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+
+<p>Statistically, this is, of course, not a problem, but the position is still counter-intuitive to some members of the community. Some blame the specific construction of the WFTDA rating system itself, whilst others simply believe that Tournaments should supersede mathematical methods for determining rating. <br>As a result, every year when the WFTDA Championship winner does not automatically become the WFTDA #1 rated team, the question of "how good are WFTDA Ratings?" is raised again.</p>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+<p>In the spirit of this, we decided to actually test this, rather than just complaining about an aspect of the rating we didn't like. <br>Using Flat Track Stats' records of all Roller Derby bouts, we selected the entire history of all WFTDA Sanctioned bouts in the history of the sport, all the way back to 2005. Using these, we calculated what the ratings and rankings would look like now, if we used various methods for rating teams.<br><br><a href="https://en.wikipedia.org/wiki/Elo_rating_system"><strong>"Elo" ratings</strong></a>, named for Arpad Elo, who developed them initially to rate performance of Chess players, are a particularly easy kind of rating to implement. As a base comparison to our other ratings, we wrote a very quick Elo rating for WFTDA Sanctioned bouts, based entirely on Win/Loss records: the rating does not care how much a team won or lost by, just that they <em>did</em>.<br><br>We'll compare this to three other ratings:<br><strong><a href="http://flattrackstats.com/">FTS (WFTDA)</a></strong>: the Flat Track Stats rating, as optimised for WFTDA Sanctioned bouts. FTS is also an Elo rating, although its updates take into account the degree of success, not just that a team won; it also has a couple of other factors to account for things like home team advantage. <br><strong><a href="http://aoanla.pythonanywhere.com/SRDRank.html">SRDRank (v2)</a></strong><a href="http://aoanla.pythonanywhere.com/SRDRank.html">:</a> this blog's in-house rating scheme. We've <strong>written</strong> a lot about this before, but it's essentially an entirely different kind of rating scheme to Elo; rather than updating pairs of teams on each game, SRDRank is a <em>Massey-style</em> scheme, which tries to produce consistent ratings to explain all of the games in its "purview" at once. This version of SRDRank was optimised for monthly predictions, against the world, not just the smaller subset of WFTDA Sanctioned games.<br><strong><a href="https://wftda.com/category/rankings/">WFTDA</a></strong>: the official WFTDA rating and ranking, which is used to rank teams for selection into the official WFTDA tournaments. WFTDA ratings are specifically designed to be "easy for people to understand" without specialist knowledge, as well as, presumably, aiming to reflect the history of performance of their member leagues.</p>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+
+<h4>Predictive accuracy</h4>
+
+<!-- /wp:heading -->
+
+<p>The key conflict between expectations of Rating systems and the reality, is often one between "prediction" and "postdiction".</p>
+
+<p>"<em>Prediction</em>" is, of course, using a rating to guess what a future result would be, by comparing the ratings of the competitors previously.<br>"<em>Postdiction</em>", conversely, is using a rating to judge "how well" two teams have performed, over their recent history.</p>
+
+<p>Whilst it may seem that the two are closely related, in fact, it isn't inherently true that a rating which has high accuracy at one is also highly accurate at the other. In general, prediction is harder than postdiction - it's always hard to guess what's going to happen beforehand - but for teams whose strength has varied a lot over their season, it also can be hard for a postdictive approach to represent their "overall performance" in a satisfying way.</p>
+
+<p>In neither case, of course, does "high accuracy" mean "always places the winner of a particular tournament at #1". All rating systems are statistical, and try to produce the best overall measure of performance, for all teams, and all possible contests. The difference between the top teams is just as relevant as those between the middle and lowest rated teams.</p>
+
+<p>Equally important to the accuracy of a rating - at either task - is the frequency at which it is updated. Elo ratings, including the FTS ratings, are designed to update every time a game happens, so their accuracy can be measured either side of a given result. Some other ratings are published less frequently - WFTDA's ratings are monthly to bimonthly, depending on the time of year, and SRDRank is <em>designed</em> to produce predictions no faster than daily. Frequent ratings aren't necessarily the "best" ratings, especially for postdiction - a "long-term overview" can sometimes produce a better overall view of historical performance than a rapidly updated one focused on bout-by-bout changes; but for prediction, especially in the middle of tournaments, it's usually best to have all the most recent information available for your next bet.</p>
+
+<p>To illustrate this, we've plotted the performance of four different ratings, at both postdiction and prediction, when we take updates at yearly, quarterly, monthly, fortnightly, and "bout-by-bout" intervals. For some rating schemes, not all intervals were available: FTS doesn't easily provide "historical rating" collections for anything more frequent than quarterly results. (We have a single data point for the FTS "bout-by-bout" period, for prediction, thanks to Ioan Wigmore.); WFTDA ratings are not updated faster than monthly at best; SRDRank doesn't produce "bout-by-bout" updates for this kind of data.</p>
+
+<p>In all cases, the postdiction accuracies (as percentage "correct") are shown by triangles, and the prediction accuracies by circles; the same colour is used for a given rating scheme. More "rapid" updates are to the left of the graph.</p>
+
+<!-- wp:image {"id":27847} -->
+
+<figure class="wp-block-image"><img src="../../../../../2018/12/screen-shot-2018-12-10-at-22-28-40.png" alt="" class="wp-image-27847"><figcaption>Success rates for prediction (calling games ahead of time) and postdiction (representing performance after the fact) for 4 rating systems, with different time bases.</figcaption></figure><!-- /wp:image --><p>The first thing that should be clear is that postdiction is, in general, easier than prediction: <em>every</em> rating has a higher postdiction accuracy than prediction accuracy, for every update period.</p>
+
+<p>The Elo rating has some of the highest postdiction accuracies, partly because it responds "fully" to every win or loss: a win counts 100%, even if it was a narrow victory, so each result pulls the rating around strongly, making it reflect history. This tendency to be "recency-biased" also explains why its postdiction gets "better" on shorter updates: a "weekly" postdiction only has to represent the last week of play accurately, and that's what Elo is best at. When we need the Elo rating to represent an entire year of performance, its bias towards the most recent month harms it overall.</p>
+
+<p>That same effect, also means that the Elo rating is also the worst at prediction: because it counts all wins equally, a single narrow upset can throw off any trend it was measuring.</p>
+
+<p>SRDRank and FTS are closely matched for the update periods where they can be compared, with SRDRank having a slight advantage in prediction, and a noticeable one in postdiction; by comparison, the WFTDA rating is worse than all other ratings at postdiction, except on the yearly scale, and only better than the Elo rating at prediction. SRDRank is particularly good at "yearly review" postdiction: representing the entire year's performance overall; this is because of design decisions which mean that it considers an 18 month period of games in order to make its rating evaluation. The same "long term" view means that its postdictions are worse at reflecting "short term" history than the recency-focused Elo, although it still out-performs every other metric at this task.<br>The WFTDA rating, meanwhile, is hampered by having a maximum amount it can respond to any "strength change", meaning that it struggles to keep up with the more performant ratings on postdiction; and its simple rating calculation is not sophisticated enough to predict well.</p>
+
+<p>For prediction, the "sports prediction" literature generally considers accuracies above about <strong>70%</strong> to be excellent. On that measure, only two ratings are excellent for Roller Derby prediction: SRDRank (fortnightly or weekly updates), and FTS ("bout by bout", although it is likely that it would also be excellent on the same timescales SRDRank is). It is likely that better than 75% or so win/loss prediction accuracy is impossible for Roller Derby: there are always closely-matched games which "could go either way", which even an accurate algorithm will guess wrongly about half the time by definition.<br>We should also say that, by this measure, the WFTDA rating isn't that bad at all, only just missing out on that 70% benchmark, although it's not in the same class as the other two schemes.</p>
+
+<p>For postdiction, there are less expectations on excellence, as the difficulty is partly dependant on how "variable" the sport is. The ~85% accuracy attained by Elo (quarterly or shorter) and SRDRank (yearly) is exceptional, however. The WFTDA rating actually does fairly well at "yearly" postdiction - summarising the years' performance in a single measure - but it is worse than every other metric when applied on a more frequent basis.</p>
+
+<!-- wp:heading {"level":4} -->
+
+<h5>Predictive Accuracy (with close misses)</h5>
+
+<!-- /wp:heading -->
+
+<p>As we mentioned above, simply judging a rating on its ability to call wins and losses causes problems when evaluating close games. A good rating will predict that a close bout will be close; but inevitably, random chance will cause it to be wrong about which one of the contestants will actually win.</p>
+
+<p>There are several ways in which we can correct for this issue: we can move to measuring the success at predicting actual score-lines (not just winners and losers), but this is hard to compare for our metrics (mainly as the Elo rating isn't designed to predict score-lines); or, we can give credit to the rating for results it gets wrong<em> if the game was close, and the rating predicted it to be close.</em></p>
+
+<p>[As an aside: SRDRank was actually optimised against the first metric: getting score-lines as close as possible, for the entire world's history of games.]</p>
+
+<p>As an example of how this changes our evaluation of ratings, we've graphed the accuracies of the Elo and SRDRank ratings again, for both pre- and post-diction. This time, we've included a second set of points for each: the success measured, including games which the rating called the winner wrong, but correctly predicted the result to be close either way (within 10% on the scoreline).</p>
+
+<!-- wp:image {"id":27850} -->
+
+<figure class="wp-block-image"><img src="https://scottishrollerderbyblog.com/2018/12/screen-shot-2018-12-11-at-13-14-51.png?w=700" alt="" class="wp-image-27850"><figcaption>Success rates for prediction and postdiction for 2 rating systems, including successes on calling close games as close (regardless of who won).</figcaption></figure><!-- /wp:image --><p>As you can see, including "close games" results in a significant boost to our evaluation of all the metrics, although it does not "reverse the order" of any of our ratings in terms of relative performance. (Notably, SRDRank's yearly postdiction now narrowly beats all comers when you include close games, even defeating Elo's best postdiction with close games.)<br>Although we did not include them on the graph (in order to make the graph still somewhat readable), we'd expect similar gains for the FTS and WFTDA ratings; an average of around 2% additional "successes" for each test.</p>
+
+<!-- wp:heading {"level":4} -->
+
+<h5>Best Rating for a Job</h5>
+
+<!-- /wp:heading -->
+
+<p>Given the metrics above, we can attempt to select the "best" ratings to use for a particular task. We've selected four representative tasks, and mapped them to the mode (pre- and post-diction) and "timescales" on which they operate, to select recommendations, and warnings, on the approaches you should consider.</p>
+
+<p><strong>Season Review</strong> is the task of summarising, as best you can, the overall performance of the field over the past season. This is a postdiction task, on a long timescale (six months to a year). This is also a very closely contested task, and there's not much to call between all 4 ratings.</p>
+
+<p><strong>Medium-term Prediction</strong> is the task of predicting results several weeks to months in advance, to plan tournaments and games.</p>
+
+<p><strong>Play-by-Play Prediction</strong> is the task of predicting results on the minute, judging your next game at a tournament, for example. </p>
+
+<p><strong>Medium-term Review</strong> is the task of summarising, the overall performance of the field, on the scale of months. This is the "coaching" metric, when judging how well your team is evolving. For this, second place is very tight.</p>
+
+<!-- wp:table {"className":"is-style-stripes"} -->
+
+<table class="wp-block-table is-style-stripes"><tbody>
+<tr>
+<td><strong>Task</strong></td>
+<td><strong>Best</strong></td>
+<td><strong>2nd Best</strong></td>
+<td><strong>Worst</strong></td>
+</tr>
+<tr>
+<td><strong>Season Review <br>(Yearly postdiction)</strong></td>
+<td>SRDRank</td>
+<td>WFTDA</td>
+<td>FTS &amp; Elo<br>(<em>joint</em>)</td>
+</tr>
+<tr>
+<td><strong>Medium-term Prediction</strong></td>
+<td>SRDRank</td>
+<td>FTS</td>
+<td>Elo</td>
+</tr>
+<tr>
+<td><strong>Play-by-Play Prediction</strong></td>
+<td>FTS</td>
+<td>SRDRank <br><em>(weekly)</em>
+</td>
+<td>Elo</td>
+</tr>
+<tr>
+<td><strong>Medium-term Review <br>(Quarterly postdiction)</strong></td>
+<td>Elo</td>
+<td>SRDRank &amp; FTS<br>(<em>joint</em>)</td>
+<td>WFTDA</td>
+</tr>
+</tbody></table>
+<!-- /wp:table --><!-- wp:heading --><h3>Yearly Performance Ratings</h3>
+
+<!-- /wp:heading -->
+
+<p>We can also (bearing in mind the relative expectations of accuracy, as discussed in the rest of this article), generate the full "rankings" for all of the WFTDA member leagues for 2018. (The WFTDA Ranking here is the one from 30 Nov 2018, the most recently available ranking and rating from WFTDA).<br>We present here the top 20, with ratings, from each scheme - notice that, despite the differences, there are far more similarities than disagreements.<br>(Ratings are <em>truncated</em> for space: the error introduced by truncation rather than rounding is much smaller than the expected error on the ratings themselves, so this is not an issue.)</p>
+
+<!-- wp:heading {"level":4} -->
+
+<h5>Top 20s (Tabular)</h5>
+
+<!-- /wp:heading -->
+
+<!-- wp:table {"className":"is-style-stripes"} -->
+
+<table class="wp-block-table is-style-stripes"><tbody>
+<tr>
+<td><strong>Rank</strong></td>
+<td><strong>WFTDA</strong></td>
+<td><strong>SRDRank</strong></td>
+<td><strong>Elo</strong></td>
+<td><strong>FTS</strong></td>
+</tr>
+<tr>
+<td><strong>1.<br>2.<br>3.<br>4.<br>5.</strong></td>
+<td>Victoria (1255)<br>Rose (1241)<br>Gotham (1174)<br>Denver (1162)<br>Arch Rival (1110)</td>
+<td>Victoria (3.36)<br>Rose (3.35)<br>Gotham (3.15)<br>Denver (3.07)<br>Arch Rival (3.03)</td>
+<td>Rose (2637)<br>Victoria (2592)<br>Gotham (2516)<br>Arch Rival (2281)<br>Angel City (2267)<br> </td>
+<td>Rose (1005)<br>Victoria (1003)<br>Gotham (984)<br>Denver (977)<br>Arch Rival (962)</td>
+</tr>
+<tr>
+<td><strong>6.<br>7.<br>8.<br>9.<br>10.</strong></td>
+<td>Angel City (904)<br>Montreal (871)<br>Texas (857)<br>Jacksonville (841)<br>Crime City (827)</td>
+<td>Angel City (2.71)<br>Texas (2.57)<br>Montreal (2.49)<br>Crime City (2.48)<br>Jacksonville (2.41)</td>
+<td>Denver (2262)<br>Texas (2182)<br>Montreal (2167)<br>Jacksonville (2102)<br>Minnesota (2100)</td>
+<td>Angel City (946)<br>Texas (924)<br>Montreal (901)<br>Crime City (899)<br>London (890)</td>
+</tr>
+<tr>
+<td><strong>11.<br>12.<br>13.<br>14.<br>15.</strong></td>
+<td>Atlanta (778)<br>London (767)<br>2×4 (713)<br>Helsinki (704)<br>Santa Cruz (693)</td>
+<td>London (2.34)<br>2×4 (2.33)<br>Rainy City (2.27)<br><em>Canberra</em> (2.25)<br>Atlanta (2.24)</td>
+<td>London (2087)<br>Crime City (2084)<br>Atlanta (2070)<br><em>Oly</em> (2055)<br>Dallas (1974)</td>
+<td>Rainy City (887)<br>Jacksonville (885)<br>Minnesota (880)<br>Atlanta (880)<br>2×4 (875)</td>
+</tr>
+<tr>
+<td><strong>16.<br>17.<br>18.<br>19.<br>20.</strong></td>
+<td>Minnesota (691)<br>Rainy City (686)<br>Rat City (686)<br>Arizona (655)<br>Stockholm (648)</td>
+<td>Helsinki (2.15)<br>Rat City (2.13)<br>Minnesota (1.99)<br><em>Bay Area</em> (1.96)<br>Santa Cruz (1.94)</td>
+<td>
+<em>Bay Area</em> (1951)<br>Rainy City (1941)<br><em>Philly</em> (1938)<br>Arizona (1928)<br>Santa Cruz (1925)</td>
+<td>Rat City (874)<br>Santa Cruz (870)<br><em>Bay Area</em> (866)<br>Helsinki (863)<br><em>Canberra</em> (849)</td>
+</tr>
+</tbody></table>
+<!-- /wp:table --><!-- wp:heading {"level":4} --><h5>All WFTDA Leagues (graph, image)</h5>
+
+<!-- /wp:heading -->
+
+<p>As we've previously discussed, however, strict rankings are a bad way to represent the performance of teams. It's much better, even with 1-dimensional ratings, to report those ratings, providing a better measure of the "distance" between teams, than to imply that all teams are equally "1 better" than the team immediately "below" them in ranking.</p>
+
+<p>As such, we've generated a graph of all the teams rated by at least one of our ratings in their yearly review. We order the teams in "WFTDA ranking" order, with teams not in the official WFTDA ranking placed at the end. <br>In order to provide a good comparison, we've rescaled all the ratings to represent logarithmic relative strength, compared to the "top" team in the rating*. (That is: for every "1" difference in rating, the better team is expected to score about 2.7× as much in a game; for every "2" difference, 2.7<sup>2</sup>× (7.4×), for every "3" difference, 2.7<sup>3</sup>× (20×) and so on.)<br>This image is unavoidably large in order to be legible; click the preview to get the full-size version.<br>Note that the full range of the entire rated cohort for all ratings is about <strong>8</strong>, corresponding to the top 3 teams being expected to score around <strong>3000×</strong> more points than the bottom 3 (or, effectively, a complete shutout).</p>
+
+<!-- wp:image {"id":27849} -->
+
+<figure class="wp-block-image"><img src="https://scottishrollerderbyblog.com/2018/12/rating-performance-sheet3-crp.gif?w=700" alt="" class="wp-image-27849"><figcaption>All WFTDA Member Leagues, displayed in WFTDA 30 Nov 2018 order (with extras not in that rating appended after), with all their ratings. (Ratings scaled to the same type for direct comparison.)</figcaption></figure><!-- /wp:image --><p>It's worth noting that, in general, there's still a reasonable agreement on the overall "shape" of the rating; the ratings all broadly agree on the strength difference between the top and bottom ends of the list, and whilst there are disagreements in order, there's also a lot of agreement about the overall place of most teams.<br>It's also possible to see how the "difference in skill between ranks" changes: the steeper the slope of the curve, the more change there is in relative skill as you change ranking. For WFTDA Member leagues, there seems to be a relatively flat middle section, where adjacent teams are actually very close in strength; at the top end, there's a much steeper rating change with rank, until the curve flattens again around the top 3 or 4. (All the ratings pretty much agree that Victoria and Rose are near-tied in the top 2, they just disagree about which is a tiny sliver ahead.)</p>
+
+<!-- wp:heading {"level":3} -->
+
+<h4>Conclusion</h4>
+
+<!-- /wp:heading -->
+
+<p>We've given an overview and test of the official WFTDA rating scheme, versus 3 contenders for a range of use cases.<br>Contrary to some complaints, the WFTDA rating scheme turns out to be a pretty good rating, for post-diction, on the longer timescales. <br>More sophisticated schemes do better than it at almost all tests, but its performance, given its simplicity and the trade-offs it makes to try to prevent high-skill teams playing low-skilled teams for blowouts all the time, is acceptable.<br>Also, this test run underlines just how hard it is to make gains in predicting (or postdicting) game results: the gap between the worst and best performing metrics in this test is never more than 10%, and the gap between the "good" ratings tends to be around the 1% level. <br>We do note that, for prediction, Flat Track Stats attains class-leading performance, especially on short time scales. (It is just as good when rating European teams, MRDA teams, or any other region where it has an actively calculated rating.) We'd encourage regions which do not have their own rating scheme to contact Flat Track Stats to host such a thing for them. (The other benefit to this is that you have a place to store all your results: Flat Track Stats is also a public repository of all the game data which is uploaded to it.)</p>
+
+<!-- wp:separator -->
+
+<p></p>
+<hr class="wp-block-separator">
+<!-- /wp:separator --><p>*WFTDA estimated strength differences are calculated using the predicted strength ratios in the WFTDA algorithm, <em>not</em> the predicted "points gained". Other calculators use the points-gained formula, as they're interested in seeing how the rating <em>changes with results</em>: we're interested in how strong WFTDA's rating <em>actually</em> thinks teams are, which is different. (The fact that these <em>are</em> different for WFTDA is why sufficiently strong teams can't play weak teams without losing overall rating: points gains doesn't keep pace with strength difference. None of the other rating schemes in this article have this behaviour.)</p>
+
+<p></p>
+</div>
+    
+        <ul class="pager hidden-print">
+<li class="previous">
+                <a href="../../05/non-us-canadian-derby-roundup-8th-9th-december-edition/" rel="prev" title="Non-US/Canadian Derby Roundup: 8th/9th December Edition">Previous post</a>
+            </li>
+            <li class="next">
+                <a href="../../12/non-us-canadian-derby-roundup-15th-16th-december-edition/" rel="next" title="Non-US/Canadian Derby Roundup: 15th/16th December Edition">Next post</a>
+            </li>
+        </ul>
+</div>
+
+        </div>
+        <div id="sidebar">
+            <!--Sidebar content-->
+            <h1 id="blog-title">
+                <a href="https://scottishrollerderbyblog.com/" title="Scottish Roller Derby Blog">Scottish Roller Derby Blog</a>
+            </h1>
+            
+            
+            <ul class="unstyled">
+<li>
+ <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+ <img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
+</li>
+            
+                <li>
+<a href="../../../../../archive.html">Archive</a>
+                </li>
+<li>
+<a href="../../../../../categories/">Tags</a>
+                </li>
+<li>
+<a href="../../../../../rss.xml">RSS feed</a>
+
+            </li>
+<li>
+            
+            
+            </ul>
+</div>
+        <div id="footer">
+            Contents © 2019         <a href="mailto:scottishrollerderby@gmail.com">SRD</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+ <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+ <img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
+            
+        </div>
+    </div>
+    
+            <script src="../../../../../assets/js/all-nocdn.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

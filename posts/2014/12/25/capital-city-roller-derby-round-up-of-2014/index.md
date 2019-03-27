@@ -1,0 +1,117 @@
+<html><body><p>2014 was always going to be a great year for men’s roller derby, with the first ever Men’s World Cup taking place on UK soil in mid march, which we were lucky enough to have some of our own skaters (Tequila, Despicable V, Dafty) representing Power Scotland in the tournament on and off track. In the end Power of Scotland finished in joint 7th place with Argentina firmly putting Scottish Men’s derby on the map and played one the crowd favorites and most memorable games of the tournament when they took on the USA.
+
+<a href="/2014/12/pos-vs-usa.jpg"><img class="wp-image-4427 " src="https://scottishrollerderbyblog.com/2014/12/pos-vs-usa.jpg?w=614" alt="Picture by Dave McLeavy" width="500" height="281"></a> Picture by Dave McLeavy
+
+In Scotland we now have Men’s leagues covering Aberdeen, Glasgow, Edinburgh and Central Scotland, so it's safe to say the future of the men's game is brighter than ever and it's an incredibly exciting time for all involved. Especially now that the location of the 2016 Men’s World cup has recently been announced and Power of Scotland is now laying out the time frame for try-outs and team selection to make the team for the 2016 World Cup.
+
+From the start of 2014 we knew our year was going to be a challenging and one at Capital City, as it was year two of our league. The second year of any league is usually a pivotal one, as it is when most start bouting. This usually heralds changes for any league, as they look to travel to play opponents or put on their own games, as well as a change in focus with training. Although we had made changes last year to our training we knew we had to adapt our advanced training to be more targeted towards game play and tactics. As these aspects of training are vital for all skaters so they can get a feel and focus for how the team is going to play as well as a better understanding of whats going on, on track.
+
+For anyone who has been involved in putting on a leagues first bout, they will know the sheer amount of work that is needed. As well as involvement from all the league members and the large costs the league need to deal with. At Capital City we are lucky that the vast majority of our members are all very involved with the running of things behind the scenes. The whole league knew and were constantly working towards  one of our main goals for 2014, which was to start bouting. This brought with it some challenges as we have always said we wanted to bout with a full roster of CCRD skaters and no guests, but recruitment during 2013 had been a bit hit and miss.
+
+<b>Recruitment</b>
+
+We really tried to push our fresh meat taster sessions throughout the year, in the hope of bringing in some new faces to help fill our ranks and get a full squad of 14 to play. Unfortunately, 2014’s recruitment seems to have mimicked 2013's in terms of success. We always generated a lot of interest in our fresh meat taster sessions and people would come along for a couple of weeks.
+
+Once again it was getting people to come back after that, has proven to be the difficult part. From talking to other teams this does seem to be an issue that most men's leagues up and down the country face regularly. However, we have been slightly more successful than in the past with retention and have seven new faces join our ranks. Bolstering the leagues members to it's highest yet.
+
+Of the seven, two (JAKILL3 and Wrighteous) have currently made it up to bouting level, with a couple more not far behind and the rest working towards passing their mins.
+
+<b>Games</b>
+
+<a href="/2014/12/chums.jpg"><img class="wp-image-4425 " src="https://scottishrollerderbyblog.com/2014/12/chums.jpg?w=614" alt="Belter Skelpies vs Capital Chums" width="557" height="276"></a> Our co-ed bout with the Bairns
+
+We were lucky enough to be approached by Bairn City Rollers earlier in the year, asking if we would like to play them in a co-ed game in July. After agreeing we formed Capital Chums a team comprising Capital City Skaters along with other half's, family and friends of our skaters. The game was a nail biter and entertained the crowd right down to the final whistle until they knew who the winner would be. With a hectic hard fought final jam it ended 166 - 161 to Bairn City Rollers, the bout made such an impression on Bairn City that they awarded it their favorite game of 2014 at their end of year awards ceremony and gave us a trophy to thank us.
+
+<a href="/2014/12/ccrd-capitalchums-award.jpg"><img class=" wp-image-4424" src="https://scottishrollerderbyblog.com/2014/12/ccrd-capitalchums-award.jpg?w=614" alt="Receiving our award from the Bairns" width="479" height="319"></a> Receiving our award from the Bairns
+
+It wasn't until November 29th we took to the track again and for the first time as the Mighty Unicorns. This was also to be our first home game. To help us raise funds to pay for costs ahead of the bout, we took a new approach and turned to the public and fans to ask to help through our Indiegogo  crowdfunder.
+
+Not only was this our first ever men’s bout, it was our first home bout and Edinburgh's first men's derby headline bout all wrapped up in one. Named “A Bridge too far” it was double header with ARRG’s Cannon Belle’s taking on Malmö’s Crime City Rollers B and then Capital City taking on Bristol's Vice Quads with half time entertainment from Fierce Valley Roller Cubs.
+
+Our opponents Bristol were a bit of an unknown threat, with a few bouts against longer established UK teams already under their belt. Although we entered into the game hoping to win we knew it was going to be a tough task to achieve. From the first whistle it was a hard hitting game that came down once again to the final jam to see who would be victorious. In the end this time it was ourselves who took the honor, winning our first ever game 173 - 164.
+
+<a href="/2014/12/ccrdvsbristol.jpg"><img class="wp-image-4428 " src="https://scottishrollerderbyblog.com/2014/12/ccrdvsbristol.jpg?w=614" alt="Picture by Scott Carroll Live Photography" width="505" height="284"></a> Picture by Scott Carroll Live Photography
+
+<b>Crowdfunder</b>
+
+As most leagues will know, putting on your first bout is both terrifying and exciting in equal measure. As we are such a small league, finances proved to be the greatest hurdle. Our only real option for a venue was Meadowbank which came in at £900+ for hall hire and had to be paid 2 weeks before the event.
+
+This proved to be our biggest stumbling block as we couldn't pay it from tickets sales on the day. Add to that insurance, track equipment, program printing, EMTs and a host of other smaller costs we knew the league couldn't bankroll the bout without some help.
+
+We held a couple of meetings and ran through different options but one kept returning, crowdfunding. As far as we knew no one in Scotland or possibly the UK had run Crowdfunding before to put on a roller derby bout, so we knew it could be a big risk. However we had a back up plan if the crowdfunder didn't work, which a bit simpler. Empty our own pockets to cover the costs.
+
+We worked hard to put together a list of perks to entice people to donate. Our Idea was to run it like a ticket and merch pre sale, so donating got you entry or merch on the day. We offered the likes of t-shirts, tote bags, caps, bout tickets, personal CCRD strips, songs on the bout day playlist, selecting our skate out song and even blowing the start whistle of the bout. In the hope that we could cover something that most people would want.
+
+Setting a goal to raise proved a difficult task as well. Too little and it wouldn't be enough, too high and we may not make the total and lose all the donations in the process. This did provoke a fair amount of discussion between ourselves and in the end we set our goal at £1200. We knew that it was a large sum to raise but we had confidence that it was achievable. In the end we raised over £200 more than our total when our crowdfunder ended.
+
+Crowdfunder stats
+</p><ul>
+	<li>109 Backers in total</li>
+	<li>Raised £1410 in total</li>
+	<li>Average pledge was £13</li>
+	<li>Broke our target with a week to spare</li>
+	<li>Averaged around £35/day</li>
+	<li>All backers bar 1 were from the uk, the other was from Australia</li>
+</ul>
+It is safe to say that everyone who donated to our crowdfunder are our hero’s here at Capital City, as our game wouldn't have been the success that it was if it was not for each and everyone of you, so thank you.
+
+<a href="/2014/12/crd-first-win.jpg"><img class="wp-image-4426" src="https://scottishrollerderbyblog.com/2014/12/crd-first-win.jpg?w=614" alt="" width="512" height="341"></a> After our first Home bout, thank you all who donated and came to watch us on the day
+
+<b>Rebrand</b>
+
+Some of you may have noticed that this year we went through a little re-brand of our league logo. From very early on we have always been known for our very distinctive unicorn, so it was with great trepidation we looked at reworking our logo. We didn't want to lose the Unicorn but we knew it was time let a professional the chance to see what they came up with. As our original logo was pieced together by our members fairly quickly so we could have a logo.
+
+<a href="/2014/12/ccrd-oldogo.jpg"><img class="wp-image-4432 size-medium" src="https://scottishrollerderbyblog.com/2014/12/ccrd-oldogo.jpg?w=212" alt="Original CCRD logo" width="212" height="300"></a> Original CCRD logo
+
+We approached Admiral from ARRG in the hope she could come up with something, but not lose what made our old logo stand out. A couple of months later she came back with a design that with a couple of very minor tweaks later became our new logo. We think that you all will agree that she did a fantastic job. Also to coincide with our logo re brand our web guys in the league put their day job talents to good use and put together our first proper website over at <a title="Capital City Roller Derby" href="http://www.capitalcityrollerderby.co.uk/">capitalcityrollerderby.co.uk</a>.
+
+<a href="/2014/12/capitalcitylogo-srdb.jpg"><img class="wp-image-4431 size-medium" src="https://scottishrollerderbyblog.com/2014/12/capitalcitylogo-srdb.jpg?w=300" alt="CCRD New Logo" width="300" height="300"></a> CCRD New Logo
+
+<b>Achievements in 2014, what to </b><b>expect in 2015</b>
+
+I caught up with Capital City's Captain Tequila Jammer and Vice Captain HaJuken to see what they thought were the leagues achievements in 2014 and what they are looking forward to in 2015.
+
+<strong>HaJuken</strong>
+
+<span class="null">2014 was the year that people began to believe in Unicorns. We had a very successful year as we began to feel, scrim and play like a team. This was down to a number of factors. Our numbers grew to the point where we could do mini scrims at practice, we have several coaches that were able to teach the rest of the team about their specialties, everyone bringing their A-game to practice every week and having a very dedicated and awesome Captain.</span>
+
+<strong>Tequila Jammer</strong>
+<div class="_38 direction_ltr">
+
+The Dundee Rollers Girls have always been instrumental in giving newer skaters their first taste of the game with their awesome coed monthly scrims. I mean if you get hit by Milky you can get hit by anyone.
+
+<strong>HaJuken</strong>
+
+<span class="null">We had numerous skaters passing their mins and the first thing we say to them when they do is “get your butt to a Dundee Roller Girls Scrim!” Not only is scrimming great experience but the DRG Scrims usually host skaters from numerous different leagues such as Mean City, Granite City Roller Girls and Glasgow Roller Derby. So you also get to meet and skate with some new faces every time you go.</span>
+
+<strong>Tequila Jammer</strong>
+
+We also had our first outing official outing which was in co-ed form was an amazing success. Many CCRD skaters joining forces with local leagues to make the Capital Chums! A tight match up that had everyone in the edge of our seats.
+
+<strong>HaJuken</strong>
+
+<span class="null">Even though the Chums lost by a few points I can safely say that everyone on the team felt like a winner after the amazing performance they put in that day. Who knows, maybe the Chums will reunite and take the win next time?</span>
+
+<strong>Tequila Jammer</strong>
+
+I also have to mention our first ever game! A BRIDGE TOO FAR! it was a great feeling to see 2 years of training come together in our debut game against the Vice Quads. The atmosphere was top notch and of course it couldn't of even happened without the support of our crowd funding ventures. Thanks again everyone! But seeing everyone come play as a team and Captain them to victory was euphoric feeling. In fact it's not just a team, it's a community and family.
+
+<strong>HaJuken</strong>
+
+I cant not mention A Bridge too far, Getting to skate together as a team for the first time and knowing your are part of history, there is no feeling like it.  It was definitely a hard fought win though as the lads from Bristol Vice Quad put up a serious fight. There was so much planning, hard work and effort by everyone on the team to make sure this game happened. We had a lot riding on this game being a success and seeing the hall fill up with people just made all the stress disappear on the day. Hearing the crowd erupt when we skated out was a great feeling and I definitely think we gave our fans a great show that day. As for the greatest moment for me this year? Definitely being nominated Vice Captain of CCRD. Knowing that I have teammates who thought I could be Vice Captain just boosted my confidence through the roof.
+
+<strong>Tequila Jammer</strong>
+
+Next season we are looking forward to taking part in the newly formed Scottish Men's Roller Derby Nationals where we'll take on the formidable Skelpies and Mean City. Away games are on our agenda too, Bristol rematch and even taking the Unicorns overseas... WHAT?!
+
+And of course we hope to grow in numbers, promote derby and build links with local leagues and our community. So watch out 2015 UNICORNS ARE COMING!
+
+<strong>HaJuken</strong>
+
+In 2015 we will be looking to really make our mark on the Roller Derby scene by upping the amount of games we are going to play. We want to give back to our dedicated fan base by giving them more chances to see us skate. We have the Scottish Men’s Roller Derby Nationals as well as some away games, can you imagine the Unicorns invading other countries? How awesome would that be!?
+
+To all of our fans that have stuck by our sides over the last two years I would just like to say….Thank You! Your support at our first game “A Bridge Too Far” made all of the hard work worth it. We will not disappoint you and in 2015, we are going to show the Roller Derby world what we are made of! U-NI-CORNS! U-NI-CORNS!!
+
+ 
+
+</div></body></html>

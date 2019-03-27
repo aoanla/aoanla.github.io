@@ -1,0 +1,32 @@
+<html><body><p>Last year, we <a href="https://scottishrollerderbyblog.com/2017/08/11/a-slavic-tournament-how-central-and-eastern-european-derby-exploded-in-just-3-years/"><strong>reported</strong></a> on the first ever "Slavic Roller Derby Tournament", a three team round-robin hosted by Warsaw Hellcats, and featuring St Petersburg's White Night Furies, and Prague City Roller Derby B in addition to the hosts. At the time, we noted that the mere possibility of this tournament existing was a signal for just how fast Roller Derby is expanding into Eastern Europe...
+
+...and that expansion has continued into this year, so it is perhaps unsurprising that the tournament is back for a second year this October; bigger and more extensive.
+
+<img class="aligncenter size-large wp-image-27274" src="https://scottishrollerderbyblog.com/2018/08/slavic_map_out.png?w=2048" alt="SLAVIC_map_out" width="1024" height="650"> Competitors in Red, except the hosts (in Blue), and the three teams contributing to Team Czech (in Yellow). Men's Derby bout competitors in Black.
+
+Poland have outdone expectations by doubling the number of contenders this time around, and extending the geographical inclusion to the southern Baltic states as well as Slavic nations. Fitting the resulting 6 team round robin into a single day is only possible with non-WFTDA rulesets (15 games would take 15 hours of WFTDA play, not including breaks), so this edition of the Slavic Tournament is being run as with Roller Derby Sevens rules. The reduced maximum roster size of Sevens also makes it more accessible for some of the newer competitors as an additional bonus.
+
+In fact, this added accessibility has allowed several other firsts at this event:
+
+Riga Roller Derby, representing Latvia, have previous bout experience, as part of the Team Baltic Roller Derby who competed against Team Israel at the 2018 Roller Derby World Cup - but have never played as a team themselves. Their Sevens team will therefore represent multiple firsts here: the first time Riga have competed as a team, and the first time <em>any</em> team from the (south) Baltics have competed in a ranked event!
+This is very good timing, as the Baltics have just gained their third official league - in Tallinn, Estonia - this week, showing the work done in Riga and Tartu paying off.
+
+Team Baltic is not the only connection to the Roller Derby World Cup, as Team Czech Roller Derby will be representing their country in Sevens form, with skaters from Prague's Prague City Roller Derby and Hard Breaking Dolls, joined by members of Roller Derby Brno. Brno's skaters on Team Czech will all be skating in their first public bouts at this tournament, giving them good experience to take back to their league. (We hope that next time Team Czech plays, they can also include skaters from the newly formed league in Ostravia, also announced this week!)
+
+<img class="aligncenter size-large wp-image-27275" src="https://scottishrollerderbyblog.com/2018/08/slavic_czech_map_out.png?w=2048" alt="SLAVIC_CZECH_map_out" width="1024" height="714">
+
+Host country Poland will be exceptionally well represented, with not only hosts Warsaw Hellcats, and their fellow Warsaw team, Worst Warsaw, competing, but also Vratislavia (Wrocław)'s MadChix Roller Squad! All three teams have at least several games under their belt, and contributed skaters to Team Poland, (although Warsaw's teams are a lot more experienced!). Additionally, all are particularly used to Sevens tournaments, having competed in the 7th Heaven tournament in Poznań only a few months ago.
+
+Also returning to the tournament from last time are the only bouting team in Russia, St Petersburg's White Night Furies; although they are sending their newer B team, Ingria Rollers, to compete this time around. The Furies also gained a lot of experience from their members in Team Russia at the World Cup this year (as well as their continued participation in the Pohjola Cup), so we're expecting a strong performance from their B Team here!
+
+The restrictions of Sevens rostering make it difficult to predict the standings of the Slavic/Baltic tournament from FTS records (not least because several of these teams are playing for the first time!), but we'd be unsurprised by strong performances from the hosts, and the composite Czech team. Given the strong tournament experience gained by many of the competitors here in the past year, however, it's hard to rule anyone out.
+
+In addition to the main event, this edition of the Slavic/Baltic Tournament will also be showcasing two other contests:
+
+Another debut, this time in men's roller derby: Polish Men's Roller Derby, a collaboration of the Polish Eagles skaters based in Poland itself, play their first game on home soil, ever, against the might of London's Southern Discomfort B, Mild Discomfort!
+
+And, finally, a chance to see another fantastic sport on wheels, as Warsaw's Wheelchair Rugby team present their sport in an exhibition game!
+
+</p><hr>
+
+The <a href="https://www.facebook.com/events/2079168135665222/"><strong>first Slavic/Baltic Tournament</strong></a> will be held on the 20th October in <a href="https://goo.gl/maps/XDcKWPs5wWN2"><strong>Centrum Sportu Wilanów</strong></a> in Warsaw, Poland. Tickets and more information will be available on the Facebook Event in the coming weeks.</body></html>

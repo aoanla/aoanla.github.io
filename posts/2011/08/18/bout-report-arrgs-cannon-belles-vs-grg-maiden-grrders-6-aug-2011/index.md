@@ -1,0 +1,2 @@
+<html><body><p>If you mosey over <a href="http://aoanla.blogspot.com/2011/08/bout-report-jamming-at-fringes-arrg.html">here</a> you can read a report on the first of the <a href="http://www.arrg.co.uk/">ARRG</a> Edinburgh Festival bouts against the might of <a href="http://glasgowrollergirls.com/blog/">GRG</a> .
+Excellent report featuring some great photos and video.All the work of Aoanla from his blog,<a href="http://aoanla.blogspot.com/">Ante Ortus A Novus Lumen Ars </a></p></body></html>

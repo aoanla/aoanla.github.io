@@ -1,0 +1,47 @@
+<html><body><p>Regular readers will know that the Blog has something of an interest in the growth of Roller Derby in newer regions. As Roller Derby spreads out of the "cultural West", the new areas it encounters have potential to enrich the sport, as well as bringing the usual benefits of enthusiastic new areas.
+
+But, what do newer skaters in those regions think about Roller Derby right now? How do they feel about the sport - and what do they want from it?
+To start off an irregular series on this topic, we performed a small survey with several Roller Derby teams and leagues in Asia and the Middle and Near East, targeting specifically skaters who were local to those areas. Future articles in this series will talk to some of the respondents to the survey, and others, in more detail.
+
+The responding skaters were members of: <strong><a href="https://www.facebook.com/Roller-Derby-Beirut-763063127094159/">Roller Derby Beirut</a></strong> (Beirut), <strong><a href="https://www.facebook.com/TLVDerbyGirls/?fref=ts">Tel Aviv Roller Derby</a></strong> (Israel), <strong><a href="https://www.facebook.com/NRMonsters/?fref=ts">Tokyo Roller Girls</a></strong> (Neon Roller Monsters, Japan), <a href="https://www.facebook.com/kamikazebadassrollerderbyjapan/?fref=ts"><strong>Kamikaze Badass Roller Derby</strong> </a>(Japan),  <strong><a href="https://www.facebook.com/BangkokRollerDerby/?fref=ts">Bangkok Roller Derby</a></strong> (Thailand), and the <strong><a href="https://www.facebook.com/CaiRollergirls/?fref=ts">CaiRollers</a></strong> (Egypt). Other leagues were asked, but were unable to respond due to issues outside their control. In total, there were <strong>15</strong> respondents. We should emphasise that, with such a small survey, proportions are subject to significant statistical uncertainty - differences of less than 20% in response are not statistically significant here. Whilst all of the respondents waived their right to anonymity in this survey, we will not be identifying them at this time.
+
+The median experience of the skaters was <strong>3 years</strong>, with only one having less than a years' declared experience.
+
+We started off the survey by investigating how they got involved with their current league. 7, <strong>47%</strong>, of respondents referred to finding out through friends, either online (Facebook or otherwise) or in person. One was led to join after reading an article about the league, and one via advertising in public spaces. The remainder were founding members of their league, or otherwise did not answer.
+
+<img class="aligncenter size-medium wp-image-9602" src="https://scottishrollerderbyblog.com/2016/10/screen-shot-2016-10-17-at-21-23-02.png?w=273" alt="screen-shot-2016-10-17-at-21-23-02" width="273" height="300">
+
+Interestingly, a little over half had heard of Roller Derby before joining their league. Of the <strong>60%</strong> who had heard of Roller Derby from other venues, there were precisely two touchstones, each with <strong>43%</strong> of the eligible cohort: the movie "Whip It", and experiences of the sport in other countries - the UK or USA; one did not give a detailed response. Most did not find their experience of roller derby to differ from their expectations, although one explicitly noted that the experience was better than the film made out (less "sexy" and more "down to earth").
+
+<img class="aligncenter size-full wp-image-9813" src="/2016/10/screen-shot-2016-10-19-at-13-23-13.png" alt="screen-shot-2016-10-19-at-13-23-13" width="826" height="395">
+
+Most respondents feel more of a part of a "<em>worldwide community</em>" and "<em>aware of Roller Derby outside their country</em>" than not. However, the positivity is more muted on the latter point, with the most common response being around the middle of the scale; contrastingly, 40% feel "completely" part of a worldwide community.
+
+We also asked respondents two questions to see how they did interact with the worldwide community: "<em>How do you feel about Roller Derby worldwide?</em>" and "<em>What do the letters WFTDA mean to you?</em>"
+On the former question, 4 did not respond in any way. The statistically significant majority of responses (53%, <strong>72%</strong> of those who answered at all) were both positive and reflected ideals of community - common words were "one family", "sisterhood", "inspirational" and "capable". Only one respondent expressed a complete lack of knowledge about the wider community.
+On the latter question, two respondents (<strong>13%</strong>) did not know what WFTDA was. Of the remainder, 4 (<strong>26%</strong>) focussed on the standards setting aspects of the Association, while another 5 (<strong>33%</strong>) expressed mainly aspirational or community related feeling towards it. (The rest simply repeated the exact meaning).
+
+<img class=" size-large wp-image-9582 aligncenter" src="https://scottishrollerderbyblog.com/2016/10/screen-shot-2016-10-17-at-19-59-15-2.png?w=1024" alt="screen-shot-2016-10-17-at-19-59-15-2" width="1024" height="540">
+
+We were also interested as to how the respondents viewed Roller Derby - is it "<em>American</em>" or "<em>Western</em>" or both? Responses to both questions were mixed, and not well correlated, suggesting that images of "America" and "The West" are not close synonyms. However, there is a definite trend towards believing that Roller Derby is more Western than not, whilst the feelings about "Americanness" are more mixed.
+
+To judge influence of wider and popular Roller Derby images, we asked the respondents if they had any Roller Derby heroes.
+4 (<strong>27%</strong>) said that they had no heroes, or raised philosophical objections to the concept. Several mentioned more than one choice, so percentages here do not add up to 100%: the most popular choices were Quadzilla (3, <strong>20%</strong>), Bonnie Thunders (2, <strong>13%</strong>) and "our league/our coaches" (3, <strong>20%</strong>). Highly visible WFTDA Top 40 skaters are represented in 7 (<strong>47%</strong>) of responses overall, a majority of responses for those who had any heroes at all.
+
+We also asked if respondents thought that <em>the kind of Roller Derby they did was different in any way to "Western" Roller Derby</em> (if this existed as a thing).
+<strong>33%</strong> of respondents answered with a simple "<em>No</em>". Of the rest, three (<strong>20%</strong>) essentially abstained, and the remainder were divided into <strong>20%</strong> "<em>Yes</em>", and the remainder mostly concerned with the relative skill gap they perceived. (Two (<strong>13%</strong>) did consider the difference to be in relation to the perspective of society towards their sport).
+
+<img class=" size-full wp-image-9814 aligncenter" src="/2016/10/screen-shot-2016-10-19-at-13-23-32.png" alt="screen-shot-2016-10-19-at-13-23-32" width="486" height="393">
+
+Concerning local derby, we were interested as to <em>how their peers and family reacted</em> to the sport. The majority of respondents considered their family to be <em>more supportive</em> than not (<strong>80%</strong>), with <strong>47%</strong> selecting the most positive option ("<em>totally supportive</em>"). Of those with less supportive family and friends, all of them cited concerns about physical safety as the principal sources of worry, although one of the positive respondents noted that their family's similar fears been totally reversed once they had actually seen the sport in action. (Positive respondents generally used word like "<em>cool</em>" or "<em>awesome</em>" to describe their peers/family's feelings.)
+With particular reference to Japan, respondents noted the confusion specific to that country between "Roller Derby" and the Japanese entertainment variant "Roller Game" in the popular consciousness.
+
+To close off the survey, we also asked respondents about <em>their hopes</em>, and <em>fears</em> for Roller Derby in the future.
+
+Overwhelmingly, the <em>hopes</em> consisted of desires for more popular recognition or mainstream tokens of acceptance(<strong>100%</strong>). Breaking this down, <strong>20%</strong> of responses specifically mentioned the Olympics as an aspirational target; <strong>33%</strong> focussed more on increasing popularity and acceptance in their region, while another <strong>33%</strong> had specific interest in the spread of Roller Derby to more countries worldwide. In particular, one respondent was specifically interested in having more roller derby outside of the USA, with tournaments in every region.
+With respect to <em>fears</em>, responses were far more varied. Two (<strong>13%</strong>) had "no worries". Two were concerned about the sport's community spirit being harmed by increased professionalisation. <strong>33%</strong> were concerned that the sport might die out - from lack of support either globally or regionally. <strong>20%</strong> (overlapping with some of the above) were specifically concerned by costs. 1 (<strong>7%</strong>) expressed concern at the increased influence of men in the sport.
+In both cases, we believe that these are the same kinds of hopes and fears found across the Roller Derby community, even in the most established nations.
+
+In general, then, we are encouraged by the response to our survey, especially concerning support from local and global communities.
+
+As mentioned above, we hope to come back to you will follow-ups on this article, interviewing specific respondents (and others from leagues who were not surveyed).</p></body></html>

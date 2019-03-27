@@ -1,0 +1,120 @@
+<html><body><p>We've <a href="https://scottishrollerderbyblog.com/2018/04/26/euroclash-2018-newcastle-roller-girls-tournament-expands-beyond-the-euro/"><strong>written once already</strong></a> about the return of the, now International, Roller Derby tournament to Newcastle Upon Tyne...
+
+<img class="alignnone size-full wp-image-26639" src="/2018/04/euroclash2018.png" alt="EuroClash2018" width="1920" height="1440">
+
+...but, with the publication of the official Schedule, and a lot of activity from many of the competing teams, we thought it was worth a quick update.
+
+Firstly, to the schedule: the official schedule in UK time is below, but we've also prepared a fancy multi-time-zone version <strong><a href="http://aoanla.pythonanywhere.com/EuroClash2018/">HERE</a></strong> for anyone expecting a livestream and wanting to follow their favourite team from abroad.
+</p><h2>Saturday 19 May</h2>
+<strong>9am</strong> <a class="profileLink" href="https://www.facebook.com/TigerBayBrawler/?fref=mentions">Tiger Bay Brawlers</a> vs <a class="profileLink" href="https://www.facebook.com/SteelCityRollerDerby/?fref=mentions">Steel City Roller Derby</a>
+<strong>11am</strong> Newcastle Roller Girls vs <a class="profileLink" href="https://www.facebook.com/birminghamblitzdames/?fref=mentions">Birmingham Blitz Dames</a>
+<strong>1pm</strong> <a class="profileLink" href="https://www.facebook.com/dublinrollerderby/?fref=mentions">Dublin Roller Derby</a> vs <a class="profileLink" href="https://www.facebook.com/DockCityRollers/?fref=mentions">Dock City Rollers</a>
+<strong>3pm</strong> Birmingham Blitz Dames vs Steel City Roller Derby
+<strong>5pm</strong> Newcastle Roller Girls vs Tiger Bay Brawlers
+<h2>Sunday 20 May</h2>
+<strong>9am</strong> Newcastle Roller Girls vs Steel City Roller Derby
+<strong>11am</strong> Dublin Roller Derby vs <a class="profileLink" href="https://www.facebook.com/middlesbroughRD/?fref=mentions">Middlesbrough Roller Derby</a>
+<strong>1pm</strong> Dock City Roller Derby vs <a class="profileLink" href="https://www.facebook.com/auldreekierollergirls/?fref=mentions">Auld Reekie Roller Girls</a>
+<strong>3pm</strong> <a class="profileLink" href="https://www.facebook.com/CentralCityRollerDerby/?fref=mentions">Central City Roller Derby</a> vs Steel City Roller Derby
+<strong>5pm</strong> Middlesbrough Roller Derby vs Auld Reekie Roller Girls
+<strong>7pm</strong> Dock City Roller Derby vs Birmingham Blitz Dames
+
+Also, since our first update, several of the teams competing have played at significant tournaments: Birmingham Blitz Dames playing exceptional derby at the K-Town Shakedown in Kalamazoo, Michigan, winning 2 out of 3 games, and only losing the last, against Royal City (Guelph) by 9 points (against a predicted loss of around 150!). We predicted that Birmingham might well be underranked in our last update, and this proves us very right...
+Similarly, a great performance by Dublin at Southern Discomfort 2018 in South Carolina, beating expectations in every single bout by huge margins - only losing one bout (against Ann Arbor) by 3 points (against a predicted loss of around 90), and winning every single other - has pushed their expected rating up significantly, although as they already top the expected teams at EuroClash, this doesn't really change our prediction for them.
+
+Meanwhile, for Dock City Rollers and Newcastle Roller Girls over in Tri-City's Put Up Your Toques in Ontario, it was also a very good weekend. Dock City beat expectations against Winnipeg, and Newcastle both won, and beat expectations, against each of their opponents, giving both of them a substantial boost - but not enough for Dock City to gain on Dublin at the top of the table.
+
+Steel City played a single game since our last update, against the Chicago Outfit, where they also out-performed expectations, by a good 50 points or so.
+
+By comparison, Middlesbrough and Central City have had a relatively quiet time of it, with no further bouts since our last writeup. Central City will play one game, this weekend, as they take on London Rockin' Rollers up in Glasgow for British Champs Tier 1, where their current rating expects a 3:1 score ratio in victory! Nevertheless, games dropping out of consideration, and teams moving around them, have caused ranking changes in WFTDA for both teams.
+
+Unfortunately, Auld Reekie's position is not affected by their own games played since our last update - their closed bouts away against Kallio and Bear City are not marked as Sanctioned on FTS, and so don't count towards their WFTDA ratings there. Whilst they lost a bit of rating compared to last time, their predicted performance seems to have now stabilised, so a rating including these games should be more accurate.
+Similarly, Tiger Bay Brawlers' bout against Rainy City B can't count towards WFTDA ratings, as only A teams can contribute ratings. The Cardiff team significantly improved on expectations - narrowly defeating a team which "should have" easily defeated them with a 100 pt margin - so it's unfortunate that this bout is not included.
+
+Luckily, we have our own rating system - SRDRank - which draws from the full set of FTS bout records, ignoring WFTDA Sanctioning, to produce a rating which takes into account every single game played by a team, including B teams. We've not had time to update the full rating page for this, but just for EuroClash, we've run a special iteration of the rating just for the tournament, and added a column for it here.
+(<span style="background:darkseagreen;"><strong>Green</strong></span> rows are teams which have gone up in the expected "finishing order" for EuroClash, according to FTS, and <span style="background:indianred;"><strong>Red</strong></span> rows are those which have dropped. We mark ranking changes in FTS and WFTDA with + and - signs in the Ranking row.)
+<table>
+<tbody>
+<tr>
+<td style="text-align:center;" colspan="3" rowspan="1"><strong>FTS</strong> "WFTDA" Ratings 09 May 2018 (WFTDA Rating 30 April)</td>
+</tr>
+<tr>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong>Rank</strong> (Official WFTDA)</td>
+<td style="text-align:center;" colspan="1" rowspan="1">Name</td>
+<td style="text-align:center;" colspan="1" rowspan="1">Rating (Official WFTDA)</td>
+<td style="text-align:center;" colspan="1" rowspan="1">SRDRank (09 May)</td>
+</tr>
+<tr>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong>34 ++</strong> (38 ++)</td>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong><a href="http://flattrackstats.com/teams/7775/rankings/wftda">Dublin Roller Derby</a></strong></td>
+<td style="text-align:center;" colspan="1" rowspan="1">800.4 (443.76)</td>
+<td><strong>3.50</strong></td>
+</tr>
+<tr>
+<td style="text-align:center;" colspan="1" rowspan="1"><b>48 ++</b> (66 -)</td>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong><a href="http://flattrackstats.com/teams/29732/rankings/wftda">Dock City Rollers</a></strong></td>
+<td style="text-align:center;" colspan="1" rowspan="1">757.3 (311.87)</td>
+<td><strong>3.16</strong></td>
+</tr>
+<tr>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong>62 +</strong> (71 -)</td>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong><a href="http://flattrackstats.com/teams/7948/rankings/wftda">Middlesbrough Roller Derby</a></strong></td>
+<td style="text-align:center;" colspan="1" rowspan="1">729.4 (307.57)</td>
+<td><strong>3.26</strong></td>
+</tr>
+<tr style="background:darkseagreen;">
+<td style="text-align:center;" colspan="1" rowspan="1"><strong>65 +</strong> (50 +++)</td>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong><a href="http://flattrackstats.com/teams/7736/rankings/wftda">Birmingham Blitz Dames</a></strong></td>
+<td style="text-align:center;" colspan="1" rowspan="1">724.5 (373.88)</td>
+<td><strong>3.06</strong></td>
+</tr>
+<tr>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong>67 ++</strong> (64 -)</td>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong><a href="http://flattrackstats.com/teams/7949/rankings/wftda">Newcastle Roller Girls</a></strong></td>
+<td style="text-align:center;" colspan="1" rowspan="1">717.7 (315.71)</td>
+<td><strong>2.80</strong></td>
+</tr>
+<tr style="background:indianred;">
+<td style="text-align:center;" colspan="1" rowspan="1"><strong>68 + </strong>(81 ++)</td>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong><a href="http://flattrackstats.com/teams/7763/rankings/wftda">Central City Roller Derby</a></strong></td>
+<td style="text-align:center;" colspan="1" rowspan="1">713.3 (278.36)</td>
+<td><strong>2.99</strong></td>
+</tr>
+<tr style="background:indianred;">
+<td style="text-align:center;" colspan="1" rowspan="1"><strong>82 +</strong> (92 -)</td>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong><a href="http://flattrackstats.com/teams/3417/rankings/wftda">Steel City Roller Derby</a></strong></td>
+<td style="text-align:center;" colspan="1" rowspan="1">692.5 (259)</td>
+<td><strong>2.53</strong></td>
+</tr>
+<tr>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong>93</strong> (90 -)</td>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong><a href="http://flattrackstats.com/teams/7953/rankings/wftda">Tiger Bay Brawlers</a></strong></td>
+<td style="text-align:center;" colspan="1" rowspan="1">676.0 (262.62)</td>
+<td><strong>3.11</strong></td>
+</tr>
+<tr>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong>94</strong> (82 +)</td>
+<td style="text-align:center;" colspan="1" rowspan="1"><strong><a href="http://flattrackstats.com/teams/5912/rankings/wftda">Auld Reekie Roller Girls</a></strong></td>
+<td style="text-align:center;" colspan="1" rowspan="1">674.9 (277.65)</td>
+<td><strong>2.97</strong></td>
+</tr>
+</tbody>
+</table>
+Interestingly, despite WFTDA, FTS and SRDRank all disagreeing about the relative ordering of the teams, all of the rankings place Dublin clearly at the top. We also all generally agree about the "range of skill" at EuroClash 2018, despite disagreeing about which team is at the bottom: WFTDA expects Dublin to be able to beat Steel City (their lowest rated team) by about a 3:1 ratio - and SRD Rank puts the same contest at about 13:5, whilst FTS thinks that the lowest strength team is Auld Reekie, but also expects Dublin to be able to beat them by about 3:1.
+
+We won't get either of those games at EuroClash 2018, though, as almost all of the scheduled bouts are against teams which are closely matched in one or other of the ratings.
+All of our rating schemes expect <em>Dublin's</em> games to be closely fought - Middlesbrough and Dock City are in 2nd to 4th place in all of the rating schemes we have here, and both have a chance at unseating the expected tournament top dogs from Ireland.
+
+Auld Reekie have some difficult games - if you believe FTS, all of their games will be very difficult - but SRDRank has a lot more faith in them. Expect the Edinburgh based team to beat expectations against very tough opponents in Dock City and Birmingham, if we're right.
+
+The ascendant Birmingham will be counting on the WFTDA rating being accurate when they take on Dock City - both other ratings place them slightly below, not above, the Swedish team - but everyone agrees that they should have an easier time against the Americans from Steel City.
+
+Steel City will be wanting to bring upsets to both their games - again, going by their ratings from a little more than a year ago, they should win both of their bouts, against Birmingham and Central City... and their current rating has been steadily climbing in recent months. EuroClash could be the place where an American team does to Europe what European teams traditionally do in the Americas!
+
+ 
+
+<hr>
+
+Day Tickets (and Weekend Tickets) for EuroClash are available here: <strong><a href="https://www.euro-clash.com/ticketshttps://www.euro-clash.com/tickets">https://www.euro-clash.com/tickets</a></strong>
+
+EuroClash 2018 will be held at the <a href="https://goo.gl/maps/KwjQQaZfuNF2"><strong>Walker Activity Dome</strong></a>, <strong>19th</strong> to <strong>20th</strong> May 2018, by Newcastle Roller Girls.</body></html>

@@ -1,0 +1,5 @@
+<html><body><a href="http://scottishrollerderbyblog.com/2013/04/903267_377920022321448_1521570605_o.jpg"><img class="aligncenter size-large wp-image-2517" alt="903267_377920022321448_1521570605_o" src="http://scottishrollerderbyblog.com/2013/04/903267_377920022321448_1521570605_o.jpg?w=614" width="614" height="782"></a>
+
+Exciting times ahead as the East meets the Centre, <a href="http://lothianderbydolls.com/">Lothian Derby Dolls</a> taking on <a href="https://www.facebook.com/BairnCityRollers">Bairn City Rollers</a>' women's team, the Central Belters, in what will be both teams' first ever public bout!
+
+Speaking for LDD, Duke Boxx had this to say: "We certainly can't wait to welcome family and friends to our first ever public bout and also the Central Belters first ever public bout. So come along and cheer on some girls popping their bouting cherry and we can certainly sweeten the pot with some yummy home baked goods, goodies to be won and what is set to be fun an exciting roller derby."</body></html>

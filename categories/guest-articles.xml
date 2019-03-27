@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Scottish Roller Derby Blog (Posts about guest articles)</title><link>https://scottishrollerderbyblog.com/</link><description></description><atom:link href="https://scottishrollerderbyblog.com/categories/guest-articles.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:scottishrollerderby@gmail.com"&gt;SRD&lt;/a&gt; 
+ &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
+ &lt;img alt="Creative Commons License BY-NC-SA"
+ style="border-width:0; margin-bottom:12px;"
+ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 27 Mar 2019 19:54:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Guest Post: TrackKarma : A brief review from a total technophobe</title><link>https://scottishrollerderbyblog.com/posts/2018/12/17/guest-post-trackkarma-a-brief-review-from-a-total-technophobe/</link><dc:creator>aoanla</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Continuing our series of guest posts, we're keeping topical with a review of Namur Roller Girls' league management web app, TrackKarma by Glasgow Men's Roller Derby's Rosie Peacock.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;a href="https://www.trackkarma.com/"&gt;TrackKarma&lt;/a&gt;&lt;/strong&gt; is completely free to use*, although it can only be used as a web application (there is no self-hosting option). The self-reporting on the website says that, at the time of publication, 376 leagues are currently using the service. At present, the service is available in both English and French, and has no user limits.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+&lt;!-- wp:separator --&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;hr class="wp-block-separator"&gt;
+&lt;!-- /wp:separator --&gt;
+&lt;!-- wp:paragraph --&gt;
+
+&lt;p&gt;Trackkarma (TK) is an app (well, a website that runs like an app) developed by Namur Roller Girls.&lt;br&gt;Their launching blurb is as follows….&lt;br&gt;“Ever dreamed of teams charters, training sessions, attendance, league agenda and directory all gathered in one single tool?&lt;br&gt;Here it is: TrackKarma, the application that will change the world (or at least your league).&lt;br&gt;In TrackKarma, members can:&lt;/p&gt;
+
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+
+&lt;ul&gt;&lt;li&gt;Manage their player profile and import a cute picture&lt;/li&gt;&lt;li&gt;Check monthly agenda of games and training sessions&lt;/li&gt;&lt;li&gt;Inform of their absence at practice&lt;/li&gt;&lt;li&gt;Communicate with their bench crews&lt;/li&gt;&lt;li&gt;Visualize team charters and game rosters&lt;/li&gt;&lt;li&gt;Register to coach at practice...&lt;/li&gt;&lt;/ul&gt;
+
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+
+&lt;p&gt;Bench crews can:&lt;/p&gt;
+
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+
+&lt;ul&gt;&lt;li&gt;Organize players into teams&lt;/li&gt;&lt;li&gt;Select players for game rosters&lt;/li&gt;&lt;li&gt;Add games and related information to the agenda&lt;/li&gt;&lt;li&gt;Communicate with their players&lt;/li&gt;&lt;li&gt;Check players' attendance...&lt;/li&gt;&lt;/ul&gt;
+
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+
+&lt;p&gt;Which sounds AMAZING, so Glasgow Men’s Roller Derby (GMRD) decided to give it a whirl.&lt;br&gt;&lt;br&gt;Previously GMRD have tried alternatives to Facebook groups such as Slack, but we struggle to get everyone on board with using alternatives as although Facebook is handy for social media, it’s also the devil. [For a review of such options, we recommend &lt;strong&gt;&lt;a href="https://medium.com/@shredinger/software-tools-for-nonprofits-f2cc73deea49"&gt;this article&lt;/a&gt;&lt;/strong&gt; - Ed]&lt;br&gt;&lt;br&gt;We have been trialling TrackKarma for about 3 months now and these are my thoughts:&lt;br&gt;I am a terrible technophobe, and I find TK very easy to use. &lt;br&gt;&lt;br&gt;It makes sense and I don’t feel stupid using it (yey!). &lt;br&gt;&lt;br&gt;It is incredibly useful for keeping record of training sessions, games and attendance; however, like most ‘extra’ bits of work we ask skaters to do on top of training, some folk are using it really well, and others haven’t logged on at all.&lt;br&gt;&lt;br&gt;Initially we asked everyone to be responsible for updating and maintaining their own attendance, but this was a bit optimistic on our part and so now we ask coaches to update skaters’ attendance after each session they coach.&lt;/p&gt;
+
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator --&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;hr class="wp-block-separator"&gt;
+&lt;!-- /wp:separator --&gt;
+&lt;p&gt;The TrackKarma service can be found at &lt;a href="https://www.trackkarma.com/"&gt;&lt;strong&gt;https://www.trackkarma.com/&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;*TrackKarma is supported by a Patreon here: &lt;a href="https://www.patreon.com/trackkarma"&gt;&lt;strong&gt;https://www.patreon.com/trackkarma&lt;/strong&gt;&lt;/a&gt; . As well as supporting their hosting costs, this Patreon also pays for additional development work and feature support.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>articles</category><category>guest articles</category><category>league management</category><category>reviews</category><category>trackkarma</category><guid>https://scottishrollerderbyblog.com/posts/2018/12/17/guest-post-trackkarma-a-brief-review-from-a-total-technophobe/</guid><pubDate>Mon, 17 Dec 2018 22:27:14 GMT</pubDate></item><item><title>Guest Article: Strength Factor Challenges for Europeans</title><link>https://scottishrollerderbyblog.com/posts/2018/11/09/guest-article-strength-factor-challenges-for-europeans/</link><dc:creator>aoanla</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;i&gt;&lt;span style="font-weight:400;"&gt;As part of our irregular series of Guest Articles, we're bringing you a feature from Blind Io (NSO, Paris Rollergirls + Flat Track Stats (European region)), presenting a position on why European WFTDA leagues should play more SFCs.&lt;/span&gt;&lt;/i&gt;
+&lt;hr&gt;
+
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;I want to talk about the Strength Factor Challenge (SFC), and its under-use as a tool for improving the rankings of competitive European WFTDA leagues.&lt;/span&gt;
+&lt;/p&gt;&lt;h3&gt;&lt;b&gt;The Problem:&lt;/b&gt;&lt;/h3&gt;
+&lt;span style="font-weight:400;"&gt;As the 2018 WFTDA European Continental Cup has just wrapped up (and oh my what an exciting one it was!) it’s reasonable to imagine that quite a few European leagues are making goals to qualify for the 2019 version, by becoming one of the top-most European leagues in the WFTDA rankings.&lt;/span&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;However, climbing the WFTDA rankings table isn’t as straightforward as “being the best”. The most highly-ranked teams put a lot of work into determining which teams they should play, as well as precisely by how much they must beat them (or how little to lose by), in order to get into the highest ranks.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;A team’s rise and fall in the WFTDA rankings is decided by the WFTDA Rankings Algorithm (&lt;a href="https://wftda.org/rankings-policy/algorithm"&gt;https://wftda.org/rankings-policy/algorithm&lt;/a&gt;), which is an equation that uses the score from a sanctioned game as well as the “strength factor” of each team to calculate by how much each team’s ranking will change. We’re not going into the fine details of the algorithm, but for the purposes of this article it’s important to know that in a sanctioned game, as the rankings difference increases between the two teams, the higher-ranked team has to win by a greater and greater margin in order for their ranking to improve (or break even). There is a point at which the score margin becomes physically impossible to achieve (for example a Rank 20 team would have to prevent a Rank 80 team from scoring &lt;strong&gt;any&lt;/strong&gt; points just to break even, and the Rank 80 team would have the same problem against a Rank 200 team).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;For an extreme example of the difficulties involved with finding suitable sanctioned games for high-ranked teams, consider a little piece of London Rollergirls' history. For many years London was the only European team in the top tier of the WFTDA Rankings: at the end of 2014 when London was ranked 6th in the world, everyone else in Europe was ranked 50 or worse! Such a great rankings gap meant that London was unable to play a Sanctioned game against any other European team, as it would have guaranteed a drop in their rankings and reduced their chances of going to WFTDA Playoffs &amp;amp; Champs. Because of this, London couldn’t play a single sanctioned game against another European team for 3 years from the end of 2012 until late 2015!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Here’s a TLDR:&lt;/b&gt;&lt;span style="font-weight:400;"&gt; teams become less and less likely to sanction games against each other as their ranking differences increase; and when high-ranked teams won’t play low-ranked teams, it gets very difficult for the low-ranked teams to climb the rankings ladder!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;Clearly, making it into the top-X European teams that qualify for the European Cup is not easy! At the time when the qualifying teams were selected for this year’s European Cup (July 2018), the average ranking of the 8 chosen teams was 55 -- and there were only 6 other European teams within 40 ranks of that (15-95). With so few teams at the top levels of European rankings, it can be very hard to find enough suitable sanctioned games needed in order to join them, at least not without travelling to North America as many teams have had to do in the past.&lt;/span&gt;
+&lt;/p&gt;&lt;h3&gt;&lt;b&gt;The Strength Factor Challenge:&lt;/b&gt;&lt;/h3&gt;
+&lt;span style="font-weight:400;"&gt;Four years ago, WFTDA came up with a solution to this problem of ‘not enough similarly-ranked local teams’: the Strength Factor Challenge (SFC). This was a tool that would allow unranked/new teams and under-ranked teams to play a special SFC game against a higher-ranked opponent, that if successful would make them much more attractive to higher-ranked opponents for subsequent sanctioned game play. It means that under-ranked teams can jump up the ranks very quickly if they know what they’re doing!&lt;/span&gt;
+&lt;p&gt;&lt;b&gt;The Details &lt;/b&gt;&lt;span style="font-weight:400;"&gt;(&lt;/span&gt;&lt;a href="https://wftda.org/rankings-policy/strength-factor-challenge-program"&gt;&lt;span style="font-weight:400;"&gt;https://wftda.org/rankings-policy/strength-factor-challenge-program&lt;/span&gt;&lt;/a&gt;&lt;span style="font-weight:400;"&gt;)&lt;/span&gt;&lt;b&gt;:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;A Strength Factor Challenge game (SFC) is an unsanctioned game that a lower-ranked charter team (Challenging Team) schedules versus a higher-ranked charter team (Opponent Team) in order to attempt to temporarily increase their strength factor. If they are successful with their challenge, the Challenging Team will be assigned a higher strength factor for a limited time (4 months), while there is no effect on the Opponent Team. A team can lose an SFC game and still be successful in their challenge. To prevent over-use, each team is only allowed to challenge another once every 12 months&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;The benefit to the Challenging Team is indirect. Having a higher and more reflective strength factor of their skill level will make a Challenging Team a more attractive opponent for subsequent sanctioned game play. Potential future opponents who would not have sanctioned games solely because the Challenging Team’s strength factor was too low, are more likely to schedule a game with the boosted strength factor.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;Challenging Teams must choose their SFC strategy wisely. An SFC game alone will not impact the Challenging Team’s rank: a team’s rank is purely based on successful sanctioned game results against more attractively ranked teams in the months in which the boosted strength factor is active.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;Note: the Opponent team gets zero rankings effect from the SFC Game, they do this purely from the goodness of their own heart, but will benefit in the long run from having another team to play sanctioned games against in the future.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Example:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;Are you an under-ranked team? You’re rank 200, but can give a rank team 100 a real run for their money but they never want to play against you? Then SFCs are for you!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;If you perform well in a SFC game against the rank 100 Opponent, then you will be granted a several-months-long boost to your strength factor, which will mean that anyone who plays against you in that time will get all the rankings benefits of playing against a team much-higher-ranked than your current rank. Suddenly everyone will want to play against you and you can finally get your sanctioned games against the rank 100s, or maybe even better!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;And if you fail your SFC game, well, you don’t get the boost and you can try again next year.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Should My Team Try It?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;Probably, yes! There are roughly 60 WFTDA leagues in Europe spanning the full range of rankings all the way up to rank 350, and there have been only 3 SFC game in Europe in the last 2 years. That’s far too little (remember that every team is allowed to SFC once every 12 months)! Many people know at least one example where a team has been unable to find a suitable sanctioned game against a good opponent because they’re “too lowly ranked”, especially when the teams involved are aiming for Continental Cups or WFTDA Playoffs, and this issue is exactly what the SFC game is designed to solve.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;For more evidence, let’s have a look at the top 25 teams in the FTS-Euro* (Flat Track Stats European rankings system&lt;/span&gt;&lt;span style="font-weight:400;"&gt;, &lt;/span&gt;&lt;a href="http://flattrackstats.com/europe"&gt;&lt;span style="font-weight:400;"&gt;http://flattrackstats.com/europe&lt;/span&gt;&lt;/a&gt;&lt;span style="font-weight:400;"&gt;). Pictured below is a snapshot of the FTS-Euro rankings compared with the WFTDA rankings from October 18th, just before the Continental Cup.&lt;/span&gt;
+&lt;img class="aligncenter size-large wp-image-27688" src="https://scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-19-48-17.png?w=1024" alt="FTS-Euro versus WFTDA Rank (Oct 2018)" width="1024" height="879"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;From this picture we can see that there are a number of teams that appear to be significantly under-ranked in the WFTDA rankings. For example, FTS believes that a game between Antwerp and Tiger Bay could be very close, but the current WFTDA rankings difference is so great (112th to 49th) that this game will almost never get sanctioned without costing Tiger Bay greatly in the WFTDA rankings. However, if Antwerp were to have a SFC game against Tiger Bay (or, for example, Dock City), they could have a good enough game to grant them a much higher strength factor, that then makes them very enticing for all of this year’s Continental Cup teams to play sanctioned games against. Why, with a few well-planned SFC games I can easily imagine the number of European teams in the top 100 growing from 18 to 25+ during 2019!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight:400;"&gt;For those who really like their charts, here’s another one showing the comparison between FTS-Euro rankings and WFTDA rankings, which should demonstrate that there are a number of European teams that are clearly under-ranked (and perhaps even some that are over-ranked):&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class="aligncenter size-large wp-image-27689" src="https://scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-19-50-54.png?w=1024" alt="Graph of WFTDA Rank v FTS-Euro Rank" width="1024" height="609"&gt;
+&lt;/p&gt;&lt;h3&gt;&lt;b&gt;The Summary:&lt;/b&gt;&lt;/h3&gt;
+&lt;span style="font-weight:400;"&gt;There are a number of under-ranked teams in Europe, and the WFTDA Rankings Algorithm makes it very hard for these teams to find their appropriate ranking without using SFC games. There’s also very few SFC games taking place in Europe at all, (probably because it’s not a heavily-advertised programme). Having more SFC games in Europe will improve the rankings of a lot of teams, and is recommended particularly for anyone who is aiming to get into the Continental Cups and WFTDA Playoffs. One can also use alternate rankings systems like FTS (or SRDRank &lt;a href="http://aoanla.pythonanywhere.com/SRDRank.html"&gt;http://aoanla.pythonanywhere.com/SRDRank.html&lt;/a&gt;) to help find suitable opponents for SFC games.&lt;/span&gt;
+&lt;hr&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;span style="font-weight:400;"&gt;*Note: The FTS rankings algorithm is different from the WFTDA rankings algorithm, and the FTS-Euro uses a different set of data (all recorded Sanctioned &amp;amp; Regulation games between European teams). Because of this, one much always be careful when making comparisons between FTS and WFTDA rankings. I’m gonna do it anyway, but take my analysis with a pinch of salt ;)&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;</description><category>articles</category><category>guest articles</category><category>rankings</category><category>statistics</category><category>wftda</category><guid>https://scottishrollerderbyblog.com/posts/2018/11/09/guest-article-strength-factor-challenges-for-europeans/</guid><pubDate>Fri, 09 Nov 2018 09:58:32 GMT</pubDate></item><item><title>From Earth to orbit and back again</title><link>https://scottishrollerderbyblog.com/posts/2016/12/22/from-earth-to-orbit-and-back-again/</link><dc:creator>aoanla</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;em&gt;As the Winter Period is a time of reflection, we're very happy to be able to host this guest blog by Philth "Optimus Grime" Malloch on his past year and how it affected him.&lt;/em&gt;
+&lt;p&gt;I will remember 2016 for the rest of my life.&lt;/p&gt;
+&lt;p&gt;I started Roller Derby to save my life. I was Suicidal and depressed, and this sport gave me something I could absorb myself in. I could get lost in its infinite intricacies, hide in its diversity and heal in its embrace. It has been a teacher as much as a saviour and the best medicine to mend a gaping wound, more than any drug ever could.&lt;/p&gt;
+&lt;p&gt;It all started with one moment. Sitting in a small room, hidden away watching the first Men's Roller Derby World Cup in secret, I had a thought. This thought became a desire, then a dream and finally a vow.&lt;/p&gt;
+&lt;p&gt;"No matter what, I WILL be at the next one!"&lt;/p&gt;
+&lt;p&gt;My vow was fulfulled, as part of a team that I could not fault. It felt like, what only dictionaries and ideals could define as a team. We achieved exactly what we said we would do.&lt;/p&gt;
+&lt;p&gt;This year's season has been something I could only dream of. I doubt I could have even imagined the opportunities this year has offered me. I'm still not sure if I am awake. Someone body-check me into the reality hotel.&lt;/p&gt;
+&lt;p&gt;&lt;img class="aligncenter size-large wp-image-13293" src="https://scottishrollerderbyblog.com/2016/12/philth-mountains.jpg?w=1024" alt="philth-mountains" width="1024" height="768"&gt;&lt;/p&gt;
+&lt;p&gt;It started in the mountains in Calgary. As a result of how we did, I came home high as a kite but with very few plans for the future. I had ideas, but nothing decided or set in stone. All I knew is that I wanted to get better and play more derby. I felt like I was holding a compass in the mist. I knew where I wanted to go, but no idea how to get there.&lt;/p&gt;
+&lt;p&gt;Then BOOM!!!....&lt;/p&gt;
+&lt;p&gt;Invitation 1: skate in St. Louis. (vs GK)&lt;/p&gt;
+&lt;p&gt;Invitation 2: skate in Dallas. (MRDA Champs)&lt;/p&gt;
+&lt;p&gt;Invitation 3: skate in Adelaide. (AMRD Nationals)&lt;/p&gt;
+&lt;p&gt;With each trip the euphoria and flattery builds. My chest was like an ever-expanding happy balloon. Its brightness and amazement growing like a wildfire. In shock and disbelief, I say yes with no hindrance or hesitation. I kept expecting to wake up. "This has to be a joke!" But, like Forest Gump, I thought, "Well I've come this far, might as well keep on going!"&lt;/p&gt;
+&lt;p&gt;My body trains harder and harder, brain plans further and further, I feel I'm on the brink of losing control. Yet still I'm going higher, to the point I feel so euphoric and ever so surreal. It's like I'm sitting next to Red Bull guy on his magnificent shining balloon staring down at the Earth like a satellite.&lt;/p&gt;
+&lt;p&gt;I'm on top of the world. What a rush. What a ride.&lt;/p&gt;
+&lt;p&gt;Then you look around..... and you're all by yourself.&lt;/p&gt;
+&lt;p&gt;Far away from home and surrounded by people, it's amazing how isolated you can feel. Alone to the bone.&lt;/p&gt;
+&lt;p&gt;"Oh, but you're a guest. The lucky one." ...The outsider.
+"You're part of the team now...but just for a few days!"
+There's an emptiness and feeling if being completely lost. Lonely but surrounded by people.&lt;/p&gt;
+&lt;p&gt;Sad to say, I have received some presumptuous scrutiny and told I didn't deserve to be there. All taken in with a smile and a held tongue. Regardless of what I had done or achieved, all the time being mindful that this wasn't where I came from. You become very aware of yourself and at times feel like an intruder or unwelcome guest in someone else's house.&lt;/p&gt;
+&lt;p&gt;All of that aside, I am EXTREMELY grateful and thankful for every opportunity I have been given this year. I've enjoyed every positive to its utmost. I have learned some very many valuable lessons from the few negatives, both of which I will never forget and am equally grateful for. Looking back I would not change anything at all and would do it all again in a heartbeat.&lt;/p&gt;
+&lt;p&gt;&lt;img class=" size-full wp-image-13300 aligncenter" src="https://scottishrollerderbyblog.com/2016/12/philth-bw.jpg" alt="philth-bw" width="1080" height="720"&gt; Photo: Jennifer M. Ramos&lt;/p&gt;
+&lt;p&gt;So many things have been reinforced in me.
+Every positive is a growing experience and every negative is a learning experience.&lt;/p&gt;
+&lt;p&gt;I Succeed or I Learn. I will never lose.&lt;/p&gt;
+&lt;p&gt;THE biggest thing I have learned, more than anything, is: Real TEAMS always prosper.&lt;/p&gt;
+&lt;p&gt;They don't even have to come first. They are always the happiest and have true team spirit. When your team are your friends 1st and your team-mates 2nd. When you see them more off track, and out of practice more than you do on. When you start to see it as a family rather than team. (GateKeepers and St. Louis. You taught me this. And I will never forget, or stop being thankful for it).&lt;/p&gt;
+&lt;p&gt;I've felt at light-speed these past few months and I went alone. This truly engraved the
+"Go fast, go alone. Go far go together" idea, more than anything ever could. I cannot express enough how important team spirit is in this and how it will always fulfil you more than any score, or win.&lt;/p&gt;
+&lt;p&gt;I've learned also to always say "yes".&lt;/p&gt;
+&lt;p&gt;And "Yes" to the best of my ability when opportunities arise. You will only truly regret what you didn't do, rather than the things you did. The only regret you must accept is that you didn't start sooner, but be grateful you DID start.&lt;/p&gt;
+&lt;p&gt;To be truly great at something, you must explore all its ways and options. Not just the good, the easy or the successful ones.&lt;/p&gt;
+&lt;p&gt;The bad ones must never be forgotten. They are too valuable.
+Like a disease we must keep them, study the details and use them to vaccinate us from negativity.
+To reflect in the bad experiences is to teach us how to make the good ones greater. For we cannot see how good things can be without seeing things from the bottom.&lt;/p&gt;
+&lt;p&gt;To anyone that already truly knows this idea and is already filled with team spirit, I say: "Go be a satellite player". You will learn so much, so fast and be tested more than you thought you ever could. It's uncomfortable and it's far beyond your comfort zone. Like balancing on a tight rope. Every second, you're thinking about what every tiny twitch might change.&lt;/p&gt;
+&lt;p&gt;You're a hired gun and the pressure to deliver seems overwhelming. They call you an ambassador, which is privilege and pressure in equal crushing measure. But it will always be worth it....every single second.&lt;/p&gt;
+&lt;p&gt;&lt;img class="aligncenter size-large wp-image-13296" src="https://scottishrollerderbyblog.com/2016/12/philth-pos.jpg?w=1024" alt="philth-pos" width="1024" height="683"&gt; Photo: Laura MacDonald&lt;/p&gt;
+&lt;p&gt;I have grown from this.&lt;/p&gt;
+&lt;p&gt;I've become stronger from this.&lt;/p&gt;
+&lt;p&gt;I have gained so much practice and from that I have not become perfect.
+Instead I feel permanent.
+I have permanently sealed my decision to commit to this sport, and it has cured me of my fears and doubts.&lt;/p&gt;
+&lt;p&gt;I have learned so much and hope to share what I have learned. Most of all this year has made me Thankful.&lt;/p&gt;
+&lt;p&gt;Thank you Roller Derby. You saved my life.&lt;/p&gt;&lt;/div&gt;</description><category>articles</category><category>guest articles</category><category>men's roller derby</category><category>mrdwc2016</category><guid>https://scottishrollerderbyblog.com/posts/2016/12/22/from-earth-to-orbit-and-back-again/</guid><pubDate>Thu, 22 Dec 2016 15:12:06 GMT</pubDate></item><item><title>Guest Post: Mental Strength with Power of Scotland's Optimus Grime</title><link>https://scottishrollerderbyblog.com/posts/2016/04/07/guest-post-mental-strength-with-power-of-scotlands-optimus-grime/</link><dc:creator>aoanla</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The recent &lt;strong&gt;&lt;a href="https://www.facebook.com/events/753462044787328/"&gt;Power of Scotland Bootcamp&lt;/a&gt;&lt;/strong&gt; was a huge success, but unfortunately time pressure meant that &lt;strong&gt;Optimus Grime&lt;/strong&gt;'s &lt;em&gt;Mental Strength&lt;/em&gt; presentation (a complement to his &lt;em&gt;Physical Strength&lt;/em&gt; seminar) was cut.
+For posterity, and to provide everyone with its benefits, Grime has written it up and graciously allowed us to publish it.
+The below is all Optimus Grime's work (including selection of images, although the images themselves are the work of others, and credited appropriately).&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;WARNING&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The following is best consumed with epic 80's motivational soundtracks from such films as the Rocky series, Karate Kid or Commando [The editor would also like to recommend &lt;a href="http://powergloveaudio.bandcamp.com/album/ep-1"&gt;PowerGlove's EP1&lt;/a&gt; for a similar effect]. The author intent was for it to be spoken aloud &amp;amp; PROUD. Side effects may include feelings of Getupandgoitis, motivationarrhoea &amp;amp; goosebumposis!! You have been WARNED!&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021054231.jpg"&gt;&lt;img title="wp-1460021054231" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021054231.jpg" alt="image" width="699" height="400"&gt;&lt;/a&gt; (Unknown copyright: please let us know if this is your image.)&lt;/p&gt;
+&lt;p&gt;Mental Strength:
+It starts with a dream:
+Conceive - A dream to achieve a goal. A dream to become something you can be proud of. Whether the goal is big or small is not important, as long as it IS important. It must mean something significant to you.
+Believe - Thoughts .....become.....things. You must think about what it is you want and believe 100%, without any doubt that it is achievable. Doubts......will .......delay ......dreams.&lt;/p&gt;
+&lt;p&gt;Achieve - For a goal to be a successful, a plan on how to achieve that goal must be made.&lt;/p&gt;
+&lt;p&gt;Questions need to be asked. How do I get there? What must I do? How long will it take? Who do I need to learn from? IT IS ABOUT THE REMOVAL OF VARIABLES. Variables lead to detriment, distraction &amp;amp; even destruction. Questions are variables and once all the questions are answered, the journey can begin.
+It's about creating a foundation:&lt;/p&gt;
+&lt;p&gt;For a body to become proficient at something it must be practiced &amp;amp; built up from a foundation. The same applies to the mind. Treat your mind like a wall or building. The first brick in your foundation is a dream. It is the root of achievement.&lt;/p&gt;
+&lt;p&gt;This initial brick in your foundation must be strong. To do this a decision has to be made. You have to decide to commit to this dream and with that endeavour to not quit on it until it is completed. Decision is an extremely difficult thing to do. It is scary, new and takes a huge effort, but in a way it is wonderfully frightening. Once the decision is made, the rest is much easier.&lt;/p&gt;
+&lt;p&gt;Decision is incision. To decide is to cut off the chance of being deterred or distracted away from completion of your goal.&lt;/p&gt;
+&lt;p&gt;So just DECIDE. (Variable eliminated).&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021066618.jpg"&gt;&lt;img title="wp-1460021066618" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021066618.jpg" alt="image" width="960" height="540"&gt;&lt;/a&gt; (Photo: &lt;a href="http://lauramacd.co.uk/roller-derby-photography/"&gt;Laura MacDonald&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;The Mind of a Building:&lt;/p&gt;
+&lt;p&gt;From this point on you must think in a certain way. Think of the following metaphorically.
+This starts with outlook and the words you use. It progresses with building on your foundation using metaphorical bricks. This ends with success &amp;amp; achievement. Each brick represents a new skill and/or success. Each brick is a new happiness. Once a brick has been laid, it is enduring, immovable and timeless. It is here to stay.&lt;/p&gt;
+&lt;p&gt;Outlook:&lt;/p&gt;
+&lt;p&gt;Forget the terms positive and negative. Nothing is negative. There is only learning &amp;amp; growing. All "negative" experiences are now lessons. "Every failure can only teach me. Every success will only make me grow and become more than I was". Adding "yet", changes everything. "I can't do that.....yet!".&lt;/p&gt;
+&lt;p&gt;"Forget the little feelings" - little feelings are the pieces of inner monologue&lt;/p&gt;
+&lt;p&gt;We have that tells us, "we're tired, we can't be bothered, we can do it later". Identification of the little feelings is very hard. We as humans live by feelings that our body and mind perceive; hunger, thirst, pain, cold, warm, sadness, excitement etc. Our lives are dictated by our sensations. So learning to prioritise the essentials and ignore the non-essentials is key to keeping my mind as strong as a building.
+Identify and don't listen to the little feelings. (Variable eliminated)&lt;/p&gt;
+&lt;p&gt;Scenario-ize:
+Think of all the things that scare you with regards to your dream. List them. Think about all the things that can go wrong with regards to your goals. List them. Feelings of negativity &amp;amp; emotional turmoil arise happen...through shock of the unexpected.&lt;/p&gt;
+&lt;p&gt;So we Scenario-ize. We go through the list of what we fear and what can go wrong;
+Injury, defeat, abuse, pain, losing, ineffectiveness, anger - and we pretend internally that it has really happened. We go over the situation and tell ourselves how we want to behave/react.&lt;/p&gt;
+&lt;p&gt;"If someone hits me illegally, i will keep my cool and keep on track with my team"
+"If someone yells at me, i will not take it personally nor let it effect me"
+"If someone does better than me, it doesn't mean I was in anyway bad. It only means I have more to do"
+"If I foul out, I will respect the decision and not argue it. Then analyse my performance after I have supported my team and been respectful to those around me".&lt;/p&gt;
+&lt;p&gt;Mental preparation and practice, prevents poor performance and promotes positive prognosis. (Variables eliminated)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021074061.jpg"&gt;&lt;img title="wp-1460021074061" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021074061.jpg" alt="image" width="1080" height="720"&gt;&lt;/a&gt; (Photo: &lt;a href="http://lauramacd.co.uk/roller-derby-photography/"&gt;Laura MacDonald&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Learning &amp;amp; Growing:&lt;/p&gt;
+&lt;p&gt;Not if....but when these negative situations occur &amp;amp; you have successfully behaved how you planned, its time to learn.
+Analyse. "What went wrong? Who's to blame? Why did it go wrong? How do I ensure this doesn't happen again". Ask these questions and learn from their answers. Let the learning fuel you to work hard to prevent this happening again. New variables will always arise and some old ones may come back. Scenario-ize these too and view them only as more lessons.
+(Variable eliminated).&lt;/p&gt;
+&lt;p&gt;The little victories:
+With every failure will come a few small or even tiny victories. Focus on them. When you are the underdog or out numbered with a high likelihood of failure, play for the little victories."We held that amazing jammer for 30sec"
+"I got 1 lead jammer over someone far better than me"
+"I finally used that thing i learnt at training and it worked"
+"We were expected to lose by 100 and only lost by 50"&lt;/p&gt;
+&lt;p&gt;No matter what happens, good or bad nothing will detriment me. Be prepared to lose but also get ready to win.
+(Variable eliminated).&lt;/p&gt;
+&lt;p&gt;Growing:&lt;/p&gt;
+&lt;p&gt;The mini victories are bricks too. The mind is built with stones of all sizes. For every achievement my wall gets bigger. For every success my building only grows.
+Every brick makes my mind stronger. They are skills, they are happiness and they are esteem.&lt;/p&gt;
+&lt;p&gt;3 bricks forward, 1 brick back:
+"Don't get too high".
+Consider the idea of numeracy. We as humans love numbers. "I have £200. I lost 3kg. We won the last 2 games. I scored a 30point jam". Using this theme and if we  allocated points to our success bricks, we will start to accumulate points. If each brick represents 3 points we will eventually over the course of time build up a lot. Success breeds success. The more we achieve.....the more we achieve and the more we want to achieve. However, with success come a few poisonous characteristics that CAN cause our building to crumble.&lt;/p&gt;
+&lt;p&gt;Selfishness, arrogance, vanity &amp;amp; looking down on those considered weaker etc.
+The points acquired are your points and for you to do as you want with them. So consider that if I use all 3 point to always climb high and feel better about myself,I may topple. "My ego was my down fall. My head got too big. He/she/they are amazing, but they are arrogant dicks". 2 to move up and one to step back..... and reflect.&lt;/p&gt;
+&lt;p&gt;The best heroes are the humble ones. "They were incredible &amp;amp; it was amazing how DOWN to earth they are". Be that hero and view the points as things to be rationed.
+If I start at ZERO 0, my first success will give me 3 points with a potential score of 3. But! If i only use 2 and put 1 away for something else, i am still at 2 and still higher than I was at the beginning. Then over time, I will grow as my bricks add up. i will grow slower but, more stable. I will not get too high, I will NOT poison my wall with ego, arrogance and vanity &amp;amp; I will aim to be of use to others.&lt;/p&gt;
+&lt;p&gt;(Variable eliminated).&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021080516.jpg"&gt;&lt;img title="wp-1460021080516" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021080516.jpg" alt="image" width="1120" height="720"&gt;&lt;/a&gt; (Photo: &lt;a href="https://www.facebook.com/john.hesse.902"&gt;John Hesse&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Sharing is caring : I grow, we grow:
+"If you want to succeed quickly go alone. If you want to succeed forever, go together"
+The effect you have on others is the most valuable currency there is. Life is built in teams. My family team. My relationship team. My work team. My friend team. My health team....my derby team.&lt;/p&gt;
+&lt;p&gt;"2 points for me &amp;amp; 1 for you".&lt;/p&gt;
+&lt;p&gt;As a metaphor, use 1 of those points that was for your growth that was stored away and give it to someone else. Use it to fuel their need.&lt;/p&gt;
+&lt;p&gt;Compliments, praise, gifts, smiles, congratulations, feedback, encouragement. Be that humble hero and lift those up around you. Reflect on your needs, but also your teams needs. Recognise who could do with a boost emotionally. What do they need that your talent can provide? Succeed, Grow &amp;amp; Give back, as there may be someone in your Team that will need it more than you do.&lt;/p&gt;
+&lt;p&gt;The final variable:
+Mental strength is about control. Control of your own mind, thoughts, ideas and emotions. Mental strength is about controlling and eliminating variables that may be of detriment to your minds. 'The final &amp;amp; uncontrollable variable is other people'. Not everyone will have the same goals as you, or be as strong or as driven as you. Drive and strength are variable. There is nothing anyone can do to change that. We can only gently influence those who are involved in our journey to be as positive as we are. Set an example. "Monkey see. Monkey do"&lt;/p&gt;
+&lt;p&gt;So Scenario-ize the reactions of other people. Pretend in your head the eventuality they will react negatively. Then plan what you can do to help them &amp;amp; prevent them being of detriment to themselves, to others and to you.&lt;/p&gt;
+&lt;p&gt;Focus on:
+○Avoiding the little feelings
+○Their little victories
+○Scenario-ize with them (prior)
+○Share your defeats &amp;amp; successes together.&lt;/p&gt;
+&lt;p&gt;(Variable eliminated).&lt;/p&gt;
+&lt;p&gt;The Body &amp;amp; the Mind:
+One will always effect the other. Neither is more or less important than the other but they both need the same due care.&lt;/p&gt;
+&lt;p&gt;If my body becomes stronger, I will perform better and grow the success bricks for my mind.&lt;/p&gt;
+&lt;p&gt;If my mind becomes stronger I will eliminate variables that would deter me to try new things in my skates or exercise my body more.&lt;/p&gt;
+&lt;p&gt;Become balanced. Become more. Become awesome.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021085772.jpg"&gt;&lt;img title="wp-1460021085772" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021085772.jpg" alt="image" width="800" height="800"&gt;&lt;/a&gt; (Photo: &lt;a href="http://lauramacd.co.uk/roller-derby-photography/"&gt;Laura MacDonald&lt;/a&gt;)&lt;/p&gt;&lt;/div&gt;</description><category>articles</category><category>guest articles</category><category>mental strength</category><category>optimus grime</category><category>power of scotland</category><category>training</category><guid>https://scottishrollerderbyblog.com/posts/2016/04/07/guest-post-mental-strength-with-power-of-scotlands-optimus-grime/</guid><pubDate>Thu, 07 Apr 2016 13:27:24 GMT</pubDate></item></channel></rss>

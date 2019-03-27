@@ -1,0 +1,24 @@
+<html><body><p style="text-align:center;"><a href="http://scottishrollerderbyblog.com/2013/05/922300_306876932778113_274698937_o.jpg"><img class=" wp-image-2623 aligncenter" alt="922300_306876932778113_274698937_o" src="http://scottishrollerderbyblog.com/2013/05/922300_306876932778113_274698937_o.jpg?w=300" width="180" height="180"></a></p>
+<span style="font-family:Arial, sans-serif;">Everyone remembers the excitement of the last roller derby world cup, when a group of our best female skaters made the trip to Canada to take on the rest of the world. Well now its the boys turn. With an all male Roller Derby World Cup in the pipeline for 2014 its time to get the wheels in motion, and that is exactly what they are doing.</span>
+
+<span style="font-family:Arial, sans-serif;">Already sporting the team title 'The Power Of Scotland' the team are now looking to start recruiting. Not only skaters but NSO's, a Team Manager and Coaches.</span>
+
+<span style="font-family:Arial, sans-serif;">The first training session is planned for the 1<sup>st</sup> of June and anyone who would like to be a part of the team, whether on skates or off is urged to make it along to the session at the Grangemouth Sports Complex, They're even going to treat you to an after party! All of the details are posted below as well as links you can follow if you would like to apply to skate, coach or manage.</span>
+
+<span style="font-family:Arial, sans-serif;">This is sure to be a huge event so get the date in your calendar and come show the boys some support!</span>
+<p style="text-align:center;" align="LEFT"><strong><span style="color:#333333;">The first training session for potential team members will be on:</span></strong></p>
+<p style="text-align:center;"><span style="color:#333333;">01/06/2013</span><span style="font-family:Arial, sans-serif;">
+</span><span style="color:#333333;">13.30-18.00</span></p>
+<p style="text-align:center;"><span style="color:#333333;">Grangemouth Sports Complex (Hall 2),</span><span style="font-family:Arial, sans-serif;">
+</span><a href="http://tinyurl.com/c6jq592" target="_blank"><span style="color:#3b5998;">http://tinyurl.com/c6jq592</span></a></p>
+<p style="text-align:center;"><span style="color:#333333;">Session cost: £10</span></p>
+<p style="text-align:center;"><span style="color:#333333;">1. ALL skaters and support staff who wish to attend the session should fill out the registration form located here: </span><a href="http://www.facebook.com/l.php?u=http%3A%2F%2Ftinyurl.com%2Fcjvhd2h&amp;h=HAQEGrI4IAQEVcvRHOlNO8nBGS1XDGGRULMzOK8tF9x_FJA&amp;s=1" target="_blank"><span style="color:#3b5998;">http://tinyurl.com/cjvhd2h</span></a></p>
+<p style="text-align:center;"><span style="color:#333333;">2. We will require a Head Coach, Assistant Coach and Team Manager. If this interests you then please fill out the separate application form here:</span><a href="http://tinyurl.com/cednotc" target="_blank"><span style="color:#3b5998;">http://tinyurl.com/cednotc</span></a></p>
+<p style="text-align:center;"><span style="color:#333333;">3. We will require NSOs, Referees, First Aiders and general support staff at all stages of the training event and further try-out dates. If you are interested in helping then please fill out the general registration form in section 1.</span></p>
+<p style="text-align:center;"><span style="color:#333333;">4. Everyone attending the event in an official or skating capacity should try to arrive 30 minutes before the practice time to ensure you are registered correctly and to kit up.</span></p>
+<p style="text-align:center;"><span style="color:#333333;">5. If skating, please bring your own supply of water/drinks. There are vending machines and a café at the venue. All skaters should bring a black and white numbered t-shirt.</span></p>
+<p style="text-align:center;"><span style="color:#333333;">6. All skaters should be at mins passed level and over 18.</span></p>
+<p style="text-align:center;"><span style="color:#333333;">After the first session there will be an after party at Stenhousemuir Cricket Club (Time:TBD), cost for entry: £3 per person:</span></p>
+<p style="text-align:center;"><a href="http://www.pitchero.com/clubs/stenhousemuircricketclub/location/" target="_blank"><span style="color:#3b5998;">http://www.pitchero.com/clubs/stenhousemuircricketclub/location/</span></a></p>
+<p style="text-align:center;"><span style="color:#333333;">If you have any questions then please contact powerofscotland@gmail.com</span></p>
+<p style="text-align:center;"><a href="http://scottishrollerderbyblog.com/2013/05/922300_306876932778113_274698937_o.jpg"><img class="size-full wp-image aligncenter" id="i-2623" alt="Image" src="http://scottishrollerderbyblog.com/2013/05/922300_306876932778113_274698937_o.jpg?w=650" width="650" height="650"></a></p></body></html>

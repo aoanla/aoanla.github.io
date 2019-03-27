@@ -1,0 +1,527 @@
+<html><body><p>The Japan Open Tournament is the Asia-Pacific's first Roller Derby Tournament on this scale. In order to help you find the right time to watch bouts, we've constructed this handy guide.</p>
+<p>Click the name of the region to get a link with times for that timezone. <a href="https://scottishrollerderbyblog.com/2016/03/16/the-japan-open-the-other-wftda-first-this-year">For a preview of the event, with a breakdown of the teams, click HERE.</a></p>
+
+<table><thead><tr><td colspan="6">TIMEZONE LINKS</td></tr></thead><tbody><tr>
+<td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/1/">UK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/2/">DANMARK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/3/">ALASKA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/4/">NEW ZEALAND</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/5/">AUSTRALIA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/6/">JAPAN(日本)</a></td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup><colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup>
+<thead><tr><td style="text-align:center;" colspan="11">UK</td></tr>
+<tr><td></td>
+<td style="text-align:center;" colspan="5">TRACK 1</td>
+<td style="text-align:center;" colspan="5">TRACK 2</td>
+</tr><tr>
+<td>TIME</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td>
+</tr></thead><tbody>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">2016-03-25 00:00</td>
+<td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">Copenhagen Roller Derby</td><td bgcolor="#ffffee">(36:193HT)<br>49:419</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75070/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=47m9s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">01:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Tokyo Roller Girls</td><td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff">(25:196HT)<br>46:423</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75071/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=2h12m55s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">03:00</td>
+<td bgcolor="#ffffee">Devil Dog Derby Dames</td><td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">(75:88HT)<br>122:155</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75072/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=3h38m28s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">04:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffeeee">Pirate City Rollers</td><td bgcolor="#ffeeee">JRDA Nippon Senbatsu</td><td bgcolor="#ffeeee">(255:26HT)<br>502:88</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/FkaGqkdgk9c#t=5h9m46s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">06:00</td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas</td><td bgcolor="#eeeeff">Devil Dog Derby Dames(HOME)</td><td bgcolor="#eeeeff">(99:106HT)<br>143:241</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75069/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/FkaGqkdgk9c#t=6h46m16s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">07:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">Tokyo Roller Girls</td><td bgcolor="#eeffff">(177:21HT)<br>424:48</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75073/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=8h11m18s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">09:00</td>
+<td bgcolor="#ffffee">Adelaide Roller Derby</td><td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">(230:22HT)<br>453:38</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75074/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=9h41m45s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-03-26 00:00</td>
+<td bgcolor="#ffeeee">JRDA Nippon Senbatsu</td><td bgcolor="#ffeeee">Devil Dog Derby Dames(HOME)</td><td bgcolor="#ffeeee">(81:182HT)<br>138:376</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/udx3lyF80dE#t=57m1s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">01:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">Tokyo Roller Girls</td><td bgcolor="#ffffee">156:117</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75076/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=2h28m20s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">03:00</td>
+<td bgcolor="#eeffff">Devil Dog Derby Dames</td><td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff">(19:199HT)<br>44:462</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75075/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=4h49s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">04:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas</td><td bgcolor="#eeeeff">Pirate City Rollers</td><td bgcolor="#eeeeff">(75:100HT)<br>126:243</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75077/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/udx3lyF80dE#t=5h40m49s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">06:00</td>
+<td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">Devil Dog Derby Dames</td><td bgcolor="#eeffff">(247:9HT)<br>388:20</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75078/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=7h6m34s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">07:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">(57:52HT)<br>117:97</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75079/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=8h27m">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">09:00</td>
+<td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">(50:74HT)<br>108:126</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/76864/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=9h59m50s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+</tbody><tfoot><tr bgcolor="#f4fff4"><td style="text-align:center;" colspan="11">Europe/London</td></tr></tfoot></table>
+<!--nextpage-->
+<p>Den Japan Open Tournament er Asien-Stillehavsområdet første Roller Derby turnering. For at hjælpe dig med at finde det rigtige tidspunkt til at se anfald, har vi bygget Denne praktiske guide.</p>
+<p>Klik på navnet på regionen til at få et link med tider for den tidszone. <a href="https://scottishrollerderbyblog.com/2016/03/16/the-japan-open-the-other-wftda-first-this-year">For et eksempel på begivenheden, med en beskrivelse af holdene, så klik HER.</a></p>
+
+<table><thead><tr><td colspan="6">TIMEZONE LINKS</td></tr></thead><tbody><tr>
+<td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/1/">UK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/2/">DANMARK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/3/">ALASKA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/4/">NEW ZEALAND</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/5/">AUSTRALIA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/6/">JAPAN(日本)</a></td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup><colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup>
+<thead><tr><td style="text-align:center;" colspan="11">DANMARK</td></tr>
+<tr><td></td>
+<td style="text-align:center;" colspan="5">BANE 1</td>
+<td style="text-align:center;" colspan="5">BANE 2</td>
+</tr><tr>
+<td>TID</td><td>HOLD 1</td><td>HOLD 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td><td>HOLD 1</td><td>HOLD 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td>
+</tr></thead><tbody>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">2016-03-25 01:00</td>
+<td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee"><b>Copenhagen Roller Derby</b></td><td bgcolor="#ffffee">(36:193HT)<br>49:419</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75070/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=47m9s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">02:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Tokyo Roller Girls</td><td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff">(25:196HT)<br>46:423</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75071/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=2h12m55s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">04:00</td>
+<td bgcolor="#ffffee">Devil Dog Derby Dames</td><td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">(75:88HT)<br>122:155</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75072/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=3h38m28s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">05:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffeeee">Pirate City Rollers</td><td bgcolor="#ffeeee">JRDA Nippon Senbatsu</td><td bgcolor="#ffeeee">(255:26HT)<br>502:88</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/FkaGqkdgk9c#t=5h9m46s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">07:00</td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas</td><td bgcolor="#eeeeff">Devil Dog Derby Dames(HOME)</td><td bgcolor="#eeeeff">(99:106HT)<br>143:241</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75069/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/FkaGqkdgk9c#t=6h46m16s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">08:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff"><b>Copenhagen Roller Derby</b></td><td bgcolor="#eeffff">Tokyo Roller Girls</td><td bgcolor="#eeffff">(177:21HT)<br>424:48</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75073/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=8h11m18s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">10:00</td>
+<td bgcolor="#ffffee">Adelaide Roller Derby</td><td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">(230:22HT)<br>453:38</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75074/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=9h41m45s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-03-26 01:00</td>
+<td bgcolor="#ffeeee">JRDA Nippon Senbatsu</td><td bgcolor="#ffeeee">Devil Dog Derby Dames(HOME)</td><td bgcolor="#ffeeee">(81:182HT)<br>138:376</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/udx3lyF80dE#t=57m1s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">02:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">Tokyo Roller Girls</td><td bgcolor="#ffffee">156:117</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75076/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=2h28m20s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">04:00</td>
+<td bgcolor="#eeffff">Devil Dog Derby Dames</td><td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff">(19:199HT)<br>44:462</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75075/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=4h49s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">05:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas</td><td bgcolor="#eeeeff">Pirate City Rollers</td><td bgcolor="#eeeeff">(75:100HT)<br>126:243</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75077/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/udx3lyF80dE#t=5h40m49s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">07:00</td>
+<td bgcolor="#eeffff"><b>Copenhagen Roller Derby</b></td><td bgcolor="#eeffff">Devil Dog Derby Dames</td><td bgcolor="#eeffff">(247:9HT)<br>388:20</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75078/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=7h6m34s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">08:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">(57:52HT)<br>117:97</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75079/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=8h27m">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">10:00</td>
+<td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff"><b>Copenhagen Roller Derby</b></td><td bgcolor="#eeffff">(50:74HT)<br>108:126</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/76864/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=9h59m50s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+</tbody><tfoot><tr bgcolor="#f4fff4"><td style="text-align:center;" colspan="11">Europe/Copenhagen</td></tr></tfoot></table>
+<!--nextpage-->
+<p>The Japan Open Tournament is the Asia-Pacific's first Roller Derby Tournament on this scale. In order to help you find the right time to watch bouts, we've constructed this handy guide.</p>
+<p>Click the name of the region to get a link with times for that timezone. <a href="https://scottishrollerderbyblog.com/2016/03/16/the-japan-open-the-other-wftda-first-this-year">For a preview of the event, with a breakdown of the teams, click HERE.</a></p>
+
+<table><thead><tr><td colspan="6">TIMEZONE LINKS</td></tr></thead><tbody><tr>
+<td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/1/">UK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/2/">DANMARK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/3/">ALASKA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/4/">NEW ZEALAND</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/5/">AUSTRALIA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/6/">JAPAN(日本)</a></td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup><colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup>
+<thead><tr><td style="text-align:center;" colspan="11">ALASKA</td></tr>
+<tr><td></td>
+<td style="text-align:center;" colspan="5">TRACK 1</td>
+<td style="text-align:center;" colspan="5">TRACK 2</td>
+</tr><tr>
+<td>TIME</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td>
+</tr></thead><tbody>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">2016-03-24 16:00</td>
+<td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">Copenhagen Roller Derby</td><td bgcolor="#ffffee">(36:193HT)<br>49:419</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75070/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=47m9s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">17:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Tokyo Roller Girls</td><td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff">(25:196HT)<br>46:423</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75071/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=2h12m55s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">19:00</td>
+<td bgcolor="#ffffee">Devil Dog Derby Dames</td><td bgcolor="#ffffee"><b>Juneau Rollergirls</b></td><td bgcolor="#ffffee">(75:88HT)<br>122:155</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75072/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=3h38m28s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">20:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffeeee">Pirate City Rollers</td><td bgcolor="#ffeeee">JRDA Nippon Senbatsu</td><td bgcolor="#ffeeee">(255:26HT)<br>502:88</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/FkaGqkdgk9c#t=5h9m46s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">22:00</td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas</td><td bgcolor="#eeeeff">Devil Dog Derby Dames(HOME)</td><td bgcolor="#eeeeff">(99:106HT)<br>143:241</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75069/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/FkaGqkdgk9c#t=6h46m16s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">23:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">Tokyo Roller Girls</td><td bgcolor="#eeffff">(177:21HT)<br>424:48</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75073/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=8h11m18s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">2016-03-25 01:00</td>
+<td bgcolor="#ffffee">Adelaide Roller Derby</td><td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">(230:22HT)<br>453:38</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75074/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=9h41m45s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">16:00</td>
+<td bgcolor="#ffeeee">JRDA Nippon Senbatsu</td><td bgcolor="#ffeeee">Devil Dog Derby Dames(HOME)</td><td bgcolor="#ffeeee">(81:182HT)<br>138:376</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/udx3lyF80dE#t=57m1s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">17:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee"><b>Juneau Rollergirls</b></td><td bgcolor="#ffffee">Tokyo Roller Girls</td><td bgcolor="#ffffee">156:117</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75076/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=2h28m20s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">19:00</td>
+<td bgcolor="#eeffff">Devil Dog Derby Dames</td><td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff">(19:199HT)<br>44:462</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75075/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=4h49s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">20:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas</td><td bgcolor="#eeeeff">Pirate City Rollers</td><td bgcolor="#eeeeff">(75:100HT)<br>126:243</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75077/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/udx3lyF80dE#t=5h40m49s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">22:00</td>
+<td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">Devil Dog Derby Dames</td><td bgcolor="#eeffff">(247:9HT)<br>388:20</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75078/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=7h6m34s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">23:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee"><b>Juneau Rollergirls</b></td><td bgcolor="#ffffee">(57:52HT)<br>117:97</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75079/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=8h27m">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-03-26 01:00</td>
+<td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">(50:74HT)<br>108:126</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/76864/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=9h59m50s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+</tbody><tfoot><tr bgcolor="#f4fff4"><td style="text-align:center;" colspan="11">America/Juneau</td></tr></tfoot></table>
+<!--nextpage-->
+<p>The Japan Open Tournament is the Asia-Pacific's first Roller Derby Tournament on this scale. In order to help you find the right time to watch bouts, we've constructed this handy guide.</p>
+<p>Click the name of the region to get a link with times for that timezone. <a href="https://scottishrollerderbyblog.com/2016/03/16/the-japan-open-the-other-wftda-first-this-year">For a preview of the event, with a breakdown of the teams, click HERE.</a></p>
+
+<table><thead><tr><td colspan="6">TIMEZONE LINKS</td></tr></thead><tbody><tr>
+<td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/1/">UK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/2/">DANMARK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/3/">ALASKA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/4/">NEW ZEALAND</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/5/">AUSTRALIA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/6/">JAPAN(日本)</a></td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup><colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup>
+<thead><tr><td style="text-align:center;" colspan="11">NEW ZEALAND</td></tr>
+<tr><td></td>
+<td style="text-align:center;" colspan="5">TRACK 1</td>
+<td style="text-align:center;" colspan="5">TRACK 2</td>
+</tr><tr>
+<td>TIME</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td>
+</tr></thead><tbody>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">2016-03-25 13:00</td>
+<td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">Copenhagen Roller Derby</td><td bgcolor="#ffffee">(36:193HT)<br>49:419</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75070/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=47m9s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">14:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Tokyo Roller Girls</td><td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff">(25:196HT)<br>46:423</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75071/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=2h12m55s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">16:00</td>
+<td bgcolor="#ffffee">Devil Dog Derby Dames</td><td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">(75:88HT)<br>122:155</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75072/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=3h38m28s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">17:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffeeee"><b>Pirate City Rollers</b></td><td bgcolor="#ffeeee">JRDA Nippon Senbatsu</td><td bgcolor="#ffeeee">(255:26HT)<br>502:88</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/FkaGqkdgk9c#t=5h9m46s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">19:00</td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas</td><td bgcolor="#eeeeff">Devil Dog Derby Dames(HOME)</td><td bgcolor="#eeeeff">(99:106HT)<br>143:241</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75069/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/FkaGqkdgk9c#t=6h46m16s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">20:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">Tokyo Roller Girls</td><td bgcolor="#eeffff">(177:21HT)<br>424:48</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75073/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=8h11m18s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">22:00</td>
+<td bgcolor="#ffffee">Adelaide Roller Derby</td><td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">(230:22HT)<br>453:38</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75074/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=9h41m45s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-03-26 13:00</td>
+<td bgcolor="#ffeeee">JRDA Nippon Senbatsu</td><td bgcolor="#ffeeee">Devil Dog Derby Dames(HOME)</td><td bgcolor="#ffeeee">(81:182HT)<br>138:376</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/udx3lyF80dE#t=57m1s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">14:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">Tokyo Roller Girls</td><td bgcolor="#ffffee">156:117</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75076/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=2h28m20s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">16:00</td>
+<td bgcolor="#eeffff">Devil Dog Derby Dames</td><td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff">(19:199HT)<br>44:462</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75075/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=4h49s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">17:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas</td><td bgcolor="#eeeeff"><b>Pirate City Rollers</b></td><td bgcolor="#eeeeff">(75:100HT)<br>126:243</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75077/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/udx3lyF80dE#t=5h40m49s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">19:00</td>
+<td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">Devil Dog Derby Dames</td><td bgcolor="#eeffff">(247:9HT)<br>388:20</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75078/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=7h6m34s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">20:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">(57:52HT)<br>117:97</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75079/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=8h27m">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">22:00</td>
+<td bgcolor="#eeffff">Adelaide Roller Derby</td><td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">(50:74HT)<br>108:126</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/76864/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=9h59m50s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+</tbody><tfoot><tr bgcolor="#f4fff4"><td style="text-align:center;" colspan="11">Pacific/Auckland</td></tr></tfoot></table>
+<!--nextpage-->
+<p>The Japan Open Tournament is the Asia-Pacific's first Roller Derby Tournament on this scale. In order to help you find the right time to watch bouts, we've constructed this handy guide.</p>
+<p>Click the name of the region to get a link with times for that timezone. <a href="https://scottishrollerderbyblog.com/2016/03/16/the-japan-open-the-other-wftda-first-this-year">For a preview of the event, with a breakdown of the teams, click HERE.</a></p>
+
+<table><thead><tr><td colspan="6">TIMEZONE LINKS</td></tr></thead><tbody><tr>
+<td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/1/">UK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/2/">DANMARK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/3/">ALASKA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/4/">NEW ZEALAND</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/5/">AUSTRALIA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/6/">JAPAN(日本)</a></td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup><colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup>
+<thead><tr><td style="text-align:center;" colspan="11">AUSTRALIA</td></tr>
+<tr><td></td>
+<td style="text-align:center;" colspan="5">TRACK 1</td>
+<td style="text-align:center;" colspan="5">TRACK 2</td>
+</tr><tr>
+<td>TIME</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td>
+</tr></thead><tbody>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">2016-03-25 10:30</td>
+<td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">Copenhagen Roller Derby</td><td bgcolor="#ffffee">(36:193HT)<br>49:419</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75070/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=47m9s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">12:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Tokyo Roller Girls</td><td bgcolor="#eeffff"><b>Adelaide Roller Derby</b></td><td bgcolor="#eeffff">(25:196HT)<br>46:423</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75071/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=2h12m55s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">13:30</td>
+<td bgcolor="#ffffee">Devil Dog Derby Dames</td><td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">(75:88HT)<br>122:155</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75072/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=3h38m28s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">15:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffeeee">Pirate City Rollers</td><td bgcolor="#ffeeee">JRDA Nippon Senbatsu</td><td bgcolor="#ffeeee">(255:26HT)<br>502:88</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/FkaGqkdgk9c#t=5h9m46s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">16:30</td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas</td><td bgcolor="#eeeeff">Devil Dog Derby Dames(HOME)</td><td bgcolor="#eeeeff">(99:106HT)<br>143:241</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75069/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/FkaGqkdgk9c#t=6h46m16s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">18:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">Tokyo Roller Girls</td><td bgcolor="#eeffff">(177:21HT)<br>424:48</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75073/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=8h11m18s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">19:30</td>
+<td bgcolor="#ffffee"><b>Adelaide Roller Derby</b></td><td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">(230:22HT)<br>453:38</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75074/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=9h41m45s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-03-26 10:30</td>
+<td bgcolor="#ffeeee">JRDA Nippon Senbatsu</td><td bgcolor="#ffeeee">Devil Dog Derby Dames(HOME)</td><td bgcolor="#ffeeee">(81:182HT)<br>138:376</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/udx3lyF80dE#t=57m1s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">12:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">Tokyo Roller Girls</td><td bgcolor="#ffffee">156:117</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75076/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=2h28m20s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">13:30</td>
+<td bgcolor="#eeffff">Devil Dog Derby Dames</td><td bgcolor="#eeffff"><b>Adelaide Roller Derby</b></td><td bgcolor="#eeffff">(19:199HT)<br>44:462</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75075/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=4h49s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">15:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas</td><td bgcolor="#eeeeff">Pirate City Rollers</td><td bgcolor="#eeeeff">(75:100HT)<br>126:243</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75077/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/udx3lyF80dE#t=5h40m49s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">16:30</td>
+<td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">Devil Dog Derby Dames</td><td bgcolor="#eeffff">(247:9HT)<br>388:20</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75078/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=7h6m34s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">18:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Kokeshi Roller Dolls</td><td bgcolor="#ffffee">Juneau Rollergirls</td><td bgcolor="#ffffee">(57:52HT)<br>117:97</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75079/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=8h27m">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">19:30</td>
+<td bgcolor="#eeffff"><b>Adelaide Roller Derby</b></td><td bgcolor="#eeffff">Copenhagen Roller Derby</td><td bgcolor="#eeffff">(50:74HT)<br>108:126</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/76864/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=9h59m50s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+</tbody><tfoot><tr bgcolor="#f4fff4"><td style="text-align:center;" colspan="11">Australia/Adelaide</td></tr></tfoot></table>
+<!--nextpage-->
+<p>ジャパンオープン大会は、アジア太平洋地域初のローラーダービートーナメントです。あなたは試合を見て適切な時期を見つけるために、我々はこの便利なガイドを構築してきました。</p>
+<p>その時間帯のための時間とリンクを取得するために地域の名前をクリックします。<a href="https://scottishrollerderbyblog.com/2016/03/16/the-japan-open-the-other-wftda-first-this-year">イベントのプレビューのために、チームの説明では、こちらをクリックしてください。</a></p>
+
+<table><thead><tr><td colspan="6">TIMEZONE LINKS</td></tr></thead><tbody><tr>
+<td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/1/">UK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/2/">DANMARK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/3/">ALASKA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/4/">NEW ZEALAND</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/5/">AUSTRALIA</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/6/">JAPAN(日本)</a></td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup><colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup>
+<thead><tr><td style="text-align:center;" colspan="11">JAPAN(日本)</td></tr>
+<tr><td></td>
+<td style="text-align:center;" colspan="5">TRACK(コート) 1</td>
+<td style="text-align:center;" colspan="5">TRACK(コート) 2</td>
+</tr><tr>
+<td>時</td><td>チーム 1</td><td>チーム 2</td><td>得点</td><td>統計</td><td>映像</td><td>チーム 1</td><td>チーム 2</td><td>得点</td><td>統計</td><td>映像</td>
+</tr></thead><tbody>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">2016-03-25 09:00</td>
+<td bgcolor="#ffffee"><b>Kokeshi Roller Dolls<br>(沖縄)</b></td><td bgcolor="#ffffee">Copenhagen Roller Derby<br>(デンマーク)</td><td bgcolor="#ffffee">(36:193HT)<br>49:419</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75070/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=47m9s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">10:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff"><b>Tokyo Roller Girls<br>(東京)</b></td><td bgcolor="#eeffff">Adelaide Roller Derby<br>(オーストラリア)</td><td bgcolor="#eeffff">(25:196HT)<br>46:423</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75071/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=2h12m55s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">12:00</td>
+<td bgcolor="#ffffee"><b>Devil Dog Derby Dames<br>(沖縄)</b></td><td bgcolor="#ffffee">Juneau Rollergirls<br>(アラスカ州米国)</td><td bgcolor="#ffffee">(75:88HT)<br>122:155</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75072/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=3h38m28s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">13:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffeeee">Pirate City Rollers<br>(ニュージーランド)</td><td bgcolor="#ffeeee"><b>JRDA Nippon Senbatsu<br>(日本「陳列」)</b></td><td bgcolor="#ffeeee">(255:26HT)<br>502:88</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/FkaGqkdgk9c#t=5h9m46s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">15:00</td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas<br>(三沢)</td><td bgcolor="#eeeeff"><b>Devil Dog Derby Dames(HOME)<br>(沖縄)</b></td><td bgcolor="#eeeeff">(99:106HT)<br>143:241</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75069/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/FkaGqkdgk9c#t=6h46m16s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">16:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Copenhagen Roller Derby<br>(デンマーク)</td><td bgcolor="#eeffff"><b>Tokyo Roller Girls<br>(東京)</b></td><td bgcolor="#eeffff">(177:21HT)<br>424:48</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75073/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/FkaGqkdgk9c#t=8h11m18s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">18:00</td>
+<td bgcolor="#ffffee">Adelaide Roller Derby<br>(オーストラリア)</td><td bgcolor="#ffffee"><b>Kokeshi Roller Dolls<br>(沖縄)</b></td><td bgcolor="#ffffee">(230:22HT)<br>453:38</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75074/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/FkaGqkdgk9c#t=9h41m45s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-03-26 09:00</td>
+<td bgcolor="#ffeeee"><b>JRDA Nippon Senbatsu<br>(日本「陳列」)</b></td><td bgcolor="#ffeeee"><b>Devil Dog Derby Dames(HOME)<br>(沖縄)</b></td><td bgcolor="#ffeeee">(81:182HT)<br>138:376</td><td bgcolor="#ffeeee"><a href="_">Flat Track Stats</a></td><td bgcolor="#ffeeee"><a href="https://youtu.be/udx3lyF80dE#t=57m1s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">10:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Juneau Rollergirls<br>(アラスカ州米国)</td><td bgcolor="#ffffee"><b>Tokyo Roller Girls<br>(東京)</b></td><td bgcolor="#ffffee">156:117</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75076/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=2h28m20s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">12:00</td>
+<td bgcolor="#eeffff"><b>Devil Dog Derby Dames<br>(沖縄)</b></td><td bgcolor="#eeffff">Adelaide Roller Derby<br>(オーストラリア)</td><td bgcolor="#eeffff">(19:199HT)<br>44:462</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75075/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=4h49s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">13:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeeeff">Misawa Killa Geishas<br>(三沢)</td><td bgcolor="#eeeeff">Pirate City Rollers<br>(ニュージーランド)</td><td bgcolor="#eeeeff">(75:100HT)<br>126:243</td><td bgcolor="#eeeeff"><a href="http://flattrackstats.com/bouts/75077/overview">Flat Track Stats</a></td><td bgcolor="#eeeeff"><a href="https://youtu.be/udx3lyF80dE#t=5h40m49s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">15:00</td>
+<td bgcolor="#eeffff">Copenhagen Roller Derby<br>(デンマーク)</td><td bgcolor="#eeffff"><b>Devil Dog Derby Dames<br>(沖縄)</b></td><td bgcolor="#eeffff">(247:9HT)<br>388:20</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/75078/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=7h6m34s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">16:30</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee"><b>Kokeshi Roller Dolls<br>(沖縄)</b></td><td bgcolor="#ffffee">Juneau Rollergirls<br>(アラスカ州米国)</td><td bgcolor="#ffffee">(57:52HT)<br>117:97</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/75079/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://youtu.be/udx3lyF80dE#t=8h27m">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">18:00</td>
+<td bgcolor="#eeffff">Adelaide Roller Derby<br>(オーストラリア)</td><td bgcolor="#eeffff">Copenhagen Roller Derby<br>(デンマーク)</td><td bgcolor="#eeffff">(50:74HT)<br>108:126</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/76864/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://youtu.be/udx3lyF80dE#t=9h59m50s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+</tbody><tfoot><tr bgcolor="#f4fff4"><td style="text-align:center;" colspan="11">Asia/Tokyo</td></tr></tfoot></table></body></html>

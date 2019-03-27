@@ -1,0 +1,35 @@
+<html><body><div>
+<div class="_1t_p clearfix">
+<div class="_41ud">
+<div class="clearfix _o46 _3erg _29_7 direction_ltr text_align_ltr">
+<div class="_3058 _ui9 _hh7 _s1- _52mr">Over on the West Coast of Scotland, there's still new Roller Derby leagues coming into existence. Inverclyde Roller Derby is one such, an "open"/coed league which appeared earlier this year, growing to around 23 full time skaters, and 5 NSOs. In support of their next recruitment, on the <strong>12th November</strong>, Greenock's <strong><a href="https://www.google.co.uk/maps/place/Lady+Octavia+Sports+Centre,+Bridgend+Rd,+Greenock+PA15+2JN/@55.9382189,-4.7350389,17z/data=!3m1!4b1!4m5!3m4!1s0x4889ae1c210c4dff:0x82ef2152eb5cb4cb!8m2!3d55.9382386!4d-4.732828">Lady Octavia Sports Centre</a></strong>, <strong>1pm</strong> to <strong>3pm</strong> [<strong><a href="https://www.facebook.com/events/676805075818015/">event page here</a></strong>], they've sent us this in-depth interview to give you their background. (This event is in collaboration with United Sk8s, and will also include a Roller Disco after the end of the fresh-meat recruitment).
+Questions and answers here were submitted by the league themselves - the blog has merely provided editorial input.</div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"></div>
+</div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><strong><img class="aligncenter size-large wp-image-11023" src="https://scottishrollerderbyblog.com/2016/11/inverclyde.jpg?w=1536" alt="inverclyde" width="768" height="1024"> </strong></div>
+<div class="clearfix _o46 _3erg _29_7 direction_ltr text_align_ltr">
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><strong><span class="_3oh-">When did you start? </span></strong></div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><span class="_3oh-">Our league began on the day of our first skate, the 11th of March 2016.
+We had no idea if roller derby would take off in this area, so we decided to dive in at the deep end by setting up our first skate only four weeks after deciding to start a league. It took, from the very first, "Hey! Let's start a Roller Derby League!" to "Welcome, to the 1st weekly Inverclyde Roller Derby Hunger Games!", 34 days in total; and boy what a fun-filled 34 days they were!
+With just our three founders, we sourced a hall that was willing to let us skate on their precious flooring, wrote a 33 page, fully comprehensive league constitution, set up a not-for-profit league bank account and roped in a few kind and able friends to hand out flyers that we made ourselves on our mobile phones. And, after all of that, on our very first skate... just 5 people turned up.
+Did that put us off? Hell nah. We're 6 months down the line with 18 regular skaters and 5 non-skating officials, loving life and tearing it up. Figuratively speaking - or our hall would kill us. </span></div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><strong><span class="_3oh-">Why did you decide to start a league? </span></strong></div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><span class="_3oh-">We decided to bring roller derby to Inverclyde as we found no existing leagues close enough for us to be able to afford the commute. Having mentioned it to friends, general responses ranged from: "I have no idea what roller derby is,", "Oooo, that sounds fun," to "Aww, I wish there was a roller derby league in Inverclyde!".
+Inverclyde, considered an impoverished area, has very little in the way of things like this, and it became apparent that people of Inverclyde not only wanted something new and fun, but desperately needed it. Every single one of our current skaters have praised our league as bringing something exciting and worthwhile to them personally, and to the community as a whole. </span></div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><strong><span class="_3oh-">What you want to achieve? </span></strong></div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><span class="_3oh-">As a roller derby league, we aim to encourage healthy life styles, spread our love of the sport and develop our mad skills as a league in order to be up there with the best of them. On top of that, we feel like it's important to stand up and represent our local area; as a local community group we want to bring something fun and exciting, and long overdue, to the area that helps promote healthy lives, affordable fitness and a sense of community spirit and pride. We try our best to get involved with other small community groups when they need volunteers, if there are local events on we're always there to represent and we pride ourselves in being an all-inclusive safe space within Inverclyde. </span></div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><strong><span class="_3oh-">Who are your derby heroes? </span></strong></div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><span class="_3oh-">Scald Eagle of the Rose City Rollers [well timed - Ed] and Trisha Smackanawa of London RollerGirls were the very first high pace, "Oh my goodness" skaters that blew our minds from the very first roller derby bout we ever watched, ever. They lit the roller derby fire in us.
+Sutton and Meow You-Ow of the Royal Windsor Roller Girls come in a close second. The very lovely Meow You-Ow was the first person to teach one of our founders how to skate; Sutton skated in the very first ever roller derby bout that the early Inverclyde Roller Derby squad went to see as a league, and she rocked our world!</span></div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr">
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><span class="_3oh-"><strong>What's great about being part of a team?</strong> </span></div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><span class="_3oh-">The awesome  new friends we have made and the wonderful new people we've met - the support we all have for each other, the camaraderie we all feel on and off track; it is all amazing. Being part of a team has brought many of us out of our shells, given us all something to look forward to each week and, all in all, has been an amazing experience so far. May it long continue, with many more friends to be made.</span></div>
+</div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><strong><span class="_3oh-">What you want to achieve going forward? </span></strong></div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"><span class="_3oh-">World domination. </span></div>
+<div class="_3058 _ui9 _hh7 _s1- _52mr"></div>
+</div>
+</div>
+</div>
+</div>
+<div></div></body></html>

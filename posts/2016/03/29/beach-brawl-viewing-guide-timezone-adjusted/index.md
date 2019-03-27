@@ -1,0 +1,518 @@
+<html><body><p>Beach Brawl is Gold Coast Derby Grrls' annual Roller Derby invitational. This year, it features many teams from the UK and Europe, including Newcastle Roller Girls, Dublin Roller Derby, Paris Rollergirls, Rainy City Roller Derby and Central City Roller Girls.
+This viewing guide contains time-zone adjusted links for the bouts, highlights for each country, and links to the livestream. For completed bouts, we link to the archive video footage (where available - currently Track D's video seems to be a bit broken, for Days 2 and 3 only: we're leaving links to that until the full footage is uploaded [a stand in link just links to the start of the video there is]), and FlatTrackStats stats when available.
+
+</p><table><thead><tr><td colspan="3">TIMEZONE LINKS</td></tr></thead><tbody><tr>
+<td><a href="https://scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/1/">UK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/2/">PARIS</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/3/">DUBLIN</a></td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup><colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup>
+<thead><tr><td style="text-align:center;" colspan="11">UK</td></tr>
+<tr><td></td>
+<td style="text-align:center;" colspan="5">TRACK D</td>
+<td style="text-align:center;" colspan="5">TRACK C</td>
+</tr><tr>
+<td>TIME</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td>
+</tr></thead><tbody>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">2016-05-13 14:00</td>
+<td bgcolor="#ffffee"><b>Rainy City Roller Derby</b></td><td bgcolor="#ffffee"><b>Newcastle Roller Girls</b></td><td bgcolor="#ffffee">218:78</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79285/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">15:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Oklahoma Victory Dolls</td><td bgcolor="#eeffff">Blue Ridge Rollergirls</td><td bgcolor="#eeffff">157:203</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/77820/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">16:00</td>
+<td bgcolor="#ffffee">Gold Coast Derby Grrls</td><td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">54:229</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79289/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=2h39m27s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">17:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Cape Fear Roller Girls</td><td bgcolor="#eeffff">Winnipeg Roller Derby League</td><td bgcolor="#eeffff">95:239</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79284/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs&amp;t=2h7m43s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">18:00</td>
+<td bgcolor="#ffffee"><b>Central City Roller Girls</b></td><td bgcolor="#ffffee">Muddy River Rollers</td><td bgcolor="#ffffee">225:123</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79290/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=4h24m">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">19:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Greensboro Roller Derby</td><td bgcolor="#eeffff">Garden State Rollergirls</td><td bgcolor="#eeffff">37:241</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79288/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs&amp;t=3h57m1s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">20:00</td>
+<td bgcolor="#ffffee">Paris Rollergirls</td><td bgcolor="#ffffee">Red Stick Roller Derby</td><td bgcolor="#ffffee">389:77</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79287/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=6h23m28s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">21:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Dublin Roller Derby</td><td bgcolor="#eeffff"><b>Newcastle Roller Girls</b></td><td bgcolor="#eeffff">164:183</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79286/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs&amp;t=5h51m8s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">22:00</td>
+<td bgcolor="#ffffee">Oklahoma Victory Dolls</td><td bgcolor="#ffffee">DC Rollergirls</td><td bgcolor="#ffffee">191:189(OT)</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/78722/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=8h14m">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-05-14 00:00</td>
+<td bgcolor="#eeffff">Gold Coast Derby Grrls</td><td bgcolor="#eeffff">Appalachian Rollergirls</td><td bgcolor="#eeffff">188:140</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79291/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=10h10m22s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">14:00</td>
+<td bgcolor="#ffffee">DC Rollergirls</td><td bgcolor="#ffffee">Dublin Roller Derby</td><td bgcolor="#ffffee">172:179</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/78723/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">15:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff"><b>Rainy City Roller Derby</b></td><td bgcolor="#eeffff">Red Stick Roller Derby</td><td bgcolor="#eeffff">402:45</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79292/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=CmaqX6Nt5FU">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">16:00</td>
+<td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">Cape Fear Roller Girls</td><td bgcolor="#ffffee">235:90</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79293/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">17:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Greensboro Roller Derby</td><td bgcolor="#eeffff"><b>Central City Roller Girls</b></td><td bgcolor="#eeffff">57:354</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79294/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=CmaqX6Nt5FU&amp;t=2h2m">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">18:00</td>
+<td bgcolor="#ffffee">Paris Rollergirls</td><td bgcolor="#ffffee">Appalachian Rollergirls</td><td bgcolor="#ffffee">465:33</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79295/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">19:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Garden State Rollergirls</td><td bgcolor="#eeffff">Dublin Roller Derby</td><td bgcolor="#eeffff">124:173</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79304/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=4h10m8s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">20:00</td>
+<td bgcolor="#ffffee">Oklahoma Victory Dolls</td><td bgcolor="#ffffee">Fort Myers Derby Girls</td><td bgcolor="#ffffee">161:117</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79297/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">21:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Dublin Roller Derby</td><td bgcolor="#eeffff">Gold Coast Derby Grrls</td><td bgcolor="#eeffff">277:113</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79298/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=CmaqX6Nt5FU&amp;t=5h53m30s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">22:00</td>
+<td bgcolor="#ffffee">Winnipeg Roller Derby League</td><td bgcolor="#ffffee">Red Stick Roller Derby</td><td bgcolor="#ffffee">231:106</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79299/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-05-15 00:00</td>
+<td bgcolor="#eeffff">Blue Ridge Rollergirls</td><td bgcolor="#eeffff"><b>Newcastle Roller Girls</b></td><td bgcolor="#eeffff">205:113</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/77822/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">14:00</td>
+<td bgcolor="#ffffee">Muddy River Rollers</td><td bgcolor="#ffffee">Greensboro Roller Derby</td><td bgcolor="#ffffee">318:52</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79300/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">15:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">DC Rollergirls</td><td bgcolor="#eeffff">Blue Ridge Rollergirls</td><td bgcolor="#eeffff">98:281</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/77821/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">16:00</td>
+<td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">Appalachian Rollergirls</td><td bgcolor="#ffffee">307:51</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79301/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">17:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Oklahoma Victory Dolls</td><td bgcolor="#eeffff"><b>Newcastle Roller Girls</b></td><td bgcolor="#eeffff">167:205</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79302/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=2h3m36s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">18:00</td>
+<td bgcolor="#ffffee">Winnipeg Roller Derby League</td><td bgcolor="#ffffee"><b>Central City Roller Girls</b></td><td bgcolor="#ffffee">212:121</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79303/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">20:00</td>
+<td bgcolor="#eeffff">Paris Rollergirls</td><td bgcolor="#eeffff">Muddy River Rollers</td><td bgcolor="#eeffff">413:100</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79305/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">21:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Fort Myers Derby Girls</td><td bgcolor="#ffffee"><b>Rainy City Roller Derby</b></td><td bgcolor="#ffffee">35:431</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79306/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=6h5m30s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">22:00</td>
+<td bgcolor="#eeffff">Appalachian Rollergirls</td><td bgcolor="#eeffff">Red Stick Roller Derby</td><td bgcolor="#eeffff">120:259</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79307/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">23:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">Winnipeg Roller Derby League</td><td bgcolor="#ffffee">203:83</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79308/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=8h2m23s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-05-16 00:00</td>
+<td bgcolor="#eeffff">Garden State Rollergirls</td><td bgcolor="#eeffff">Cape Fear Roller Girls</td><td bgcolor="#eeffff">208:77</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79309/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">01:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Gold Coast Derby Grrls</td><td bgcolor="#ffffee">Paris Rollergirls</td><td bgcolor="#ffffee">60:360</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79310/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=9h55m">YouTube</a></td>
+</tr>
+</tbody><tfoot><tr bgcolor="#f4fff4"><td style="text-align:center;" colspan="11">Europe/London</td></tr></tfoot></table>
+<!--nextpage-->
+Beach Brawl is Gold Coast Derby Grrls' annual Roller Derby invitational. This year, it features many teams from the UK and Europe, including Newcastle Roller Girls, Dublin Roller Derby, Paris Rollergirls, Rainy City Roller Derby and Central City Roller Girls.
+This viewing guide contains time-zone adjusted links for the bouts, highlights for each country, and links to the livestream. For completed bouts, we link to the archive video footage (where available - currently Track D's video seems to be a bit broken, for Days 2 and 3 only: we're leaving links to that until the full footage is uploaded [a stand in link just links to the start of the video there is]), and FlatTrackStats stats when available.
+
+<table><thead><tr><td colspan="3">TIMEZONE LINKS</td></tr></thead><tbody><tr>
+<td><a href="https://scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/1/">UK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/2/">PARIS</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/3/">DUBLIN</a></td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup><colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup>
+<thead><tr><td style="text-align:center;" colspan="11">PARIS</td></tr>
+<tr><td></td>
+<td style="text-align:center;" colspan="5">PISTE D</td>
+<td style="text-align:center;" colspan="5">PISTE C</td>
+</tr><tr>
+<td>TEMPS</td><td>ÉQUIPE 1</td><td>ÉQUIPE 2</td><td>POINTS</td><td>Stats</td><td>LiveStream</td><td>ÉQUIPE 1</td><td>ÉQUIPE 2</td><td>POINTS</td><td>Stats</td><td>LiveStream</td>
+</tr></thead><tbody>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">2016-05-13 15:00</td>
+<td bgcolor="#ffffee">Rainy City Roller Derby</td><td bgcolor="#ffffee">Newcastle Roller Girls</td><td bgcolor="#ffffee">218:78</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79285/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">16:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Oklahoma Victory Dolls</td><td bgcolor="#eeffff">Blue Ridge Rollergirls</td><td bgcolor="#eeffff">157:203</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/77820/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">17:00</td>
+<td bgcolor="#ffffee">Gold Coast Derby Grrls</td><td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">54:229</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79289/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=2h39m27s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">18:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Cape Fear Roller Girls</td><td bgcolor="#eeffff">Winnipeg Roller Derby League</td><td bgcolor="#eeffff">95:239</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79284/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs&amp;t=2h7m43s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">19:00</td>
+<td bgcolor="#ffffee">Central City Roller Girls</td><td bgcolor="#ffffee">Muddy River Rollers</td><td bgcolor="#ffffee">225:123</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79290/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=4h24m">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">20:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Greensboro Roller Derby</td><td bgcolor="#eeffff">Garden State Rollergirls</td><td bgcolor="#eeffff">37:241</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79288/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs&amp;t=3h57m1s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">21:00</td>
+<td bgcolor="#ffffee"><b>Paris Rollergirls</b></td><td bgcolor="#ffffee">Red Stick Roller Derby</td><td bgcolor="#ffffee">389:77</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79287/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=6h23m28s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">22:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Dublin Roller Derby</td><td bgcolor="#eeffff">Newcastle Roller Girls</td><td bgcolor="#eeffff">164:183</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79286/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs&amp;t=5h51m8s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">23:00</td>
+<td bgcolor="#ffffee">Oklahoma Victory Dolls</td><td bgcolor="#ffffee">DC Rollergirls</td><td bgcolor="#ffffee">191:189(OT)</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/78722/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=8h14m">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-05-14 01:00</td>
+<td bgcolor="#eeffff">Gold Coast Derby Grrls</td><td bgcolor="#eeffff">Appalachian Rollergirls</td><td bgcolor="#eeffff">188:140</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79291/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=10h10m22s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">15:00</td>
+<td bgcolor="#ffffee">DC Rollergirls</td><td bgcolor="#ffffee">Dublin Roller Derby</td><td bgcolor="#ffffee">172:179</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/78723/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">16:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Rainy City Roller Derby</td><td bgcolor="#eeffff">Red Stick Roller Derby</td><td bgcolor="#eeffff">402:45</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79292/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=CmaqX6Nt5FU">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">17:00</td>
+<td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">Cape Fear Roller Girls</td><td bgcolor="#ffffee">235:90</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79293/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">18:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Greensboro Roller Derby</td><td bgcolor="#eeffff">Central City Roller Girls</td><td bgcolor="#eeffff">57:354</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79294/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=CmaqX6Nt5FU&amp;t=2h2m">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">19:00</td>
+<td bgcolor="#ffffee"><b>Paris Rollergirls</b></td><td bgcolor="#ffffee">Appalachian Rollergirls</td><td bgcolor="#ffffee">465:33</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79295/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">20:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Garden State Rollergirls</td><td bgcolor="#eeffff">Dublin Roller Derby</td><td bgcolor="#eeffff">124:173</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79304/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=4h10m8s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">21:00</td>
+<td bgcolor="#ffffee">Oklahoma Victory Dolls</td><td bgcolor="#ffffee">Fort Myers Derby Girls</td><td bgcolor="#ffffee">161:117</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79297/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">22:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Dublin Roller Derby</td><td bgcolor="#eeffff">Gold Coast Derby Grrls</td><td bgcolor="#eeffff">277:113</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79298/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=CmaqX6Nt5FU&amp;t=5h53m30s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">23:00</td>
+<td bgcolor="#ffffee">Winnipeg Roller Derby League</td><td bgcolor="#ffffee">Red Stick Roller Derby</td><td bgcolor="#ffffee">231:106</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79299/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-05-15 01:00</td>
+<td bgcolor="#eeffff">Blue Ridge Rollergirls</td><td bgcolor="#eeffff">Newcastle Roller Girls</td><td bgcolor="#eeffff">205:113</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/77822/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">15:00</td>
+<td bgcolor="#ffffee">Muddy River Rollers</td><td bgcolor="#ffffee">Greensboro Roller Derby</td><td bgcolor="#ffffee">318:52</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79300/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">16:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">DC Rollergirls</td><td bgcolor="#eeffff">Blue Ridge Rollergirls</td><td bgcolor="#eeffff">98:281</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/77821/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">17:00</td>
+<td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">Appalachian Rollergirls</td><td bgcolor="#ffffee">307:51</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79301/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">18:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Oklahoma Victory Dolls</td><td bgcolor="#eeffff">Newcastle Roller Girls</td><td bgcolor="#eeffff">167:205</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79302/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=2h3m36s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">19:00</td>
+<td bgcolor="#ffffee">Winnipeg Roller Derby League</td><td bgcolor="#ffffee">Central City Roller Girls</td><td bgcolor="#ffffee">212:121</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79303/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">21:00</td>
+<td bgcolor="#eeffff"><b>Paris Rollergirls</b></td><td bgcolor="#eeffff">Muddy River Rollers</td><td bgcolor="#eeffff">413:100</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79305/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">22:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Fort Myers Derby Girls</td><td bgcolor="#ffffee">Rainy City Roller Derby</td><td bgcolor="#ffffee">35:431</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79306/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=6h5m30s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">23:00</td>
+<td bgcolor="#eeffff">Appalachian Rollergirls</td><td bgcolor="#eeffff">Red Stick Roller Derby</td><td bgcolor="#eeffff">120:259</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79307/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">2016-05-16 00:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">Winnipeg Roller Derby League</td><td bgcolor="#ffffee">203:83</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79308/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=8h2m23s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">01:00</td>
+<td bgcolor="#eeffff">Garden State Rollergirls</td><td bgcolor="#eeffff">Cape Fear Roller Girls</td><td bgcolor="#eeffff">208:77</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79309/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">02:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Gold Coast Derby Grrls</td><td bgcolor="#ffffee"><b>Paris Rollergirls</b></td><td bgcolor="#ffffee">60:360</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79310/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=9h55m">YouTube</a></td>
+</tr>
+</tbody><tfoot><tr bgcolor="#f4fff4"><td style="text-align:center;" colspan="11">Europe/Paris</td></tr></tfoot></table>
+<!--nextpage-->
+Beach Brawl is Gold Coast Derby Grrls' annual Roller Derby invitational. This year, it features many teams from the UK and Europe, including Newcastle Roller Girls, Dublin Roller Derby, Paris Rollergirls, Rainy City Roller Derby and Central City Roller Girls.
+This viewing guide contains time-zone adjusted links for the bouts, highlights for each country, and links to the livestream. For completed bouts, we link to the archive video footage (where available - currently Track D's video seems to be a bit broken, for Days 2 and 3 only: we're leaving links to that until the full footage is uploaded [a stand in link just links to the start of the video there is]), and FlatTrackStats stats when available.
+
+<table><thead><tr><td colspan="3">TIMEZONE LINKS</td></tr></thead><tbody><tr>
+<td><a href="https://scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/1/">UK</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/2/">PARIS</a></td><td><a href="https://scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/3/">DUBLIN</a></td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
+<colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup><colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col span="5"></colgroup>
+<thead><tr><td style="text-align:center;" colspan="11">DUBLIN</td></tr>
+<tr><td></td>
+<td style="text-align:center;" colspan="5">TRACK D</td>
+<td style="text-align:center;" colspan="5">TRACK C</td>
+</tr><tr>
+<td>TIME</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td><td>TEAM 1</td><td>TEAM 2</td><td>SCORE</td><td>Stats</td><td>LiveStream</td>
+</tr></thead><tbody>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">2016-05-13 14:00</td>
+<td bgcolor="#ffffee">Rainy City Roller Derby</td><td bgcolor="#ffffee">Newcastle Roller Girls</td><td bgcolor="#ffffee">218:78</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79285/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">15:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Oklahoma Victory Dolls</td><td bgcolor="#eeffff">Blue Ridge Rollergirls</td><td bgcolor="#eeffff">157:203</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/77820/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">16:00</td>
+<td bgcolor="#ffffee">Gold Coast Derby Grrls</td><td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">54:229</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79289/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=2h39m27s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">17:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Cape Fear Roller Girls</td><td bgcolor="#eeffff">Winnipeg Roller Derby League</td><td bgcolor="#eeffff">95:239</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79284/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs&amp;t=2h7m43s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">18:00</td>
+<td bgcolor="#ffffee">Central City Roller Girls</td><td bgcolor="#ffffee">Muddy River Rollers</td><td bgcolor="#ffffee">225:123</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79290/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=4h24m">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">19:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Greensboro Roller Derby</td><td bgcolor="#eeffff">Garden State Rollergirls</td><td bgcolor="#eeffff">37:241</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79288/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs&amp;t=3h57m1s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">20:00</td>
+<td bgcolor="#ffffee">Paris Rollergirls</td><td bgcolor="#ffffee">Red Stick Roller Derby</td><td bgcolor="#ffffee">389:77</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79287/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=6h23m28s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">21:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff"><b>Dublin Roller Derby</b></td><td bgcolor="#eeffff">Newcastle Roller Girls</td><td bgcolor="#eeffff">164:183</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79286/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=uNMy6t7YiKs&amp;t=5h51m8s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">22:00</td>
+<td bgcolor="#ffffee">Oklahoma Victory Dolls</td><td bgcolor="#ffffee">DC Rollergirls</td><td bgcolor="#ffffee">191:189(OT)</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/78722/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=8h14m">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-05-14 00:00</td>
+<td bgcolor="#eeffff">Gold Coast Derby Grrls</td><td bgcolor="#eeffff">Appalachian Rollergirls</td><td bgcolor="#eeffff">188:140</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79291/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=zQEDklJtSk8&amp;t=10h10m22s">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">14:00</td>
+<td bgcolor="#ffffee">DC Rollergirls</td><td bgcolor="#ffffee"><b>Dublin Roller Derby</b></td><td bgcolor="#ffffee">172:179</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/78723/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">15:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Rainy City Roller Derby</td><td bgcolor="#eeffff">Red Stick Roller Derby</td><td bgcolor="#eeffff">402:45</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79292/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=CmaqX6Nt5FU">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">16:00</td>
+<td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">Cape Fear Roller Girls</td><td bgcolor="#ffffee">235:90</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79293/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">17:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Greensboro Roller Derby</td><td bgcolor="#eeffff">Central City Roller Girls</td><td bgcolor="#eeffff">57:354</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79294/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=CmaqX6Nt5FU&amp;t=2h2m">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">18:00</td>
+<td bgcolor="#ffffee">Paris Rollergirls</td><td bgcolor="#ffffee">Appalachian Rollergirls</td><td bgcolor="#ffffee">465:33</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79295/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">19:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Garden State Rollergirls</td><td bgcolor="#eeffff"><b>Dublin Roller Derby</b></td><td bgcolor="#eeffff">124:173</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79304/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=4h10m8s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">20:00</td>
+<td bgcolor="#ffffee">Oklahoma Victory Dolls</td><td bgcolor="#ffffee">Fort Myers Derby Girls</td><td bgcolor="#ffffee">161:117</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79297/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">21:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff"><b>Dublin Roller Derby</b></td><td bgcolor="#eeffff">Gold Coast Derby Grrls</td><td bgcolor="#eeffff">277:113</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79298/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=CmaqX6Nt5FU&amp;t=5h53m30s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">22:00</td>
+<td bgcolor="#ffffee">Winnipeg Roller Derby League</td><td bgcolor="#ffffee">Red Stick Roller Derby</td><td bgcolor="#ffffee">231:106</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79299/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=Z_LPRY2pbLc">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-05-15 00:00</td>
+<td bgcolor="#eeffff">Blue Ridge Rollergirls</td><td bgcolor="#eeffff">Newcastle Roller Girls</td><td bgcolor="#eeffff">205:113</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/77822/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">14:00</td>
+<td bgcolor="#ffffee">Muddy River Rollers</td><td bgcolor="#ffffee">Greensboro Roller Derby</td><td bgcolor="#ffffee">318:52</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79300/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">15:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">DC Rollergirls</td><td bgcolor="#eeffff">Blue Ridge Rollergirls</td><td bgcolor="#eeffff">98:281</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/77821/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">16:00</td>
+<td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">Appalachian Rollergirls</td><td bgcolor="#ffffee">307:51</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79301/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">17:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#eeffff">Oklahoma Victory Dolls</td><td bgcolor="#eeffff">Newcastle Roller Girls</td><td bgcolor="#eeffff">167:205</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79302/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=2h3m36s">YouTube</a></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">18:00</td>
+<td bgcolor="#ffffee">Winnipeg Roller Derby League</td><td bgcolor="#ffffee">Central City Roller Girls</td><td bgcolor="#ffffee">212:121</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79303/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">20:00</td>
+<td bgcolor="#eeffff">Paris Rollergirls</td><td bgcolor="#eeffff">Muddy River Rollers</td><td bgcolor="#eeffff">413:100</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79305/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">21:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Fort Myers Derby Girls</td><td bgcolor="#ffffee">Rainy City Roller Derby</td><td bgcolor="#ffffee">35:431</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79306/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=6h5m30s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">22:00</td>
+<td bgcolor="#eeffff">Appalachian Rollergirls</td><td bgcolor="#eeffff">Red Stick Roller Derby</td><td bgcolor="#eeffff">120:259</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79307/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">23:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Rage City Rollergirls</td><td bgcolor="#ffffee">Winnipeg Roller Derby League</td><td bgcolor="#ffffee">203:83</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79308/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=8h2m23s">YouTube</a></td>
+</tr>
+<tr bgcolor="#eeffff">
+<td style="text-align:right;">2016-05-16 00:00</td>
+<td bgcolor="#eeffff">Garden State Rollergirls</td><td bgcolor="#eeffff">Cape Fear Roller Girls</td><td bgcolor="#eeffff">208:77</td><td bgcolor="#eeffff"><a href="http://flattrackstats.com/bouts/79309/overview">Flat Track Stats</a></td><td bgcolor="#eeffff"><a href="https://www.youtube.com/watch?v=4g-KLa2CyE4">YouTube</a></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr bgcolor="#ffffee">
+<td style="text-align:right;">01:00</td>
+<td></td><td></td><td></td><td></td><td></td>
+<td bgcolor="#ffffee">Gold Coast Derby Grrls</td><td bgcolor="#ffffee">Paris Rollergirls</td><td bgcolor="#ffffee">60:360</td><td bgcolor="#ffffee"><a href="http://flattrackstats.com/bouts/79310/overview">Flat Track Stats</a></td><td bgcolor="#ffffee"><a href="https://www.youtube.com/watch?v=NlhFRvoaAds&amp;t=9h55m">YouTube</a></td>
+</tr>
+</tbody><tfoot><tr bgcolor="#f4fff4"><td style="text-align:center;" colspan="11">Europe/Dublin</td></tr></tfoot></table></body></html>

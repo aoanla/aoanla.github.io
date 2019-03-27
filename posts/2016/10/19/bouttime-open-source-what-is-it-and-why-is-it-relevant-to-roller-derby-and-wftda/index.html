@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>bouttime: Open Source, what is it, and why is it relevant to Roller Derby and WFTDA? | Scottish Roller Derby Blog</title>
+<link href="../../../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../../rss.xml">
+<link rel="canonical" href="https://scottishrollerderbyblog.com/posts/2016/10/19/bouttime-open-source-what-is-it-and-why-is-it-relevant-to-roller-derby-and-wftda/">
+<!--[if lt IE 9]><script src="../../../../../assets/js/html5.js"></script><![endif]-->
+</head>
+<body class="home blog">
+    <div id="wrap" style="width:850px">
+        <div id="container" style="width:560px">
+            
+            
+    <div class="post">
+    
+    <h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">bouttime: Open Source, what is it, and why is it relevant to Roller Derby and WFTDA?</a></h1>
+
+        <div class="meta" style="background-color: rgb(234, 234, 234); ">
+        <span class="authordate">
+            Posted: by <b>aoanla</b> <time class="published" datetime="2016-10-19T22:20:25+01:00">2016-10-19 22:20</time>
+               [<a href="index.md" id="sourcelink">Source</a>]
+        </span>
+        <br><span class="authordate">
+            
+
+        </span>
+        </div>
+    <div>
+<p></p>
+<p>Since the WFTDA announced that they were working on a replacement for the WFTDA Statsbook online bout repository, there had been some speculation as to what this replacement would look like.</p>
+<p>Today, WFTDA announced part of this answer, with <strong><a href="https://wftda.com/news/wftda-releases-games-data-software-as-open-source-project">the release of "bouttime"</a></strong>, the replacement for the old Rinxter program. bouttime is a full solution to allow the tracking of all of the bout statistics normally associated with a bout - like Rinxter, it can be simply run on a laptop to enter all of the stats after the fact, or it can be used live (via tablets or laptops) in all of the NSO positions to capture the events as they happen. (So, given the removal of the penalty whiteboard as a requirement, the penalty trackers could now just have a tablet each to track penalties as they happen, for example.)</p>
+<p>bouttime is designed to be used via a web browser - it's written in "JavaScript"*, which is the code used to make web pages do interactive things (such as our<strong><a href="http://aoanla.pythonanywhere.com/yearsglobe.html"> 3d animated globe</a></strong>). We've not used it yet, but we assume that every NSO would simply load the website for the bout (or tournament) on their tablet (or phone, or laptop), and enter (or check) information as normal. (You'd also need a laptop somewhere actually providing the website for the tournament itself.)</p>
+<p>The big part of the announcement, however, was that bouttime has been released as an "<strong>Open Source Project</strong>". Whilst the techies in Roller Derby mostly rejoiced, we know that the majority of the community may not be au-fait with the cultural and technical aspects of this phrase, so we've prepared this explainer for you.</p>
+<p>The "Open Source" and "Free Software" movements are related concepts in technical culture which consider the <em>sharing of knowledge and information</em> in the community to be the highest value that can be aspired to. (There are disagreements as to precisely how to manage this, which is why there are two terms, but the differences largely don't matter at this level.)
+The Open Source movement considers that this is best done by making the "source code" to any piece of software widely available and accessible.</p>
+<p>By analogy, consider the workings of a restaurant**. You can go and buy a meal there, but most restaurants won't let you know the recipes they use, even if you offer to pay them. Similarly, "commercial software" - much of the software you use - is made from "source code" (the human-readable recipe which is followed to make the resulting program)... but the seller won't let you see the source code, or even buy it.</p>
+<p>Open Source Software projects are like a restaurant where everyone is allowed to see the chefs at work, look at their recipe, and even borrow it or suggest improvements, as long as everything remains in the open. (Perhaps you have a really good idea for making that pastry chef's eclairs even better by changing the filling... and if someone else sees your improvement, then maybe they might use that filling in an entirely different bake, which might inspire someone else to start baking with their own ideas... and maybe the original chef will learn something and improve their original recipe as a result.)
+The Open Source Initiative argues that this enriches the community overall - by allowing everyone to contribute to a project, or to make their own projects based on existing work, problems can be noticed and corrected more quickly, good ideas can be used in innovative ways, and society as a whole can get smarter and more creative, more quickly.</p>
+<p>You've actually almost all used some Open Source software without using it - the software running on many external harddisks, smart TVs, "action cameras", and all Android smartphones is partly or completely Open Source, as is that in many other products and areas.</p>
+<p>In this way, then, WFTDA's release of bouttime as an Open Source Project is a gift to the community in the strongest tradition of Roller Derby.
+If "For the Skater, By The Skater" means anything at core, it means that the community should act in precisely this way - sharing knowledge, and improving each other as a result.</p>
+<p>At present, bouttime is considered "Alpha" - a term which means that, while it probably works, all of the checks necessary to guarantee that there aren't any serious mistakes have not been done. Nonetheless, the entire source code and related files are available at github, a popular website which allows coders to make open source projects available for collaboration. As the existing coders, and now the entire community's worth of additional skilled (and less skilled) coders, work on bouttime, we expect it to grow into something that is truly a product of the Roller Derby community (beyond just the WFTDA itself).</p>
+<p></p>
+<hr>
+<p>With bouttime also comes another new standard, which has had less comment so far: "<strong>DerbyJSON</strong>".
+If bouttime is the program that lets you input all of your bout stats... DerbyJSON is the language in which those stats are represented. Just like bouttime, DerbyJSON is an "open" standard - in fact, it's based on a general standard for representing data called "JSON".</p>
+<p>To risk giving you slightly too much technical detail in the hope of showing you how non-scary this is: JSON data is just text, but laid out in a particular way. The example DerbyJSON file provided with bouttime starts like this:</p>
+<p><code>{
+"name": "Demo Game",
+"venue": "The Internet",
+"date": "07\/31\/2015",
+"time": "5:00 PM",
+</code></p>
+<p>which should be fairly readable - there's things called "name", "venue", "date" and "time", which all have values "Demo Game", "The Internet", "07\/31\/2015", "5:00 PM", with a colon joining each pair.  So, this is a "Demo Game", held at "The Internet", at the 31st of July 2015, at 5pm.
+If we want to group some properties together (say we want to describe all the properties that a team can have, but all in one place), then we can put { and } around them to keep them together. The next part of the example does exactly this
+<code>
+"home": {
+"name": "Atlanta",
+"initials": "ARG",
+"colorBarStyle": {
+"backgroundColor": "#2082a6",
+"color": "#ffffff"
+},
+"logo": "\/images\/team_logos\/Atlanta.png",
+</code></p>
+<p>Here we have a thing called "home" - which we might guess is the home team. Unlike the simple items above, "home" has lots of different properties we want to keep together, so we use a { to say that we're going to be listing lots of things.</p>
+<p>After the {, we start listing all the properties that "home" has, each of which has its own name. So, we can see that a "home" has a "name" ("Atlanta"), "initials" ("ARG"), a "logo" (the place you can find their logo image), all of which are simple properties.
+The properties of "home" can also have their own contents, though - "home" has a "colorBarStyle" (which presumably determines how to colour their part of the scoreboard), which itself has two parts - a "backgroundColor" (The color <span style="color:#2082a6;">teal </span>, represented in a particular "web" format) and "color" (white) of the text to use.</p>
+<p>("home" doesn't stop where we stop here - it also contains items for every player in the team, each of which has its own properties (as skaters have "names" and "numbers", and potentially "points", "penalties" and so on). But the hierarchical design of JSON means that we can keep all the important things together - we don't need to think about <em>all</em> of the things that "home" contains separately, we can always know that we can get the bits that we care about when we need them.</p>
+<p>More importantly, the very next thing, after we've finished describing "home", is a thing called "away". "away" has exactly the same types of properties as "home" (it's just the other team!), so we know that if "home" has a "name", then so will "away", and that their skaters will all have the same kinds of information present. )</p>
+<p>Because DerbyJSON (and JSON in general) lays out all the information in this really simple manner, its really easy for other people to write software to work with it. So, there's nothing stopping your league writing their own special program to handle any league statistics you want... or Flat Track Stats from writing a tool to let anyone submit DerbyJSON data to their repository.</p>
+<p>(As bouttime is also open source, it's even easier to do this, as you can use its existing source code as the basis for anything you do - bouttime already has recipes for creating and interpreting DerbyJSON, of course, so you don't even need to understand how to do that step yourself!)</p>
+<p>The bouttime Github repository is here: <a href="https://github.com/WFTDA/bouttime">https://github.com/WFTDA/bouttime</a></p>
+<hr>
+<p>*Technically, it also uses something called "Node.js", which is essentially a toolkit allowing the quick development and creation of interactive websites [and other programs].</p>
+<p>**We may have been watching the Great British Bake-Off when writing this...</p>
+<p></p>
+</div>
+    
+        <ul class="pager hidden-print">
+<li class="previous">
+                <a href="../are-you-ready-for-a-skating-spooktacular/" rel="prev" title="Are you ready for a skating spooktacular?">Previous post</a>
+            </li>
+            <li class="next">
+                <a href="../../21/european-roller-derby-22-october-update/" rel="next" title="European Roller Derby 22-October Update">Next post</a>
+            </li>
+        </ul>
+</div>
+
+        </div>
+        <div id="sidebar">
+            <!--Sidebar content-->
+            <h1 id="blog-title">
+                <a href="https://scottishrollerderbyblog.com/" title="Scottish Roller Derby Blog">Scottish Roller Derby Blog</a>
+            </h1>
+            
+            
+            <ul class="unstyled">
+<li>
+ <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+ <img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
+</li>
+            
+                <li>
+<a href="../../../../../archive.html">Archive</a>
+                </li>
+<li>
+<a href="../../../../../categories/">Tags</a>
+                </li>
+<li>
+<a href="../../../../../rss.xml">RSS feed</a>
+
+            </li>
+<li>
+            
+            
+            </ul>
+</div>
+        <div id="footer">
+            Contents © 2019         <a href="mailto:scottishrollerderby@gmail.com">SRD</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+ <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+ <img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
+            
+        </div>
+    </div>
+    
+            <script src="../../../../../assets/js/all-nocdn.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

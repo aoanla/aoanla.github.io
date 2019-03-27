@@ -1,0 +1,60 @@
+<html><body><p>While Roller Derby is rather well established in Western and Northern Europe, it is still spreading to the East, from the Czech Republic across to Russia. Our next Future Derby article covers the expanding Eastern edge of European derby.
+
+We asked Prague Roller Derby's L))) and Semtex Sizzle, and a whole bunch of skaters from Russia's first league, St Peterburg's White Night Furies, about the experience of pushing derby out into the East of Europe. (We believe this may be the first non-Russian interview that the White Night Furies have given, so we are happy to reproduce their answers in full!)
+
+<a href="http://www.facebook.com/PragueCityRD">Prague Roller Derby</a>
+</p><div><strong>With derby just established in the Czech Republic with your league, do you think you'll be competing with a National Team or at that level by the next World Cup in, say 2016?</strong></div>
+<div>We don't give up hope, it would be amazing to compete on international level. We hope than in few years more leagues will pop up in other czech cities or even in Prague itself and it will make possible to gather best players not only from PCRD, but from whole country. It could possibly help if other central or eastern European countries would establish new teams (like quite recently in <a href="https://www.facebook.com/WarsawHellcatsRollerGirls/timeline?ref=page_internal">Poland</a>, yay!) so we won't be anymore on the 'edge' of Europe.</div>
+<div><strong>What difficulties have you had with growth and promotion in the Czech Republic?</strong></div>
+<div>To answer your first one, well, we still are the first and the only Czech team. We sure hope other teams will appear in Czech, as L))) says.
+About the PR activities - we can't do more at the moment since we started, every single newspaper and many lifestyle magazines already covered our existence together with some expat media so we are quite satisfied with our promo.[On language issues with the WFTDA Rules] Not really, we are not perfect, of course, as non native speakers, but most of the players can at least understand English (as most of Czech young people do). Actually... while bouting other European teams we take advantage of our language as nobody can understand us!</div>
+<div>Russia - St Peterburg's <a href="https://www.facebook.com/rollerderbyRussia">White Night Furies</a>.</div>
+<div></div>
+<div><strong>I think you've been working on the league + team since June last year (and there might now be a league starting in Moscow this year?) ? How did it all start, and what have the challenges been over the past year and a bit? (Are there any cultural issues with recruitment in Russia, or language issues with derby being mostly English-language?)</strong></div>
+<div>
+
+<em>Fight Sparrow</em>: First of all, we don’t have a sports hall to train in. But I think we will solve this problem. There’s also a problem with understanding foreign players, but we can solve this problem too – some of our players speak English and help us to communicate with them. Some of our players started to attend English courses and I'm going to do it too, hope it will happen very soon. The fact that it is an English-language game must stimulate us to develop ourselves. There are some difficulties with the rules, sometimes we can’t understand them, but with the help of our foreign derby-friends and our trainers' communication we will achieve our goal.
+
+<em>Generous Jane (GJ)</em>: Roller derby in Russia started from only one girl who brought this game from Belgium. When she came back to Russia and found out that there is no roller derby here, she decided to change this and tell Russian people about the game. And some people (girls and boys) gathered together on the Palace square in the very center of St. Petersburg on the 22nd of May in 2013. They looked puzzled at this girl on quads who tried to heed the eccentric derby rules. They gathered together many times on the Palace Square and, as time has passed, these meetings became roller derby training (practices). The girl’s name was Katerina Rossolovich. She was the ideological inspirer, absolute leader, coach and the first captain of the first Russian roller derby team.
+During our first trainings we spent much time on leveling up the basic roller skating skills, practicing the derby position and crossovers. Then one artist drew the roller derby track on the Palace square for us and it was the time to start playing, though we’ve played like kittens!
+Approximately in the beginning of the autumn 2013 we confirmed the name of our team – “White Night Furies” and the logo. When the weather became cold we found a sports hall and started to train there.
+In December 2013 two Australian coaches – The Flying Nun Chucker and Ruby Ribcrusher - visited us. Besides ten hours of training we got the invaluable experience, the help and world recommendations on all the private and team questions, muscles, knowledge and incredible emotions from the communication with those excellent coaches. Chuck and Ruby's arrival made a powerful incentive to the development of roller derby in Russia and gave motivation to all of us.
+After the two spring Fresh Meat Days (1,2 of March 2014), the team became almost twice as big.
+Many of our derby-girls from the team started visiting derby practices while travelling to Europe in the cities they've been staying at. Derby-girls and boys from different countries such as France, Norway, Sweden, the USA came to St. Petersburg to train with us and to coach us. We take part in local events, thus earning the money for the team and promoting our sport which nobody knows about.
+
+<em>FireCracker</em>: After Katerina quit Hulk Hellelujah became our captain, coach and chief. She and two girls are in our coach committee now. Now we even have a sponsor. It's a skateboard shop in Saint Petersburg. And from our trip to Finland we got a mentor-team. It’s a team from Helsinki – Kallio Rolling Rainbow. This summer they said that 99,9% of our derby questions already have answers. So now we can write them anytime and they will definitely help us.
+
+<em>Generous Jane (JG)</em>:
+Difficulties.
+The first difficulty is that we can't buy quads and derby gear in Russia so we had to order everything from Europe and USA without trying on. And recently the miracle happened and the last girl in our team bought quads, now we can say with a great confidence that we don’t play roller derby on inlines.
+Secondly, we don't have a sports hall with the suitable floor, changing rooms and the track. It's very difficult to find such sports hall and at present we haven’t managed to find one.
+Further, we are the only team in Russia – wow – that's cool, but we have nobody to play with! And this is a big minus for our karma, motivation and development.
+Also, there is no roller derby federation and special medical insurance here. We're trying to solve this problem now.
+We have to translate the rules and literature into Russian – this is a long and big process. Those who don’t know the language have to learn them by heart. However, learning them and reacting to them during the game play are not the same things.
+This kind of sport isn't developed in our culture. While telling your friends (if only they are not from Australia) you face to such reaction: “I've never heard about it! What is it? Is it played with a ball?”.
+And you have to explain as simply as possible that there is a pack, a bout, a jammer. You have to use drawings, pantomime and gestures while demonstration of the elements of the game. But not everybody has studied in a drama school, and that's why this performance, probably, is not so much attractive as it is frightened for the potential players especially when it is a question about contact, injuries, aggression. And this information vacuum makes a distance between us and those who probably were born to play roller derby.
+
+<strong>You seem to have travelled to a <em>lot </em>of leagues around Europe to get practices in (from Lisbon through Vienna to Finland?). Could you have grown without the big derby community in Europe? What's been the biggest help to you from the community?</strong>
+
+<em>Fight Sparrow</em>: I think that we have grown a lot during the last (2014) year. Now we are an organized and cohesive team.
+The special fact is that we have visited two Finnish teams and played three scrimmages with them. Some amazing foreign coaches and players have already visited us and it helped us a lot.
+
+<em>Hulk Hellelujah</em>: Definitely not, we couldn't have grown without support from European derby community. Undoubtedly we couldn't even have started roller derby here without this community, because the idea of creating roller derby team here, in Russia, came from Europe, after watching some roller derby stuff.
+The biggest help was from a lot of people who supported us on Facebook, who wrote and came here to train us, to train with us, who hosted us in Kouvola and Helsinki for during our first scrimmages.
+
+<em>Jochans</em>: This summer I was in Lisbon and trained with the local team. It was very scary at first because I didn't know what to do, how to skate even. And it at was the first time when I'd got quads on my feet.
+Then I joined the fresh meat group and I realized that it doesn't matter in roller derby who you are and where you come from. Things that matter are your desire to skate and a hunger for learning.
+
+<strong>How is recruitment going?</strong>
+
+<em>Fight Sparrow</em>: We don't recruit new players now. We hone our own skills. We need an extra time and place in a sports hall, and we can’t do it now, because we haven’t brought ourselves yet to the sufficient derby-standard – namely we haven’t played official bouts with teams from roller derby community.
+
+<strong>As this is for our World Cup series, can you say if a Team Russia might be a possibility some day? Maybe by the next Cup in 2016/17?</strong>
+
+<em>Fight Sparrow</em>: I believe in that! We must and we will.
+
+<strong>Are there any changes in derby culture you see either being needed or coming out of the spread of derby into wider locations (not just USA + Western Europe) as time goes on?</strong>
+
+<em>Hulk Hellelujah</em>: Can't tell now about any changes because the Roller Derby that we've started here is a big change in itself :) Everything is new and very exciting, so we need to be not an "isolated" part of the European community to talk about changes. The biggest change will be destroying countries' borders, but that's not a roller derby task :)
+
+</div></body></html>

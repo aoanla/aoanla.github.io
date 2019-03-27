@@ -1,0 +1,4 @@
+<html><body><a href="http://teamscotlandrollerderby.com/">Team Scotland</a> will be running a fundraising bootcamp at The Arc,Cowcaddens Road,Glasgow on Saturday the 1st of October.This session is for travel team skaters <em>only</em>,cost is £10 per head and will run between 12-4pm.
+The camp will be led by Sonic Doom,coach of the <a href="http://torontorollerderby.com/">Toronto Roller Derby</a> travel team and will feature two hours of advanced offensive practice,followed by 90 minutes of scrimmage.
+This is a superb chance to learn from the coach of the league that will host the upcoming Roller Derby <a href="http://www.bloodandthundermag.com/WorldCup2011.htm">World Cup</a>,so get your name down quick as this event is likely to fill up soon.
+If you are interested in attending,get in contact with Team Scotland via their <a href="http://www.facebook.com/profile.php?id=100002108074523&amp;sk=wall">Facebook</a> or via the Team Scotland website.</body></html>

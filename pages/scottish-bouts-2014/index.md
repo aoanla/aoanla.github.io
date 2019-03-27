@@ -1,0 +1,640 @@
+<html><body><p>It can be quite hard to know what bouts are coming up, what with different leagues all having their own ways of getting the word out.
+
+This page aims to collate all of the upcoming bouts we're aware of at the Scottish Roller Derby blog, in Scotland, so you don't miss anything.
+
+ 
+
+</p><hr>
+
+ 
+<ul>
+<ul>
+	<li><del><strong>5 July 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Double Header</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>ARC Health and Fitness, Glasgow <i>12:00pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Power of Scotland v Power of Scotland</del></td>
+</tr>
+<tr>
+<td><del>Team Scotland v "Euro Stars"</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/585745674873560/?ref=5</del>
+<del> Tickets: http://www.brownpapertickets.com/event/731045</del></td>
+</tr>
+</tbody>
+</table>
+<del> </del></li>
+</ul>
+</ul>
+<del> </del>
+<ul>
+	<li><del><strong>12 July 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Junior Derby</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Grangemouth Sports Complex <i>2:30pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Fierce Valley Roller Cubs Intraleague</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/1432948633642196/?ref=5</del>
+<del> Tickets: On Door Only</del></td>
+</tr>
+</tbody>
+</table>
+<del> </del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Intraleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>ARC Health and Fitness, Glasgow <i>12:00pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Glasgow Home Teams: Bout 2</del></td>
+</tr>
+<tr>
+<td><del>Event: http://glasgowrollerderby.com/content/home-teams-season-5-bout-2</del>
+<del> Tickets: On Door Only?</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>13 July 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Double Header</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Dundee International Sports Centre <i>12:30pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>DRG Silvery Tayzers v Roller Derby Leicester</del></td>
+</tr>
+<tr>
+<td><del>DRG Rising Stars v Durham Roller Derby</del></td>
+</tr>
+<tr>
+<td><del>Event: http://dundeerollergirls.com/bouts/</del>
+<del> Tickets: http://www.brownpapertickets.com/event/742999</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>20 July 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Co-ed Derby</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Grangemouth Sports Complex <i>2:00pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Bairn City Belter Skelpers v Capital City "Mixed Team"</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/683952508349633/?ref=5</del>
+<del> Tickets: On Door?</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>26 July 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Jack Kane Sport Centre <i>12:30pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Voodoo Roller Dollies v Preston Roller Girls</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/290841551085852/?ref=22</del>
+<del> Tickets: https://www.eventbrite.co.uk/e/blockey-horror-skatey-show-tickets-11314085735</del></td>
+</tr>
+</tbody>
+</table>
+<del> </del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>The Beach Leisure Centre, Aberdeen <i>12:30pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Granite City Roller Girls' Northern Fights v Fierce Valley Roller Girls' Parma Violents</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/860541787306978/?ref=5</del>
+<del> Tickets: Free Entry</del></td>
+</tr>
+</tbody>
+</table>
+<del> </del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Intraleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Dundee International Sports Centre, Dundee <i>12:30pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Dundee Roller Girls Home Teams 3</del></td>
+</tr>
+<tr>
+<td><del>Event:</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><strong>2 August 2014</strong>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>International</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Meadowbank Stadium, Edinburgh <i>2:00pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Auld Reekie Roller Girls' Cannon Belles v Dirty River Roller Grrrls</del></td>
+</tr>
+<tr>
+<td><del>Event: http://arrg.co.uk/events/event/fringe-2014-cannon-belles-vs-tbc/</del>
+<del> Tickets: Edinburgh Fringe Ticket Office</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>9 August 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Meadowbank Stadium, Edinburgh <i>2:00pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Auld Reekie Roller Girls' Twisted Thistles v London Roller Girls' Brawl Saints</del></td>
+</tr>
+<tr>
+<td><del>Event: http://arrg.co.uk/events/event/fringe-2014-twisted-thistles-vs-london-roller-girls-brawl-saints/</del>
+<del> Tickets: Edinburgh Fringe Ticket Office</del></td>
+</tr>
+</tbody>
+</table>
+<del> </del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Double header</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Dundee International Sports Centre, Dundee <i>12:30pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Dundee Roller Girls Silvery Tayzers v Bruising Banditas Roller Derby</del>
+<del> DRG Rising Stars v "Team White"</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/1443920842550967/</del>
+<del> Tickets: See above</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>16 August 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>ARC Health and Fitness, Glasgow Caledonian <i>12:30pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Team Scotland Roller Derby v "HOT or WOT"</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/1442529002679101/?ref=5</del>
+<del> Tickets: http://www.brownpapertickets.com/event/798980</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>23 August 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Intraleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Dundee International Sports Complex, Dundee <i>12:00pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Dundee Roller Girls Home Team Final</del></td>
+</tr>
+<tr>
+<td><del>Event:</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+<del> </del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Double Header</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>ARC Health and Fitness, Glasgow Caledonian <i>11:30am</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Mean City Roller Derby v Teeside Skate Invaders</del>
+<del> Glasgow Roller Derby's Cannie Gingers v Fierce Valley Roller Girls' Parma Violents</del></td>
+</tr>
+<tr>
+<td><del>Event: (8-bit Brawl)</del>
+<del> Tickets: meancity.eventbrite.co.uk</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>30 August 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Intraleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Beach Leisure Centre, Aberdeen <i>2:00pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Granite City Roller Girls' Northern Fights v Roller Derby Bedfordshire</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/1538444656376416/?ref=5</del>
+<del> Tickets: Free!</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>6 September 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Intraleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>ARC Health and Fitness, Glasgow <i>12:00pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Glasgow Roller Derby Home Teams 3</del></td>
+</tr>
+<tr>
+<td><del>Event:</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+<del> </del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Grangemouth Sports Centre, Grangemouth 3<i>:30pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Fierce Valley Roller Girls v Dundee Roller Girls</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/1515534441994379/?ref=5</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>13 September 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Arc Health and Fitness, Glasgow <i>12:30pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Glasgow Roller Derby's Irn Bruisers v Middlesborough Milk Rollers</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/624437731002645/?ref=22</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>27 September 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Arc Health and Fitness, Glasgow <i>2:00pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Glasgow Roller Derby's Maiden Grrders v London Rollergirls' Batter C Power</del></td>
+</tr>
+<tr>
+<td><del>Event:</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+<del> </del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Meadowbank Stadium, Edinburgh <i>2:00pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Auld Reekie Roller Girls' Cannon Belles v Harbour Girls Hamburg</del></td>
+</tr>
+<tr>
+<td><del>Event: http://arrg.co.uk/events/event/cannon-belles-vs-harbor-girls-hamburg/</del>
+<del> Tickets: http://www.brownpapertickets.com/event/643612</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>4 October 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Double Header</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>ARC, Glasgow Caledonian University <i>4:00pm?</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Mean City Roller Derby v Wirral Men's Pack Animals , Glasgow Roller Derby's Canny Gingers v Bairn City Rollers' Central Belters</del></td>
+</tr>
+<tr>
+<td><del>Event:</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><strong>18 October 2014</strong>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Sur5al Tournament</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>The Peak, Stirling <i>4:00pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>12 Sur5al teams from Auld Reekie, Bairn City, Blackpool, Dundee, Fierce Valley, Furness, Glasgow, New Town, "Team Crazylegs", Voodoo.</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/302622106565291</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>25 October 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>ARC, Glasgow Caledonian <i>12:30pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Glasgow Roller Derby's Maiden Grrders v Dundee Roller Girls' Silvery Tayzers</del></td>
+</tr>
+<tr>
+<td><del>Event: http://glasgowrollerderby.com/content/grds-maiden-grrders-vs-dundee-roller-girls</del>
+<del> Tickets: http://glasgowrollerderby.com/content/grds-maiden-grrders-v-dundee-silvery-tayzers</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>1 November 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><b>Double Header</b></del></td>
+</tr>
+<tr>
+<td><del><strong>ARC, Glasgow Caledonian University 12<i>pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Hades Roller Boys v Southern Discomfort B (Mild Discomfort)Voodoo Roller Dollies v Dundee Roller Girls B (Rising Stars)</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/798992813473603/?ref=5</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Meadowbank Stadium, Edinburgh 2<i>pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Auld Reekie Roller Girls' Twisted Thistles v Windsor Roller Girls' Who Dares Windsor</del></td>
+</tr>
+<tr>
+<td><del>Event: https://www.facebook.com/events/15706037819834880/</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>8 November 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>ARC, Glasgow Caledonian University <i>??pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Glasgow Roller Derby's Irn Bruisers v Dublin Roller Derby</del></td>
+</tr>
+<tr>
+<td><del>Event:</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><del><strong>15 November 2014</strong></del>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Interleague</strong></del></td>
+</tr>
+<tr>
+<td><del><strong>Grangemouth Sports Complex? <i>??pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Bairn City Roller's Central Belters v Dundee Roller Girls' Rising Stars (B)</del></td>
+</tr>
+<tr>
+<td><del>Event:</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><strong>22 November 2014</strong>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>Intraleague</strong></td>
+</tr>
+<tr>
+<td><strong>ARC, Glasgow Caledonian University <i>??pm</i></strong></td>
+</tr>
+<tr>
+<td>Glasgow Home Teams Final</td>
+</tr>
+<tr>
+<td>Event: https://www.facebook.com/events/808918889137444/?ref=5
+Tickets:</td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><strong>29 November 2014</strong>
+<table border="1">
+<tbody>
+<tr>
+<td><del><strong>Double Header </strong></del><strong>CANCELLED</strong></td>
+</tr>
+<tr>
+<td><del><strong>Jack Kane Centre, Edinburgh <i>12:30pm</i></strong></del></td>
+</tr>
+<tr>
+<td><del>Voodoo Roller Dollies and Hades Roller Boys v ??</del></td>
+</tr>
+<tr>
+<td><del>Event:https://www.facebook.com/events/1459699440953512/?ref=5</del>
+<del> Tickets:</del></td>
+</tr>
+</tbody>
+</table>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>Double Header</strong></td>
+</tr>
+<tr>
+<td><strong>Meadowbank Stadium, Edinburgh <i>12:30pm</i></strong></td>
+</tr>
+<tr>
+<td>Capital City Roller Derby v Bristol, Auld Reekie v Crime City Rollers</td>
+</tr>
+<tr>
+<td>Event: https://www.facebook.com/events/331510057008876/
+Tickets:</td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><strong>6 December 2014</strong>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>Double Header</strong></td>
+</tr>
+<tr>
+<td><strong>Meadowbank Stadium, Edinburgh <i>12:00 midday</i></strong></td>
+</tr>
+<tr>
+<td>Lothian Derby Dolls &amp; Friends. Over 40s v Under 25s followed by Two mixed teams of 26-39 yearolds.</td>
+</tr>
+<tr>
+<td>Event: https://www.facebook.com/events/1484659011813489/
+Tickets:</td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><strong>13 December 2014</strong>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>Double Header, Intraleague, Junior Derby</strong></td>
+</tr>
+<tr>
+<td><strong>Grangemouth Sports Centre, Grangemouth, 3pm</strong></td>
+</tr>
+<tr>
+<td>Fierce Valley Roller Girls Intraleague, Fierce Valley Roller Cubs Intraleague</td>
+</tr>
+<tr>
+<td>Event: https://www.facebook.com/events/732876330125845/
+Tickets:</td>
+</tr>
+</tbody>
+</table>
+</li>
+	<li><strong>21-22 February 2015</strong>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>Tournament</strong></td>
+</tr>
+<tr>
+<td><strong>Jack Kane Centre, Edinburgh <i>12:30pm</i></strong></td>
+</tr>
+<tr>
+<td>Voodoo Roller Dollies, Bairn City Rollers' Central Belters, Lothian Derby Dolls, Dundee Roller Girls' Rising Stars, "Granite City Roller Girls B", New Town Roller Girls, Glasgow Roller Derby' Cannie Gingers</td>
+</tr>
+<tr>
+<td>Event:https://www.facebook.com/events/144431299060564/
+Tickets:</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></body></html>

@@ -1,0 +1,28 @@
+<html><body><a href="http://scottishrollerderbyblog.com/2014/01/1170672_10201592536112805_723032715_n.jpg"><img src="http://scottishrollerderbyblog.com/2014/01/1170672_10201592536112805_723032715_n.jpg" alt="ARRG V Stockholm-Photography by Thomas Mathieson" width="614" height="377" class="size-full wp-image-3146"></a> ARRG V Stockholm-Photography by Thomas Mathieson
+
+Next up to look back at 2013 for Auld Reekie Roller Girls, is Twisted Thistles captain, Ciderella.
+
+<strong>Auld Reekie's Twisted Thistles turned in a very strong season, skated across the pond at ECDX, won against some old rivals and lost only once to LRG's Brawl Saints.What do you think have been the team's highlights from such a busy year?</strong> 
+Well actually we lost twice; the other game was against Gotham's B team, the Wall Street Traitors. But going across to the USA for the first time, that was a high point. The whole experience was amazing, not just whilst we were there, but the run up to it too. The whole league was behind us, helping fund raise, train and encouraging us to do our best.
+
+<strong>Picking up on a couple of the highlight bouts, did the Thistles performance at ECDX surpass your expectations?...and just what is it about big competitions that pull out the best in ARRG as a team?</strong> 
+I don't think it surpassed my expectations, only because I really expected a lot! Having trained so hard all year I knew what the team was capable of. Though of course there is also that fear that it wont go to plan and something will go wrong.  So I was pretty relieved when it all worked out and we played a very strong weekend. 
+We do love a tournament though, it really gives you a chance to bond and of course with several games in close succession you really get into the zone. We've done a lot of tournament specific research and preparation over the years so we can really get the most out of it. Crazylegs introduced a lot of good ideas in regards to this and they really paid off (I can't tell you because it's all secrets ;) ).  
+
+<strong>ARRG have a long history with Bear City, and despite some exciting and close fought bouts. have never managed to beat the Berlin side until this year.What did it mean to the team to finally best the Bombshells?</strong> 
+Having skated in all of those games myself, it was an exciting time to finally beat them with a good points margin. There is always one strong team you want to get a win on and they were one of them. Stockholm, who we beat during our festival game, was another.
+I think the team was chuffed with the whole weekend; I know we did not beat the Brawl Saints, but we came pretty darned close and I know we can do it next time. 
+
+<strong>WFTDA's November 2013 Rankings have LRG, ARRG and GRD as the top placed European teams.What does the ranking mean to ARRG and more broadly to European Derby? </strong>
+The ranking for us was great and had been one of our WFTDA team goals for 2013, but more specifically it meant that we got into division two (as did Glasgow). I think it shows that geographical stronghold that the US has over derby is shifting and European teams are realising that they are more than capable of performing well within the WFTDA ranking system. I think that during this year and 2015 we will see more and more European teams enter the WFTDA rankings and do well. Hopefully creating the situation where teams don't have to spend a large amount of money to go to the States and get the ranking the are capable of but are able to do it within Europe instead. 
+
+<strong>The Cannon Belles also had a very successful season, pulling in wins against HRD,MMR and Vienna, and also had their first overseas bout against Amsterdam.What have been the highlights of the year for the Belles?</strong>
+ I just think that this year we've seen the Belles really come together as a team. It is just as competitive for places on the Belles as it is the Thistles and they've had a much more settled and regular line up as well as Bullet regularly captaining them. The Vienna game was a very exciting match  but seeing them deal with their first overseas trip made me very pleased. I think they learned a hell of a lot and I look forward to seeing what they bring to the table next year. 
+
+<strong>On a more personal note, you became captain of the Twisted Thisles this year. How did that feel when you heard the news and what are you looking forward to bringing to the role?</strong> 
+I was of course, very happy to get captaincy this year. I've been vice for 3 seasons and I felt like I was really ready to step up to the plate. Thankfully the team thought the same! I'm looking forward to working with Stitches this year and continuing in the same competitive manner that we've always done. I would love to climb further up the WFTDA rankings and plague the team with more weird anecdotes and bizarre motivational speeches. 
+
+<strong>Lastly, 2013 will be a hard year to top, can you give us any hints about ARRG's plans for 2014?</strong> 
+Of course; our home season kicks off on the 2nd of Feb, all of the teams have had a reshuffle so i've seriously got no idea who will win this year, all of the teams looks amazing. 
+The Thistles are off to the States again to compete at the Big O, in Eugene, Portland in May, so watch this space for some more high level Scottish derby! 
+We are holding another fresh meat taster session for those who want to come and have a try at the sport sometime around March, so keep your eyes out if you want to get involved, no skates needed. And no doubt we will be hosting another sell-out School of ARRG-Knocks bootcamp at some point in the year. Lots to do!!!</body></html>

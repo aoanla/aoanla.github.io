@@ -1,0 +1,9 @@
+<html><body><p>Edinburgh's first Men's Roller Derby team are recruiting! On Sunday 21st April, <a title="Capital City Roller Derby on Facebook" href="https://www.facebook.com/#!/CapitalCityRollerDerby?fref=ts" target="_blank">Capital City Roller Derby</a> will hold their first Fresh Meat intake from 7pm - 9pm at <a title="Directions to The Crags Community Sports Centre, Edinburgh" href="http://www.bing.com/maps/default.aspx?v=2&amp;pc=FACEBK&amp;mid=8100&amp;rtp=adr.%7Epos.55.94428_-3.17951_The+Crags+Community+Sports+Centre_10+Bowmont+Place%2C+EH8+9RY+Edinburgh%2C+United+Kingdom&amp;cp=55.94428%7E-3.17951&amp;lvl=16&amp;sty=r&amp;rtop=0%7E0%7E0%7E&amp;mode=D&amp;FORM=FBKPL6&amp;mkt=en-GB" target="_blank">The Crags Community Sports Centre, Edinburgh</a>.
+
+CCRD are looking for skaters aged 18 and over of any level (novice to expert) who are dedicated, enthusiastic and want to be part of their awesome team.  They are also looking for potential referees or NSO's (Non-Skating Officials - both male or female) to register for their Fresh Meat program.
+
+Equipment for this session can be loaned by existing members of CCRD, but they ask that you please register beforehand to avoid disappointment. Email <a href="mailto:newskaters.ccrd@gmail.com">newskaters.ccrd@gmail.com</a> with your contact details and a member of CCRD will confirm your place.
+
+For further details, please see the<a title="CCRD's Fresh Meat Event on Facebook" href="https://www.facebook.com/events/280669135399833/" target="_blank"> CCRD's Fresh Meat Event on Facebook</a>.
+
+<a href="http://scottishrollerderbyblog.com/2013/03/capitalcity-freshmeat-flyer-blue.png"><img class="size-full wp-image-2374" alt="CCRD Fresh Meat Poster - image courtesy of Tequila Jammer" src="http://scottishrollerderbyblog.com/2013/03/capitalcity-freshmeat-flyer-blue.png" width="614" height="799"></a> CCRD Fresh Meat Poster - image courtesy of Tequila Jammer</p></body></html>

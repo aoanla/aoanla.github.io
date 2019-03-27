@@ -1,0 +1,76 @@
+<html><body><p>With less than two weeks to go before <strong><a href="http://www.euro-clash.com">EuroClash</a></strong> - <strong><a href="http://www.newcastlerollergirls.co.uk/">Newcastle Roller Girls</a></strong>' first International Tournament - we're also now just two interviews away from covering all of the attendees.
+
+This interview is a particularly special one for us, though, as we're covering the second National Team attending EuroClash - <strong><a href="https://www.facebook.com/Team-Scotland-Roller-Derby-235701999922927/">Team Scotland Roller Derby</a></strong>.
+
+The current Team Scotland has only played publicly in two events: The Road to TBC in Cardiff last year (placing 6th); and against Team Belgium in February. Neither of those events featured the final roster of skaters, however: EuroClash will be the first public appearance of the Final 20 in competition.
+At EuroClash, Team Scotland will be competing against Team Ireland, who they lost to (in a very tough game for both teams) in Cardiff. This time around, with more training, and the final 20 selection, TS will be hoping to change the result.
+The Team Ireland/ Team Scotland bout at EuroClash is a National Teams Event leading up to the <strong><a href="http://www.rollerderbyworldcup.com/">Roller Derby World Cup</a></strong> 2018 in Trafford, Greater Manchester, hosted by Rainy City Roller Derby.
+
+<img class=" size-full wp-image-13779 aligncenter" src="/2017/01/scotland.png" alt="scotland" width="200" height="200">
+
+In order to properly represent Team Scotland, we talked to Crazylegs - the sole three-times member of the Team Scotland roster, and Malin Landsborough - one of the skaters new to the team this time around - about all things Team Scotland and EuroClash.
+
+<strong>Team Scotland has been at both previous World Cups - placing 11th the first time, and around the same place the second (slightly underranked each time). The Scottish spirit has always been strong - but how has the experience of the National Team changed (if it has) between versions?</strong>
+
+Crazylegs: It’s definitely changed a lot from World Cup to World Cup; I'd like to say the uniforms have been getting better, but we went from the unfortunate dresses of 2011, to the giant name misprints in 2014, and our training shirts for 2017 have been causing all sorts of jammer body part entrapment issues with the loose arm holes. Let's hope for a successful 2018 squad uniform - we are wide open for sponsorship if anyone is up for a challenge!
+
+I guess for Toronto in 2011, everything was an unknown - I kept a proper daily diary during my 2011 World Cup journey and I read it back the other day; mind blowing. We knew absolutely nothing! It was the first time any of us had been part of such a big tournament structure and outside of Europe. For a lot of skaters it was their first time skating outside of Scotland. We were excited by every single thing - every shout out, every freebie, the school buses, every time someone asked us to sign a programme. Our wee Scotch corner of supporters made us cry, it was so cool to see people travel to far to come and cheer. I remember being totally shocked that they came!
+It happened again in Dallas, with our amazing support from home, and by 2014 we knew much more about setting expectations with skaters and planning and organising beforehand so it was a bit of a calmer experience, but still, playing National teams is always going to be a bit of an unknown because we don’t tend to see them regularly play outside of WC tournaments, and, coupled with shorter qualifier games, and a last minute changing schedule, it’s definitely a different kind of challenge.
+
+This time, I think we’re focusing more on heads-down regular team training just now, we started sooner and that will hopefully give us more time to build on skills and tactics as a team and will translate into a more consistent level of play for Manchester. The team is looking really strong with a load of potential and I’m all fired up for my third World Cup!
+
+<strong>This iteration of Team Scotland's first public outing was at The Road to TBC, long before the selection happened. Despite the early point in TS' training, the team placed pretty well, although the close bout against Spain was unlucky for your resulting placement. What were the high points for you at the tournament, and what did you learn from it?</strong>
+
+C: It was great! I think the best thing that any team can do to forge fast bonds and get to know each other really well is to travel together and play in a tournament, so for that reason it was a huge success for our training squad, we have a team of characters and they are all lovely. We got to know each other better, learned how we each react to nerves, pressure and being away from our usual team environments.
+
+It was challenging because as a training squad of 30, the management selected teams by picking from a hat, and we also had skaters playing in multiple positions to test out strengths, so we really had to approach it as a training opportunity, which can be difficult in a public tournament, but I think we managed beautifully and the whole team vibe in the games was really positive and focused.
+
+A few of the team got to learn just how bad I am at navigating Google Maps, yet how amazing I am at summoning random taxis to resolve emergency lost-in-Wales situations.
+
+Malin: Road to TBC was a great opportunity for the team to skate together early on in the TS training, and because of this (still being the top 30) we couldn’t all skate in it. But as one of those whose name unfortunately didn’t come up for it, I still truly enjoyed watching it from the side line.
+
+I feel the high point of this tournament was really that it brought us together as a team! It allowed us the chance to really get to know each other in a competitive setting early on in our training. Plus the performance that Scotland put out was fantastic to see – too many close games for my wee heart to take. It did also help us identify our training focuses in moving forward.
+
+<strong>One striking thing about this Team Scotland selection is the continuing increase in the proportion of Dundee (and Granite City) skaters in the 20. The 2011 TS was almost entirely Auld Reekie and Glasgow, and now all 4 teams are much more equally represented. How does it feel [Malin] to be part of this trend, and what do you [both] think it says about the development of roller derby in Scotland?
+</strong>
+C: I think this is a really important question. It's great to see a broader spread of skaters representing from across the teams in Scotland, it's kind of shaping up to look how it should and I think this is reflected in a few other countries this time around. Having wider representation means a more extensive set of experiences to draw from on the team. I'd love to see that trend continue and see competition in Scotland being pushed year on year across all competitive teams, so that we collectively drive the level of play much higher for the athletes here who aspire to that, and want to find the hardest challenges without always having to travel so far.
+
+I want to help us build a Team Scotland that the strongest eligible players in our sport are all really keen to be part of, and we can enable that with smart planning; aligning training and game commitments, creating clear training and rest cycles and by working to understand the sanctioned play demands on the skaters teams taking part in WFTDA Play Offs or British Champs - all of which happens in tandem with the National team training. Having that understanding of the priorities of the leagues and teams representing on Team Scotland can ensure that we get the best out of our athletes. This will ensure the continued growth of our sport in National and local play and this is really important as we move forward.
+
+M: It’s a fantastic feeling to be part of such an increase of Northern skaters making the TS cut: we at Dundee have been putting so much into our training the past couple of years, so to make it to this point just cements to us that it is all worth it. For so many of us to make the training squad was such an incredible achievement, especially looking back to the last selection where we at Dundee only had wee Milky representing us, words couldn’t even describe the feeling finding out such a high percent of us made the top 20! This feeling is only heightened by the response we received when the selection was made public, the support we feel behind us is incredible.
+
+It is incredible to see the development in Scottish Roller Derby over the past few years! The support we have received from the larger Scottish leagues has been inspiring and has allowed us to level up (and gain WFTDA apprenticeship). Passing on knowledge and camaraderie throughout Scottish derby has brought all levels of leagues together; it’s exciting to see how all the Scottish teams are moving forward.
+
+<strong>This interview is partly to promote the EuroClash Tournament in Newcastle. Speaking of that, Team Scotland will be attending to compete with Ireland again, who you last encountered at Road to TBC. How are you preparing for the rematch, and what do you hope to achieve this time?</strong>
+
+C: Team Ireland is such a good, solid team to play, we never seem to get pitched against them in WC tournaments, so it’s great to play them outside of that. There was a lot of positive feedback from within our team about that game – we felt like we had some really strong moments. It was one of those ‘if only we’d had 20 more minutes’ games! It will be really interesting to play again so soon and I hope we can better our score differential.
+
+I feel like Team Scotland is hitting the ground running having just been given news of the final squad, so there really hasn’t been much time to prepare for this one - but we have been training every month for the last few months and we have a lot of trust in each other. A lot of the Team Scotland skaters are playing in 2 or 3 of our own league games in the tournament, so we’ll be nice and warmed up for the Ireland game.
+
+M: Yes, when we played at Road to TBC it was a close, hard fought game on both sides. As a league we’re continuing with our training focuses and gelling as a team on track, so we can go into this rematch as a united front. This is another step on our road to Greater Manchester, so if we can use this opportunity to put everything we’ve been training into practice, it’ll be a success to us!
+
+I love a rematch and can’t wait to meet the Team Ireland squad on track.
+
+<strong>And when you're not on skates, what teams or games are you most looking forward to catching?
+</strong>
+C: I'm really looking forward to seeing Paris play and also Tiger Bay - I've not seen either of those teams play for a wee while, and both are usually really good to watch. Auld Reekie are playing Paris in April, so it's always good to get a wee spy on them beforehand. I'll be playing with Auld Reekie against MMR, Berlin and the new Leeds team at EuroClash, and I think each of those games will offer a really good and potentially very different kind of challenge.
+
+M: It’ll be great to see all the talent on show throughout the weekend, but I have to say I’m most excited to be there to support our pals at ARRG through their games!!
+
+<strong>What's next for Team Scotland on the road to Greater Manchester?</strong>
+
+C: There will be lots of scrimmage and game opportunities set up before the WC I'm sure - we've just upped our training to twice monthly, and our management are looking about for opportunities to help us train against the toughest teams. After Euro Clash we'll probably know more about team positions and move into a more focused training cycle. I'd love to play some more of the European teams in preparation, because we can get to them fairly easily. We'll also most definitely be working on our uniform game.
+
+M: I think for Team Scotland moving forward will be for us to settle into our positions within the team and understand how we all work together, just like any newly formed team. It’s great to see how we’ve improved from the first selection to the final 20 and so I’m excited to see this carry on.
+
+Also anticipating a busy period of fundraising leading up to Greater Manchester.
+
+<strong>And, given the performance of Scotland in the last two World Cups - and the likely even greater scope of the 2018 Roller Derby World Cup in Greater Manchester - how are you hoping that Scotland will do third time around?
+</strong>
+C: Well obviously, we want to win it. Falling somewhere above USA, Australia and Team England would be fab :-)
+
+M: If we can improve on our position from the previous World Cups that would be fantastic, but this is a huge opportunity to bring back experience and knowledge from higher level roller derby, which can only benefit Scottish Roller Derby as a whole. EXCITED!!!
+
+</p><hr>
+
+EuroClash will be held from the <strong>25th</strong> to the <strong>26th</strong> <strong>March</strong> at the <strong>Walker Activity Dome</strong>, Newcastle. Ticket available here:<strong><a href="https://www.euro-clash.com/tickets">https://www.euro-clash.com/tickets</a></strong> , and on the door.</body></html>

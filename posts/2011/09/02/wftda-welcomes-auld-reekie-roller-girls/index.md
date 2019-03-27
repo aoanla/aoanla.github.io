@@ -1,0 +1,2 @@
+<html><body><p>It's official,the <a href="http://wftda.com/news/new-members-september-2011">Womens Flat Track Derby Association</a> has welcomed <a href="http://www.arrg.co.uk/">Auld Reekie Roller Girls</a> as a member.Making ARRG Scotland's first full WFTDA member and only the second league in the UK after The <a href="http://www.londonrollergirls.com/">London Roller Girls</a> to achieve such a thing.
+Congratulations to all at ARRG,in particular to those who worked so hard on putting this into place,this is great news for Scottish Derby as a whole.</p></body></html>

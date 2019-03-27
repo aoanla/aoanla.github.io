@@ -1,0 +1,30 @@
+<html><body><p>There's a tendency, especially outside the USA, to use "roller derby" as a shorthand for "WFTDA-rules roller derby". However, not only has roller derby existed long before WFTDA, or the 2001 revival that lead to its formation in 2005-2006, but it has had, and continues to have, multiple representations.
+
+Apart from banked-track derby (which differs from WFTDA in more than just the banked track itself), and RollerGame Japan (a highly kinetic, Japanese interpretation of roller derby which has been intermittently popular there since the early 90s), there are two significant flat-track derby interpretations beyond the WFTDA rules that dominate the sport currently.
+
+One of them, USARS, is the ruleset sponsored by the USA's Roller Sports body. It has just released its 2014 rules revision, and down in Birmingham the Crash Test Brummies have tested it out in the first ever USARS scrim in Europe.
+
+The other is the Modern Athletic Derby Endeavour (MADE) rules set. MADE is a project started by skaters who wanted to play a version of derby closer to the 60s/70s derby of Jerry Seltzer's era than the WFTDA rules at the time (2008 to 2009). MADE has rules for both banked and flat-track derby and the MADE organisation allows male, female and co-ed registrations. As USARS is also consciously influenced by earlier versions of derby, this means that MADE, USARS and 70s derby have quite a lot in common.
+
+In particular, the role of Pivot, and the definition of Lead Jammer, are more dynamic in the three rulesets mentioned, compared to WFTDA rules. Once the opposing team has Lead Jammer, the Pivot is eligible to break out to become Active Scorer, replacing the Jammer for that jam; this also limits early power jams, as the Pivot can replace their Jammer as Scorer at any time before that Jammer scores their first point. In addition, "Lead Jammer" status is owned by the Jammer currently in the Lead, not the first Jammer to break through the pack; catching up with and passing the first jammer out to immediately call the jam is a viable tactic (even returning from a power jam).
+
+This, and other rules differences across the set, make MADE (and USARS) a faster-paced game than WFTDA skaters might be used to. (Of course, pace is not everything in a game by any means, but MADE aficionados in the USA are certainly vocal about their versions' spectator-friendly thrills.) The MADE and USARS rules are also considerably shorter than the point-by-point accuracy of the WFTDA ruleset - MADE2014 comes to 6, and USARS2014 to 14 pages (including ref signals), compared to the 50-60 page lengths of recent WFTDA rules.
+
+<a href="http://scottishrollerderbyblog.com/2014/02/img_0097-2-copy.jpg"><img class="size-large wp-image-3273" alt="Pivots on scoring passes: not something you see in WFTDA-derby ;) (Photo: Laura MacDonald)" src="http://scottishrollerderbyblog.com/2014/02/img_0097-2-copy.jpg?w=614" width="614" height="409"></a> Pivots on scoring passes: not something you see in WFTDA-derby ;) (Photo: Laura MacDonald)
+
+The Scottish connection comes into this via Bairn City Rollers' Liz Thrilla, who experienced MADE firsthand on her return to Kansas at the tail end of 2013. Enthused by the pacier feel of MADE derby, she decided to give Scotland a taste of the rules, in the interest of promoting a different side to the sport. The MADE In Scotland group is the result of her efforts, and is hoped to result not just in an all-Scottish coed exhibition bout at the end of the year, but also an International bout in 2015.
+
+These things start smaller, however, so MADE In Scotland has arranged a series of taster/training sessions to allow the WFTDA-rules community to experience the different ruleset and form their own opinions.
+
+Unavoidable clashes with Fierce Valley Roller Girls scrims and Power of Scotland training limited attendance to the first session, held in the Mariners' Centre, Camelon on Saturday 8th. Nevertheless, enough interested parties attended to allow demonstration pack work and drills within the MADE ruleset.
+
+With the slightly larger MADE track, and the faster pace of the game, all of the skating attendees found the experience more tiring than they were used to, however they also uniformly seemed enthused by the experience. Raven, of Into The Nitemare, was enthused enough to promise to bring the entire Voodoo Roller Dollies to the next session, and the the doodle poll to arrange the date for that has been filled in by several people who did not attend the first session. (At the time of writing, the most popular date seems likely to be the 1st of March).
+
+This correspondent certainly found the pace of the demonstration to be notably higher than that in most WFTDA bouts; however, it should be borne in mind that this was not a full scrim. The full test of how the rules play out will come with a higher turn-out, allowing a fuller experience of a game. That said, I can certainly understand why MADE-fans love their version of the game as much as they appear to.
+Of course, we will continue to follow and report on this exciting project as it progresses.
+
+<a href="http://scottishrollerderbyblog.com/2014/02/img_0263-2-copy.jpg"><img class="size-large wp-image-3272" alt="The happy attendees of MADE In Scotland's inaugral session (Photo: Laura MacDonald)" src="http://scottishrollerderbyblog.com/2014/02/img_0263-2-copy.jpg?w=614" width="614" height="409"></a> The happy attendees of MADE In Scotland's inaugral session (Photo: Laura MacDonald)
+
+The MADE In Scotland Project has a <a href="https://www.facebook.com/ScottishMADE">Facebook Page</a> and a <a href="https://twitter.com/Scottish_MADE">Twitter Feed</a>. The Doodle Poll for the next taster/practice session is here: <a href="http://doodle.com/7vgbtgck8ix3na2h">http://doodle.com/7vgbtgck8ix3na2h</a>
+
+The MADE organisation has a <a href="http://www.skatemade.org/">website</a>, where the 6 page rules document can be downloaded, and an official magazine, <a href="http://viciouscirclemag.com/">Vicious Circle</a>.</p></body></html>
