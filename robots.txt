@@ -1,4 +1,4 @@
-Sitemap: https://scottishrollerderbyblog.com/sitemapindex.xml
+Sitemap: https://www.scottishrollerderbyblog.com/sitemapindex.xml
 
 User-Agent: *
-Host: scottishrollerderbyblog.com
+Host: www.scottishrollerderbyblog.com
