@@ -4,7 +4,7 @@ Team Australia were something of a dark horse coming into the 2011 World Cup, du
 
 G-Banger took the time to answer some questions we had about the Team's return to the World Cup for another run at the title...
 
-<a href="/2014/09/teamaustralia.jpg"><img class="size-full wp-image-3798" src="http://scottishrollerderbyblog.com/2014/09/teamaustralia.jpg" alt="Team Australia logo (Ghost Points)" width="660" height="660"></a> Team Australia logo (Ghost Points)
+<a href="/2014/09/teamaustralia.jpg"><img class="size-full wp-image-3798" src="http://www.scottishrollerderbyblog.com/2014/09/teamaustralia.jpg" alt="Team Australia logo (Ghost Points)" width="660" height="660"></a> Team Australia logo (Ghost Points)
 
 </p><div>
 <div><strong>On the topic of team selection - Team <span class="il">Australia</span> is strongly predominantly composed of skaters from <span class="il">Australian</span> leagues (with only a single skater from the USA). I believe that was also the case in 2011. Can you tell me a bit about how your team selection process worked (including getting Coach positions etc)?</strong></div>

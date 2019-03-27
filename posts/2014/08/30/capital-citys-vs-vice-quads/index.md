@@ -4,4 +4,4 @@ Capital City have teamed up with Auld Reekie Roller Girls to bring you an epic o
 
 The event will take place on the 29<sup>th</sup> of November at Meadowbank Stadium, for more information check out the <a title="Capital City vs Vice Quads" href="https://www.facebook.com/events/331510057008876/">event page on facebook</a>
 
-<a href="https://www.facebook.com/events/331510057008876/"><img class="alignnone wp-image-3646 size-full" src="http://scottishrollerderbyblog.com/2014/08/ccrd-v.jpg" alt="ccrd-v" width="851" height="315"></a></p></body></html>
+<a href="https://www.facebook.com/events/331510057008876/"><img class="alignnone wp-image-3646 size-full" src="http://www.scottishrollerderbyblog.com/2014/08/ccrd-v.jpg" alt="ccrd-v" width="851" height="315"></a></p></body></html>

@@ -4,7 +4,7 @@ A plethora of prospective logos were submitted for the contest to help brand Pow
 
 All of the entries were put to the vote and two have emerged as clear favourites, with the margin separating them closer than a sudden-death jam between Gotham and Rose City.
 
-<a href="/2015/06/1899339_449090048556800_2001698922_o.jpg"><img class="wp-image-4723 size-medium" src="https://scottishrollerderbyblog.com/2015/06/1899339_449090048556800_2001698922_o.jpg?w=300" alt="1899339_449090048556800_2001698922_o" width="300" height="300"></a> The current Power of Scotland logo
+<a href="/2015/06/1899339_449090048556800_2001698922_o.jpg"><img class="wp-image-4723 size-medium" src="https://www.scottishrollerderbyblog.com/2015/06/1899339_449090048556800_2001698922_o.jpg?w=300" alt="1899339_449090048556800_2001698922_o" width="300" height="300"></a> The current Power of Scotland logo
 
 In fact, they are so close that the PoS management team has decided to seek expert advice to help ensure Scotland has the perfect logo to rock the world in Calgary.
 

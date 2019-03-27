@@ -1,6 +1,6 @@
 <html><body><p>It's not just the Nasty Nessies that the Scottish Roller Derby Blog is following on a monthly basis. The Forth Valley's finest roller derby league, <a href="http://www.fvrg.co.uk">Fierce Valley Roller Girls</a>, is also providing us with a regular update on their progress. Forgoing the privilege of going first, Grizabelta has selected Max Attaxx (501) as the first interviewee, so, it's over to her:
 
-<a href="http://boutday.com/"><img class="size-full wp-image-486 " title="Skate out Max Attaxx (photo by Dave McAleavy)" src="http://scottishrollerderbyblog.com/2011/11/skate-out-picture.jpg" alt="" width="587" height="800"></a>
+<a href="http://boutday.com/"><img class="size-full wp-image-486 " title="Skate out Max Attaxx (photo by Dave McAleavy)" src="http://www.scottishrollerderbyblog.com/2011/11/skate-out-picture.jpg" alt="" width="587" height="800"></a>
 
 <span style="font-family:Arial, sans-serif;"><strong>Wh</strong></span><strong>at first attracted you to Roller Derby?</strong>
 

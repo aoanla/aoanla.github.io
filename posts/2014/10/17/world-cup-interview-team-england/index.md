@@ -1,6 +1,6 @@
 <html><body><a href="https://www.facebook.com/teamenglandrollerderby">Team England</a> nabbed third place in the 2011 <a href="http://rollerderbyworldcup.com">Blood and Thunder World Cup</a>. Lynn Huynh, also known as Shaolynn Scarlett, was originally rostered for the Team England 2011 team but unfortunately missed out by breaking her ankle. Now she is back and fighting fit for the World Cup in December!
 
-<a href="/2014/10/team-england.jpg"><img class="size-medium wp-image-4011" src="https://scottishrollerderbyblog.com/2014/10/team-england.jpg?w=300" alt="Team England logo" width="300" height="300"></a> Team England logo by Sally Felton
+<a href="/2014/10/team-england.jpg"><img class="size-medium wp-image-4011" src="https://www.scottishrollerderbyblog.com/2014/10/team-england.jpg?w=300" alt="Team England logo" width="300" height="300"></a> Team England logo by Sally Felton
 
 <strong>Can you tell me a bit about how your team selection process worked?</strong>
 

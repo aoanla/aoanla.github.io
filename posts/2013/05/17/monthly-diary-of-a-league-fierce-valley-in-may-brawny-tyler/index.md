@@ -3,7 +3,7 @@
 <div></div>
 <div>
 
-<a href="http://scottishrollerderbyblog.com/2013/05/facebook_72416.jpg"><img class="size-full wp-image-2617" alt="Brawny jamming v Preston , in FVRG's second public bout. (Photo: Claire &quot;ChaosFaerie&quot; Brunton/zenspirations photography)" src="http://scottishrollerderbyblog.com/2013/05/facebook_72416.jpg" width="480" height="720"></a> Brawny jamming v Preston , in FVRG's second public bout. (Photo: Claire "ChaosFaerie" Brunton/zenspirations photography)
+<a href="http://www.scottishrollerderbyblog.com/2013/05/facebook_72416.jpg"><img class="size-full wp-image-2617" alt="Brawny jamming v Preston , in FVRG's second public bout. (Photo: Claire &quot;ChaosFaerie&quot; Brunton/zenspirations photography)" src="http://www.scottishrollerderbyblog.com/2013/05/facebook_72416.jpg" width="480" height="720"></a> Brawny jamming v Preston , in FVRG's second public bout. (Photo: Claire "ChaosFaerie" Brunton/zenspirations photography)
 
 </div>
 <div>

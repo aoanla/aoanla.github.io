@@ -1,6 +1,6 @@
 <html><body><p>Whilst one of the prevailing narratives in Roller Derby is that the sport is the "fastest growing female sport in the world", it's worth noting that even when this was unarguably true, growth is always unevenly distributed. In order to keep growing, a league needs enough skaters to form good bouting team, in order to get those games which build visibility and retain ambitious players. If you're a smaller team, this can be challenging!
 
-<img class="aligncenter size-medium wp-image-24847" src="https://scottishrollerderbyblog.com/2017/10/doonhameunicorn.jpg?w=596" alt="Doonhameunicorn" width="298" height="300">
+<img class="aligncenter size-medium wp-image-24847" src="https://www.scottishrollerderbyblog.com/2017/10/doonhameunicorn.jpg?w=596" alt="Doonhameunicorn" width="298" height="300">
 
 Dumfriesshire's Doonhame Roller Derby have found that collaborating with other leagues is a profitable way to enable more derby, more of the time, and help grow both themselves and their collaborators.
 

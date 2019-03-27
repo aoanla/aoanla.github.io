@@ -1,6 +1,6 @@
 <html><body><p>Today brings another addition to our <strong><a href="http://mrdwc.com/">Men's Roller Derby World Cup</a></strong> series, in the form of <strong><a href="https://www.facebook.com/SwedishMensRollerDerby">Swedish Men's Roller Derby</a></strong>! We talk to Krutsson #61 about how they've grown since the last MRDWC and how they are preparing for Calgary.
 
-<img class="size-medium wp-image-7879 aligncenter" src="https://scottishrollerderbyblog.com/2016/06/sweden.jpg?w=280" alt="sweden" width="280" height="300">
+<img class="size-medium wp-image-7879 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/06/sweden.jpg?w=280" alt="sweden" width="280" height="300">
 
 In the 2014 Men's Roller Derby World Cup, Sweden had a fairly difficult group, placed with England, Netherlands and Argentina. While they won convincingly against Argentina, England defeated them as easily as they defeated almost everyone else in the tournament, and a hard-fought game against the Dutch ended in defeat. In the lower bracket of the tournament, the Swedes couldn't stand against the Finns, or the Belgians, ending up in 14th position on the table.
 

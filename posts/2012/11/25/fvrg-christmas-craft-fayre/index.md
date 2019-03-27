@@ -4,4 +4,4 @@ Their last event attracted a lot of interested in the local craft community, and
 
 More details can be found on the <a title="Craft Fayre Facebook Event" href="https://www.facebook.com/events/168848009906033/?ref=ts&amp;fref=ts" target="_blank">Facebook Event</a>.
 
-<a href="http://scottishrollerderbyblog.com/2012/11/poster-flat.jpg"><img class="size-full wp-image-1901" title="Craft Fayre poster" alt="Craft Fayre poster" src="http://scottishrollerderbyblog.com/2012/11/poster-flat.jpg" height="868" width="614"></a> Craft Fayre poster, designed by Claire Brunton</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2012/11/poster-flat.jpg"><img class="size-full wp-image-1901" title="Craft Fayre poster" alt="Craft Fayre poster" src="http://www.scottishrollerderbyblog.com/2012/11/poster-flat.jpg" height="868" width="614"></a> Craft Fayre poster, designed by Claire Brunton</p></body></html>

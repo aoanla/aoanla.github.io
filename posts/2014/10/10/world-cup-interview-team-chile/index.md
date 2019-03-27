@@ -1,7 +1,7 @@
 <html><body><p>We bring our coverage of the South American nations taking part in the <a href="http://rollerderbyworldcup.com/">Blood &amp; Thunder Roller Derby World Cup</a> to an end, with <a href="https://www.facebook.com/TeamChileRollerDerby?fref=ts">Team Chile</a>. Like Colombia, Chile are entering the competition for the first time.
 We talked to team spokesperson Endorfina, Metropolitan Roller Derby and Team Chile skater.
 
-<a href="/2014/09/logo-team-chile.png"><img class="size-full wp-image-3834" src="http://scottishrollerderbyblog.com/2014/09/logo-team-chile.png" alt="Team Chile Logo design by Tali and Chela Navaja" width="600" height="600"></a> Team Chile Logo design by Tali and Chela Navaja
+<a href="/2014/09/logo-team-chile.png"><img class="size-full wp-image-3834" src="http://www.scottishrollerderbyblog.com/2014/09/logo-team-chile.png" alt="Team Chile Logo design by Tali and Chela Navaja" width="600" height="600"></a> Team Chile Logo design by Tali and Chela Navaja
 
 
 <strong>How are the team preparing for the the World Cup?</strong>

@@ -1,6 +1,6 @@
 <html><body><p>A new Roller Derby magazine launches this month in the UK,we talk to one of the founders of Lead Jammer magazine,Vic 'Moxie McMurder'
 
-<a href="http://scottishrollerderbyblog.com/2012/02/andyvic.jpg"><img src="http://scottishrollerderbyblog.com/2012/02/andyvic.jpg" alt="" title="Andy&amp;Vic" width="614" height="460" class="aligncenter size-full wp-image-853"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/02/andyvic.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/02/andyvic.jpg" alt="" title="Andy&amp;Vic" width="614" height="460" class="aligncenter size-full wp-image-853"></a>
 
 <em>The founders of Lead Jammer Magazine,Andy and Vic,photograph by Vic 'Moxie McMurder'</em>
 

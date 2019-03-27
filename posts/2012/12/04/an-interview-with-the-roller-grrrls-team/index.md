@@ -2,7 +2,7 @@
 
 After the official launch of the Roller Grrrls Sketchbook at <a href="http://glasgowrollerderby.com/">Glasgow Roller Derby</a>'s Chaos on the Clyde tournament, Gary Erskine, Anna Malady and the rest of the team have had a very busy few months with promotion and touring the various comics events around the world. We caught up with them via email to talk about the project, derby, and comics in general...
 
-<a href="http://scottishrollerderbyblog.com/2012/12/04/an-interview-with-the-roller-grrrls-team/roller-grrrls_banner_reference/" rel="attachment wp-att-1948"><img class="size-medium wp-image-1948" alt="The Roller Grrrls Sketchbook: Available now!" src="http://scottishrollerderbyblog.com/2012/12/roller-grrrls_banner_reference.jpg?w=161" height="300" width="161"></a> The Roller Grrrls Sketchbook: Available now!
+<a href="http://www.scottishrollerderbyblog.com/2012/12/04/an-interview-with-the-roller-grrrls-team/roller-grrrls_banner_reference/" rel="attachment wp-att-1948"><img class="size-medium wp-image-1948" alt="The Roller Grrrls Sketchbook: Available now!" src="http://www.scottishrollerderbyblog.com/2012/12/roller-grrrls_banner_reference.jpg?w=161" height="300" width="161"></a> The Roller Grrrls Sketchbook: Available now!
 
 <strong>Gary, you've been doing line-art for comics for about 24 years now; since your start in Marvel + 2000AD, there's quite a lot of the "traditional" SF + superhero work in your back catalogue, but also less conventional work. Do you have a preference for a particular genre, and how do you (and the others) feel about the popular pigeon-holing of comics as “SF+capes”?</strong>
 
@@ -22,7 +22,7 @@ Gary and I then asked Yel to colour our project as Gary had worked with her in t
 
 [Anna] My first introduction to the whole world of comics was exiting a lift into the lobby of a convention hotel and seeing 4 stormtroopers explaining to 2 firemen how the imperial guard were stuck in the next lift and they needed out to do their guest appearance. The next morning Star Fox (in full costume) was complaining to the bewildered front desk staff that there was no hot water in her room and that afternoon there was a showdown between a squad of Stormtoopers and a bronze Dalek. I mean, how could you not love this scene?!
 
-<a href="http://scottishrollerderbyblog.com/2012/12/04/an-interview-with-the-roller-grrrls-team/rollergrrlssplace/" rel="attachment wp-att-1949"><img class="size-medium wp-image-1949" alt="Probably the most popularly distributed preview from Roller Grrrls." src="http://scottishrollerderbyblog.com/2012/12/rollergrrlssplace.jpg?w=193" height="300" width="193"></a> Probably the most popularly distributed preview from Roller Grrrls.
+<a href="http://www.scottishrollerderbyblog.com/2012/12/04/an-interview-with-the-roller-grrrls-team/rollergrrlssplace/" rel="attachment wp-att-1949"><img class="size-medium wp-image-1949" alt="Probably the most popularly distributed preview from Roller Grrrls." src="http://www.scottishrollerderbyblog.com/2012/12/rollergrrlssplace.jpg?w=193" height="300" width="193"></a> Probably the most popularly distributed preview from Roller Grrrls.
 
 <strong>There are some obvious life models for some of the Roller Grrrls character studies (especially for anyone who knows Glasgow Roller Derby's skaters and announcers), but the majority have no single origin. Roughly, how much of real personalities went into the comic as a whole (as opposed to the other influences, such as Helles Belles)?</strong>
 

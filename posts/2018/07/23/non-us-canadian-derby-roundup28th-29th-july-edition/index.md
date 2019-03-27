@@ -142,7 +142,7 @@ There's quite a bit of derby in the Pacific this weekend, with both the Open Sea
 </ul>
  
 
-<img class="aligncenter size-large wp-image-27110" src="https://scottishrollerderbyblog.com/2018/07/la_map10.png?w=1024" alt="LA_map" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27110" src="https://www.scottishrollerderbyblog.com/2018/07/la_map10.png?w=1024" alt="LA_map" width="1024" height="768">
 <h2>Latin America</h2>
 We think we've found all the roller derby in Latin America, this weekend, but there's always a higher chance of us missing things here. Please let us know if we have!
 This weekend, the action we know about is mostly in Argentina, with Metropolitan in Chile the only other action.
@@ -158,7 +158,7 @@ This weekend, the action we know about is mostly in Argentina, with Metropolitan
 	<li>Sun, <span style="color:#993300;"><strong>Santiago</strong></span>, Chile: Metropolitan Roller Derby host a "pichanga" (open scrimmage) to raise funds for their B team to attend the Chilean Torneo X (about which we have an article coming up this week). [<a href="https://www.facebook.com/events/1985591755065257/"><strong>EVENT</strong></a>]</li>
 	<li>Sun, <span style="color:#800000;"><strong>Bogotá</strong></span>, Colombia: Central Derby DC Roller Derby play Rock N Roller Queens as part of the 5th Torneo Distrital Bogotá [FTS][<a href="https://www.facebook.com/RockNRollerQueens/photos/a.1576104892673785.1073741826.1576104832673791/2166057983678470/?type=3"><strong>EVENT Flyer</strong></a>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27084" src="https://scottishrollerderbyblog.com/2018/07/sa_map2.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27084" src="https://www.scottishrollerderbyblog.com/2018/07/sa_map2.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 As well as the continuing Funskate events in Pretoria, across the other side of SA, Durban Derby continues to run great social events!
 <ul>

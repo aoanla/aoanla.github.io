@@ -1,4 +1,4 @@
-<html><body><p>As regular readers know, we've been regularly performing statistical analyses of Roller Derby for 2 years now. One of the first things we did was a <strong><a href="https://scottishrollerderbyblog.com/2014/12/20/roller-derby-international-rankings-2014/">comparison</a></strong> of the rankings obtained at the 2014 Blood and Thunder World Cup with the inferred actual strengths of the teams present (as determined from the scores they achieved against other teams in the contest). We also performed a similar analysis against the first Men's Roller Derby World Cup, also in 2014.
+<html><body><p>As regular readers know, we've been regularly performing statistical analyses of Roller Derby for 2 years now. One of the first things we did was a <strong><a href="https://www.scottishrollerderbyblog.com/2014/12/20/roller-derby-international-rankings-2014/">comparison</a></strong> of the rankings obtained at the 2014 Blood and Thunder World Cup with the inferred actual strengths of the teams present (as determined from the scores they achieved against other teams in the contest). We also performed a similar analysis against the first Men's Roller Derby World Cup, also in 2014.
 
 At the time, we noted that MRDWC 2014 did rather better than B&amp;TWC2014, but that it was also much easier to run a tournament with good "true" rankings if you had less teams present. The <strong><a href="https://www.cerge-ei.cz/pdf/wp/Wp252.pdf">more teams</a></strong> you have, the more important seeding and tournament structure is in determining how close your final rankings are to the true orderings of team strength.
 
@@ -10,7 +10,7 @@ So, how did they do?
 
 </p><hr>
 
-Although we no longer seriously use frequentist approaches to estimate team strength (as they're not capable of estimating the confidence range of the resulting estimates well, and have well-established deficiencies compared to Bayesian methods for these tasks), we will start with the (frequentist) Massey rankings for the teams, for comparison with the <strong><a href="https://scottishrollerderbyblog.com/2014/12/20/roller-derby-international-rankings-2014/">previous article</a></strong>.
+Although we no longer seriously use frequentist approaches to estimate team strength (as they're not capable of estimating the confidence range of the resulting estimates well, and have well-established deficiencies compared to Bayesian methods for these tasks), we will start with the (frequentist) Massey rankings for the teams, for comparison with the <strong><a href="https://www.scottishrollerderbyblog.com/2014/12/20/roller-derby-international-rankings-2014/">previous article</a></strong>.
 The table below shows Massey rankings (and calculated power) based on both Score Difference and Score Ratio, compared to the MRDWC official tournament placements. For both rankings, we've also calculated the rankings if you remove blowout bouts (defined here as bouts where the winner scored more than 10 times the loser), as blowouts particularly skew Ratio based rankings (as a single extra point scored by the loser can affect the ratio by a significant amount). We have <strong>bolded</strong> the teams where positions have changed, relative to the Official Ranking.
 <table style="height:655px;" width="732">
 <tbody>
@@ -154,7 +154,7 @@ Ranking</td>
 
 <hr>
 
-Since the previous World Cup article, we've developed the theory of our statistical approaches somewhat, and now use Bayesian inference techniques to estimate the underlying strength of teams. (For example, see our <strong><a href="https://scottishrollerderbyblog.com/2016/03/08/european-smackdown-the-statistics/">examination</a></strong> of the European Smackdown).
+Since the previous World Cup article, we've developed the theory of our statistical approaches somewhat, and now use Bayesian inference techniques to estimate the underlying strength of teams. (For example, see our <strong><a href="https://www.scottishrollerderbyblog.com/2016/03/08/european-smackdown-the-statistics/">examination</a></strong> of the European Smackdown).
 
 We took the full set of bouts from MRDWC 2016 and performed a Bayesian Monte-Carlo inference on them, to determine the estimated strengths of each team, relative to the top-ranked team, Team USA. As we are using Score Ratio here as our ranking mechanism, we also performed the same inference on the set of bouts with blowouts (&gt;1:10 ratio) removed.
 

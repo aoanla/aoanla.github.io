@@ -1,6 +1,6 @@
 <html><body><p>Next in line in our series of announcer interviews, the one and only Sven WillIBeFamous.
 
-<a href="http://scottishrollerderbyblog.com/2013/11/sven.jpg"><img src="http://scottishrollerderbyblog.com/2013/11/sven.jpg" alt="Photo by Zero-G Photography" width="538" height="720" class="size-full wp-image-3015"></a> Photo by Zero-G Photography
+<a href="http://www.scottishrollerderbyblog.com/2013/11/sven.jpg"><img src="http://www.scottishrollerderbyblog.com/2013/11/sven.jpg" alt="Photo by Zero-G Photography" width="538" height="720" class="size-full wp-image-3015"></a> Photo by Zero-G Photography
 
 <strong>How did you get started announcing?</strong>
 

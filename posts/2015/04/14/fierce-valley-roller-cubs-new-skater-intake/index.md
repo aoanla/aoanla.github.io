@@ -1,3 +1,3 @@
 <html><body><p>Fierce Valley Roller Cubs are recruiting! The next new skater intake will be held on Sunday 26th April 2015, at the Mariner Centre, Falkirk. FVRC welcomes girls and boys aged 5-17, with no skating experience necessary, to come along and give it a try. Email freshmeat@fiercevalleyrollercubs.co.uk for more information and to register your interest.
 
-<a href="/2015/04/10744964_366809973478799_46185807_n.jpg"><img class="  wp-image-4611 aligncenter" src="https://scottishrollerderbyblog.com/2015/04/10744964_366809973478799_46185807_n.jpg?w=300" alt="10744964_366809973478799_46185807_n" width="533" height="378"></a></p></body></html>
+<a href="/2015/04/10744964_366809973478799_46185807_n.jpg"><img class="  wp-image-4611 aligncenter" src="https://www.scottishrollerderbyblog.com/2015/04/10744964_366809973478799_46185807_n.jpg?w=300" alt="10744964_366809973478799_46185807_n" width="533" height="378"></a></p></body></html>

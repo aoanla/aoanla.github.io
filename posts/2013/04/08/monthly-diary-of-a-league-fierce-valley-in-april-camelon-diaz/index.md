@@ -2,7 +2,7 @@
 
 It's that time of month again when we hear from <a href="fvrg.co.uk">Fierce Valley</a>'s latest skater to make an entry in the diary. This month, it's Camelon Diaz, PR Rep, coach and experienced blocker, up to the stand...
 
-<a href="http://scottishrollerderbyblog.com/2013/04/484484_888111552394_1202023920_n.jpg"><img class="size-large wp-image-2485" alt="Camelon Diaz, centre, walling off Wirral Whipiteres at the front." src="http://scottishrollerderbyblog.com/2013/04/484484_888111552394_1202023920_n.jpg?w=614" width="614" height="409"></a> Camelon Diaz, centre, walling off Wirral Whipiteres at the front. (Photo: Laura MacDonald)
+<a href="http://www.scottishrollerderbyblog.com/2013/04/484484_888111552394_1202023920_n.jpg"><img class="size-large wp-image-2485" alt="Camelon Diaz, centre, walling off Wirral Whipiteres at the front." src="http://www.scottishrollerderbyblog.com/2013/04/484484_888111552394_1202023920_n.jpg?w=614" width="614" height="409"></a> Camelon Diaz, centre, walling off Wirral Whipiteres at the front. (Photo: Laura MacDonald)
 
 <strong>What first attracted you to Roller Derby?</strong>
 

@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/10/logoti.jpg"><img src="http://scottishrollerderbyblog.com/2011/10/logoti.jpg" alt="" title="LogoTI" width="614" height="776" class="aligncenter size-full wp-image-231"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/10/logoti.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/10/logoti.jpg" alt="" title="LogoTI" width="614" height="776" class="aligncenter size-full wp-image-231"></a>
 <em>Team Ireland logo designed by MuteArt,used with permission</em>
 
 As the first Roller Derby World Cup approaches,it's time to size up the teams involved,kicking off with Team Ireland.

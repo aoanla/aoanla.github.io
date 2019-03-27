@@ -2,7 +2,7 @@
 <p class="p1"><span class="s1">Predictions of bouts are from FTS, if possible, and from our own <b><a href="http://aoanla.pythonanywhere.com/SRDRankv2.html">SRD Rank</a></b> where FTS cannot make predictions (for example: Latin America, or non-MRDA men’s bouts). (SRDRank also has recent WFTDA rankings, including the 31st June ranking, as well as SRDRank, and allows you to make predictions from them.)</span></p>
 <p class="p1"><span class="s1">If we’ve missed you from our roundup, please let us know! [Or add yourselves to FTS and/or Derbylisting]</span></p>
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
-<h2><img class="aligncenter size-large wp-image-27701" src="https://scottishrollerderbyblog.com/2018/11/eur_map.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27701" src="https://www.scottishrollerderbyblog.com/2018/11/eur_map.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
 <h2></h2>
 <h2>Scotland</h2>
 There's two exciting bouts happening in Scotland this weekend, at opposite ends of the Central Belt: Glasgow takes on the might of New Doonshire, whilst MidLothian's Fear &amp; Lothian face Orkney's ViQueens!
@@ -190,8 +190,8 @@ France's Championnat Nationale 2 fixtures return this week - but there's several
 </ul>
 <h2></h2>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27702" src="https://scottishrollerderbyblog.com/2018/11/anz_map.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27703" src="https://scottishrollerderbyblog.com/2018/11/asia_map.png?w=1024" alt="ASIA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27702" src="https://www.scottishrollerderbyblog.com/2018/11/anz_map.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27703" src="https://www.scottishrollerderbyblog.com/2018/11/asia_map.png?w=1024" alt="ASIA_map" width="1024" height="768"></h2>
 <h2><b>Pacific</b></h2>
 The Australian season continues, although we're passed the "big tournaments" period for this year; in fact, it's Taupo, New Zealand which hosts the only tournament in the region. Okinawa also hosts a somewhat-mysterious joint bout+recruitment event!
 <ul>
@@ -304,8 +304,8 @@ However, the big event in LA this weekend is the two tournaments: Buenos Aires' 
 </ul>
 <h2></h2>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27705" src="https://scottishrollerderbyblog.com/2018/11/sa_map.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27706" src="https://scottishrollerderbyblog.com/2018/11/me_map.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27705" src="https://www.scottishrollerderbyblog.com/2018/11/sa_map.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27706" src="https://www.scottishrollerderbyblog.com/2018/11/me_map.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 In Africa and the Middle East, we only list the usual ongoing events we're aware of..
 <ul>

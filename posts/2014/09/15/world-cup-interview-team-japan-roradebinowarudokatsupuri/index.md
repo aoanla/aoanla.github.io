@@ -2,7 +2,7 @@
 
 Because there are so many teams, we've grouped them together into regions, roughly geographically, which we'll be devoting a week each to. We're starting with the "Africa and Asia-Pacific" region, and with one of the new entrants to the World Cup - Team Japan!
 
-<a href="/2014/09/10448746_1467216233517248_5449562808216430157_n.jpg"><img class="size-full wp-image-3754" src="http://scottishrollerderbyblog.com/2014/09/10448746_1467216233517248_5449562808216430157_n.jpg" alt="The excellent Team Japan logo." width="516" height="516"></a> The excellent Team Japan logo.
+<a href="/2014/09/10448746_1467216233517248_5449562808216430157_n.jpg"><img class="size-full wp-image-3754" src="http://www.scottishrollerderbyblog.com/2014/09/10448746_1467216233517248_5449562808216430157_n.jpg" alt="The excellent Team Japan logo." width="516" height="516"></a> The excellent Team Japan logo.
 
 (This interview is in both Japanese and English. I apologise to Japanese readers for my poor Japanese. 「私の日本語が下手です。すみません。」The interview was conducted about a month ago, and I've inserted some updates accordingly.)
 

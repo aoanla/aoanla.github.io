@@ -1,8 +1,8 @@
 <html><body><div>
 
-After <a href="nastynessiesrollergirls.wordpress.com">Nasty Nessies</a> founder Irn Bruzer launched our series of retrospective interviews with previous Nessie monthly diarists in Jan, this month we have <a href="http://scottishrollerderbyblog.com/2012/03/21/monthly-diary-of-a-league-nasty-nessies-in-march-bee-yatch/">Bee-Yatch</a> to talk about how her feelings for derby have changed over the past year.
+After <a href="nastynessiesrollergirls.wordpress.com">Nasty Nessies</a> founder Irn Bruzer launched our series of retrospective interviews with previous Nessie monthly diarists in Jan, this month we have <a href="http://www.scottishrollerderbyblog.com/2012/03/21/monthly-diary-of-a-league-nasty-nessies-in-march-bee-yatch/">Bee-Yatch</a> to talk about how her feelings for derby have changed over the past year.
 
-<a href="http://scottishrollerderbyblog.com/2013/02/comic-con.jpg"><img class="size-full wp-image-2213" alt="Bee-Yatch (centre) promoting the Nessies at Inverness Comic Con." src="http://scottishrollerderbyblog.com/2013/02/comic-con.jpg" width="453" height="548"></a> Bee-Yatch (centre) promoting the Nessies at Inverness Comic Con.
+<a href="http://www.scottishrollerderbyblog.com/2013/02/comic-con.jpg"><img class="size-full wp-image-2213" alt="Bee-Yatch (centre) promoting the Nessies at Inverness Comic Con." src="http://www.scottishrollerderbyblog.com/2013/02/comic-con.jpg" width="453" height="548"></a> Bee-Yatch (centre) promoting the Nessies at Inverness Comic Con.
 
 <strong>Like many skaters, you first encountered Roller Derby through watching "Whip It". Now you're mins-passed and scrimming, how do you feel about the reality of derby, compared with the image you first experienced?</strong>
 

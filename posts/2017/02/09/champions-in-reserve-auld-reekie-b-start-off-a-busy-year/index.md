@@ -10,7 +10,7 @@ We caught up with Pukeahontas, ASR Co-Captain, for a quick chat about the team's
 
 2016 was a mixed bag for me personally, I was off skates for the first 6 months of the year with a knee injury. But then to come back and skate in three amazing games against Batter C, Newcastle Whippin Hinnies and Granite City Northern Fights was incredible. My high point would have to be the Newcastle game, I felt this game was where we really came together as a team on track, we found our rhythm in the second half and I was gutted when I realised it was the last jam. Then we got to watch our pals in the All Stars skate an amazing game, have great chat with the lovely Newcastle skaters in the pub, and a hilarious coach trip back to Edinburgh. For me that day was what being part of ARRG is all about - playing a hard game of derby, and having a great time with great people.
 
-<strong>The first bout of the year is against Central City B… whose A team will be at <a href="https://scottishrollerderbyblog.com/2017/01/12/euroclash-2017-the-teams/">EuroClash </a>with ARRG A. Does this add a bit of symbolism to your bout… and how are you preparing for it?</strong>
+<strong>The first bout of the year is against Central City B… whose A team will be at <a href="https://www.scottishrollerderbyblog.com/2017/01/12/euroclash-2017-the-teams/">EuroClash </a>with ARRG A. Does this add a bit of symbolism to your bout… and how are you preparing for it?</strong>
 
 I think it does add a bit of symbolism, and I actually just think it’s really cool that we have this great level of play in the UK that leagues are well matched like this.
 

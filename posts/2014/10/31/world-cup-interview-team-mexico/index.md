@@ -7,7 +7,7 @@ Danny Trejo's character wasn't talking about roller derby, but if he had been th
 This will be the first time the proud and passionate country has been represented on the world stage in this way and they are ready to add the lightning to Blood &amp; Thunder!
 
 Scottish Roller Derby caught up with skater Renny Rumble to look forward to the Texas showdown.
-</p><p style="text-align:center;"><a href="/2014/10/mexico.png"><img class="alignnone  wp-image-4156" src="https://scottishrollerderbyblog.com/2014/10/mexico.png?w=300" alt="Mexico" width="481" height="481"></a></p>
+</p><p style="text-align:center;"><a href="/2014/10/mexico.png"><img class="alignnone  wp-image-4156" src="https://www.scottishrollerderbyblog.com/2014/10/mexico.png?w=300" alt="Mexico" width="481" height="481"></a></p>
 <p style="text-align:center;"><em>Logo designed by Sugar - https://www.facebook.com/sugarfoxink</em></p>
 <strong>How are preparations going for the World Cup?</strong>
 
@@ -47,7 +47,7 @@ Represent our country proudly
 <strong>Without giving away any secrets, who or what should people in Scotland keep their eyes out for?</strong>
 
 They should keep their eyes out for the whole team!
-<p style="text-align:center;"><a href="/2014/10/10580107_814812191886910_2496606310767906617_n.jpg"><img class="alignnone  wp-image-4157" src="https://scottishrollerderbyblog.com/2014/10/10580107_814812191886910_2496606310767906617_n.jpg?w=214" alt="10580107_814812191886910_2496606310767906617_n" width="388" height="536"></a></p>
+<p style="text-align:center;"><a href="/2014/10/10580107_814812191886910_2496606310767906617_n.jpg"><img class="alignnone  wp-image-4157" src="https://www.scottishrollerderbyblog.com/2014/10/10580107_814812191886910_2496606310767906617_n.jpg?w=214" alt="10580107_814812191886910_2496606310767906617_n" width="388" height="536"></a></p>
 <strong>Team México Roster:</strong>
 
 Cynthex

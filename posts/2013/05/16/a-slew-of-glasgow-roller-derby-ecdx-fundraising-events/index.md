@@ -2,7 +2,7 @@
 
 Firstly, and very soon indeed,
 
-<a href="http://scottishrollerderbyblog.com/2013/05/harshtugimage.jpg"><img class="aligncenter size-full wp-image-2612" alt="harshTugimage" src="http://scottishrollerderbyblog.com/2013/05/harshtugimage.jpg" width="419" height="594"></a>
+<a href="http://www.scottishrollerderbyblog.com/2013/05/harshtugimage.jpg"><img class="aligncenter size-full wp-image-2612" alt="harshTugimage" src="http://www.scottishrollerderbyblog.com/2013/05/harshtugimage.jpg" width="419" height="594"></a>
 
 <a href="http://glasgowrollerderby.com/content/harsh-tug-fundraiser">Harsh Tug @ The Flying Duck</a>
 
@@ -12,7 +12,7 @@ All proceeds go to the ECDX fund.
 
 -
 
-<a href="http://scottishrollerderbyblog.com/2013/05/facebook_65874.jpg"><img class="aligncenter size-full wp-image-2613" alt=".facebook_65874" src="http://scottishrollerderbyblog.com/2013/05/facebook_65874.jpg" width="453" height="640"></a>
+<a href="http://www.scottishrollerderbyblog.com/2013/05/facebook_65874.jpg"><img class="aligncenter size-full wp-image-2613" alt=".facebook_65874" src="http://www.scottishrollerderbyblog.com/2013/05/facebook_65874.jpg" width="453" height="640"></a>
 
 If you're still up for more Glasgow Roller Derby related musical goodness, GRD-skater-based-duo SummerSlams are DJing an event, <a href="http://www.facebook.com/events/335576776567980/">"Bitch, Please!"</a>, at Nice N Sleazy on the night of the 31st of May, promising an eclectic mix of musical genres, and specially featuring Glasgow-based Grime artist Patricia Panther.
 

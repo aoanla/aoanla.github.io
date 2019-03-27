@@ -6,4 +6,4 @@ If the Taster has confirmed that this is the sport that you've been looking for,
 
 If you are interested in joining FVRG and are aged 18 or over, please complete their <a title="Register for FVRG Fresh Meat" href="http://www.fvrg.co.uk/fresh-meat.php" target="_blank">Online Registration Form </a>to reserve your place in this Fresh Meat intake. Times and venue for the Taster Session will be confirmed once you have registered online
 
-<a href="http://scottishrollerderbyblog.com/2013/08/new-poster.jpg"><img class="size-full wp-image-2868" alt="Poster designed by Gotham Nicky from FVRG" src="http://scottishrollerderbyblog.com/2013/08/new-poster.jpg" width="595" height="842"></a> Poster designed by Gotham Nicky from FVRG</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/08/new-poster.jpg"><img class="size-full wp-image-2868" alt="Poster designed by Gotham Nicky from FVRG" src="http://www.scottishrollerderbyblog.com/2013/08/new-poster.jpg" width="595" height="842"></a> Poster designed by Gotham Nicky from FVRG</p></body></html>

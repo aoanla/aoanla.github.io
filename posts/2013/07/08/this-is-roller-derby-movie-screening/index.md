@@ -4,4 +4,4 @@
 
 Tickets to the movie screening are £6 plus booking fee and can be <a title="Buy Tickets Online" href="http://grosvenorsales.clients.newmanonline.org.uk/book/add?what=fpizsl&amp;venue_id=Gro" target="_blank">bought online </a>or in person at the box office.
 
-<a href="http://scottishrollerderbyblog.com/2013/07/this-is-roller-derby-poster.jpg"><img class="size-full wp-image-2786" alt="Image courtesy of Mean City Roller Derby" src="http://scottishrollerderbyblog.com/2013/07/this-is-roller-derby-poster.jpg" width="614" height="877"></a> Image courtesy of Mean City Roller Derby</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/07/this-is-roller-derby-poster.jpg"><img class="size-full wp-image-2786" alt="Image courtesy of Mean City Roller Derby" src="http://www.scottishrollerderbyblog.com/2013/07/this-is-roller-derby-poster.jpg" width="614" height="877"></a> Image courtesy of Mean City Roller Derby</p></body></html>

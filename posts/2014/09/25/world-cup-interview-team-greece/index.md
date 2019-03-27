@@ -4,7 +4,7 @@ Team Greece is actually still selecting members as far as we can tell (they cer
 
 London Rockin Rollers' Dire Ria and Houston Roller Derby's Bullet Sucker took some time out of Team Greece's somewhat busy schedule to answer some of our questions.
 
-<a href="/2014/09/teamgreece.png"><img class="wp-image-3868 size-large" src="http://scottishrollerderbyblog.com/2014/09/teamgreece.png?w=614" alt="Team Greece logo by..." width="614" height="614"></a> Team Greece logo by <a href="https://www.facebook.com/FiveSecondSkateGear">Five Second Skate Gear</a>.
+<a href="/2014/09/teamgreece.png"><img class="wp-image-3868 size-large" src="http://www.scottishrollerderbyblog.com/2014/09/teamgreece.png?w=614" alt="Team Greece logo by..." width="614" height="614"></a> Team Greece logo by <a href="https://www.facebook.com/FiveSecondSkateGear">Five Second Skate Gear</a>.
 
  
 </p><div>

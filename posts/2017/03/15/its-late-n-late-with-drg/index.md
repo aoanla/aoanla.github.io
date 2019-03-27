@@ -1,6 +1,6 @@
 <html><body><p>Dundee Roller Girls' popular Late n' Lite officials bootcamp is back for 2017. On the <strong>3rd of April</strong> at <strong>Manhattan Works, Dundee, </strong>DRG officials are opening their doors at <strong>7pm </strong>for a three hour bootcamp, all for a <strong>fiver!</strong>
 
-<img class="alignnone size-large wp-image-15994" src="https://scottishrollerderbyblog.com/2017/03/13517416_1130444287020985_6335893209574319226_o.jpg?w=1024" alt="Courtesy: DRG" width="1024" height="768"> Obligatory after bootcamp photo!
+<img class="alignnone size-large wp-image-15994" src="https://www.scottishrollerderbyblog.com/2017/03/13517416_1130444287020985_6335893209574319226_o.jpg?w=1024" alt="Courtesy: DRG" width="1024" height="768"> Obligatory after bootcamp photo!
 
 Last year saw three instalments of this officials orientated bootcamp, inviting NSO's, Referees and anyone that wanted to expand their rules knowledge to DRG's Manhattan Works venue in Dundee. Not only do they offer the chance to learn from some of the most experienced referees in Scotland but also to try out the tiled sports court that is so common across the US derby scene!
 

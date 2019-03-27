@@ -1,6 +1,6 @@
 <html><body><p>[NB: on request of the skaters involved, this article has been edited to remove some identifying details]
 
-Late last year, we reported on the five new <strong><a href="https://scottishrollerderbyblog.com/2016/12/22/new-nations-in-the-world-cup/">National Teams</a></strong> representing for the 2018 Roller Derby World Cup. With increased representation in Asia, Europe and the Pacific, there are only a few regions in the world without any representatives.
+Late last year, we reported on the five new <strong><a href="https://www.scottishrollerderbyblog.com/2016/12/22/new-nations-in-the-world-cup/">National Teams</a></strong> representing for the 2018 Roller Derby World Cup. With increased representation in Asia, Europe and the Pacific, there are only a few regions in the world without any representatives.
 
 However, this does not mean that there are not efforts afoot to build representation in those few untouched places... starting with the Middle East.
 
@@ -16,7 +16,7 @@ It's often the case that National Team efforts only get started with the realisa
 
 Since then, recruitment has been ongoing, the issue always being to identify and raise visibility so that those interested even know you exist. Maz told us about how she found out, "A stranger messaged me on Facebook to ask if I was Iranian and if I would be interested in joining the Team Iran that she was trying to put together. I jumped at the opportunity, as being Iranian is a part of who I am. Getting the chance to represent Iranian women, and show the world who we are will be great. Having the opportunity to promote derby even more in the World, and the Middle East is also a defo plus for me!"
 
-With the recent<strong><a href="https://scottishrollerderbyblog.com/2017/01/18/menas-first-ever-public-interleague-abu-dhabi-v-cairollers/"> CaiRollers/Abu Dhabi</a></strong> bout representing the first ever Middle East/North Africa bout in roller derby history, it does seem like the time is right for at least one Middle Eastern Roller Derby team to exist.
+With the recent<strong><a href="https://www.scottishrollerderbyblog.com/2017/01/18/menas-first-ever-public-interleague-abu-dhabi-v-cairollers/"> CaiRollers/Abu Dhabi</a></strong> bout representing the first ever Middle East/North Africa bout in roller derby history, it does seem like the time is right for at least one Middle Eastern Roller Derby team to exist.
 
 Of course, as with many National Teams, Team Iran will be formed from both expatriots and Iranian nationals (in fact, many of its founders are distributed across Europe, the USA and beyond).
 

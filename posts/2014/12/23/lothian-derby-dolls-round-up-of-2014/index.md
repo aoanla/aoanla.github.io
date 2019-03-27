@@ -4,7 +4,7 @@ This year the Dolls have focused on bringing structure into the core of the leag
 
 While there haven't been many public bouts this year, this hasn't meant that the Dolls have lost any of their skating enthusiasm.
 
-<a href="/2014/12/10338404_10154255289410720_3654275510968771121_o.jpg"><img class="wp-image-4491 size-medium" src="https://scottishrollerderbyblog.com/2014/12/10338404_10154255289410720_3654275510968771121_o.jpg?w=200" alt="Image Courtesy of Ara McBay" width="200" height="300"></a> Image Courtesy of Ara McBay
+<a href="/2014/12/10338404_10154255289410720_3654275510968771121_o.jpg"><img class="wp-image-4491 size-medium" src="https://www.scottishrollerderbyblog.com/2014/12/10338404_10154255289410720_3654275510968771121_o.jpg?w=200" alt="Image Courtesy of Ara McBay" width="200" height="300"></a> Image Courtesy of Ara McBay
 
  
 

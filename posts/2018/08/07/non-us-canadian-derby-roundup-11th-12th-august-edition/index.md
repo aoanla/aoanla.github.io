@@ -5,7 +5,7 @@
 
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
 
-<img class="aligncenter size-large wp-image-27200" src="https://scottishrollerderbyblog.com/2018/08/eur_map3.png?w=1024" alt="EUR_map" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27200" src="https://www.scottishrollerderbyblog.com/2018/08/eur_map3.png?w=1024" alt="EUR_map" width="1024" height="768">
 <h2></h2>
 <h2>Scotland</h2>
 The action in building up in Scotland this weekend, with an 8 team Sevens tournament in Dundee, and bootcamp in Edinburgh.
@@ -48,7 +48,7 @@ Europe as a whole is also pretty quiet, except for the large number of recruitme
 </ul>
  
 
-<img class="aligncenter size-large wp-image-27188" src="https://scottishrollerderbyblog.com/2018/08/anz_map1.png?w=2048" alt="ANZ_map" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27188" src="https://www.scottishrollerderbyblog.com/2018/08/anz_map1.png?w=2048" alt="ANZ_map" width="1024" height="768">
 <h2></h2>
 <h2><b>Pacific</b></h2>
 Australia and New Zealand, by contrast, are keeping their autumn/winter season busy, with a large number of bouts across both countries.
@@ -108,7 +108,7 @@ Australia and New Zealand, by contrast, are keeping their autumn/winter season b
 We think we've found all the roller derby in Latin America, this weekend, but there's always a higher chance of us missing things here. Our principal action here is in Mexico, as this seasons' National Tournament begins with the first playoffs.
 <ul>
 	<li>Fri, <span style="color:#0000ff;"><strong>Santiago</strong></span>, Chile: Unión Subversiva Roller Derby are recruiting for new skaters - the signup closes on <strong>Friday</strong>, for training starting in September. [<a href="http://16%20hrs"><strong>EVENT Flyer</strong></a>]</li>
-	<li><span style="color:#800000;"><strong>Monterrey</strong></span>, Mexico: Monterrey Roller Derby host the first of the Mexican Torneo Nactional Playoffs for 2018, in association with Asociación Mexicana de Roller Derby. We've written more about this National Tournament <a href="https://scottishrollerderbyblog.com/2018/07/18/mexican-national-championships-2018/"><strong>here</strong></a>. [<a href="http://flattrackstats.com/tournaments/104134/overview"><strong>FTS tournament</strong></a>][<a href="https://www.facebook.com/events/1713274988787386/"><strong>EVENT</strong></a>]
+	<li><span style="color:#800000;"><strong>Monterrey</strong></span>, Mexico: Monterrey Roller Derby host the first of the Mexican Torneo Nactional Playoffs for 2018, in association with Asociación Mexicana de Roller Derby. We've written more about this National Tournament <a href="https://www.scottishrollerderbyblog.com/2018/07/18/mexican-national-championships-2018/"><strong>here</strong></a>. [<a href="http://flattrackstats.com/tournaments/104134/overview"><strong>FTS tournament</strong></a>][<a href="https://www.facebook.com/events/1713274988787386/"><strong>EVENT</strong></a>]
 <ul>
 	<li>Medusaca (Pachuca A) versus Monterrey</li>
 	<li>Minervas (Guadalajara) versus Querétaro</li>
@@ -130,7 +130,7 @@ We think we've found all the roller derby in Latin America, this weekend, but th
 	<li>Sun, <span style="color:#0000ff;"><strong>Neuquén</strong></span>, Argentina: The Hienas de la Calle are holding recruitment tryouts - signup by email ahead of time. [<a href="https://www.facebook.com/HCLRDN/photos/a.1452719814753544.1073741829.1440494202642772/2602291096463071/?type=3"><strong>EVENT Flyer</strong></a>]</li>
 	<li>Wed, <span style="color:#0000ff;"><strong>Monterrey</strong></span>, Mexico: After hosting the first AMRD Playoffs of the year, Monterrey Roller Derby host their recruitment for all genders of skaters [<a href="https://www.facebook.com/events/675906039430446/"><strong>EVENT</strong></a>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27179" src="https://scottishrollerderbyblog.com/2018/08/sa_map.png?w=2048" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27179" src="https://www.scottishrollerderbyblog.com/2018/08/sa_map.png?w=2048" alt="SA_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 We only know about the ongoing Pretoria-based FunSkates in this region this weekend.
 <ul>

@@ -19,7 +19,7 @@ Not quite got a full team of seven? Don't worry Dundee have thought of that as w
 
 And if you think Dundee have left out the most on-the-nose team name you could think of: WELL THINK AGAIN! Team RuPaul has been left for the most important group of the whole day.... The Officials!!
 
-<img class=" size-medium wp-image-24515 aligncenter" src="https://scottishrollerderbyblog.com/2017/09/21744549_10155556403215821_1030918533_n.jpg?w=250" alt="Officials are the best aren't they??" width="250" height="300">
+<img class=" size-medium wp-image-24515 aligncenter" src="https://www.scottishrollerderbyblog.com/2017/09/21744549_10155556403215821_1030918533_n.jpg?w=250" alt="Officials are the best aren't they??" width="250" height="300">
 
 Spectator tickets will also be available for your friends and family to come to this full day event at <strong>Dundee International Sports Complex (D.I.S.C)</strong> on Mains Loan. There will be a chance to buy Dundee's Merch (including the limited edition coveted Tie Dye shirts!!), a classic bake sale for all your daily cake consumption needs as well as a handful of local business to be announced as vendors, across <a href="https://www.facebook.com/dundeerollergirls/" target="_blank" rel="noopener">DRG's Social Media</a> in the upcoming weeks!
 

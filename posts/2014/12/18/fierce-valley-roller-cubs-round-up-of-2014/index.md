@@ -1,6 +1,6 @@
 <html><body><p>After becoming Scotland’s only junior roller derby league on its launch in September 2013, 2014 has been another year of firsts for Fierce Valley Roller Cubs.
 
-<a href="/2014/12/cubsrev3.jpg"><img class="  wp-image-4418 aligncenter" src="https://scottishrollerderbyblog.com/2014/12/cubsrev3.jpg?w=300" alt="cubsrev3" width="482" height="321"></a>
+<a href="/2014/12/cubsrev3.jpg"><img class="  wp-image-4418 aligncenter" src="https://www.scottishrollerderbyblog.com/2014/12/cubsrev3.jpg?w=300" alt="cubsrev3" width="482" height="321"></a>
 
 The year began with an intake of skaters in January, and the interest in junior derby has remained high enough to hold a further three intakes throughout the year. As of the end of 2014, FVRC currently has around forty skaters from across Central Scotland regularly attending at least one of our three sessions per week.
 
@@ -12,7 +12,7 @@ Following this, July saw a week-long derby summer school held, which started wit
 
 The culmination of the summer school, not to mention the months of hard work beforehand, was FVRC hosting the first ever public junior derby game in Scotland. Two teams of advanced Cubs skaters faced off in front of a large crowd in Grangemouth, and it was great to see the level of support from the wider derby community for our event.
 
-<a href="/2014/12/cubsrev1.jpg"><img class="  wp-image-4419 aligncenter" src="https://scottishrollerderbyblog.com/2014/12/cubsrev1.jpg?w=300" alt="cubsrev1" width="443" height="295"></a>
+<a href="/2014/12/cubsrev1.jpg"><img class="  wp-image-4419 aligncenter" src="https://www.scottishrollerderbyblog.com/2014/12/cubsrev1.jpg?w=300" alt="cubsrev1" width="443" height="295"></a>
 
 As word of the Cubs spreads, we have been asked to visit schools and other groups to demonstrate what junior roller derby involves. Another demonstration scrimmage at half time in Capital City’s debut bout followed and brought us to the attention of a wider audience still.
 
@@ -26,7 +26,7 @@ The last word on 2014 goes to Teeny Bash, who has taken part in every event this
 
  
 
-<strong>20<a href="/2014/12/cubsrev2.jpg"><img class=" size-medium wp-image-4420 alignleft" src="https://scottishrollerderbyblog.com/2014/12/cubsrev2.jpg?w=300" alt="cubsrev2" width="300" height="200"></a>14 was a busy year for FVRC, what will you remember most about it?</strong>
+<strong>20<a href="/2014/12/cubsrev2.jpg"><img class=" size-medium wp-image-4420 alignleft" src="https://www.scottishrollerderbyblog.com/2014/12/cubsrev2.jpg?w=300" alt="cubsrev2" width="300" height="200"></a>14 was a busy year for FVRC, what will you remember most about it?</strong>
 
 I will remember my first bout because it was the most exciting day ever. I couldn't sleep the night before and all I could think about was how it would feel to do the skate out that I have watched the roller girls do. My mum took me to watch a FVRG bout and I just wanted it to be me out there skating. I said one day I am going to make that team. That's my goal but I have to wait a whole 7 years, boo. :-(
 

@@ -6,4 +6,4 @@ A limited number of tickets are still available to buy online from <a title="Buy
 
 We wish the SUR5AL teams from MCRD and Hades all the best in the tournament, and look forward to hearing the results.
 
-<a href="/2014/06/sur5al-2014-header.jpg"><img class="size-full wp-image-3480" src="http://scottishrollerderbyblog.com/2014/06/sur5al-2014-header.jpg" alt="Image courtesy of Furness Firecrackers" width="614" height="433"></a> Image courtesy of Furness Firecrackers</p></body></html>
+<a href="/2014/06/sur5al-2014-header.jpg"><img class="size-full wp-image-3480" src="http://www.scottishrollerderbyblog.com/2014/06/sur5al-2014-header.jpg" alt="Image courtesy of Furness Firecrackers" width="614" height="433"></a> Image courtesy of Furness Firecrackers</p></body></html>

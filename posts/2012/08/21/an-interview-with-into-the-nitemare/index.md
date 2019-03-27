@@ -1,6 +1,6 @@
 <html><body><p>You may have already seen Raven Psycho from Into the Nitemare selling roller derby clothing at bouts all over the country; she now has some exciting news to share with us!
 
-<a href="http://www.intothenitemareclothing.co.uk/"><img class="aligncenter size-full wp-image-1645" title="Into the Nitemare logo" alt="Into the Nitemare logo" src="http://scottishrollerderbyblog.com/2012/08/itn_logo.png" width="614" height="281"></a>
+<a href="http://www.intothenitemareclothing.co.uk/"><img class="aligncenter size-full wp-image-1645" title="Into the Nitemare logo" alt="Into the Nitemare logo" src="http://www.scottishrollerderbyblog.com/2012/08/itn_logo.png" width="614" height="281"></a>
 
 <strong>Tell us about Into the Nitemare: who are you, where do you come from, and what do you do?</strong>
 
@@ -18,7 +18,7 @@ People asked us when we were organising travelling if we could bring, pads, whee
 
 We love to travel and meeting new people and to be honest you can't get in the house for stuff! Plus when people see that you've got a physical place they can visit they have more confidence buying from you. That and people have the opportunity to come and see us for a change..We chose Falkirk because my team, FVRG, is based in the Forth Valley area and I live here so it made sense. And the FVRG deserve a local store.
 
-<a href="http://scottishrollerderbyblog.com/2012/08/belfast.jpg"><img class="size-full wp-image-1649" title="Raven Psycho at Block and Roll All Nite in Belfast" alt="Raven Psycho at Block and Roll All Nite in Belfast" src="http://scottishrollerderbyblog.com/2012/08/belfast.jpg" width="600" height="400"></a> Raven Psycho at Block and Roll All Nite in Belfast
+<a href="http://www.scottishrollerderbyblog.com/2012/08/belfast.jpg"><img class="size-full wp-image-1649" title="Raven Psycho at Block and Roll All Nite in Belfast" alt="Raven Psycho at Block and Roll All Nite in Belfast" src="http://www.scottishrollerderbyblog.com/2012/08/belfast.jpg" width="600" height="400"></a> Raven Psycho at Block and Roll All Nite in Belfast
 
 <strong>When is the grand opening of Into the Nitemare's store? The Grand Opening will be the first week in September. Fiercey's, Keep an eye on your inbox and our Facebook Page for an invite to the opening party!</strong>
 

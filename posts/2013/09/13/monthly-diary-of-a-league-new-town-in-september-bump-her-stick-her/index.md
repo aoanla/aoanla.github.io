@@ -1,6 +1,6 @@
 <html><body><p>Continuing <a href="http://newtownrollergirls.tumblr.com/">New Town Roller Girls'</a> Monthly insights, here's Bump-Her-Stick-Her... coming to a track near you, soon!
 
-<a href="http://scottishrollerderbyblog.com/2013/09/bump-her-sm.jpg"><img class="size-large wp-image-2939" alt="Bump-Her Stick-Her!" src="http://scottishrollerderbyblog.com/2013/09/bump-her-sm.jpg?w=614" width="614" height="909"></a> Bump-Her Stick-Her!
+<a href="http://www.scottishrollerderbyblog.com/2013/09/bump-her-sm.jpg"><img class="size-large wp-image-2939" alt="Bump-Her Stick-Her!" src="http://www.scottishrollerderbyblog.com/2013/09/bump-her-sm.jpg?w=614" width="614" height="909"></a> Bump-Her Stick-Her!
 
 <strong>What first attracted you to Roller Derby?</strong>
 My awesome bestie used to play for ARRG (Bobscene Behaviour) and that was my introduction to the game. I watched her in her first bout and left wishing I could give it a try. Fast forwards a few years later and I was a new mum looking for an outlet, some exercise and something that I could do just for me - I saw an advert for New Town Roller Girls and pounced!
@@ -18,7 +18,7 @@ I like jamming, I am still learning a lot but I hope I can be a useful jammer so
 Facebook :) work, rambling on to hairdressers and by wearing my teams t-shirt whilst running or working out.
 
 <strong>What’s the most important thing you've learnt/ done this month</strong>
-Practicing with the boys and girls for our <a title="Bairn City Rollers presents “Day Of Reckoning”" href="http://scottishrollerderbyblog.com/2013/09/10/bairn-city-rollers-presents-day-of-reckoning/">upcoming bout</a> (my cherry popper)
+Practicing with the boys and girls for our <a title="Bairn City Rollers presents “Day Of Reckoning”" href="http://www.scottishrollerderbyblog.com/2013/09/10/bairn-city-rollers-presents-day-of-reckoning/">upcoming bout</a> (my cherry popper)
 
 <strong>And the most difficult and the best things?</strong>
 The most difficult is the frustration of not picking up a technique. The best is the first time you get it right. You may not always get it but you realise it's possible.

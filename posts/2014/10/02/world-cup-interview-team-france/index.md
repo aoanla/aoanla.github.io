@@ -8,7 +8,7 @@ Team Coach Pierre Ardellier was good enough to answer our questions (which we as
 
  
 
-<a href="/2014/09/teamfrance.png"><img class="size-large wp-image-3901" src="http://scottishrollerderbyblog.com/2014/09/teamfrance.png?w=614" alt="Team France logo" width="614" height="647"></a> Team France logo
+<a href="/2014/09/teamfrance.png"><img class="size-large wp-image-3901" src="http://www.scottishrollerderbyblog.com/2014/09/teamfrance.png?w=614" alt="Team France logo" width="614" height="647"></a> Team France logo
 
 <strong>The Team selection this time around features 7 veterans from the 2011 roster, and the rest new members of the team. Does this reflect the growth of derby in France, and is it useful to have the experience of the first world cup to hand?</strong>
 

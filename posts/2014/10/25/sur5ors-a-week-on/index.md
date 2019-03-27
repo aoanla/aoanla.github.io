@@ -14,4 +14,4 @@ As the skaters provided entertainment on track the day was held up by the vast s
 
 Results are as followed:
 
-<a href="/2014/10/10606063_10153275885608079_8291095240425177450_n.jpg"><img class="alignnone size-medium wp-image-4124" src="https://scottishrollerderbyblog.com/2014/10/10606063_10153275885608079_8291095240425177450_n.jpg?w=300" alt="10606063_10153275885608079_8291095240425177450_n" width="300" height="110"></a></p></body></html>
+<a href="/2014/10/10606063_10153275885608079_8291095240425177450_n.jpg"><img class="alignnone size-medium wp-image-4124" src="https://www.scottishrollerderbyblog.com/2014/10/10606063_10153275885608079_8291095240425177450_n.jpg?w=300" alt="10606063_10153275885608079_8291095240425177450_n" width="300" height="110"></a></p></body></html>

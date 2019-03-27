@@ -1,6 +1,6 @@
 <html><body><p>In another World Cup interview,we talk to Ballistic Whistle,Head Coach of Team England 
 
-<a href="http://scottishrollerderbyblog.com/2012/01/ballisticwhistle-2.jpg"><img src="http://scottishrollerderbyblog.com/2012/01/ballisticwhistle-2.jpg" alt="" title="BallisticWhistle-2" width="614" height="434" class="aligncenter size-full wp-image-756"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/01/ballisticwhistle-2.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/01/ballisticwhistle-2.jpg" alt="" title="BallisticWhistle-2" width="614" height="434" class="aligncenter size-full wp-image-756"></a>
 
 Photo of Ballistic Whistle by <a href="http://boutday.com/">Dave McAleavy</a>
 

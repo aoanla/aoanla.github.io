@@ -6,7 +6,7 @@ To start off the day it's the battle of the B teams, with the <em>Fight Hawks</e
 
 </p><hr>
 
-<img class=" size-medium wp-image-27075 alignleft" src="https://scottishrollerderbyblog.com/2018/07/37395447_1902795173120396_2721404236385484800_n-e1532295713922.jpg?w=200" alt="Image courtesy: Len Rizzo" width="200" height="300"><strong>Fight</strong> <strong>Hawks Captain</strong>: <em>Skeevy Wonder #64</em>
+<img class=" size-medium wp-image-27075 alignleft" src="https://www.scottishrollerderbyblog.com/2018/07/37395447_1902795173120396_2721404236385484800_n-e1532295713922.jpg?w=200" alt="Image courtesy: Len Rizzo" width="200" height="300"><strong>Fight</strong> <strong>Hawks Captain</strong>: <em>Skeevy Wonder #64</em>
 <strong>How long skating:</strong> <em>4 and a half years apparently! Time flies.</em>
 <strong>How long captaining team:</strong> <em>About 8 months</em>.
 
@@ -19,7 +19,7 @@ To start off the day it's the battle of the B teams, with the <em>Fight Hawks</e
 <strong>Is there anything in particular you say to your team to get prepped for the game? Any words of wisdom?:</strong> <em>As a B team, we're here to learn constantly, and get as much from every game as possible. That doesn't mean we're not competitive however, it just means win or lose we're taking away valuable experiences.</em>
 
 <hr>
-<p style="text-align:right;"><strong>Bonnie Colliders Captains</strong><em><strong>:</strong> ALLY-J </em><em>#92 </em><em>&amp; Tiny Tearaway #931<img class="alignright size-medium wp-image-27090" src="https://scottishrollerderbyblog.com/2018/07/37711946_10156238091771068_2068850209923792896_n.jpg?w=141" alt="37711946_10156238091771068_2068850209923792896_n" width="141" height="300">
+<p style="text-align:right;"><strong>Bonnie Colliders Captains</strong><em><strong>:</strong> ALLY-J </em><em>#92 </em><em>&amp; Tiny Tearaway #931<img class="alignright size-medium wp-image-27090" src="https://www.scottishrollerderbyblog.com/2018/07/37711946_10156238091771068_2068850209923792896_n.jpg?w=141" alt="37711946_10156238091771068_2068850209923792896_n" width="141" height="300">
 </em><strong>How Long Skating:</strong><em> 3 years, 6 years respectively.
 </em><strong>How long Captaining Team</strong><em><strong>:</strong> our first year!</em></p>
 <p style="text-align:right;"><strong>How has the season been for your team so far?:</strong><em> It’s been a really good start, our focus skating as a team has been awesome! We constantly strive to do our very best, even if we lose a game we can still be really proud of each others performance.</em></p>
@@ -32,7 +32,7 @@ To start off the day it's the battle of the B teams, with the <em>Fight Hawks</e
 
 After this B-team-bust-up Granite's A team <em>The Northern Fights</em> will be taking on <em>Vagine Regime UK, </em>a team formed by a fully inclusive community of LGBTQIA+ individuals and their supporters across the UK. We put a few questions to each of the captains to understand the teams individual run ups to games.
 
-<img class="alignleft size-medium wp-image-27098" src="https://scottishrollerderbyblog.com/2018/07/37753945_1909703029096277_5673277440076546048_n.jpg?w=300" alt="Image Courtesy: Len Rizzo" width="300" height="199"><strong>Northern Fights Captain:</strong> <em>Lizzee Rascal #314</em>
+<img class="alignleft size-medium wp-image-27098" src="https://www.scottishrollerderbyblog.com/2018/07/37753945_1909703029096277_5673277440076546048_n.jpg?w=300" alt="Image Courtesy: Len Rizzo" width="300" height="199"><strong>Northern Fights Captain:</strong> <em>Lizzee Rascal #314</em>
 <strong>How Long Captaining?:</strong> <em>First year
 </em><strong>How Long Skating?: </strong><em>5 Years</em>
 
@@ -43,7 +43,7 @@ After this B-team-bust-up Granite's A team <em>The Northern Fights</em> will be 
 <strong>How do you find playing teams such as VR? Does it change your strategy or prep at all?:</strong> <em>Playing against VR is a different experience for us, as they bring a pool of talent from across the UK and will perhaps use tactics that we haven’t been up against before which will make for a challenging yet fun game.</em>
 
 <hr>
-<p style="text-align:right;"><strong>Vagine Regime captain:</strong> <em>Kami-Tazzy #360<img class=" size-medium wp-image-27096 alignright" src="https://scottishrollerderbyblog.com/2018/07/37825317_1875280102519140_1499359558181584896_n.jpg?w=200" alt="Image Courtesy: Nick" width="200" height="300"></em>
+<p style="text-align:right;"><strong>Vagine Regime captain:</strong> <em>Kami-Tazzy #360<img class=" size-medium wp-image-27096 alignright" src="https://www.scottishrollerderbyblog.com/2018/07/37825317_1875280102519140_1499359558181584896_n.jpg?w=200" alt="Image Courtesy: Nick" width="200" height="300"></em>
 <strong>How Long Skating:</strong><em> 7. 5 years</em>
 <strong>How long Captaining:</strong> <em>First time for VR.</em></p>
 <p style="text-align:right;"><strong>How has the season been for your team so far, do rosters change a lot?:</strong> <em>It's been great so far. Back in April we had a tough but close game with the Rainy City C team, a great game to kick off the season with. We're really looking forward to playing Granite's awesome Northern Fights. VR UK contain a very large number of members, of all levels, from all over the UK, including some of the best players the UK can offer. Because of that, rosters are always changing, but it mainly depends on location, bout clashes, level and availability.</em></p>

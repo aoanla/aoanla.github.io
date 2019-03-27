@@ -1,6 +1,6 @@
 <html><body><p>Continuing our review of 2013, we caught up with BCR Founder, Skelpies captain (and Power of Scotland skater) iHorror to get his thoughts about the year from <a href="https://www.facebook.com/BairnCityRollers">Bairn City Rollers</a>' perspective.
 
-<a href="http://scottishrollerderbyblog.com/2014/01/img_0062-copy.jpg"><img class="size-large wp-image-3151" alt="Bairn City's Belter Skelpers lining up for the team's first ever co-ed bout." src="http://scottishrollerderbyblog.com/2014/01/img_0062-copy.jpg?w=614" width="614" height="409"></a> Bairn City's Belter Skelpers lining up for the team's first ever co-ed bout. (Photo: Laura MacDonald)
+<a href="http://www.scottishrollerderbyblog.com/2014/01/img_0062-copy.jpg"><img class="size-large wp-image-3151" alt="Bairn City's Belter Skelpers lining up for the team's first ever co-ed bout." src="http://www.scottishrollerderbyblog.com/2014/01/img_0062-copy.jpg?w=614" width="614" height="409"></a> Bairn City's Belter Skelpers lining up for the team's first ever co-ed bout. (Photo: Laura MacDonald)
 
 <strong>Bairn City Rollers have had a very busy year, managing almost one bout for every month, despite only starting in May. While it's certainly made an impression on Scottish derby, how has the pace affected the league as a whole?</strong>
 

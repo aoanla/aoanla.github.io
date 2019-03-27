@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/06/belfastfinished.jpg"><img class="size-full wp-image" src="http://scottishrollerderbyblog.com/2012/06/belfastfinished.jpg?w=487" alt="Image"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/06/belfastfinished.jpg"><img class="size-full wp-image" src="http://www.scottishrollerderbyblog.com/2012/06/belfastfinished.jpg?w=487" alt="Image"></a>
 
 This Saturday, Dundee Roller Girls bring back roller derby to Dundee in a bout which sees them welcoming friends from across the water, Belfast Roller Derby.
 

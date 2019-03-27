@@ -2,7 +2,7 @@
 
 In 2014, England were in Group Green with Argentina, the Netherlands and Sweden. They made it to the final game to play against Team USA for the shiny, shiny cup and whilst Team USA took the win, England took the silver medal finishing second. I, for one am rather excited to see these chaps play in July!
 
-<a href="http://scottishrollerderbyblog.com/2016/06/fb_img_1466933286146.jpg"><img title="FB_IMG_1466933286146.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2016/06/fb_img_1466933286146.jpg"></a>
+<a href="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466933286146.jpg"><img title="FB_IMG_1466933286146.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466933286146.jpg"></a>
 
 Team England logo 2016
 
@@ -43,4 +43,4 @@ This time around, England are in Group Orange with old pals Sweden and Argentina
 
 Their first game of the 2016 Men's Roller Derby World Cup will be against Sweden (tune to track 2 for this one) at 12pm which is 5am UK time. Make a nice cup of tea to wake you up for this one. In a nice cup with a saucer because it's the World Cup, you can be fancy!
 
-<a href="http://scottishrollerderbyblog.com/2016/06/fb_img_1466935371393.jpg"><img title="FB_IMG_1466935371393.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2016/06/fb_img_1466935371393.jpg"></a></p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466935371393.jpg"><img title="FB_IMG_1466935371393.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466935371393.jpg"></a></p></body></html>

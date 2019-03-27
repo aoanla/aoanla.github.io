@@ -5,7 +5,7 @@
 
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
 
-<img class="aligncenter size-large wp-image-27171" src="https://scottishrollerderbyblog.com/2018/07/eur_map21.png?w=2048" alt="EUR_map" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27171" src="https://www.scottishrollerderbyblog.com/2018/07/eur_map21.png?w=2048" alt="EUR_map" width="1024" height="768">
 <h2></h2>
 <h2>Scotland</h2>
 It's fairly quiet in Scotland this weekend - but this is just the calm before the storm, as the next week weekends are pretty hectic!
@@ -71,7 +71,7 @@ The amount of derby is very slowly decreasing in Europe, as we slip into the end
 </ul>
 <img class="alignnone size-full wp-image-27145" src="/2018/07/asia_map1.png" alt="ASIA_map" width="1920" height="1440">
 
-<img class="aligncenter size-large wp-image-27166" src="https://scottishrollerderbyblog.com/2018/07/anz_map12.png?w=1024" alt="ANZ_map" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27166" src="https://www.scottishrollerderbyblog.com/2018/07/anz_map12.png?w=1024" alt="ANZ_map" width="1024" height="768">
 <h2><b>Pacific</b></h2>
 This weekend sees even more derby in Australia, with the Eastern Region Super League and Statewide Stampede both bringing fixtures, and a bunch of other derby across the country! Bangkok and Tokyo both also have open training sessions for those wanting to join the East Asian derby community.
 <ul>
@@ -131,7 +131,7 @@ This weekend sees even more derby in Australia, with the Eastern Region Super Le
 </ul>
  
 
-<img class="aligncenter size-large wp-image-27161" src="https://scottishrollerderbyblog.com/2018/07/la_map12.png?w=1024" alt="LA_map" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27161" src="https://www.scottishrollerderbyblog.com/2018/07/la_map12.png?w=1024" alt="LA_map" width="1024" height="768">
 <h2>Latin America</h2>
 We think we've found all the roller derby in Latin America, this weekend, but there's always a higher chance of us missing things here. Please let us know if we have!
 This weekend, there's action across the entire region, with bootcamps in Argentina, bouts in Mexico, Chile and Colombia, and parties too.
@@ -145,7 +145,7 @@ This weekend, there's action across the entire region, with bootcamps in Argenti
 </ul>
 </li>
 	<li><span style="color:#008000;"><strong>Miramar</strong></span>, Buenos Aires, Argentina: Derby on the Beach (the yearly bootcamp) hosts a "Preview day" for its next appearance in December, a 10 hour mini-bootcamp sampling the various courses on offer. [<a href="https://www.facebook.com/events/2128413857477468/"><strong>EVENT</strong></a>]</li>
-	<li>Sat-Sun, <span style="color:#800000;"><strong>Osorno</strong></span>, Chile: Deskarriadas host the first fixture in this year's Torneo X - the Chilean National Tournament series. More about the tournament in our <a href="https://scottishrollerderbyblog.com/2018/07/26/chilean-national-championships-2018-torneo-x-returns/"><strong>article here</strong></a>! [<a href="http://flattrackstats.com/tournaments/104001/overview"><strong>FTS tournament</strong></a>][<a href="https://www.facebook.com/events/212354766088268/"><strong>EVENT</strong></a>]
+	<li>Sat-Sun, <span style="color:#800000;"><strong>Osorno</strong></span>, Chile: Deskarriadas host the first fixture in this year's Torneo X - the Chilean National Tournament series. More about the tournament in our <a href="https://www.scottishrollerderbyblog.com/2018/07/26/chilean-national-championships-2018-torneo-x-returns/"><strong>article here</strong></a>! [<a href="http://flattrackstats.com/tournaments/104001/overview"><strong>FTS tournament</strong></a>][<a href="https://www.facebook.com/events/212354766088268/"><strong>EVENT</strong></a>]
 <ul>
 	<li>Adrenaline (Santiago) versus Tacones Bandidos (Viña del Mar)</li>
 	<li>Nativas (Temuco) versus Diosas Volcánicas (Puerto Montt)</li>
@@ -161,7 +161,7 @@ This weekend, there's action across the entire region, with bootcamps in Argenti
 	<li><strong>Bucaramanga</strong>, Colombia: Pink Sucks Roller Derby + Cabros Roller Derby host a fundraising "Mixtape Party", hosted by the Monkey Rock Bar. [<a href="https://www.facebook.com/events/333819267149344/"><strong>EVENT</strong></a>]</li>
 	<li>Sun, <span style="color:#008000;"><strong>Buenos Aires</strong></span>, Argentina: Sailor City Rollers host an open-to-all Officiating Bootcamp for Referees, coached by Nicolás Bergallo of Sailor City, as part of Bigoteam, the Sailor City Rollers Officiating Team. [<a href="https://www.facebook.com/events/1421846974625798/"><strong>EVENT</strong></a>]</li>
 </ul>
-<h2><img class=" size-large wp-image-27135 aligncenter" src="https://scottishrollerderbyblog.com/2018/07/sa_map3.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class=" size-large wp-image-27135 aligncenter" src="https://www.scottishrollerderbyblog.com/2018/07/sa_map3.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 We only know about the ongoing Pretoria-based FunSkates in this region this weekend.
 <ul>

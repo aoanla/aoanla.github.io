@@ -2,7 +2,7 @@
 <div></div>
 <div>
 
-<a href="http://scottishrollerderbyblog.com/2012/03/griz.jpg"><img class="size-full wp-image-952" title="Griz" src="http://scottishrollerderbyblog.com/2012/03/griz.jpg" alt="" width="614" height="416"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/03/griz.jpg"><img class="size-full wp-image-952" title="Griz" src="http://www.scottishrollerderbyblog.com/2012/03/griz.jpg" alt="" width="614" height="416"></a>
 
 </div>
 <div></div>

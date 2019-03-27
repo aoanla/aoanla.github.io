@@ -10,7 +10,7 @@ Both ARRG and KRD will be competing in the "lower Division 2" tournament bracket
 
 With Glasgow Roller Derby's Spring Roll planning to be covered in a later article, we caught up with Auld Reekie's Ciderella and Kokeshi's Riot Earp and Dark Passenger to get their thoughts on planning for, experiencing, and learning from, international tournaments.
 
-<a href="http://scottishrollerderbyblog.com/2014/04/logobpt.gif"><img class="aligncenter size-large wp-image-3396" src="http://scottishrollerderbyblog.com/2014/04/logobpt.gif?w=614" alt="The Big O Logo" width="614" height="363"></a>
+<a href="http://www.scottishrollerderbyblog.com/2014/04/logobpt.gif"><img class="aligncenter size-large wp-image-3396" src="http://www.scottishrollerderbyblog.com/2014/04/logobpt.gif?w=614" alt="The Big O Logo" width="614" height="363"></a>
 
 <!--more-->
 

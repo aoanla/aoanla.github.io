@@ -2,4 +2,4 @@
 
 Both teams have undergone some radical changes from players to team names but one thing is for sure, both teams have grown so much since their first meeting, that this game is set to be the rematch of the year!
 
-<a href="http://scottishrollerderbyblog.com/2011/10/pivots-small.jpg"><img class="alignnone size-full wp-image-400 aligncenter" title="Pivots Of The Caribean" src="http://scottishrollerderbyblog.com/2011/10/pivots-small.jpg" alt="Dundee Roller Girls" width="614" height="898"></a></p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2011/10/pivots-small.jpg"><img class="alignnone size-full wp-image-400 aligncenter" title="Pivots Of The Caribean" src="http://www.scottishrollerderbyblog.com/2011/10/pivots-small.jpg" alt="Dundee Roller Girls" width="614" height="898"></a></p></body></html>

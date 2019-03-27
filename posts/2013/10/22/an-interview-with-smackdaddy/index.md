@@ -1,6 +1,6 @@
 <html><body><p>Continuing our series of interviews with Scottish Announcers, we caught up with Granite City's SmackDaddy...
 
-<a href="http://scottishrollerderbyblog.com/2013/10/received_m_mid_1382451002655_6c2020f76495bf0e16_0.jpeg"><img class="size-full wp-image-2980 aligncenter" alt="received_m_mid_1382451002655_6c2020f76495bf0e16_0" src="http://scottishrollerderbyblog.com/2013/10/received_m_mid_1382451002655_6c2020f76495bf0e16_0.jpeg" width="533" height="800"></a>
+<a href="http://www.scottishrollerderbyblog.com/2013/10/received_m_mid_1382451002655_6c2020f76495bf0e16_0.jpeg"><img class="size-full wp-image-2980 aligncenter" alt="received_m_mid_1382451002655_6c2020f76495bf0e16_0" src="http://www.scottishrollerderbyblog.com/2013/10/received_m_mid_1382451002655_6c2020f76495bf0e16_0.jpeg" width="533" height="800"></a>
 
 <b><span style="text-decoration:underline;">How did you get started announcing for GCRG?</span></b>
 

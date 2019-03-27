@@ -10,10 +10,10 @@ As we've previously noted, there's a lot of ethical and philosophical overlap be
 
 We're going to break down the (software) problems of managing a league (or an NGB, which is really a community of leagues) into a few sections:
 
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/2/">Project Management</a> (page 2) - the core aspect of running any community with goals - managing who is responsible for them, and how things are going.
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/3/"><strong><em>Consensus decision making</em></strong></a> (page 3)  - making decisions that your community can own.
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> (page 4) - bringing your community into contact with each other, transparently, in discussion.
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/5/"><strong>Event <em>Calendaring</em></strong></a> (page 5) - keeping track of time, especially to promote your events to the public.
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/2/">Project Management</a> (page 2) - the core aspect of running any community with goals - managing who is responsible for them, and how things are going.
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/3/"><strong><em>Consensus decision making</em></strong></a> (page 3)  - making decisions that your community can own.
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> (page 4) - bringing your community into contact with each other, transparently, in discussion.
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/5/"><strong>Event <em>Calendaring</em></strong></a> (page 5) - keeping track of time, especially to promote your events to the public.
 
 We're not going to talk about "sports club" specific software here, although it does exist. Mostly those tools cover the items on page 2 - Project Management - with a sports-themed emphasis.
 <!--nextpage-->
@@ -34,9 +34,9 @@ Taiga and Podio both offer mobile-phone Apps for phone-friendly access, as well 
 Other good solutions, depending on the Project Management paradigm you like, include Trello and Wrike (both hosted services), and Orchard Collaboration (an open-source, self-hosted solution). There are also several app-only services aimed specifically at running sports clubs, but these seem to be vexingly limited and are usually pay-only. One of the best of the sports club solutions seems to be <a href="https://teamstuff.com/"><strong>TeamStuff</strong></a>, which, despite being a hosted closed-source solution, does have a free option with most of the features you'd want.
 
 Forward to:
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/3/"><strong><em>Consensus decision making</em></strong></a> (page 3)
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> (page 4)
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/5/"><strong>Event <em>Calendaring</em></strong></a> (page 5)
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/3/"><strong><em>Consensus decision making</em></strong></a> (page 3)
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> (page 4)
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/5/"><strong>Event <em>Calendaring</em></strong></a> (page 5)
 <!--nextpage-->
 <h2>Community Consensus : Loomio</h2>
 In order to drive your community's priorities, you need to make decisions which involve your whole community. Hierarchical cultures will make decisions from "on top", whilst more open, "democratic", communities will involve the membership in all decisions, from "bottom up".  The project management software from the previous page will often allow for both styles, but tend to focus on adversarial voting systems to do "democracy".
@@ -47,7 +47,7 @@ We know that many leagues adopt consensus style systems to make decisions - but 
 
 If you want to use software to help you make decisions by consensus, then you will probably need to use a separate service to your project management solution.
 
-<img class="alignnone size-large wp-image-26483" src="https://scottishrollerderbyblog.com/2018/03/screen-shot-2018-03-07-at-22-14-22.png?w=899" alt="Loomio Example" width="899" height="1024"> An example proposal, responses, and the top of its discussion thread from Loomio.
+<img class="alignnone size-large wp-image-26483" src="https://www.scottishrollerderbyblog.com/2018/03/screen-shot-2018-03-07-at-22-14-22.png?w=899" alt="Loomio Example" width="899" height="1024"> An example proposal, responses, and the top of its discussion thread from Loomio.
 
 The best Consensus decision-making application we're aware of is <a href="https://www.loomio.org/"><strong>Loomio</strong></a>.
 A product of the Occupy movement, and run by a self-owned community, Loomio provides both a hosted option (you can sign up for accounts on the Loomio website and use it right away, with free and paid options - including a very discounted paid option for non-profits), and also options for hosting your own copy on your own servers (the code is, of course, entirely open-source, and therefore compatible with the community spirit of roller derby). Loomio has become increasingly widely-used by communities at all scale, even national governments - the <a href="http://blog.loomio.org/2016/05/16/national_assembly_wales/"><strong>Welsh Assembly</strong></a>, for example.
@@ -57,10 +57,10 @@ Loomio also provides mobile-phone friendly interfaces to allow you to interact e
 (You can read about how the Loomio Collective embodies the same spirit as Roller Derby does, and the way they structure themselves to support this in their freely available handbook: <a href="https://loomio.coop/"><strong>https://loomio.coop/</strong></a> , and read their free, and open-source guide to Consensus and Facilitation here: <a href="https://www.loomio.school/"><strong>https://www.loomio.school/</strong></a>)
 
 Back to:
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/2/"><strong><em>Project Management</em></strong></a> (page 2)
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/2/"><strong><em>Project Management</em></strong></a> (page 2)
 Forward to:
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> (page 4)
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/5/"><strong>Event <em>Calendaring</em></strong></a> (page 5)
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> (page 4)
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/5/"><strong>Event <em>Calendaring</em></strong></a> (page 5)
 
 <hr>
 
@@ -79,7 +79,7 @@ Luckily, the open-source movement has our backs, and there are many alternatives
 
 <a href="https://about.riot.im/"><strong>Riot.IM</strong></a> provide a hosted solution which is currently totally free for every feature (they are planning paid hosted options, but it's been a year without any appearing); they're also a completely open-source solution which you can host yourself. [Technically, Riot.IM is a front-end to a messaging system called Matrix, which is also open-source and free.] At present, the "free" Riot.IM hosted instance seems to be having some performance problems, but we believe that this is temporary.
 
-<img class="alignnone size-large wp-image-26484" src="https://scottishrollerderbyblog.com/2018/03/screen-shot-2018-03-07-at-22-22-36.png?w=1024" alt="Riot.IM" width="1024" height="1009"> A test room in Riot.IM (all of these chat systems look near identical, and much like chat systems always have done since the 1990s).
+<img class="alignnone size-large wp-image-26484" src="https://www.scottishrollerderbyblog.com/2018/03/screen-shot-2018-03-07-at-22-22-36.png?w=1024" alt="Riot.IM" width="1024" height="1009"> A test room in Riot.IM (all of these chat systems look near identical, and much like chat systems always have done since the 1990s).
 
 Both Mattermost and Riot.IM support Slack-compatible "integrations" - allowing your Loomio consensus discussions, and your project management tool, to send notifications and messages to your chat rooms, reminding your community of decisions to be made, or tasks which need to be performed. (The Loomio integration even lets you respond directly from the notification!) With both sets of integrations turned on, your chat channel can be the social "glue" which binds your decision making and your project management together.
 Mattermost and Riot.IM also both offer mobile Apps for phone-friendly access, which are just as good as Slack's.
@@ -87,10 +87,10 @@ Mattermost and Riot.IM also both offer mobile Apps for phone-friendly access, wh
 Because Mattermost and Riot.IM (and other alternatives like RocketChat etc) are both open-source, and provide self-hosting solutions, they are very unlikely to try (or succeed at) the same vendor-lock-in approaches which Slack is currently attempting. We'd strongly recommend that leagues look at any of the Slack alternatives with open-source options just for this reason.
 
 Back to:
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/2/"><strong><em>Project Management</em></strong></a> (page 2)
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/3/"><strong><em>Consensus decision making</em></strong></a> (page 3)
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/2/"><strong><em>Project Management</em></strong></a> (page 2)
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/3/"><strong><em>Consensus decision making</em></strong></a> (page 3)
 Forward to:
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/5/"><strong>Event <em>Calendaring</em></strong></a> (page 5)
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/5/"><strong>Event <em>Calendaring</em></strong></a> (page 5)
 
 <!--nextpage-->
 <h2>Community Event Calendaring: Google Calendar</h2>
@@ -110,11 +110,11 @@ From the other side of things, there are a whole suite of applications to share 
 If you have the technically minded people in your league, we'd actually recommend <strong>hosting your calendar yourselves</strong> on your website, and linking people there across all your social media accounts. (You can make Facebook Events and Google Calendar entries to match it, of course, but owning your data on your website gives you more control and freedom).  If you do this, please do turn on the RSS (or Atom) feed, as it's a very cheap and open way to provide updates to your schedule for anyone who wants to subscribe.* This also frees you from needing to rely on third-party services like Zapier, as you can push your social media notifications directly from your server.
 
 Back to:
-<strong><em><a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/2/">Project Management</a> </em></strong>(page 2)<strong><em>
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/3/">Consensus decision making</a> </em></strong>(page 3)
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> (page 4)
+<strong><em><a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/2/">Project Management</a> </em></strong>(page 2)<strong><em>
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/3/">Consensus decision making</a> </em></strong>(page 3)
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> (page 4)
 
-Bonus page: <a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/6/"><strong>Forum Software</strong></a> (page 6)
+Bonus page: <a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/6/"><strong>Forum Software</strong></a> (page 6)
 
 <hr>
 
@@ -122,7 +122,7 @@ Bonus page: <a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby
 
 <!--nextpage-->
 <h2>BONUS: Community Forums: Discourse</h2>
-Whilst we've covered the most popular modern means of communication in the <a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> section, some leagues may also want to host a more static discussion.
+Whilst we've covered the most popular modern means of communication in the <a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> section, some leagues may also want to host a more static discussion.
 Whilst project management software, and Loomio, provide discussion threads as part of their service, there can be some benefits to running a separate Forum, in addition to your real-time discussion rooms.
 
 In general, you will want to self-host your own forum software, as the hosted services are not that great. There is a wide range of, mostly open-source, forum software to choose from, and our recommendation here does not mean you shouldn't go for one of the alternatives.
@@ -133,7 +133,7 @@ Discourse also offer a hosted solution, although it's rather expensive ($100 a m
 In common with the software in many of the other section, Discourse also provides a number of "integrations" with other services - a chat integration so your real-time chat can be notified of new topics, for example.
 
 Back to:
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/2/"><strong><em>Project Management</em></strong></a> (page 2) - the core aspect of running any community with goals - managing who is responsible for them, and how things are going.
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/3/"><strong><em>Consensus decision making</em></strong></a> (page 3)  - making decisions that your community can own.
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> (page 4) - bringing your community into contact with each other, transparently, in discussion.
-<a href="https://scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/5/"><strong>Event <em>Calendaring</em></strong></a> (page 5) - keeping track of time, especially to promote your events to the public.</body></html>
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/2/"><strong><em>Project Management</em></strong></a> (page 2) - the core aspect of running any community with goals - managing who is responsible for them, and how things are going.
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/3/"><strong><em>Consensus decision making</em></strong></a> (page 3)  - making decisions that your community can own.
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/4/"><strong>Real-time <em>Communication</em></strong></a> (page 4) - bringing your community into contact with each other, transparently, in discussion.
+<a href="https://www.scottishrollerderbyblog.com/2018/03/22/roller-derby-and-open-consensus-software/5/"><strong>Event <em>Calendaring</em></strong></a> (page 5) - keeping track of time, especially to promote your events to the public.</body></html>

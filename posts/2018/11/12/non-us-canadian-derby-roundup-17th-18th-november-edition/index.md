@@ -2,7 +2,7 @@
 <p class="p1"><span class="s1">Predictions of bouts are from FTS, if possible, and from our own <b><a href="http://aoanla.pythonanywhere.com/SRDRankv2.html">SRD Rank</a></b> where FTS cannot make predictions (for example: Latin America, or non-MRDA men’s bouts). (SRDRank also has recent WFTDA rankings, including the 31st June ranking, as well as SRDRank, and allows you to make predictions from them.)</span></p>
 <p class="p1"><span class="s1">If we’ve missed you from our roundup, please let us know! [Or add yourselves to FTS and/or Derbylisting]</span></p>
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
-<h2><img class="aligncenter size-large wp-image-27743" src="https://scottishrollerderbyblog.com/2018/11/eur_map3.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27743" src="https://www.scottishrollerderbyblog.com/2018/11/eur_map3.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
 <h2></h2>
 <h2>Scotland</h2>
 Newly rebranded Auld Reekie Roller Derby host an international bout this weekend to launch their new image!
@@ -39,7 +39,7 @@ The UK as a whole is quite quiet - with the majority of the action in Newcastle,
 </li>
 	<li>Thurs, <span style="color:#0000ff;"><strong>Nottingham</strong></span>, England: Nottingham Hellfire Harlots rolling open recruitment continues, open to potential new skaters under WFTDA gender policy [<strong><a href="https://www.facebook.com/events/2032052900425630/">EVENT</a></strong>]</li>
 	<li>Fri, <strong>Leeds</strong>, England: Leeds Roller Derby are hosting an "animal-friendly race night" at the Wanderer Junk Food, to raise funds for their B team's travel [<a href="https://www.facebook.com/events/276389276327139/"><strong>EVENT</strong></a>]</li>
-	<li>Sat-Sun, <span style="color:#800000;"><strong>Newcastle</strong></span>, England: Tyne &amp; Fear Roller Derby host the 2018 Men's European Cup (about which we wrote a bit <a href="https://scottishrollerderbyblog.com/2018/08/10/mens-european-cup-2018-the-walker-activity-domes-last-hurrah/"><strong>here</strong></a>). [<a href="http://flattrackstats.com/tournaments/105322/overview"><strong>FTS tournament</strong></a>][<a href="https://www.facebook.com/events/1722475541104460/"><strong>EVENT</strong></a>]
+	<li>Sat-Sun, <span style="color:#800000;"><strong>Newcastle</strong></span>, England: Tyne &amp; Fear Roller Derby host the 2018 Men's European Cup (about which we wrote a bit <a href="https://www.scottishrollerderbyblog.com/2018/08/10/mens-european-cup-2018-the-walker-activity-domes-last-hurrah/"><strong>here</strong></a>). [<a href="http://flattrackstats.com/tournaments/105322/overview"><strong>FTS tournament</strong></a>][<a href="https://www.facebook.com/events/1722475541104460/"><strong>EVENT</strong></a>]
 <ul>
 	<li>Teams:
 <ul>
@@ -189,8 +189,8 @@ France's Championnat Nationale 2 fixtures return this week - but there's several
 </ul>
 </li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27746" src="https://scottishrollerderbyblog.com/2018/11/anz_map3.png?w=2048" alt="ANZ_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27721" src="https://scottishrollerderbyblog.com/2018/11/asia_map1.png?w=1024" alt="ASIA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27746" src="https://www.scottishrollerderbyblog.com/2018/11/anz_map3.png?w=2048" alt="ANZ_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27721" src="https://www.scottishrollerderbyblog.com/2018/11/asia_map1.png?w=1024" alt="ASIA_map" width="1024" height="768"></h2>
 <h2><b>Pacific</b></h2>
 The Australian season continues, with a huge number of home teams games, in particular.  New Zealand is similarly busy... but perhaps the most exciting thing is a rare game hosted by Bangkok Roller Derby!
 <ul>
@@ -263,7 +263,7 @@ The Australian season continues, with a huge number of home teams games, in part
 	<li>Wed, <span style="color:#0000ff;"><strong>Bangkok</strong></span>, Thailand: Bangkok Roller Derby have their regular training evening, which is always open to new skaters [<strong><a href="https://www.facebook.com/BangkokRollerDerby/photos/a.496774633792536/1300042966799028/?type=3">EVENT Flyer</a></strong>]</li>
 </ul>
 <h2></h2>
-<img class="aligncenter size-large wp-image-27731" src="https://scottishrollerderbyblog.com/2018/11/la_map5.png?w=1024" alt="LA_map" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27731" src="https://www.scottishrollerderbyblog.com/2018/11/la_map5.png?w=1024" alt="LA_map" width="1024" height="768">
 <h2>Latin America</h2>
 As always, we're more likely to miss events in Latin America than anywhere else - we'll continue asking leagues to tell us when things are happening...
 
@@ -288,7 +288,7 @@ This weekend, as well as the next Un Sol Para Lx Oficials in Buenos Aires... the
 </ul>
 </li>
 	<li><strong>Ushuaia</strong>, Tierra del Fuego, Argentina: Piratas del Beagle host a fundraising Party to support tournaments in Patagonia! <a href="https://www.facebook.com/667808156642695/photos/a.824399230983586/1905498259540339/?type=3"><strong>[EVENT Flyer</strong></a>]</li>
-	<li>Sat+Sun, <span style="color:#800000;"><strong>Mexico City</strong></span>, Mexico: EMEXRD host the Championship for the National Division 1 of the Mexican National tournament 2018. (We've previously written about the tournament <a href="https://scottishrollerderbyblog.com/2018/07/18/mexican-national-championships-2018/"><strong>here</strong></a>.) This is a combined championship for both Men's and Women's tiers, and will decide both, as usual, in association with the Asociación Mexicana de Roller Derby.  [FTS Tournament][<a href="https://www.facebook.com/events/1874797235973486/"><strong>EVENT</strong></a>]
+	<li>Sat+Sun, <span style="color:#800000;"><strong>Mexico City</strong></span>, Mexico: EMEXRD host the Championship for the National Division 1 of the Mexican National tournament 2018. (We've previously written about the tournament <a href="https://www.scottishrollerderbyblog.com/2018/07/18/mexican-national-championships-2018/"><strong>here</strong></a>.) This is a combined championship for both Men's and Women's tiers, and will decide both, as usual, in association with the Asociación Mexicana de Roller Derby.  [FTS Tournament][<a href="https://www.facebook.com/events/1874797235973486/"><strong>EVENT</strong></a>]
 <ul>
 	<li> Women's tier:
 <ul>
@@ -312,8 +312,8 @@ This weekend, as well as the next Un Sol Para Lx Oficials in Buenos Aires... the
 	<li>Sun, <span style="color:#008000;"><strong>San Salvador de Jujuy</strong></span>, Argentina: Mortal Kollas Roller Derby host a bootcamp on "Optimising Derby", run by Bridgetown Menace's Optimus Quad, and 2x4's (now Rat City's) Estrella. [<a href="https://www.facebook.com/events/692530291146908/"><strong>EVENT</strong></a>]</li>
 	<li>Sun, <span style="color:#0000ff;"><strong>Campo Grande</strong></span>, Brazil: Meat Machine Roller Derby are back, and hosting open training for anyone who wants to join on Sundays! [<strong><a href="https://www.facebook.com/meatmachinerd/photos/a.538785516167929/1912559385457195/?type=3&amp;theater">EVENT Flyer</a></strong>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27723" src="https://scottishrollerderbyblog.com/2018/11/sa_map1.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27724" src="https://scottishrollerderbyblog.com/2018/11/me_map1.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27723" src="https://www.scottishrollerderbyblog.com/2018/11/sa_map1.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27724" src="https://www.scottishrollerderbyblog.com/2018/11/me_map1.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 In Africa and the Middle East, the most exciting event has to be this year's National Derby Fest, South Africa's National Tournament!
 <ul>

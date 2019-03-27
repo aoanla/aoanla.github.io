@@ -30,7 +30,7 @@ We’re hoping to not only increase awareness about the sport but to also inspir
 
  
 
-Team Puerto Rico's <strong><a href="https://scottishrollerderbyblog.com/2016/03/27/mens-roller-derby-world-cupschedule-timezone-adjusted/">first bout</a></strong> is against France, the likely Group winners, at 10am Calgary-local-time on Thursday on Track 2, followed by Belgium at 1pm on Track 1. [The official MRDWC schedule is located here: <strong><a href="http://mrdwc.com/schedule-2016/">http://mrdwc.com/schedule-2016/</a></strong> ]
+Team Puerto Rico's <strong><a href="https://www.scottishrollerderbyblog.com/2016/03/27/mens-roller-derby-world-cupschedule-timezone-adjusted/">first bout</a></strong> is against France, the likely Group winners, at 10am Calgary-local-time on Thursday on Track 2, followed by Belgium at 1pm on Track 1. [The official MRDWC schedule is located here: <strong><a href="http://mrdwc.com/schedule-2016/">http://mrdwc.com/schedule-2016/</a></strong> ]
 
 The Team Puerto Rico roster is:
 </p><table>

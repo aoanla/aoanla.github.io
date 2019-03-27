@@ -7,7 +7,7 @@ Scottish skaters from across the UK are dreaming of representing their country i
 Manager Nikki Morris said: “Thanks to all those who have already submitted logos for our competition. Rest assured they are all in contention – with some superb ideas in there.
 
 “However, we have decided to extend the deadline to 31 May to give as many people as possible the chance to come up with a corking design which will be the talk of the roller derby world.
-</p><p style="text-align:left;">“We are looking for something Scottish themed – unicorns, Nessies, tartan, heritage-related – with a twist.<a href="/2015/05/11194398_10155484951575587_5898386249802980145_o.jpg"><img class="  wp-image-4643 alignright" src="https://scottishrollerderbyblog.com/2015/05/11194398_10155484951575587_5898386249802980145_o.jpg?w=219" alt="11194398_10155484951575587_5898386249802980145_o" width="293" height="398"></a></p>
+</p><p style="text-align:left;">“We are looking for something Scottish themed – unicorns, Nessies, tartan, heritage-related – with a twist.<a href="/2015/05/11194398_10155484951575587_5898386249802980145_o.jpg"><img class="  wp-image-4643 alignright" src="https://www.scottishrollerderbyblog.com/2015/05/11194398_10155484951575587_5898386249802980145_o.jpg?w=219" alt="11194398_10155484951575587_5898386249802980145_o" width="293" height="398"></a></p>
 “Remember it doesn’t have to be the same as the previous logo – which will be going in the selection anyway.”
 
 Pictured here is the results poster with all the team logos from 2014 to give you an idea of the style being sought and how designs translate onto print roll.

@@ -72,4 +72,4 @@ Teeside vs Men Behaving Derby will be a great fight. Teeside will be looking to 
 
 To find out more about game day 2 North Tier 3 visit <a href="https://www.facebook.com/events/190494118134598/">BCR's Event page</a>
 
-<a href="https://www.facebook.com/events/190494118134598/"><img class=" size-medium wp-image-18618 aligncenter" src="https://scottishrollerderbyblog.com/2017/05/bcr-champs.jpg?w=300" alt="" width="300" height="212"></a></body></html>
+<a href="https://www.facebook.com/events/190494118134598/"><img class=" size-medium wp-image-18618 aligncenter" src="https://www.scottishrollerderbyblog.com/2017/05/bcr-champs.jpg?w=300" alt="" width="300" height="212"></a></body></html>

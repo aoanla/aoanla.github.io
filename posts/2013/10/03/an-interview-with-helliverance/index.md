@@ -1,6 +1,6 @@
 <html><body><p>First in a series of interviews with those outside the track that help make Roller Derby what it is, an interview with an announcer familiar to many. Helliverance
 
-<a href="http://scottishrollerderbyblog.com/2013/10/hell-strut-2.jpg"><img src="http://scottishrollerderbyblog.com/2013/10/hell-strut-2.jpg" alt="Photography by Chris Renton." width="614" height="410" class="size-full wp-image-2963"></a> Photography by Chris Renton.
+<a href="http://www.scottishrollerderbyblog.com/2013/10/hell-strut-2.jpg"><img src="http://www.scottishrollerderbyblog.com/2013/10/hell-strut-2.jpg" alt="Photography by Chris Renton." width="614" height="410" class="size-full wp-image-2963"></a> Photography by Chris Renton.
 
 
 <strong>How did you get started announcing in Roller derby?</strong>

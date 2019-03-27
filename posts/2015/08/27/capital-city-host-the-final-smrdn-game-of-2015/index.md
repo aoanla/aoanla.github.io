@@ -1,6 +1,6 @@
 <html><body><p>This year we saw the launch of the Scottish Men's Roller Derby Nationals (SMRDN), which saw Bairn City Rollers, Mean City and Capital City all fight for the bragging rights of being the top Scottish Men's team. With two games played and two wins to BCR's Skelpies they have taken the title of champions for this year. There is however still one more game left to play which is sure to be an exciting clash for more than one reason, which is Capital City vs Mean City.
 
-<a href="https://www.facebook.com/events/920630431323750/"><img class="alignnone wp-image-4863 size-large" src="https://scottishrollerderbyblog.com/2015/08/ccrd-banner-smrdfin.jpg?w=614" alt="ccrd-banner-smrdfin" width="614" height="227"></a>
+<a href="https://www.facebook.com/events/920630431323750/"><img class="alignnone wp-image-4863 size-large" src="https://www.scottishrollerderbyblog.com/2015/08/ccrd-banner-smrdfin.jpg?w=614" alt="ccrd-banner-smrdfin" width="614" height="227"></a>
 
 These two teams have yet to met on track in a public game, with this their first encounter deciding who will take second place in this years SMRDN and the looser picking up 3rd and last place for 2015. With so much to play for, both teams will be fighting for every point from the first whistle to the last. And if this wasn't enough to tempt you along, Capital City have turned the event into a double header.
 

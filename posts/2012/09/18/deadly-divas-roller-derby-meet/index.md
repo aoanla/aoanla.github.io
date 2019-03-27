@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/09/ddrdmeet.jpg"><img src="http://scottishrollerderbyblog.com/2012/09/ddrdmeet.jpg" alt="" title="ddrdmeet" width="614" height="657" class="aligncenter size-full wp-image-1722"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/09/ddrdmeet.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/09/ddrdmeet.jpg" alt="" title="ddrdmeet" width="614" height="657" class="aligncenter size-full wp-image-1722"></a>
 
 <em>Image courtesy of DDRD</em>
 

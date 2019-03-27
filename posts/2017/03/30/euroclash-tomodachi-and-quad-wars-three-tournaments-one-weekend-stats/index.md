@@ -11,7 +11,7 @@ Let's start with EuroClash.
 
 EuroClash was arranged as a pure invitational tournament, with structure set mostly by the participants' desires for opponents. As a result, EuroClash did not post a "winner" of the tournament. All bouts were WFTDA Sanctioned, as befits a WFTDA Recognised Tournament.
 
-The participating teams for all but the last fixture were: Newcastle Roller Girls, Leeds Roller Derby, Middlesbrough Roller Derby, Tiger Bay Brawlers, Central City Rollergirls, Bear City Roller Derby (Berlin), Paris Rollergirls, Auld Reekie Roller Girls (Edinburgh) and Dublin Roller Derby. (Interviews with the teams can be found on this very blog here: <strong><a href="https://scottishrollerderbyblog.com/tag/euroclash/">https://scottishrollerderbyblog.com/tag/euroclash/</a></strong> )
+The participating teams for all but the last fixture were: Newcastle Roller Girls, Leeds Roller Derby, Middlesbrough Roller Derby, Tiger Bay Brawlers, Central City Rollergirls, Bear City Roller Derby (Berlin), Paris Rollergirls, Auld Reekie Roller Girls (Edinburgh) and Dublin Roller Derby. (Interviews with the teams can be found on this very blog here: <strong><a href="https://www.scottishrollerderbyblog.com/tag/euroclash/">https://www.scottishrollerderbyblog.com/tag/euroclash/</a></strong> )
 
 The scores (from <strong><a href="http://flattrackstats.com/tournaments/89165">FlatTrack Stats</a></strong>) are:
 </p><table>
@@ -138,13 +138,13 @@ The final result, <strong>209</strong> Scotland : <strong>128</strong> Ireland i
 
 <hr>
 
-Click here: for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/2">Tomodachi</a></strong> and here: for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/3">Quad Wars</a></strong>
+Click here: for <strong><a href="https://www.scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/2">Tomodachi</a></strong> and here: for <strong><a href="https://www.scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/3">Quad Wars</a></strong>
 
 <!--nextpage-->
 
-Over in Okinawa, the Tomodachi Derby Tournament had three tiers - a WFTDA sanctioned tier, an unsanctioned women's tier, and the men's tier (with just two competitors). Interviews with all the participants are available here: <strong><a href="https://scottishrollerderbyblog.com/tag/tomodachi-derby-tournament/">https://scottishrollerderbyblog.com/tag/tomodachi-derby-tournament/</a></strong>
+Over in Okinawa, the Tomodachi Derby Tournament had three tiers - a WFTDA sanctioned tier, an unsanctioned women's tier, and the men's tier (with just two competitors). Interviews with all the participants are available here: <strong><a href="https://www.scottishrollerderbyblog.com/tag/tomodachi-derby-tournament/">https://www.scottishrollerderbyblog.com/tag/tomodachi-derby-tournament/</a></strong>
 
-<img class="aligncenter size-medium wp-image-14076" src="https://scottishrollerderbyblog.com/2017/01/tomodachi.png?w=300" alt="tomodachi" width="300" height="300">
+<img class="aligncenter size-medium wp-image-14076" src="https://www.scottishrollerderbyblog.com/2017/01/tomodachi.png?w=300" alt="tomodachi" width="300" height="300">
 
  
 <h3>WFTDA-Sanctioned Tier</h3>
@@ -281,7 +281,7 @@ These were Japan's first men's games since the last World Cup, in fact, and were
 
 <hr>
 
-Click here: for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/1">EuroClash</a></strong> and here: for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/3">Quad Wars</a></strong>
+Click here: for <strong><a href="https://www.scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/1">EuroClash</a></strong> and here: for <strong><a href="https://www.scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/3">Quad Wars</a></strong>
 
 <!--nextpage-->
 
@@ -398,4 +398,4 @@ If you're interested in seeing more Latin American Derby, then Metropolitan and 
 
 <hr>
 
-Click here for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/1">EuroClash</a></strong> and here for <strong><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/2">Tomodachi</a></strong></body></html>
+Click here for <strong><a href="https://www.scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/1">EuroClash</a></strong> and here for <strong><a href="https://www.scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/2">Tomodachi</a></strong></body></html>

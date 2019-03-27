@@ -5,7 +5,7 @@
 
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27429" src="https://scottishrollerderbyblog.com/2018/09/eur_map16.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27429" src="https://www.scottishrollerderbyblog.com/2018/09/eur_map16.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
 <h2>Scotland</h2>
 Glasgow's Mean City host the only public bout in Scotland this weekend - although Granite City are down in England playing for Promotion in British Champs! If you're still up in Scotland on Sunday, you can also learn more about speed and aggression at ARRG's next bootcamp.
 <ul>
@@ -187,9 +187,9 @@ Whilst there's a lot of recruitment across Europe, there's also plenty of bouts 
 	<li>Wed, <span style="color:#0000ff;"><strong>Rochefort</strong></span>, France: Dirty Pussy Roller Derby host the last of three recruitment / intro sessions [<strong><a href="https://www.facebook.com/events/349290515611955/">EVENT</a></strong>]</li>
 </ul>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27416" src="https://scottishrollerderbyblog.com/2018/09/asia_map2.png?w=1024" alt="ASIA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27416" src="https://www.scottishrollerderbyblog.com/2018/09/asia_map2.png?w=1024" alt="ASIA_map" width="1024" height="768"></h2>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27417" src="https://scottishrollerderbyblog.com/2018/09/anz_map2.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27417" src="https://www.scottishrollerderbyblog.com/2018/09/anz_map2.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
 <h2><b>Pacific</b></h2>
 Roller Derby continues to happen busily in the Pacific region - the Roller Derby Open Season meets its grand final, whilst New Zealand sees both Top 10 champs bouts, and a triple header!
 <ul>
@@ -249,7 +249,7 @@ Roller Derby continues to happen busily in the Pacific region - the Roller Derby
 	<li>Tues, <span style="color:#0000ff;"><strong>Sale</strong></span>, VIC, Australia: Gippsland Lakes Roller Derby host the next Sale-hosted edition of their summer roller derby course for juniors (female, 13-17) [<strong><a href="https://www.facebook.com/events/238724603410844/">EVENT</a></strong>]</li>
 	<li>Wed, <span style="color:#0000ff;"><strong>Bangkok</strong></span>, Thailand: Bangkok Roller Derby have their regular training evening, which is always open to new skaters [<strong><a href="https://www.facebook.com/BangkokRollerDerby/photos/a.496774633792536/1300042966799028/?type=3">EVENT Flyer</a></strong>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27435" src="https://scottishrollerderbyblog.com/2018/09/la_map7.png?w=1024" alt="LA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27435" src="https://www.scottishrollerderbyblog.com/2018/09/la_map7.png?w=1024" alt="LA_map" width="1024" height="768"></h2>
 <h2></h2>
 <h2>Latin America</h2>
 As usual, for Latin America, this is what we can find in the area - we always appreciate help in finding events here.
@@ -274,7 +274,7 @@ This weekend, there's derby across the continent as usual, with Cancún hosting 
 	<li>Tsunami Bombs (Sailor City B) versus MDQueens (Mar del Plata) [<a href="http://flattrackstats.com/bouts/104800/overview"><strong>FTS</strong></a>]</li>
 </ul>
 </li>
-	<li>Sun, <span style="color:#800000;"><strong>Bogotá</strong></span>, Colombia: The final of the 5th District Tournament arrives this Sunday, with very little detail currently published. The winners of the District Tournament will go through to the Colombian National Tournament later in the year, as we wrote about <a href="https://scottishrollerderbyblog.com/2018/08/01/the-5th-colombian-national-tournament-2018-so-far/"><strong>here</strong></a>. [<a href="http://flattrackstats.com/tournaments/101452/overview"><strong>FTS tournament</strong></a>][<a href="https://www.facebook.com/events/394062211125762/"><strong>EVENT</strong></a>]
+	<li>Sun, <span style="color:#800000;"><strong>Bogotá</strong></span>, Colombia: The final of the 5th District Tournament arrives this Sunday, with very little detail currently published. The winners of the District Tournament will go through to the Colombian National Tournament later in the year, as we wrote about <a href="https://www.scottishrollerderbyblog.com/2018/08/01/the-5th-colombian-national-tournament-2018-so-far/"><strong>here</strong></a>. [<a href="http://flattrackstats.com/tournaments/101452/overview"><strong>FTS tournament</strong></a>][<a href="https://www.facebook.com/events/394062211125762/"><strong>EVENT</strong></a>]
 <ul>
 	<li>Bogotá Bone Breakers versus Central Derby D.C.</li>
 	<li>Rock N Roller Queens versus Combativas Revoltosas</li>
@@ -292,8 +292,8 @@ This weekend, there's derby across the continent as usual, with Cancún hosting 
 </ul>
 <h2></h2>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27421" src="https://scottishrollerderbyblog.com/2018/09/me_map2.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27420" src="https://scottishrollerderbyblog.com/2018/09/sa_map1.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27421" src="https://www.scottishrollerderbyblog.com/2018/09/me_map2.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27420" src="https://www.scottishrollerderbyblog.com/2018/09/sa_map1.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 Our regular events in South Africa, Dubai and Abu Dhabi continue.
 <ul>

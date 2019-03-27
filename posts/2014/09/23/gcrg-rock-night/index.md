@@ -4,7 +4,7 @@
 
 A night of Rock music featuring some homegrown talent, a booze raffle and other awesome prizes up for grabs.
 
-<a href="http://scottishrollerderbyblog.com/2014/09/gcrg-rock-night.jpg"><img src="http://scottishrollerderbyblog.com/2014/09/gcrg-rock-night.jpg" alt="GCRG rock night" width="614" height="868" class="aligncenter size-full wp-image-3859"></a>
+<a href="http://www.scottishrollerderbyblog.com/2014/09/gcrg-rock-night.jpg"><img src="http://www.scottishrollerderbyblog.com/2014/09/gcrg-rock-night.jpg" alt="GCRG rock night" width="614" height="868" class="aligncenter size-full wp-image-3859"></a>
 
 The lineup includes;
 

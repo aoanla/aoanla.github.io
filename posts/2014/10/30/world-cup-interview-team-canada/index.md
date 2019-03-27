@@ -7,7 +7,7 @@ The hardcore Canucks have been knuckling down at training and scrims over the pa
 Scottish Roller Derby caught up with skater Dyna Hurtcha (Kathleen Goldman) to talk derby does Dallas.
 
  
-<p style="text-align:center;"><a href="/2014/10/canada.jpg"><img class="alignnone  wp-image-4152" src="https://scottishrollerderbyblog.com/2014/10/canada.jpg?w=283" alt="canada" width="485" height="514"></a></p>
+<p style="text-align:center;"><a href="/2014/10/canada.jpg"><img class="alignnone  wp-image-4152" src="https://www.scottishrollerderbyblog.com/2014/10/canada.jpg?w=283" alt="canada" width="485" height="514"></a></p>
 <p style="text-align:center;"><em>Logo courtesy of Team Canada</em></p>
  
 
@@ -33,7 +33,7 @@ We are all very excited to be playing for Team Canada! Speaking for myself, I am
 
  
 
-<a href="/2014/10/977900_641217859276718_476360445_o.jpg"><img class="wp-image-4153 aligncenter" src="https://scottishrollerderbyblog.com/2014/10/977900_641217859276718_476360445_o.jpg?w=300" alt="977900_641217859276718_476360445_o" width="579" height="355"></a>
+<a href="/2014/10/977900_641217859276718_476360445_o.jpg"><img class="wp-image-4153 aligncenter" src="https://www.scottishrollerderbyblog.com/2014/10/977900_641217859276718_476360445_o.jpg?w=300" alt="977900_641217859276718_476360445_o" width="579" height="355"></a>
 <p style="text-align:center;"><em> Team photo courtesy of Bob Ayers</em></p>
 <strong>
 Team Canada roster:</strong>

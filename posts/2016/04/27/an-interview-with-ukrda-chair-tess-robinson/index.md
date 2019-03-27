@@ -1,6 +1,6 @@
 <html><body><p>With the National Squads selection processes well underway, under the Observation of the <strong><a href="http://ukrda.org.uk">UK Roller Derby Association</a></strong>, we thought it was a good time to catch up with the organisation's Chair, Tess Robinson, to find out more about what they do.
 
-<img class="alignnone size-large wp-image-7182" src="https://scottishrollerderbyblog.com/2016/04/fb_img_1461766969488.jpg?w=2046" alt="FB_IMG_1461766969488" width="1023" height="1024"> Tess herself. (Photo: <a href="https://www.facebook.com/graemewillettsphotography/">Graeme Willetts</a>)
+<img class="alignnone size-large wp-image-7182" src="https://www.scottishrollerderbyblog.com/2016/04/fb_img_1461766969488.jpg?w=2046" alt="FB_IMG_1461766969488" width="1023" height="1024"> Tess herself. (Photo: <a href="https://www.facebook.com/graemewillettsphotography/">Graeme Willetts</a>)
 
 <strong>I guess we should start by talking a bit about who you are, and what you do with UKRDA.</strong>
 
@@ -94,7 +94,7 @@ Yeah, it makes me really proud to think that we were the first ever National Gov
 
 Oh, okay, then yeah!
 
-<a href="https://scottishrollerderbyblog.com/2016/04/27/an-interview-with-ukrda-chair-tess-robinson/26193888381_1d277a9ef5_k/#main" rel="attachment wp-att-7187"><img class="size-large wp-image-7187" src="https://scottishrollerderbyblog.com/2016/04/26193888381_1d277a9ef5_k.jpg?w=700" alt="Tess v Newcastle Roller Girls (Photo: Dave Moore)" width="700" height="926"></a> Tess v Newcastle Roller Girls' Gin + Sonic (Photo: <a href="https://www.flickr.com/photos/gridiron/albums">Dave Moore</a>)
+<a href="https://www.scottishrollerderbyblog.com/2016/04/27/an-interview-with-ukrda-chair-tess-robinson/26193888381_1d277a9ef5_k/#main" rel="attachment wp-att-7187"><img class="size-large wp-image-7187" src="https://www.scottishrollerderbyblog.com/2016/04/26193888381_1d277a9ef5_k.jpg?w=700" alt="Tess v Newcastle Roller Girls (Photo: Dave Moore)" width="700" height="926"></a> Tess v Newcastle Roller Girls' Gin + Sonic (Photo: <a href="https://www.flickr.com/photos/gridiron/albums">Dave Moore</a>)
 
 <strong>So, although UKRDA was the first NGB (and some people tend to think of it as an inflexible Institution), 6 years isn't so long that there's not the possibility for change and growth.</strong>
 

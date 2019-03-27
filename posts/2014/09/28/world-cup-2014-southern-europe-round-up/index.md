@@ -2,13 +2,13 @@
 
 Here's our interviews, in case you missed them:
 
-<a title="World Cup Interview: Team Spain" href="http://scottishrollerderbyblog.com/2014/09/23/world-cup-interview-team-spain/">Team Spain</a>
+<a title="World Cup Interview: Team Spain" href="http://www.scottishrollerderbyblog.com/2014/09/23/world-cup-interview-team-spain/">Team Spain</a>
 
-<a title="World Cup Interview: Team Portugal" href="http://scottishrollerderbyblog.com/2014/09/24/world-cup-interview-team-portugal/">Team Portugal</a>
+<a title="World Cup Interview: Team Portugal" href="http://www.scottishrollerderbyblog.com/2014/09/24/world-cup-interview-team-portugal/">Team Portugal</a>
 
-<a title="World Cup Interview: Team Italy" href="http://scottishrollerderbyblog.com/2014/09/26/world-cup-interview-team-italy/">Team Italy</a>
+<a title="World Cup Interview: Team Italy" href="http://www.scottishrollerderbyblog.com/2014/09/26/world-cup-interview-team-italy/">Team Italy</a>
 
-<a title="World Cup Interview: Team Greece" href="http://scottishrollerderbyblog.com/2014/09/25/world-cup-interview-team-greece/">Team Greece</a>
+<a title="World Cup Interview: Team Greece" href="http://www.scottishrollerderbyblog.com/2014/09/25/world-cup-interview-team-greece/">Team Greece</a>
 
  
 

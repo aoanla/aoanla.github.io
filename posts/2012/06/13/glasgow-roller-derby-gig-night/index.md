@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/06/grd-bands.jpg"><img src="http://scottishrollerderbyblog.com/2012/06/grd-bands.jpg" alt="" title="grd bands" width="614" height="866" class="aligncenter size-full wp-image-1337"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/06/grd-bands.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/06/grd-bands.jpg" alt="" title="grd bands" width="614" height="866" class="aligncenter size-full wp-image-1337"></a>
 
 <em>Image courtesy of GRD</em>
 

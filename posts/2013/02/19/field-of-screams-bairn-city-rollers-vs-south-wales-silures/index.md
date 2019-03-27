@@ -4,4 +4,4 @@ This will be the debut bout for both The Bairns men's team, 'The Skelpies', and
 
 See the <a title="Field of Screams Facebook Event" href="https://www.facebook.com/events/432929060108875/" target="_blank">Facebook Event</a> to keep up-to-date with the bout details.
 
-<a href="http://scottishrollerderbyblog.com/2013/02/field-of-screams.png"><img class="aligncenter size-full wp-image-2216" alt="Field of Screams Poster" src="http://scottishrollerderbyblog.com/2013/02/field-of-screams.png" width="614" height="227"></a></p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/02/field-of-screams.png"><img class="aligncenter size-full wp-image-2216" alt="Field of Screams Poster" src="http://www.scottishrollerderbyblog.com/2013/02/field-of-screams.png" width="614" height="227"></a></p></body></html>

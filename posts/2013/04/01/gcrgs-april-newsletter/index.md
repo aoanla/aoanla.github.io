@@ -2,7 +2,7 @@
 
 Check it out:
 
-<a href="http://www.granitecityrollergirls.org.uk/GCRG_Newsletter_April2013.pdf"><img class="aligncenter size-full wp-image-2391" alt="GCRG April Newsletter" src="http://scottishrollerderbyblog.com/2013/04/news010413.png" width="581" height="837"></a>
+<a href="http://www.granitecityrollergirls.org.uk/GCRG_Newsletter_April2013.pdf"><img class="aligncenter size-full wp-image-2391" alt="GCRG April Newsletter" src="http://www.scottishrollerderbyblog.com/2013/04/news010413.png" width="581" height="837"></a>
 
 Previous Issues:
 

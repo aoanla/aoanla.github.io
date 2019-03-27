@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/03/376902_312939055391494_126978470654221_1178127_1060444875_n.jpg"><img class="size-full wp-image aligncenter" src="http://scottishrollerderbyblog.com/2012/03/376902_312939055391494_126978470654221_1178127_1060444875_n.jpg?w=404" alt="Image"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/03/376902_312939055391494_126978470654221_1178127_1060444875_n.jpg"><img class="size-full wp-image aligncenter" src="http://www.scottishrollerderbyblog.com/2012/03/376902_312939055391494_126978470654221_1178127_1060444875_n.jpg?w=404" alt="Image"></a>
 
 Hot off the heels of their recent bout against ARRG's Cannon Belles, Perth's FCR will host a recruitment night and scrims session.
 

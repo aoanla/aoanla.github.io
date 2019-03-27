@@ -3,7 +3,7 @@
 As always, we get most of our bout information from <strong><a href="http://www.flattrackstats.com">Flat Track Stats</a></strong>, and our predictions from FTS or our own <strong><a href="http://aoanla.pythonanywhere.com/SRDRank.html">SRD Rank</a></strong> rating system (especially in cases where FTS is unable to predict).
 </p><h2>Scotland</h2>
 <ul>
-	<li>There's only one Scottish event we're aware of, which is not on Flat Track Stats due to being a Charity event. Glasgow Roller Derby will be <strong><a href="https://www.facebook.com/events/1851294121772357/">hosting</a></strong> this exhibition event to raise funds for several charities, and <strong><a href="https://scottishrollerderbyblog.com/2016/11/28/glasgow-roller-derby-close-the-year-with-festive-charity/">we have more about it here</a></strong>.</li>
+	<li>There's only one Scottish event we're aware of, which is not on Flat Track Stats due to being a Charity event. Glasgow Roller Derby will be <strong><a href="https://www.facebook.com/events/1851294121772357/">hosting</a></strong> this exhibition event to raise funds for several charities, and <strong><a href="https://www.scottishrollerderbyblog.com/2016/11/28/glasgow-roller-derby-close-the-year-with-festive-charity/">we have more about it here</a></strong>.</li>
 </ul>
 <h2>UK</h2>
 <ul>

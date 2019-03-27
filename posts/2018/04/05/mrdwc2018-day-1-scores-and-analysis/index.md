@@ -12,8 +12,8 @@ All of the teams have played 2/3 of their games now, at the end of Day 1, so we 
 
 Where we have used actual scores, these are taken from the official MRDWC score page, linked at the top of this article.
 
-Groups: <strong><a href="https://scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/2">RED</a></strong> <a href="https://scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/3"><strong>ORANGE</strong></a> <a href="https://scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/4"><strong>YELLOW</strong></a> <a href="https://scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/5"><strong>GREEN</strong></a> <a href="https://scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/6"><strong>BLUE</strong></a> <a href="https://scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/7"><strong>PURPLE</strong></a>
-Day Two: <a href="https://scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/8"><strong>Predictions and Games To Watch</strong></a>
+Groups: <strong><a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/2">RED</a></strong> <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/3"><strong>ORANGE</strong></a> <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/4"><strong>YELLOW</strong></a> <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/5"><strong>GREEN</strong></a> <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/6"><strong>BLUE</strong></a> <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/7"><strong>PURPLE</strong></a>
+Day Two: <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/8"><strong>Predictions and Games To Watch</strong></a>
 <!--nextpage-->
 Starting with Group RED:
 

@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/10/grd-homefinal.jpg"><img src="http://scottishrollerderbyblog.com/2012/10/grd-homefinal.jpg" alt="" title="grd homefinal" width="614" height="869" class="aligncenter size-full wp-image-1821"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/10/grd-homefinal.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/10/grd-homefinal.jpg" alt="" title="grd homefinal" width="614" height="869" class="aligncenter size-full wp-image-1821"></a>
 
 <em>Image courtesy of GRD</em>
 

@@ -6,6 +6,6 @@ The day itself is guaranteed to be fun-filled, with a Rocky Horror Picture Show
 
 Doors open at 12:30. Join the <a title="Voodoo vs Preston Facebook Event" href="https://www.facebook.com/events/290841551085852/" target="_blank">Facebook Event</a> for more details.
 
-<a href="/2014/07/blocky-horror.jpg"><img class="size-full wp-image-3543" src="http://scottishrollerderbyblog.com/2014/07/blocky-horror.jpg" alt="Image courtesy of Voodoo Roller Dollies" width="614" height="868"></a> Image courtesy of Voodoo Roller Dollies
+<a href="/2014/07/blocky-horror.jpg"><img class="size-full wp-image-3543" src="http://www.scottishrollerderbyblog.com/2014/07/blocky-horror.jpg" alt="Image courtesy of Voodoo Roller Dollies" width="614" height="868"></a> Image courtesy of Voodoo Roller Dollies
 </p><h3>Celebration Skate - Sunday, 27th July</h3>
 And as if that wasn’t enough, the Dollies will be opening up their regular training session on Sunday 27th July in Hallglen Sports Centre for a Celebration Skate. They would like you to join them to celebrate their debut game, with music and cake. Skaters from all skate backgrounds are welcome at a cost of £5. Please see the <a title="Celebration Skate Facebook Event" href="https://www.facebook.com/events/707176349319443/" target="_blank">Facebook Event </a>if you would like to join in the celebrations.</body></html>

@@ -1,4 +1,4 @@
-<html><body><a href="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/s720x720/380795_2578899805857_1655254998_2388672_820374595_n.jpg" target="_blank"><img class="size-full wp-image-764  " title="Tarce in action at the Roller Derby World Cup in December" src="http://scottishrollerderbyblog.com/2012/01/380795_2578899805857_1655254998_2388672_820374595_n.jpg" alt="Tarce in action at the Roller Derby World Cup in December" width="614" height="403"></a>
+<html><body><a href="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/s720x720/380795_2578899805857_1655254998_2388672_820374595_n.jpg" target="_blank"><img class="size-full wp-image-764  " title="Tarce in action at the Roller Derby World Cup in December" src="http://www.scottishrollerderbyblog.com/2012/01/380795_2578899805857_1655254998_2388672_820374595_n.jpg" alt="Tarce in action at the Roller Derby World Cup in December" width="614" height="403"></a>
 
 The skaters always seem to be the stars of the Roller Derby show, but realistically, a live bout would dissolve into chaos if we didn't have Team Line Up Managers, Bench Managers and Non-Skating Officials (NSOs).
 

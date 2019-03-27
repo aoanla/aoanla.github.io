@@ -4,7 +4,7 @@ The Tier 4 <em>Northern</em> Playoffs, offering promotion into Tier 3 North Divi
 
 We caught up with FVRG Team Captains Thump'her and Calamity Jen to hear their thoughts about the whole British Champs Tier 4 experience.
 
-<img class="alignnone size-large wp-image-5085" src="https://scottishrollerderbyblog.com/2015/11/brit-champs-t4-playoffs-poster.jpg?w=1024" alt="Brit-Champs-T4-Playoffs-Poster" width="1024" height="1024">
+<img class="alignnone size-large wp-image-5085" src="https://www.scottishrollerderbyblog.com/2015/11/brit-champs-t4-playoffs-poster.jpg?w=1024" alt="Brit-Champs-T4-Playoffs-Poster" width="1024" height="1024">
 
 <strong>Firstly, when you signed up to British Champs, near the end of last year, what did you expect out of the series?</strong>
 

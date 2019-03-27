@@ -9,7 +9,7 @@ The median experience of the skaters was <strong>3 years</strong>, with only one
 
 We started off the survey by investigating how they got involved with their current league. 7, <strong>47%</strong>, of respondents referred to finding out through friends, either online (Facebook or otherwise) or in person. One was led to join after reading an article about the league, and one via advertising in public spaces. The remainder were founding members of their league, or otherwise did not answer.
 
-<img class="aligncenter size-medium wp-image-9602" src="https://scottishrollerderbyblog.com/2016/10/screen-shot-2016-10-17-at-21-23-02.png?w=273" alt="screen-shot-2016-10-17-at-21-23-02" width="273" height="300">
+<img class="aligncenter size-medium wp-image-9602" src="https://www.scottishrollerderbyblog.com/2016/10/screen-shot-2016-10-17-at-21-23-02.png?w=273" alt="screen-shot-2016-10-17-at-21-23-02" width="273" height="300">
 
 Interestingly, a little over half had heard of Roller Derby before joining their league. Of the <strong>60%</strong> who had heard of Roller Derby from other venues, there were precisely two touchstones, each with <strong>43%</strong> of the eligible cohort: the movie "Whip It", and experiences of the sport in other countries - the UK or USA; one did not give a detailed response. Most did not find their experience of roller derby to differ from their expectations, although one explicitly noted that the experience was better than the film made out (less "sexy" and more "down to earth").
 
@@ -21,7 +21,7 @@ We also asked respondents two questions to see how they did interact with the wo
 On the former question, 4 did not respond in any way. The statistically significant majority of responses (53%, <strong>72%</strong> of those who answered at all) were both positive and reflected ideals of community - common words were "one family", "sisterhood", "inspirational" and "capable". Only one respondent expressed a complete lack of knowledge about the wider community.
 On the latter question, two respondents (<strong>13%</strong>) did not know what WFTDA was. Of the remainder, 4 (<strong>26%</strong>) focussed on the standards setting aspects of the Association, while another 5 (<strong>33%</strong>) expressed mainly aspirational or community related feeling towards it. (The rest simply repeated the exact meaning).
 
-<img class=" size-large wp-image-9582 aligncenter" src="https://scottishrollerderbyblog.com/2016/10/screen-shot-2016-10-17-at-19-59-15-2.png?w=1024" alt="screen-shot-2016-10-17-at-19-59-15-2" width="1024" height="540">
+<img class=" size-large wp-image-9582 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/10/screen-shot-2016-10-17-at-19-59-15-2.png?w=1024" alt="screen-shot-2016-10-17-at-19-59-15-2" width="1024" height="540">
 
 We were also interested as to how the respondents viewed Roller Derby - is it "<em>American</em>" or "<em>Western</em>" or both? Responses to both questions were mixed, and not well correlated, suggesting that images of "America" and "The West" are not close synonyms. However, there is a definite trend towards believing that Roller Derby is more Western than not, whilst the feelings about "Americanness" are more mixed.
 

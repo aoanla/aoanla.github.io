@@ -2,7 +2,7 @@
 
 The league received a lot of interest at the recent Sports Union Fayre in Dundee University and at Dundee College. To keep enthusiasm up before their next Fresh Meat intake in February 2012, Cilla Block organised an Open Day at the DISC to let potential new skaters see a mixed scrimmage in action, ask the Silvery Tayzers their burning questions, and get a chance to try on a pair of skates and have a roll about the hall.
 
-<a href="http://scottishrollerderbyblog.com/2011/11/rollergirlsopenday029.jpg"><img class="size-full wp-image-571" title="Dundee Roller Girls Open Day" src="http://scottishrollerderbyblog.com/2011/11/rollergirlsopenday029.jpg" alt="Dundee Roller Girls Open Day" width="614" height="554"></a>
+<a href="http://www.scottishrollerderbyblog.com/2011/11/rollergirlsopenday029.jpg"><img class="size-full wp-image-571" title="Dundee Roller Girls Open Day" src="http://www.scottishrollerderbyblog.com/2011/11/rollergirlsopenday029.jpg" alt="Dundee Roller Girls Open Day" width="614" height="554"></a>
 
 Skaters from Dundee Roller Girls, Fair City Rollers, Glasgow Roller Girls, and Fierce Valley Roller Girls took part in 3 sets of 20 minute scrims from 1:30pm, with the event volunteers explaining the game play and tactics to the crowd. They certainly seemed to enjoy what they saw - there were around 30 names on the sign-up sheet for DRGs Fresh Meat Mailing List by the end of the day!
 

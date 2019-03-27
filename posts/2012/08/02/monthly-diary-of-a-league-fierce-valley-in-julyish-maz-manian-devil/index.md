@@ -1,7 +1,7 @@
 <html><body><div>Okay, so the monthly diaries running a little late is turning out to be a theme. Entirely not to blame (and, in fact, responsible for leaping in at the last moment) is FVRG's diarist for this entry, Maz-Manian Devil!</div>
 <div>
 
-<a href="http://scottishrollerderbyblog.com/2012/08/jammer-1.jpg"><img class="size-full wp-image-1575" title="Maz-Manian doing her stuff against Belfast earlier in July." src="http://scottishrollerderbyblog.com/2012/08/jammer-1.jpg" alt="" width="403" height="400"></a> Maz-Manian carrying the jammer star in her debut bout against Belfast.
+<a href="http://www.scottishrollerderbyblog.com/2012/08/jammer-1.jpg"><img class="size-full wp-image-1575" title="Maz-Manian doing her stuff against Belfast earlier in July." src="http://www.scottishrollerderbyblog.com/2012/08/jammer-1.jpg" alt="" width="403" height="400"></a> Maz-Manian carrying the jammer star in her debut bout against Belfast.
 
 </div>
 <div><strong>What first attracted you to Roller Derby?</strong>

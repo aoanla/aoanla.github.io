@@ -8,7 +8,7 @@ Doors open at 2.30pm and tickets are available by visiting <a href="http://www.f
 
 Gill Crawford, a skater and trainer with BCR, is one of the main organisers.
 
-Gill – who skates under the name Bobbie Bang Bang and lives in Falkirk – said: “It’s going to be a<a href="/2015/05/295797_379246515524520_1556620922_n.jpg"><img class=" size-medium wp-image-4638 alignright" src="https://scottishrollerderbyblog.com/2015/05/295797_379246515524520_1556620922_n.jpg?w=300" alt="295797_379246515524520_1556620922_n" width="300" height="300"></a> fantastic day for a wonderful cause – please do your bit by coming along and joining the fun.
+Gill – who skates under the name Bobbie Bang Bang and lives in Falkirk – said: “It’s going to be a<a href="/2015/05/295797_379246515524520_1556620922_n.jpg"><img class=" size-medium wp-image-4638 alignright" src="https://www.scottishrollerderbyblog.com/2015/05/295797_379246515524520_1556620922_n.jpg?w=300" alt="295797_379246515524520_1556620922_n" width="300" height="300"></a> fantastic day for a wonderful cause – please do your bit by coming along and joining the fun.
 
 “Roller derby is known as one of the most inclusive sports in the world and this event is testament to that – people pulling together to support each other and a great cause.
 
@@ -17,7 +17,7 @@ Gill – who skates under the name Bobbie Bang Bang and lives in Falkirk – sai
 “The main bout of the day will see my own league’s co-ed team – the Belter Skelpers – up against the tremendous Team Crazy Legs. It’s going to be a thrilling clash and lots of fun.”
 
 Gill is one of the stalwarts of the BCR league – which also boasts a male team, the Skelpies, and female team, the Central Belters – but will be captaining Team Crazy Legs on the day.
-<p style="text-align:left;"><a href="/2015/05/10170956_451208795013992_6248589136822359751_n.png"><img class=" size-medium wp-image-4640 alignleft" src="https://scottishrollerderbyblog.com/2015/05/10170956_451208795013992_6248589136822359751_n.png?w=295" alt="10170956_451208795013992_6248589136822359751_n" width="295" height="300"></a>“I can’t wait,” she said. “This is a cause which is close to my heart – as it is for a lot of skaters. More than any other sport, roller derby is a community.</p>
+<p style="text-align:left;"><a href="/2015/05/10170956_451208795013992_6248589136822359751_n.png"><img class=" size-medium wp-image-4640 alignleft" src="https://www.scottishrollerderbyblog.com/2015/05/10170956_451208795013992_6248589136822359751_n.png?w=295" alt="10170956_451208795013992_6248589136822359751_n" width="295" height="300"></a>“I can’t wait,” she said. “This is a cause which is close to my heart – as it is for a lot of skaters. More than any other sport, roller derby is a community.</p>
 “This type of event shows the strength of spirit, unity and generosity that exists in that community and I’m proud to be playing my part.
 
 “It’s going to be a fantastic day for all the family – full of thrills and spills, a variety of stalls and entertainment for all ages.”

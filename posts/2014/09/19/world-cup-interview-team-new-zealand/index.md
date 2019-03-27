@@ -8,7 +8,7 @@ Team New Zealand shared the same initial group as Team Scotland in 2011, and des
 
 Team New Zealand Coach Pieces of Hate took the time to answer our questions, around a month ago. (We've added updates as always to cover changes since the interview took place).
 
-<a href="/2014/09/teamnz.jpg"><img class="size-full wp-image-3803" src="http://scottishrollerderbyblog.com/2014/09/teamnz.jpg" alt="Team New Zealand logo." width="645" height="645"></a> Team New Zealand logo. (Also by Pieces of Hate!)
+<a href="/2014/09/teamnz.jpg"><img class="size-full wp-image-3803" src="http://www.scottishrollerderbyblog.com/2014/09/teamnz.jpg" alt="Team New Zealand logo." width="645" height="645"></a> Team New Zealand logo. (Also by Pieces of Hate!)
 
 <strong><span class="im">On the topic of team selection - Team NZ is strongly predominantly composed of skaters from NZ leagues (with only a few from USA,Canada,Australia). I believe that was also the case in 2011. Can you tell me a bit about how your team selection process worked (including getting Coach positions etc)?</span></strong>
 New Zealand has formed an association to govern the sport here and set some standards. It was also formed to take complete control of the World Cup Team and the selection process. So we had an AGM and defined the positions needed to put the team together and its requirements and that went to vote. After the AGM a job description was set out to all leagues that joined the NZRDA (New Zealand Roller Derby Association) advertising for the position of Head Coach, Team Manager and Two Selectors. Once people applied for these roles, they were then voted in by member leagues.

@@ -1,6 +1,6 @@
 <html><body><p>This Saturday, Glasgow will witness the first ever public bout for the 2014 roster of Scotland's national women's Roller Derby team, Team Scotland. They'll be playing a hybrid team, the Euro Stars, featuring some of Scotland's best other skaters, and members of the Netherlands, Irish and Welsh and Swiss national teams! 
 
-<a href="http://scottishrollerderbyblog.com/2014/06/bout1.jpg"><img src="http://scottishrollerderbyblog.com/2014/06/bout1.jpg?w=614" alt="Team Scotland vs Euro Stars - first home bout of 2014 Team" width="614" height="866" class="aligncenter size-large wp-image-3524"></a>
+<a href="http://www.scottishrollerderbyblog.com/2014/06/bout1.jpg"><img src="http://www.scottishrollerderbyblog.com/2014/06/bout1.jpg?w=614" alt="Team Scotland vs Euro Stars - first home bout of 2014 Team" width="614" height="866" class="aligncenter size-large wp-image-3524"></a>
 
 Suffra Jett, one of the skaters joining the Team Scotland roster for 2014, told us, "I'm really stoked about my first game with Team Scotland. I feel really proud to be able to represent my country with a bunch of totally powerful and inspiring women and am looking forward to playing against such fierce opponents! Team Scotland have been working hard on gelling as a team, and hopefully on Saturday our hard work will pay off. Bring it!"
 

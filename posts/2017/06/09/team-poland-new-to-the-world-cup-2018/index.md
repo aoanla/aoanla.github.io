@@ -2,7 +2,7 @@
 
 Poland, despite having one of the largest populations in Central Europe, has only recently developed a significant Roller Derby population. We talked to one of Team Poland's organisers, Ewa Kaczyńska, about the formation of the National Team.
 
-<img class="aligncenter size-medium wp-image-19856" src="https://scottishrollerderbyblog.com/2017/06/screen-shot-2017-06-02-at-15-34-22.png?w=300" alt="Screen Shot 2017-06-02 at 15.34.22" width="300" height="188"> The Polish Flag (standing in for Team Poland's logo)
+<img class="aligncenter size-medium wp-image-19856" src="https://www.scottishrollerderbyblog.com/2017/06/screen-shot-2017-06-02-at-15-34-22.png?w=300" alt="Screen Shot 2017-06-02 at 15.34.22" width="300" height="188"> The Polish Flag (standing in for Team Poland's logo)
 
 With Roller Derby having only come to Poland in 2013 - the first league in Poznań quickly followed by Warsaw, then Wrocław, Szczecin and Gdańsk - there was little possibility to compete in the 2014 World Cup. Since then, Polish Derby has grown considerably, to the point of holding their first <strong><a href="https://www.facebook.com/events/1232048456872900/">Derby Sevens tournament</a></strong> this year, as well as hosting one of Scald Eagle &amp; Lady Trample's <a href="https://www.facebook.com/events/1852698681626181/"><strong>WinTourOpe bootcamp</strong></a> dates. Whilst not all the leagues are huge at the moment (there's a preference for mixed team events and scrims to cover the numbers for the smaller teams), Polish derby is still growing and in a strong position in the Central European vanguard.
 
@@ -27,7 +27,7 @@ As for all National Teams, and especially the newer ones, Team Poland are driven
 
 Surely, we do have them, but taking a part in such a big event could be an eye opener for people here! We would love them to acknowledge this sport as an athletic discipline, not only for 'outcasts'..."
 
-And part of growing that athletic image is, of course, better training. As we discussed with <a href="https://scottishrollerderbyblog.com/2017/04/26/team-austria-new-to-the-world-cup/"><strong>Team Austria</strong></a>, the advantage of  National Teams is also in the sharing of experience and skills, and Ewa agrees. "We all think that apart from World Cup, the following months will let us all benefit from the joined training sessions.
+And part of growing that athletic image is, of course, better training. As we discussed with <a href="https://www.scottishrollerderbyblog.com/2017/04/26/team-austria-new-to-the-world-cup/"><strong>Team Austria</strong></a>, the advantage of  National Teams is also in the sharing of experience and skills, and Ewa agrees. "We all think that apart from World Cup, the following months will let us all benefit from the joined training sessions.
 
 It is a big step for Polish roller derby, that's for sure!"
 

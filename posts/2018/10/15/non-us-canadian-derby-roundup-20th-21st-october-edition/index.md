@@ -6,7 +6,7 @@
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
 <h2></h2>
  
-<h2><img class="aligncenter size-large wp-image-27606" src="https://scottishrollerderbyblog.com/2018/10/eur_map16.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27606" src="https://www.scottishrollerderbyblog.com/2018/10/eur_map16.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
 <h2>Scotland</h2>
 Other than recruitments, it's fairly quiet in Scotland this weekend, mainly because the Big Blether 2018, Scotland's yearly community conference, is being held in Glasgow! The action with Scottish teams is across the border in Newcastle, where Auld Reekie are playing.
 <ul>
@@ -129,7 +129,7 @@ Europe is also pretty busy, with Cholet Roller Derby hosting a tournament on Sat
 	<li>East Coast Cyclones versus Waterford Viqueens [<a href="http://flattrackstats.com/node/104965"><strong>FTS</strong></a>]</li>
 </ul>
 </li>
-	<li><span style="color:#800000;"><strong>Warsaw</strong></span>, Poland: Warsaw Hellcats Roller Derby host the return of their Slavic Tournament from last year - grown to a Slavic+Baltic Roller Derby Sevens tournament, run as 2 groups of 3 (into 1st, 3rd, 5th place)! We talked more about this <a href="https://scottishrollerderbyblog.com/2018/08/23/the-slavic-roller-derby-tournament-grows-into-its-second-year-adds-the-baltics/"><strong>HERE</strong></a> [<a href="https://www.facebook.com/events/2079168135665222/"><strong>EVENT</strong></a>]
+	<li><span style="color:#800000;"><strong>Warsaw</strong></span>, Poland: Warsaw Hellcats Roller Derby host the return of their Slavic Tournament from last year - grown to a Slavic+Baltic Roller Derby Sevens tournament, run as 2 groups of 3 (into 1st, 3rd, 5th place)! We talked more about this <a href="https://www.scottishrollerderbyblog.com/2018/08/23/the-slavic-roller-derby-tournament-grows-into-its-second-year-adds-the-baltics/"><strong>HERE</strong></a> [<a href="https://www.facebook.com/events/2079168135665222/"><strong>EVENT</strong></a>]
 <ul>
 	<li>Teams competing:
 <ul>
@@ -178,8 +178,8 @@ Europe is also pretty busy, with Cholet Roller Derby hosting a tournament on Sat
 	<li>Mon, <span style="color:#0000ff;"><strong>Groningen</strong></span>, Netherlands: Roller Derby Groningen host the first in a series of events in their recruitment series - an open practice session, where the interested can come and see what training for derby looks like [<a href="https://www.facebook.com/events/754439381555246/"><strong>EVENT</strong></a>]</li>
 	<li>Tues, <b>Potsdam</b>, Germany: The Prussian Fat Cats of Roller Derby Potsdam present on Roller Derby and Feminism as part of the Critical Introductory Week at the University of Potsdam, a week-long series of lectures and workshops aiming to expand the minds and critical (political) thought of the attendees [<a href="https://www.facebook.com/events/330446867730243/"><strong>EVENT</strong></a>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27584" src="https://scottishrollerderbyblog.com/2018/10/asia_map3.png?w=1024" alt="ASIA_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27583" src="https://scottishrollerderbyblog.com/2018/10/anz_map4.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27584" src="https://www.scottishrollerderbyblog.com/2018/10/asia_map3.png?w=1024" alt="ASIA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27583" src="https://www.scottishrollerderbyblog.com/2018/10/anz_map4.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
 <h2><b>Pacific</b></h2>
 This weekend has a bunch of derby in Australia and New Zealand, with Rocky Roller Derby hosting their annual Knocktoberfest tournament. Next Wednesday sees a first in Japan, too, as Men's Roller Derby Japan host their first ever intraleague game!
 <ul>
@@ -237,7 +237,7 @@ This weekend has a bunch of derby in Australia and New Zealand, with Rocky Rolle
 	<li>Wed, <span style="color:#0000ff;"><strong>Bangkok</strong></span>, Thailand: Bangkok Roller Derby have their regular training evening, which is always open to new skaters [<strong><a href="https://www.facebook.com/BangkokRollerDerby/photos/a.496774633792536/1300042966799028/?type=3">EVENT Flyer</a></strong>]</li>
 </ul>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27613" src="https://scottishrollerderbyblog.com/2018/10/la_map7.png?w=1024" alt="LA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27613" src="https://www.scottishrollerderbyblog.com/2018/10/la_map7.png?w=1024" alt="LA_map" width="1024" height="768"></h2>
 <h2>Latin America</h2>
 As usual, for Latin America, this is what we can find in the area - we always appreciate help in finding events here.
 This weekend sees the majority of the on-track action in Neuquén, as Barderas Insurrectas host the 4th Torneo Valletano!
@@ -282,10 +282,10 @@ This weekend sees the majority of the on-track action in Neuquén, as Barderas I
 	<li>Sun, <span style="color:#0000ff;"><strong>Campo Grande</strong></span>, Brazil: Meat Machine Roller Derby are back, and hosting open training for anyone who wants to join on Sundays! [<a href="https://www.facebook.com/meatmachinerd/photos/a.538785516167929/1912559385457195/?type=3&amp;theater"><strong>EVENT Flyer</strong></a>]</li>
 	<li>Sun, <span style="color:#0000ff;"><strong>Sant<span style="color:#993300;">iago</span></strong></span>, Chile: Metropolitan Roller Derby host the 4th edition of their skaters and friends (Patines y Amigas) events, a chance to try out Roller Derby and maybe join the team, plus an open scrimmage! [<a href="https://www.facebook.com/events/180168739528007/"><strong>EVENT</strong></a>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27586" src="https://scottishrollerderbyblog.com/2018/10/me_map2.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27586" src="https://www.scottishrollerderbyblog.com/2018/10/me_map2.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
  
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27587" src="https://scottishrollerderbyblog.com/2018/10/sa_map2.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27587" src="https://www.scottishrollerderbyblog.com/2018/10/sa_map2.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 Our regular events in South Africa, Dubai and Abu Dhabi continue; in addition, Johannesburg hosts a home game, and Cairo has representation at a major expo event.
 <ul>

@@ -883,10 +883,10 @@ Oly Rollers (who do still play WFTDA rules derby, but just don't turn up to WFTD
 
 Sadly, there's not enough Coed/OTA derby tracked by FTS to provide a Top 50 - and the OTA teams are also geographically siloed - teams in the UK only play UK teams, and so on. We suspect that this is partly also due to poor recording of actual coed/OTA derby when it happens - so you can help us fix that by letting us know when you play a bout, and what the result is!
 
-On <a href="https://scottishrollerderbyblog.com/2017/07/06/world-roller-derby-rankings-top-40s-movers-shakers/2/"><strong>Page 2</strong></a>, we'll cover the big movers in the rankings in the last few months.
+On <a href="https://www.scottishrollerderbyblog.com/2017/07/06/world-roller-derby-rankings-top-40s-movers-shakers/2/"><strong>Page 2</strong></a>, we'll cover the big movers in the rankings in the last few months.
 <!--nextpage-->
 <h2>Movers and Shakers</h2>
-Of course, static Top 50s are all very well (if you want to see them, they're back on <a href="https://scottishrollerderbyblog.com/2017/07/06/world-roller-derby-rankings-top-40s-movers-shakers/1/"><strong>Page 1</strong></a>), but what's exciting is seeing how teams have moved around over the season.
+Of course, static Top 50s are all very well (if you want to see them, they're back on <a href="https://www.scottishrollerderbyblog.com/2017/07/06/world-roller-derby-rankings-top-40s-movers-shakers/1/"><strong>Page 1</strong></a>), but what's exciting is seeing how teams have moved around over the season.
 So, lets look at the way in which teams have changed ranking from our first rating of the season - 31 Jan - to the most recent rating on 4 July...
 There's several ways we could measure the degree to which a team has improved (or not) - we could look at the change in ranking position, or we could compare their change in rating in various ways.
 

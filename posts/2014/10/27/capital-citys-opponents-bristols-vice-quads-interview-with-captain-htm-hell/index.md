@@ -2,7 +2,7 @@
 
 Much like Bairn City Rollers here in Scotland, Bristol Roller Derby is a co-ed league and the Vice Quads are the male wing of that league. The League itself has three travel teams two of which are female, The Harbor Harlots a &amp; b along with the the men's team (the Vice Quads). As well as three travel teams they also have three home teams ADHD, Daughters of Anarchy and Smash Vandals. Bristol Roller Derby practice and scrimmage together which allows the whole league to support and coach both the Men's and Women's team’s simultaneously with all it’s members committed to the overall training and development of their league.
 
-<a href="/2014/10/vice-quads-logo.jpg"><img class="wp-image-4118 size-medium" src="https://scottishrollerderbyblog.com/2014/10/vice-quads-logo.jpg?w=218" alt="Vice Quads" width="218" height="300"></a> Picture courtesy of Vice Quads
+<a href="/2014/10/vice-quads-logo.jpg"><img class="wp-image-4118 size-medium" src="https://www.scottishrollerderbyblog.com/2014/10/vice-quads-logo.jpg?w=218" alt="Vice Quads" width="218" height="300"></a> Picture courtesy of Vice Quads
 
 With only a couple of weeks until the Vice Quads make the trip up to Scotland to take on Capital City, I took the opportunity to have a word with their newly promoted captain HTM Hell and ask him a few questions ahead of the bout.
 
@@ -26,7 +26,7 @@ Finding new guys is always ongoing. Being part of an esoteric sport, and one th
 
 Yes we've had skaters play in the Europeans before.
 
-<a href="/2014/10/jp.jpg"><img class="wp-image-4116 size-medium" src="https://scottishrollerderbyblog.com/2014/10/jp.jpg?w=200" alt="HTM Hell Vice Quads Captain" width="200" height="300"></a> HTM Hell Vice Quads Captain, Picture courtesy of Vice Quads
+<a href="/2014/10/jp.jpg"><img class="wp-image-4116 size-medium" src="https://www.scottishrollerderbyblog.com/2014/10/jp.jpg?w=200" alt="HTM Hell Vice Quads Captain" width="200" height="300"></a> HTM Hell Vice Quads Captain, Picture courtesy of Vice Quads
 
 <b>Its only natural to look up to and admire skaters and teams, for the Vice Quads who would this be and why?</b>
 

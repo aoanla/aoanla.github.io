@@ -21,9 +21,9 @@ Auld Reekie certainly haven't forgotten, and with the launch of their new identi
 <h2><span style="font-weight:400;">Building Concepts</span></h2>
 <span style="font-weight:400;">Our league members sent in all of their thoughts and ideas about the look and feel of the logo, team shirts, design concepts, branding and we gathered up some keywords to focus us:</span>
 
-<img class="aligncenter size-medium wp-image-27691" src="https://scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-22-44-19.png?w=300" alt="ARRD Word Cloud" width="300" height="260">
+<img class="aligncenter size-medium wp-image-27691" src="https://www.scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-22-44-19.png?w=300" alt="ARRD Word Cloud" width="300" height="260">
 <h3>Revealing the New Look!</h3>
-<img class=" size-medium wp-image-27692 alignleft" src="https://scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-22-44-36.png?w=250" alt="ARRDLogo1" width="250" height="300">
+<img class=" size-medium wp-image-27692 alignleft" src="https://www.scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-22-44-36.png?w=250" alt="ARRDLogo1" width="250" height="300">
 
 <span style="font-weight:400;">The main logo - it’s super adaptable; we wanted to be able to pull it apart to create recognisable mini marks (some are already in evidence on our current Taster Day advertising - sneaky sneak preview!)</span>
 
@@ -31,11 +31,11 @@ Auld Reekie certainly haven't forgotten, and with the launch of their new identi
 
 <span style="font-weight:400;">The look and feel really reflects the galaxy vibe we’ve been using on our game poster designs for the last couple of years, and sits really well with our travel team names - the All Stars, All Star Reserves and ASTROs. We also loved the idea of unexplored territory, taking bold steps and reaching for the stars.</span>
 
-<img class="aligncenter size-large wp-image-27693" src="https://scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-22-45-02.png?w=1024" alt="ARRDLogo2" width="1024" height="293">
+<img class="aligncenter size-large wp-image-27693" src="https://www.scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-22-45-02.png?w=1024" alt="ARRDLogo2" width="1024" height="293">
 
 <span style="font-weight:400;">Font Version - we love the boldness of this, it’s simple and recognisable</span>
 
-<img class="aligncenter size-large wp-image-27694" src="https://scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-22-45-27.png?w=1024" alt="ARRDLogo mini marks" width="1024" height="579">
+<img class="aligncenter size-large wp-image-27694" src="https://www.scottishrollerderbyblog.com/2018/10/screen-shot-2018-10-31-at-22-45-27.png?w=1024" alt="ARRDLogo mini marks" width="1024" height="579">
 
 <span style="font-weight:400;">We dramatically revealed the new logo, with awkward tabletop drum rolls and much build up at the league AGM in September and never has anyone been as nervous, excited and shaky knee’d as the rebrand team on that day!  Thankfully everyone has been enthusiastic (apart from newborn baby Scrapnell who burst into tears at the moment of revelation - we’ll take that as tears of joy) and we cannot wait to see our new team shirts, due to be ready for the 2019 season.</span>
 

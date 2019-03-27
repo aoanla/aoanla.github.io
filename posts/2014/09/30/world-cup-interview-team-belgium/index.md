@@ -4,7 +4,7 @@ As with Team Netherlands yesterday, Belgium is new to the World Cup this time ar
 
 C.C. Titmouse was good enough to answer our questions on Team Belgium (these questions were received just before the Championships started).
 
-<a href="/2014/09/teambelgium.jpg"><img class="size-full wp-image-3897" src="http://scottishrollerderbyblog.com/2014/09/teambelgium.jpg" alt="Team Belgium logo: Anouk Paepen" width="517" height="533"></a> Team Belgium logo: Anouk Paepen
+<a href="/2014/09/teambelgium.jpg"><img class="size-full wp-image-3897" src="http://www.scottishrollerderbyblog.com/2014/09/teambelgium.jpg" alt="Team Belgium logo: Anouk Paepen" width="517" height="533"></a> Team Belgium logo: Anouk Paepen
 
 <strong>Most of Team Belgium is derived from the plentiful Belgian leagues (excepting Scotland's Lilo and Stitches?). How was the selection process organized (did you have more expatriate skaters try out and not make the team, for example)?</strong>
 

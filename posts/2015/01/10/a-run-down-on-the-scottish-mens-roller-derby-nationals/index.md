@@ -2,7 +2,7 @@
 
 As you will know In 2015 we will see some of the women's leagues in Scotland taking part in the <a href="https://www.facebook.com/BritishRollerDerbyChamps">British Championships</a> which will pull together leagues fom all over the UK playing against each other in regional/level based groups. In essence this is what the the SMRDN is about, but on a smaller scale. Bringing together all the Scottish mens leagues (Bairn City Rollers, Capital City, Granite City Brawlermen and Mean City) to play each other over the course of the year, tracking scores and wins and providing a winner with the most points at the end of the year. For the first season (2015) there will only be three leagues competing (Bairn City Rollers, Capital City and Mean City) with Granite City Brawlermen working hard to put together a team for 2016.
 
-<a href="/2015/01/1549327_613471468758290_2453333471572179977_n.jpg"><img class="wp-image-4514 size-large" src="https://scottishrollerderbyblog.com/2015/01/1549327_613471468758290_2453333471572179977_n.jpg?w=614" alt="1549327_613471468758290_2453333471572179977_n" width="614" height="215"></a> All the Scottish Men's Derby Leagues
+<a href="/2015/01/1549327_613471468758290_2453333471572179977_n.jpg"><img class="wp-image-4514 size-large" src="https://www.scottishrollerderbyblog.com/2015/01/1549327_613471468758290_2453333471572179977_n.jpg?w=614" alt="1549327_613471468758290_2453333471572179977_n" width="614" height="215"></a> All the Scottish Men's Derby Leagues
 
  
 

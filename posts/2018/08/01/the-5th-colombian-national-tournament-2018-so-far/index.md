@@ -24,7 +24,7 @@ Silver Lynx Roller Derby, and Bucaramanga's Pink Sucks Roller Derby, were unable
 
 From the results available to us, it appears that Valkyrias have significantly improved on last year, with only new-this-year Spring City causing them any particular challenge. (We've been unable to source complete scores for the tournament, however, so we can't be certain about the relative strength of third place holders Violet Attack.)
 
-<img class="aligncenter size-large wp-image-27149" src="https://scottishrollerderbyblog.com/2018/07/torneoregional3.png?w=1024" alt="TorneoRegional" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27149" src="https://www.scottishrollerderbyblog.com/2018/07/torneoregional3.png?w=1024" alt="TorneoRegional" width="1024" height="768">
 
  
 
@@ -45,7 +45,7 @@ This is also the ordering of the same teams at the end of the last National Tour
 
 The final phase of the tournament, in this year's design, will see the top 4 seed into a slaughter-pairing elimination tournament, to decide the winner, second and third places. As such, it is impossible for the Fugitivas to qualify for a top 3 position, and thus impossible for them to qualify for a place in the Torneo National this year.
 
-<img class="aligncenter size-large wp-image-27144" src="https://scottishrollerderbyblog.com/2018/07/torneodistrital.png?w=1024" alt="TorneoDistrital" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27144" src="https://www.scottishrollerderbyblog.com/2018/07/torneodistrital.png?w=1024" alt="TorneoDistrital" width="1024" height="768">
 
 <hr>
 

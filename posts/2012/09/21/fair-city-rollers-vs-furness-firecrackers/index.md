@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/09/spyshoved.jpg"><img src="http://scottishrollerderbyblog.com/2012/09/spyshoved.jpg" alt="" title="spyshoved" width="614" height="868" class="aligncenter size-full wp-image-1739"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/09/spyshoved.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/09/spyshoved.jpg" alt="" title="spyshoved" width="614" height="868" class="aligncenter size-full wp-image-1739"></a>
 
 <em>Image courtesy of FCR</em>
 

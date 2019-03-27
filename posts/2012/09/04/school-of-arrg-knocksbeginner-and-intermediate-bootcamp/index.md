@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/09/arrgknocks.jpg"><img src="http://scottishrollerderbyblog.com/2012/09/arrgknocks.jpg" alt="" title="arrgknocks" width="608" height="430" class="aligncenter size-full wp-image-1684"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/09/arrgknocks.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/09/arrgknocks.jpg" alt="" title="arrgknocks" width="608" height="430" class="aligncenter size-full wp-image-1684"></a>
 
 <em>Image courtesy of Auld Reekie Roller Girls</em>
 

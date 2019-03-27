@@ -10,50 +10,50 @@ This article presents the result of some visualisations of the partitions of Fla
 
 Looking at <strong>2005</strong>, Women's Flat Track Roller Derby was in its infancy. In fact, there are only 9 travel teams known to FlatTrackStats for the period 1 Jan 2005 to 1 Jan 2006, and of course all of them are in the USA. If we partition them into the groups which played each other, we find that there's one "big" group, with 5 members, and 2 small groups with a pair of teams a piece. (It turns out that most of the "isolated" groups we find in any year are 2 or 3 member groups, with teams who are just starting out and only really played one game that year.) The members of the big group are quite familiar today:
 
-<a href="/2015/06/group-1.png"><img class=" size-medium wp-image-4654 aligncenter" src="https://scottishrollerderbyblog.com/2015/06/group-1.png?w=300" alt="Graph of dominant group of Women's Derby Teams, 2005" width="300" height="300"></a>
+<a href="/2015/06/group-1.png"><img class=" size-medium wp-image-4654 aligncenter" src="https://www.scottishrollerderbyblog.com/2015/06/group-1.png?w=300" alt="Graph of dominant group of Women's Derby Teams, 2005" width="300" height="300"></a>
 
 (that's Gotham just sliding off the left edge of the graph).
 
 There are no Men's, Junior or Coed teams at this early stage of Flat Track Derby, of course.
 But Women's Derby is growing rapidly. Moving on to 1 Jan <strong>2006</strong> to 1 Jan 2007, many new teams have started up, mostly in the USA, but with one in Canada. And almost all of them (except one pair of teams) have played at least one other team in the biggest group:
-</p><p style="text-align:center;"><a href="https://scottishrollerderbyblog.com/2015/06/group-11.png"><img class="alignnone size-medium wp-image-4655" src="https://scottishrollerderbyblog.com/2015/06/group-11-e1433665617798.png?w=300" alt="Women's FT 2006 Biggest Group" width="300" height="287"></a></p>
+</p><p style="text-align:center;"><a href="https://www.scottishrollerderbyblog.com/2015/06/group-11.png"><img class="alignnone size-medium wp-image-4655" src="https://www.scottishrollerderbyblog.com/2015/06/group-11-e1433665617798.png?w=300" alt="Women's FT 2006 Biggest Group" width="300" height="287"></a></p>
 (here we start to see our colour scheme - <span style="color:#ff0000;">Red is USA</span>, <span style="color:#0000ff;">Blue is Canada</span>, and later on <span style="color:#008000;">Green will be Europe</span>, <span style="color:#33cccc;">Cyan: Australia</span>, <span style="color:#993366;">Purple: New Zealand</span>, <span style="color:#ffcc00;">Yellow the Asia-Pacific</span>, and White: South America - drawn from FTS' internal categorisations). This group is really the founding set of the competitive Division 1, and most of them are still there today.
 
 But, in <strong>2007</strong>, something new happens. There's the continuing explosion of USA derby (the biggest group by far):
-<p style="text-align:center;"><a href="https://scottishrollerderbyblog.com/2015/06/group-12.png"><img class="alignnone size-large wp-image-4656" src="https://scottishrollerderbyblog.com/2015/06/group-12-e1433665562310.png?w=660" alt="Women's Largest Group, 2007" width="660" height="635"></a></p>
+<p style="text-align:center;"><a href="https://www.scottishrollerderbyblog.com/2015/06/group-12.png"><img class="alignnone size-large wp-image-4656" src="https://www.scottishrollerderbyblog.com/2015/06/group-12-e1433665562310.png?w=660" alt="Women's Largest Group, 2007" width="660" height="635"></a></p>
 But the second biggest group, albeit only three teams, is the beginning of European derby: London Rockin' Rollers, Birmingham Blitz Dames and Stuttgart Valley Rollergirls taking their first steps onto the track:
-<p style="text-align:center;"><a href="/2015/06/group-2.png"><img class="alignnone size-medium wp-image-4657" src="https://scottishrollerderbyblog.com/2015/06/group-2.png?w=300" alt="Women's Second Largest Group, 2007" width="300" height="300"></a></p>
+<p style="text-align:center;"><a href="/2015/06/group-2.png"><img class="alignnone size-medium wp-image-4657" src="https://www.scottishrollerderbyblog.com/2015/06/group-2.png?w=300" alt="Women's Second Largest Group, 2007" width="300" height="300"></a></p>
 (2007 is also the start of Men's Flat Track Roller Derby, with Harm City playing The Dirty Dozen for the first ever official bout.)
 
 By the end of 2008, the European Derby seed is beginning to grow, but they're still entirely separate from the big connected group in the USA. As well as a smattering of teams in the USA and Canada who only played one bout in 2008, there's also the beginning of Cyan on our graphs, with Adelaide Roller Derby playing Victorian Roller Derby League for the first Australian derby on the Flat Track. These are both trends that continue into the end of <strong>2009</strong>, with three entirely disconnected centres of Derby developing:
 <p style="text-align:center;">The big USA/Canada (where you can see the tightly linked central bunch of "Division 1" teams continuing to dominate derby):
-<a href="https://scottishrollerderbyblog.com/2015/06/group-13.png"><img class="alignnone size-large wp-image-4658" src="https://scottishrollerderbyblog.com/2015/06/group-13-e1433665656698.png?w=660" alt="W Group 1 - 2009" width="660" height="652"></a></p>
+<a href="https://www.scottishrollerderbyblog.com/2015/06/group-13.png"><img class="alignnone size-large wp-image-4658" src="https://www.scottishrollerderbyblog.com/2015/06/group-13-e1433665656698.png?w=660" alt="W Group 1 - 2009" width="660" height="652"></a></p>
 The growing Europe (Names from FTS database, so Glasgow appear under their modern name of Glasgow Roller <em>Derby</em>):
-<a href="https://scottishrollerderbyblog.com/2015/06/group-21.png"><img class=" size-large wp-image-4659 aligncenter" src="https://scottishrollerderbyblog.com/2015/06/group-21-e1433665701389.png?w=660" alt="Group 2" width="660" height="570"></a>
+<a href="https://www.scottishrollerderbyblog.com/2015/06/group-21.png"><img class=" size-large wp-image-4659 aligncenter" src="https://www.scottishrollerderbyblog.com/2015/06/group-21-e1433665701389.png?w=660" alt="Group 2" width="660" height="570"></a>
 
 The nascent Australia (so early that we have 6 teams, each of which played only one bout):
 <table>
 <tbody>
 <tr>
-<td><a href="/2015/06/group-10.png"><img class=" wp-image-4660 size-thumbnail aligncenter" src="https://scottishrollerderbyblog.com/2015/06/group-10.png?w=150" alt="Group 10" width="150" height="150"></a></td>
-<td><a href="/2015/06/group-131.png"><img class="alignnone wp-image-4661 size-thumbnail aligncenter" src="https://scottishrollerderbyblog.com/2015/06/group-131.png?w=150" alt="Group 13" width="150" height="150"></a></td>
-<td><a href="/2015/06/group-17.png"><img class=" size-thumbnail wp-image-4662 aligncenter" src="https://scottishrollerderbyblog.com/2015/06/group-17.png?w=150" alt="Group 17" width="150" height="150"></a></td>
+<td><a href="/2015/06/group-10.png"><img class=" wp-image-4660 size-thumbnail aligncenter" src="https://www.scottishrollerderbyblog.com/2015/06/group-10.png?w=150" alt="Group 10" width="150" height="150"></a></td>
+<td><a href="/2015/06/group-131.png"><img class="alignnone wp-image-4661 size-thumbnail aligncenter" src="https://www.scottishrollerderbyblog.com/2015/06/group-131.png?w=150" alt="Group 13" width="150" height="150"></a></td>
+<td><a href="/2015/06/group-17.png"><img class=" size-thumbnail wp-image-4662 aligncenter" src="https://www.scottishrollerderbyblog.com/2015/06/group-17.png?w=150" alt="Group 17" width="150" height="150"></a></td>
 </tr>
 </tbody>
 </table>
 Men's Derby has finally begun to reach a respectable size at this point, but still entirely USA based:
-<p style="text-align:center;"><a href="https://scottishrollerderbyblog.com/2015/06/group-14.png"><img class="alignnone size-medium wp-image-4665" src="https://scottishrollerderbyblog.com/2015/06/group-14-e1433665767740.png?w=300" alt="M Group 1 2009" width="300" height="251"></a></p>
+<p style="text-align:center;"><a href="https://www.scottishrollerderbyblog.com/2015/06/group-14.png"><img class="alignnone size-medium wp-image-4665" src="https://www.scottishrollerderbyblog.com/2015/06/group-14-e1433665767740.png?w=300" alt="M Group 1 2009" width="300" height="251"></a></p>
 In <strong>2010</strong>, however, two things happen of importance to the future of Roller Derby.
 
 Firstly, Europe finally contacts the USA, with London Rollergirls playing their first bouts across the Atlantic. Given the isolation of USA derby from the emerging European and Australasian areas, the ability of London surprises a lot of their opponents (setting a trend for both reactions to London, and reactions to non-US teams in general when visiting the USA).
 
-<a href="/2015/06/group-110.png"><img class=" size-large wp-image-4679 aligncenter" src="https://scottishrollerderbyblog.com/2015/06/group-110.png?w=660" alt="W Group 1 2010" width="660" height="627"></a>
+<a href="/2015/06/group-110.png"><img class=" size-large wp-image-4679 aligncenter" src="https://www.scottishrollerderbyblog.com/2015/06/group-110.png?w=660" alt="W Group 1 2010" width="660" height="627"></a>
 (the Green dot in the middle of the Red central dots is London, while the rest of Europe is relegated to the edge, due to lack of connections to the dense nexus of Important USA Teams). <em>Edit: interestingly, London A is already isolated from Europe by this point - they only played US teams in 2010. It is Rainy City who connect Europe with the USA, having played Oly Rollers B.</em>
 
 Secondly, the very first Junior derby starts up (this is <em>Cleveland Firestarters</em> (who were later replaced by Cleveland Junior Roller Derby) v <em>Indianapolis Junior Roller Derby</em>).
-<p style="text-align:center;"><a href="/2015/06/group-16.png"><img class="alignnone size-medium wp-image-4670" src="https://scottishrollerderbyblog.com/2015/06/group-16.png?w=300" alt="J Group 1 2010" width="300" height="300"></a></p>
+<p style="text-align:center;"><a href="/2015/06/group-16.png"><img class="alignnone size-medium wp-image-4670" src="https://www.scottishrollerderbyblog.com/2015/06/group-16.png?w=300" alt="J Group 1 2010" width="300" height="300"></a></p>
 Meanwhile, Australasian Derby is still developing apart from the rest of the world. Pirate City Rollers represent the first New Zealand travel team to play others, shown in purple:
-<p style="text-align:center;"> <a href="https://scottishrollerderbyblog.com/2015/06/group-22.png"><img class="alignnone size-medium wp-image-4667" src="https://scottishrollerderbyblog.com/2015/06/group-22-e1433665837223.png?w=300" alt="W Group 2 2010" width="300" height="244"></a></p>
+<p style="text-align:center;"> <a href="https://www.scottishrollerderbyblog.com/2015/06/group-22.png"><img class="alignnone size-medium wp-image-4667" src="https://www.scottishrollerderbyblog.com/2015/06/group-22-e1433665837223.png?w=300" alt="W Group 2 2010" width="300" height="244"></a></p>
 and a second wave of European derby is beginning, with Gent, Stockholm, Helsinki and others forming a new group of emerging teams, many of which will accelerate into importance both politically and competitively in the next few years:
-<p style="text-align:center;"><a href="https://scottishrollerderbyblog.com/2015/06/group-3.png"><img class="alignnone size-medium wp-image-4668" src="https://scottishrollerderbyblog.com/2015/06/group-3-e1433665858342.png?w=300" alt="W Group 3 2010" width="300" height="251"></a></p>
-We'll look at the trends in International Derby since the end of 2010 in our <strong><a href="https://scottishrollerderbyblog.com/2015/06/07/visualising-the-internationalisation-of-roller-derby-part-2-of-2-2011-to-present/">second post</a></strong> in this series, where we'll also publish some links to the code used for these plots.</body></html>
+<p style="text-align:center;"><a href="https://www.scottishrollerderbyblog.com/2015/06/group-3.png"><img class="alignnone size-medium wp-image-4668" src="https://www.scottishrollerderbyblog.com/2015/06/group-3-e1433665858342.png?w=300" alt="W Group 3 2010" width="300" height="251"></a></p>
+We'll look at the trends in International Derby since the end of 2010 in our <strong><a href="https://www.scottishrollerderbyblog.com/2015/06/07/visualising-the-internationalisation-of-roller-derby-part-2-of-2-2011-to-present/">second post</a></strong> in this series, where we'll also publish some links to the code used for these plots.</body></html>

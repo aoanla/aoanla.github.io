@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/10/brazil-logo.jpg"><img src="http://scottishrollerderbyblog.com/2011/10/brazil-logo.jpg" alt="" title="brazil logo" width="614" height="393" class="aligncenter size-full wp-image-583"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/10/brazil-logo.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/10/brazil-logo.jpg" alt="" title="brazil logo" width="614" height="393" class="aligncenter size-full wp-image-583"></a>
 
 <em>Image courtesy of Roller Derby Brazil</em>
 

@@ -1,6 +1,6 @@
 <html><body><p>Another month comes around for the <a href="http://nastynessiesrollergirls.wordpress.com/">Nasty Nessies</a>, and this time it's a pithy interview with Trixy Whips being served up.
 
-<a href="http://scottishrollerderbyblog.com/2012/05/trixie.jpeg"><img class="size-full wp-image-1267" title="trixie" src="http://scottishrollerderbyblog.com/2012/05/trixie.jpeg" alt="" width="560" height="898"></a> Trixy Whips, by James King
+<a href="http://www.scottishrollerderbyblog.com/2012/05/trixie.jpeg"><img class="size-full wp-image-1267" title="trixie" src="http://www.scottishrollerderbyblog.com/2012/05/trixie.jpeg" alt="" width="560" height="898"></a> Trixy Whips, by James King
 
 <strong>What first attracted you to Roller Derby?</strong>
 

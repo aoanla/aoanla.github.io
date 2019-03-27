@@ -8,18 +8,18 @@
 <tr>
 <td>
 
-<a href="/2015/07/3.jpeg"><img class="size-medium wp-image-4815" src="https://scottishrollerderbyblog.com/2015/07/3.jpeg?w=300" alt="Meat Train" width="300" height="300"></a> Meat Train (photo by Emear O'Connell)</td>
+<a href="/2015/07/3.jpeg"><img class="size-medium wp-image-4815" src="https://www.scottishrollerderbyblog.com/2015/07/3.jpeg?w=300" alt="Meat Train" width="300" height="300"></a> Meat Train (photo by Emear O'Connell)</td>
 <td>
 
-<a href="/2015/07/0.jpeg"><img class="wp-image-4816 size-medium" src="https://scottishrollerderbyblog.com/2015/07/0.jpeg?w=300" alt="0" width="300" height="300"></a> Lex</td>
+<a href="/2015/07/0.jpeg"><img class="wp-image-4816 size-medium" src="https://www.scottishrollerderbyblog.com/2015/07/0.jpeg?w=300" alt="0" width="300" height="300"></a> Lex</td>
 </tr>
 <tr>
 <td>
 
-<a href="/2015/07/1.jpeg"><img class="size-medium wp-image-4817" src="https://scottishrollerderbyblog.com/2015/07/1.jpeg?w=200" alt="DD" width="200" height="300"></a> Davie Darko (by ?)</td>
+<a href="/2015/07/1.jpeg"><img class="size-medium wp-image-4817" src="https://www.scottishrollerderbyblog.com/2015/07/1.jpeg?w=200" alt="DD" width="200" height="300"></a> Davie Darko (by ?)</td>
 <td>
 
-<a href="/2015/07/2.jpeg"><img class="size-medium wp-image-4818" src="https://scottishrollerderbyblog.com/2015/07/2.jpeg?w=200" alt="FF" width="200" height="300"></a> Firefoxx (by Graeme Willets)</td>
+<a href="/2015/07/2.jpeg"><img class="size-medium wp-image-4818" src="https://www.scottishrollerderbyblog.com/2015/07/2.jpeg?w=200" alt="FF" width="200" height="300"></a> Firefoxx (by Graeme Willets)</td>
 </tr>
 </tbody>
 </table>

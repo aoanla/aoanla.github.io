@@ -1,6 +1,6 @@
 <html><body><p>This month's diary from <a href="http://www.fvrg.co.uk/">Fierce Valley</a> comes from the talented Wiggy Stardust, just after the Parma Violents' first bout of the year, against <a href="http://www.prestonrollergirls.co.uk/">Preston Roller Girls</a>.
 
-<a href="http://scottishrollerderbyblog.com/2013/02/602323_10152271694600392_445056076_n.jpg"><img class="size-large wp-image-2239" alt="Wiggy Stardust at Fierce Valley's first public home bout (versus Wirral Whipiteres)." src="http://scottishrollerderbyblog.com/2013/02/602323_10152271694600392_445056076_n.jpg?w=614" width="614" height="409"></a> Wiggy Stardust at Fierce Valley's first public home bout (versus Wirral Whipiteres).
+<a href="http://www.scottishrollerderbyblog.com/2013/02/602323_10152271694600392_445056076_n.jpg"><img class="size-large wp-image-2239" alt="Wiggy Stardust at Fierce Valley's first public home bout (versus Wirral Whipiteres)." src="http://www.scottishrollerderbyblog.com/2013/02/602323_10152271694600392_445056076_n.jpg?w=614" width="614" height="409"></a> Wiggy Stardust at Fierce Valley's first public home bout (versus Wirral Whipiteres).
 
 <b>What first attracted you to Roller Derby?</b>
 

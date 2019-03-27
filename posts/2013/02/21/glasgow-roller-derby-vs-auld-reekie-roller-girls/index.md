@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2013/02/grd-v-arrg.jpg"><img src="http://scottishrollerderbyblog.com/2013/02/grd-v-arrg.jpg" alt="grd v arrg" width="401" height="567" class="aligncenter size-full wp-image-2227"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2013/02/grd-v-arrg.jpg"><img src="http://www.scottishrollerderbyblog.com/2013/02/grd-v-arrg.jpg" alt="grd v arrg" width="401" height="567" class="aligncenter size-full wp-image-2227"></a>
 
 <em>Image courtesy of GRD</em>
 

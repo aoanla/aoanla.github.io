@@ -19,4 +19,4 @@ YES!! A double header all in aid of not just one good cause but two.
 
 You can find more information at the Facebook event page - <a href="https://www.facebook.com/events/1484659011813489/">https://www.facebook.com/events/1484659011813489/</a>
 
-<a href="/2014/12/skate-of-ages-poster-2.jpg"><img class="size-large wp-image-4240" src="https://scottishrollerderbyblog.com/2014/12/skate-of-ages-poster-2.jpg?w=614" alt="Skate of Ages - Charity Bout" width="614" height="869"></a> Skate of Ages - Charity Bout</p></body></html>
+<a href="/2014/12/skate-of-ages-poster-2.jpg"><img class="size-large wp-image-4240" src="https://www.scottishrollerderbyblog.com/2014/12/skate-of-ages-poster-2.jpg?w=614" alt="Skate of Ages - Charity Bout" width="614" height="869"></a> Skate of Ages - Charity Bout</p></body></html>

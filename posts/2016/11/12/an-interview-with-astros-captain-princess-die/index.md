@@ -1,7 +1,7 @@
 <html><body><a href="http://www.arrg.co.uk"><strong>Auld Reekie Roller Girls</strong></a> have a had a pretty good year to date, and perhaps no better is this expressed than in the fortunes of their new C Team, the Auld Reekie All-Stars Rookies, who've been busily bouting since March this year, and already clocked up two wins.
 On the <strong>19th</strong>, they'll be flying across to Belfast to take on Belfast City Rockets in their first "international" bout, so we thought we'd catch up with ASTROs Captain Princess Die to see how they've managed to do so much so quickly!
 
-<img class="aligncenter size-medium wp-image-11272" src="https://scottishrollerderbyblog.com/2016/11/die.jpg?w=400" alt="die" width="500">
+<img class="aligncenter size-medium wp-image-11272" src="https://www.scottishrollerderbyblog.com/2016/11/die.jpg?w=400" alt="die" width="500">
 
 *<strong>So, you've been in ARRG since before the ASTROs ever existed, and now you're captaining them. Tell us a bit about how being Captain is going, since … March this year?</strong>
 
@@ -17,7 +17,7 @@ Everybody in the team is incredibly dedicated, working towards these tactics, an
 We've also had two closed bouts, which we won both of as well!
 So, yeah, we've had a really good run, so far.
 
-<img class="aligncenter size-large wp-image-11253" src="https://scottishrollerderbyblog.com/2016/11/princessdphoto.jpg?w=2048" alt="princessdphoto" width="1024" height="683"> Princess Die, left, facing off against Mean City in the ASTROs' most recent victory. (Photo: Laura MacDonald)
+<img class="aligncenter size-large wp-image-11253" src="https://www.scottishrollerderbyblog.com/2016/11/princessdphoto.jpg?w=2048" alt="princessdphoto" width="1024" height="683"> Princess Die, left, facing off against Mean City in the ASTROs' most recent victory. (Photo: Laura MacDonald)
 
 *<strong>Of course, your next bout is on the 19th, against Belfast City Rockets, your first "proper" away game, flying across the Irish Sea. How do you feel about the extra challenge of your first international - Flat Track Stats today <a href="http://flattrackstats.com/predictortool/q/20657/79213">predicts</a> a 50:50 perfect split as to the winner!</strong>
 

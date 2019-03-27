@@ -2,7 +2,7 @@
 
 Power of Scotland - the men’s national roller derby team – has a stunning new look featuring a Caledonian icon.
 </p><p style="text-align:left;">A plethora of prospective logos were submitted for the contest to help brand Power of Scotland’s push towards the World Cup in Calgary next summer.</p>
-The logos were put to the vote and the top two sent into the orbit of professional designer Admiral Attackbar - of Interplanetary Print Syndicate.<img class="size-medium wp-image-4845 alignright" src="https://scottishrollerderbyblog.com/2015/08/pos.jpg?w=300" alt="PoS" width="300" height="280">
+The logos were put to the vote and the top two sent into the orbit of professional designer Admiral Attackbar - of Interplanetary Print Syndicate.<img class="size-medium wp-image-4845 alignright" src="https://www.scottishrollerderbyblog.com/2015/08/pos.jpg?w=300" alt="PoS" width="300" height="280">
 
 The winning logo can now be revealed and the Power of Scotland team can’t wait to rock (and roll) it with pride.
 

@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/11/aus-logo.jpg"><img class="aligncenter size-full wp-image-581" title="aus logo" src="http://scottishrollerderbyblog.com/2011/11/aus-logo.jpg" alt="" width="614" height="542"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/11/aus-logo.jpg"><img class="aligncenter size-full wp-image-581" title="aus logo" src="http://www.scottishrollerderbyblog.com/2011/11/aus-logo.jpg" alt="" width="614" height="542"></a>
 
 <em>Image courtesy of Team Australia</em>
 

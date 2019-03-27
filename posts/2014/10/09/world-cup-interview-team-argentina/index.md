@@ -1,7 +1,7 @@
 <html><body><p>Next up from among the four South American teams taking part in the <a href="http://rollerderbyworldcup.com/">Blood &amp; Thunder Roller Derby World Cup</a> is <a href="https://www.facebook.com/pages/Roller-Derby-Argentina/460486460649633?ref=profile">Team Argentina</a>. Like Brasil, Argentina are returning to the competition, after placing 13th in Toronto in 2011.
 We talked to Head Coach of Team Argentina, Martin Blousson.
 
-<a href="/2014/10/logo-alta-color.jpg"><img class="size-full wp-image-3946" src="http://scottishrollerderbyblog.com/2014/10/logo-alta-color.jpg" alt="Team Argentina logo by  Leonel Yamil Escobar" width="614" height="578"></a> Team Argentina logo by Leonel Yamil Escobar
+<a href="/2014/10/logo-alta-color.jpg"><img class="size-full wp-image-3946" src="http://www.scottishrollerderbyblog.com/2014/10/logo-alta-color.jpg" alt="Team Argentina logo by  Leonel Yamil Escobar" width="614" height="578"></a> Team Argentina logo by Leonel Yamil Escobar
 
 
 <strong>Can you tell us how your team selection process worked, for both skaters and coaching staff?</strong>

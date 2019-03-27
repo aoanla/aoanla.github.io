@@ -4,7 +4,7 @@
 (Note: we're especially likely to be missing items this week, as Facebook's response to the Cambridge Analytica scandal has resulted in them turning off large parts of the services we use to automatically collate events for this article. We don't think we've missed <i>too</i> much, but...)
 
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
-<h2><img class=" size-large wp-image-27249 aligncenter" src="https://scottishrollerderbyblog.com/2018/08/eur_map10.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
+<h2><img class=" size-large wp-image-27249 aligncenter" src="https://www.scottishrollerderbyblog.com/2018/08/eur_map10.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
 <h2>Scotland</h2>
 This weekend is one of the busiest in Scottish Derby scheduling, with no less than three events, one a double header, across the country this Saturday (and another team off raising money for Charity)!
 <ul>
@@ -199,7 +199,7 @@ We think we've found all the roller derby in Latin America, this weekend, but th
 </ul>
 <h2></h2>
 <h2><b>Africa and Middle East</b></h2>
-<img class="size-large wp-image-27211 aligncenter" src="https://scottishrollerderbyblog.com/2018/08/sa_map1.png?w=1024" alt="SA_map" width="1024" height="768">
+<img class="size-large wp-image-27211 aligncenter" src="https://www.scottishrollerderbyblog.com/2018/08/sa_map1.png?w=1024" alt="SA_map" width="1024" height="768">
 
 We only know about the ongoing Pretoria-based FunSkates in this region this weekend.
 <ul>

@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/02/img2012-x22.jpg"><img class="aligncenter size-medium wp-image-912" title="IMG2012-X2" src="http://scottishrollerderbyblog.com/2012/02/img2012-x22.jpg?w=300" alt="" width="300" height="278"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/02/img2012-x22.jpg"><img class="aligncenter size-medium wp-image-912" title="IMG2012-X2" src="http://www.scottishrollerderbyblog.com/2012/02/img2012-x22.jpg?w=300" alt="" width="300" height="278"></a>
 
 When I was given the assignment to speak to Brim Stone I was so excited. But I knew I had to suppress my inner fangirl to take care of the job at hand. However, I couldn't help but gush a little bit.
 

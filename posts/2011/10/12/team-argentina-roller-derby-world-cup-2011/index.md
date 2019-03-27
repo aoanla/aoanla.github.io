@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/10/blanco.jpg"><img src="http://scottishrollerderbyblog.com/2011/10/blanco.jpg" alt="" title="CMYK básico" width="595" height="640" class="aligncenter size-full wp-image-283"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/10/blanco.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/10/blanco.jpg" alt="" title="CMYK básico" width="595" height="640" class="aligncenter size-full wp-image-283"></a>
 <em>Team Argentina logo designed by Julia Leo A.K.A White Rabbit,used with permission</em>
 
 <a href="https://www.facebook.com/pages/Argentina-All-Stars-Roller-Derby/160128824042346">Team Argentina</a> are one of the dark horses of the competition.Much like Team Ireland their team is a mix of experienced skaters from some famous leagues and enthusiastic newer girls.

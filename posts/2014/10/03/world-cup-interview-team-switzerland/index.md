@@ -6,7 +6,7 @@ Manta Attack was good enough to answer our questions.
 
  
 
-<a href="/2014/09/teamswitzerland.jpg"><img class="size-large wp-image-3920" src="http://scottishrollerderbyblog.com/2014/09/teamswitzerland.jpg?w=614" alt="Team Switzerland Logo: Kitty LaBang ( ComeauxDesign)" width="614" height="614"></a> Team Switzerland Logo: Kitty LaBang (<a href="https://www.facebook.com/pages/ComeauxDesign/168490229886054">ComeauxDesign</a>)
+<a href="/2014/09/teamswitzerland.jpg"><img class="size-large wp-image-3920" src="http://www.scottishrollerderbyblog.com/2014/09/teamswitzerland.jpg?w=614" alt="Team Switzerland Logo: Kitty LaBang ( ComeauxDesign)" width="614" height="614"></a> Team Switzerland Logo: Kitty LaBang (<a href="https://www.facebook.com/pages/ComeauxDesign/168490229886054">ComeauxDesign</a>)
 
 </p><div>
 <div></div>

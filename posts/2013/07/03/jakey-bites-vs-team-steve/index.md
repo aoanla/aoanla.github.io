@@ -4,4 +4,4 @@ And "Who are Team Steve?", I hear you ask! They formed in 2011 with a 'Best of 
 
 The last Jakey Bites bout in Grangemouth was a sell-out, and this one looks set to be just as popular! Make sure to buy your <a title="Buy Tickets from PayPal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=R75N74BAWZNJG" target="_blank">tickets online</a> for £6 to guarantee entry. Under 12s gain free admittance with a paying adult. Doors open at 2pm(ish) with the first whistle blown at 2:30pm.
 
-<a href="http://scottishrollerderbyblog.com/2013/07/jakey-bites-poster.jpg"><img class="size-full wp-image-2746" alt="Jakey Bites vs Team Steve Poster" src="http://scottishrollerderbyblog.com/2013/07/jakey-bites-poster.jpg" width="614" height="868"></a> Image courtesy of Jakey Bites</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/07/jakey-bites-poster.jpg"><img class="size-full wp-image-2746" alt="Jakey Bites vs Team Steve Poster" src="http://www.scottishrollerderbyblog.com/2013/07/jakey-bites-poster.jpg" width="614" height="868"></a> Image courtesy of Jakey Bites</p></body></html>

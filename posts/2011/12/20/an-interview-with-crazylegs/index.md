@@ -3,7 +3,7 @@
 <div></div>
 <div>
 
-<a href="http://scottishrollerderbyblog.com/2011/12/me-and-shenita-stretcher.jpg"><img class="size-full wp-image-711" title="CrazyLegs AND SHENITA STRETCHER!" src="http://scottishrollerderbyblog.com/2011/12/me-and-shenita-stretcher.jpg" alt="" width="614" height="431"></a>
+<a href="http://www.scottishrollerderbyblog.com/2011/12/me-and-shenita-stretcher.jpg"><img class="size-full wp-image-711" title="CrazyLegs AND SHENITA STRETCHER!" src="http://www.scottishrollerderbyblog.com/2011/12/me-and-shenita-stretcher.jpg" alt="" width="614" height="431"></a>
 
 </div>
 <div></div>
@@ -25,7 +25,7 @@ It’s interesting to note this trend for second period come backs!  In a tourn
 
 The USA game was all about the enjoyment and learning from madly talented skaters. We had a goal to minimise the amount of points they scored which is hilarious to think of now.  I was really focussed on the game, so no time to be star struck.  It's all a bit of a blur with random faces you know appearing and you think 'oh God that's Bonnie Thunders sailing past me!'  I had no idea I had knocked Suzy Hotrod over until I saw my Facebook page that night.  It was amazing the amount of sheer control they had over us – it was like they were playing in slow motion Matrix style and we were just madly reacting to everything and keeping going like duracell bunnies.  I have never expended so much energy in a bout before – I loved how our skaters kept getting back up and never gave up pushing, all with huge grins on faces.   I did notice Sexy Slaydie’s rear end holding me back on more than one occasion though, and after the game blurted out ‘I love you’ to her, like a geek.
 
-<a href="http://scottishrollerderbyblog.com/2011/12/me-and-suzy.jpg"><img class="size-medium wp-image-712" title="Crazylegs and Suzy Hotrod" src="http://scottishrollerderbyblog.com/2011/12/me-and-suzy.jpg?w=300" alt="" width="300" height="212"></a>
+<a href="http://www.scottishrollerderbyblog.com/2011/12/me-and-suzy.jpg"><img class="size-medium wp-image-712" title="Crazylegs and Suzy Hotrod" src="http://www.scottishrollerderbyblog.com/2011/12/me-and-suzy.jpg?w=300" alt="" width="300" height="212"></a>
 
 </div>
 <div><strong>Team Scotland ended up placing 11th in the rankings. How do you feel that ranking reflects the team’s performance?</strong></div>

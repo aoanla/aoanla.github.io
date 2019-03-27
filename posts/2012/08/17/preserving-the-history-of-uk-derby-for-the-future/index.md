@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/08/533405_136106239859192_881727727_n.jpg"><img class="size-full wp-image" src="http://scottishrollerderbyblog.com/2012/08/533405_136106239859192_881727727_n.jpg?w=790" alt="Image"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/08/533405_136106239859192_881727727_n.jpg"><img class="size-full wp-image" src="http://www.scottishrollerderbyblog.com/2012/08/533405_136106239859192_881727727_n.jpg?w=790" alt="Image"></a>
 
 A few weeks ago, I was fortunate to sit down with Cheap Skate, aka Ellie Harrison, a Glasgow Roller Derby skater who has undertaken the task of establishing a UK roller derby museum, with the aim of archiving as much about the sport as possible.
 

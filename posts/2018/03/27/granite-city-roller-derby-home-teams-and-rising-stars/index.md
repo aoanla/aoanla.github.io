@@ -2,7 +2,7 @@
 
 This time though, it's going to be a little bit different...
 
-Granite City Roller Derby are going to be hosting their first ever home teams game!  GCRD have never had the pleasure of hosting a home team game before.  We will have Team White versus Team Black.  Both teams will be made up mainly of GCRD skaters and will also feature some of our lovely friends from  further north.<a href="https://scottishrollerderbyblog.com/2017/07/gcrd.png"><img width="2048" height="2048" alt="" src="https://scottishrollerderbyblog.com/2017/07/gcrd.png" title="" class="aligncenter size-full wp-image-22709"></a>
+Granite City Roller Derby are going to be hosting their first ever home teams game!  GCRD have never had the pleasure of hosting a home team game before.  We will have Team White versus Team Black.  Both teams will be made up mainly of GCRD skaters and will also feature some of our lovely friends from  further north.<a href="https://www.scottishrollerderbyblog.com/2017/07/gcrd.png"><img width="2048" height="2048" alt="" src="https://www.scottishrollerderbyblog.com/2017/07/gcrd.png" title="" class="aligncenter size-full wp-image-22709"></a>
 
 Just because we're all pals, don't expect the teams to take it easy on each other. Considering the excellent results by both the Fight Hawks and the Northern Fights in 2017, this upcoming game promises to be interesting.
 

@@ -1,6 +1,6 @@
 <html><body><p>Quick on the heels of our last monthly diary, here's the <a href="http://nastynessiesrollergirls.wordpress.com/">Nasty Nessies</a>' entry for April, the probably-not-as-toastable-as-her-namesake Marge Mallow!
 
-<a href="http://scottishrollerderbyblog.com/2012/04/marge.jpeg"><img class="size-full wp-image-1119" title="marge" src="http://scottishrollerderbyblog.com/2012/04/marge.jpeg" alt="" width="370" height="552"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/04/marge.jpeg"><img class="size-full wp-image-1119" title="marge" src="http://www.scottishrollerderbyblog.com/2012/04/marge.jpeg" alt="" width="370" height="552"></a>
 
 <strong>What first attracted you to Roller Derby?</strong>
 

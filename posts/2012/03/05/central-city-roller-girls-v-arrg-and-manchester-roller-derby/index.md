@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/03/image1.jpg"><img src="http://scottishrollerderbyblog.com/2012/03/image1.jpg" alt="" title="Image1" width="464" height="698" class="aligncenter size-full wp-image-944"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/03/image1.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/03/image1.jpg" alt="" title="Image1" width="464" height="698" class="aligncenter size-full wp-image-944"></a>
 
 <em>Image courtesy of Central City Roller Girls</em>
 

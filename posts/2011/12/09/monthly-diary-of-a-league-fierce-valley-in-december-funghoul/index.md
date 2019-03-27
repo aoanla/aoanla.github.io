@@ -1,6 +1,6 @@
 <html><body><p>December is the darkest month, so it's a good job we have another monthly entry in <a href="http://www.fvrg.co.uk/">Fierce Valley Roller Girls</a>' selection to brighten up your day. Last month's interviewee, Max Attaxx, selected Fun Ghoul as her successor, so here's her views on her past month or so.
 
-<a href="boutday.com"><img class="size-full wp-image-662" title="FunGhoul,Jamming" src="http://scottishrollerderbyblog.com/2011/12/jammer.jpg" alt="" width="479" height="720"></a>
+<a href="boutday.com"><img class="size-full wp-image-662" title="FunGhoul,Jamming" src="http://www.scottishrollerderbyblog.com/2011/12/jammer.jpg" alt="" width="479" height="720"></a>
 
 <strong>What first attracted you to roller derby?</strong>
 

@@ -2,7 +2,7 @@
 
 <img class="size-full wp-image-14040 aligncenter" src="/2017/01/pan-asian.jpg" alt="pan-asian" width="223" height="200">
 
-Readers may remember our coverage of Japan's second-ever Roller Derby Tournament, the<a href="https://scottishrollerderbyblog.com/2017/01/19/the-tomodachi-derby-tournament-the-teams/"><strong> Tomodachi Derby Tournament</strong></a>, in Okinawa earlier this year. The <a href="https://scottishrollerderbyblog.com/2017/02/08/the-tomodachi-cup-teams-pan-asian-spring-rollers/"><strong>Pan-Asian Spring Rollers</strong></a> were one of two "exhibition" teams founded to attend - comprising of skaters from Beijing Roller Derby, Shanghai Roller Derby, Hong Kong Roller Derby (the three Chinese leagues), and Bangkok Roller Derby for Thailand.
+Readers may remember our coverage of Japan's second-ever Roller Derby Tournament, the<a href="https://www.scottishrollerderbyblog.com/2017/01/19/the-tomodachi-derby-tournament-the-teams/"><strong> Tomodachi Derby Tournament</strong></a>, in Okinawa earlier this year. The <a href="https://www.scottishrollerderbyblog.com/2017/02/08/the-tomodachi-cup-teams-pan-asian-spring-rollers/"><strong>Pan-Asian Spring Rollers</strong></a> were one of two "exhibition" teams founded to attend - comprising of skaters from Beijing Roller Derby, Shanghai Roller Derby, Hong Kong Roller Derby (the three Chinese leagues), and Bangkok Roller Derby for Thailand.
 
 Originally, the plan was for them to simply exist for the one tournament - a chance for those 4 leagues to share costs and make a more competitive roster together - but the Spring Rollers have quickly become something more.
 
@@ -35,7 +35,7 @@ Willow: "If any teams want to join they just have to be in the region and put fo
 
 The next fixture in this new East Asian derby calendar is against Hong Kong Roller Derby on the 17th June.
 
-<img class="aligncenter size-medium wp-image-20178" src="https://scottishrollerderbyblog.com/2017/06/hkrd.jpg?w=300" alt="HKRD" width="300" height="300">
+<img class="aligncenter size-medium wp-image-20178" src="https://www.scottishrollerderbyblog.com/2017/06/hkrd.jpg?w=300" alt="HKRD" width="300" height="300">
 
 Hong Kong Roller Derby, which started out when founder Buffy SlayHers moved to Hong Kong from the USA in 2013, was inspired by an article listing "Top 5 Reasons HK Needs a Roller Derby Team" after realising that her new destination had no derby at all. As Buffy put it, "So I decided the best way to start was to "recruit " my friend, and roommate at the time, Glenda by having a roomie night and watching, yes, you guessed it, 'Whip It!' Now, before you start hating, and as cliche as it I, I think all of us love 'Whip It!' whether we have accepted the facts or not."
 

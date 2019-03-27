@@ -2,7 +2,7 @@
 
 Technically LeedsRD were new to Champs this time around, as this is their first year of competition. However, being formed from the merger of Leeds Roller Dolls and Hot Wheel Roller Derby, they have a lot of experienced skaters, and inherited LRD's position in Tier 1. The team were only just formed at the time of their first Champs games (and they are only just at the point of getting a new logo now), so this was always going to be a difficult competitive year for them.
 
-<img class="alignnone size-large wp-image-23291" src="https://scottishrollerderbyblog.com/2017/08/20642312_1417657074969467_922557361_o.jpg?w=1024" alt="20642312_1417657074969467_922557361_o" width="1024" height="683"> Leeds Roller Derby v Birmingham Blitz Dames Credit: Tallboy Images
+<img class="alignnone size-large wp-image-23291" src="https://www.scottishrollerderbyblog.com/2017/08/20642312_1417657074969467_922557361_o.jpg?w=1024" alt="20642312_1417657074969467_922557361_o" width="1024" height="683"> Leeds Roller Derby v Birmingham Blitz Dames Credit: Tallboy Images
 
 The final fixture for the Tier 1 comes in a few weeks, on the 26th August, as LeedsRD face London Brawl Saints, as do Birmingham Blitz Dames; whilst Bristol Roller Derby take on the season's likely champions, Middlesbrough Roller Derby. Sadly, the adjustments needed within LeedsRD have left them at the bottom of the table to date, but the team is positive about their rate of growth.
 

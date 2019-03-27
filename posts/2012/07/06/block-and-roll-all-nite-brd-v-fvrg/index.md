@@ -6,4 +6,4 @@ Belfast Roller Derby are going all out to embrace the Kiss theme! The bout sound
 
 Doors open at 7pm, skate-outs will be performed at 8pm sharp. Tickets can be purchased in advance for £5, or £7 on the night. Keep an eye on the <a title="Block and Roll All Nite Facebook Event" href="https://www.facebook.com/events/438465706173702/" target="_blank">Facebook Event</a> for details of online sales.
 
-<a href="http://scottishrollerderbyblog.com/2012/07/block-and-roll-all-night.jpg"><img class="size-full wp-image-1502" title="Block and Roll All Nite" src="http://scottishrollerderbyblog.com/2012/07/block-and-roll-all-night.jpg" alt="Block and Roll All Nite" width="614" height="869"></a> Block and Roll All Nite - image courtesy of Belfast Roller Derby</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2012/07/block-and-roll-all-night.jpg"><img class="size-full wp-image-1502" title="Block and Roll All Nite" src="http://www.scottishrollerderbyblog.com/2012/07/block-and-roll-all-night.jpg" alt="Block and Roll All Nite" width="614" height="869"></a> Block and Roll All Nite - image courtesy of Belfast Roller Derby</p></body></html>

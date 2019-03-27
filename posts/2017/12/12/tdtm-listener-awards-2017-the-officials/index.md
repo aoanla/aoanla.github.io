@@ -1,6 +1,6 @@
 <html><body><p>For some years now, the Talk Derby To Me Podcast has been running their community-nominated and voted Listener Awards, recognising members of the Roller Derby community in various categories. The current 2017 Awards voting form <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgboRdciRtRrjpUl7KTQRhj0_0ItZmQBENvFRe8wsa13VTjA/viewform"><strong>is here</strong></a>.
 
-Last year, TDTM added several categories, including one to recognise NSOs as they're a somewhat unsung part of the Roller Derby space, and yet essential to the sport. In response, we created a <a href="https://scottishrollerderbyblog.com/2016/12/16/tdtm-awards-the-nsos/"><strong>companion post</strong></a> allowing those nominated NSOs to say a bit about themselves - because the problem with being unsung is that people tend to be unaware of what it is you're doing, and how much you're doing!
+Last year, TDTM added several categories, including one to recognise NSOs as they're a somewhat unsung part of the Roller Derby space, and yet essential to the sport. In response, we created a <a href="https://www.scottishrollerderbyblog.com/2016/12/16/tdtm-awards-the-nsos/"><strong>companion post</strong></a> allowing those nominated NSOs to say a bit about themselves - because the problem with being unsung is that people tend to be unaware of what it is you're doing, and how much you're doing!
 
 This year, we're repeating the initiative, but opening it out to all Officials (nominees for the NSO and Referee awards) - collating responses from nominated Officials <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfNlbwAKIpxvo_ADH_YtSUmq3R07e4xJJFgfm2XH8JGvJ0Wng/viewform?usp=sf_link">here.</a></strong>
 
@@ -11,7 +11,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26402" src="https://scottishrollerderbyblog.com/2017/12/igor-maniac.jpg?w=768" alt="Igor Maniac" width="768" height="1024"></div></td>
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26402" src="https://www.scottishrollerderbyblog.com/2017/12/igor-maniac.jpg?w=768" alt="Igor Maniac" width="768" height="1024"></div></td>
 <td>
 <p class="p1">Croydon Roller Derby / Southern Discomfort Roller Derby</p>
 </td>
@@ -50,7 +50,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-medium wp-image-26401" src="https://scottishrollerderbyblog.com/2017/12/20369088_10159196283660235_6473929544143145711_o.jpg?w=300" alt="Funk as Puck" width="300" height="300"></div></td>
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-medium wp-image-26401" src="https://www.scottishrollerderbyblog.com/2017/12/20369088_10159196283660235_6473929544143145711_o.jpg?w=300" alt="Funk as Puck" width="300" height="300"></div></td>
 <td><strong>Independent (Portsmouth)</strong></td>
 <td><b>4.5 years (3.5 on skates)</b></td>
 </tr>
@@ -67,7 +67,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-large wp-image-26400" src="https://scottishrollerderbyblog.com/2017/12/23669151_10155913922634321_987640007465378756_o.jpg?w=1024" alt="Seb (Lille)" width="1024" height="683"></div></td>
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-large wp-image-26400" src="https://www.scottishrollerderbyblog.com/2017/12/23669151_10155913922634321_987640007465378756_o.jpg?w=1024" alt="Seb (Lille)" width="1024" height="683"></div></td>
 <td><strong style="font-family:inherit;font-size:inherit;">Lille Roller Girls (France)</strong></td>
 <td><b>5 years</b></td>
 </tr>
@@ -86,7 +86,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-medium wp-image-26423" src="https://scottishrollerderbyblog.com/2017/12/20728996_10102142273529082_2678593144560131707_o.jpg?w=300" alt="BigSmack" width="300" height="300"></div></td>
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-medium wp-image-26423" src="https://www.scottishrollerderbyblog.com/2017/12/20728996_10102142273529082_2678593144560131707_o.jpg?w=300" alt="BigSmack" width="300" height="300"></div></td>
 <td><b>Newcastle Roller Girls, Tyne &amp; Fear Roller Derby</b></td>
 <td><b>7 years</b></td>
 </tr>
@@ -122,7 +122,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-medium wp-image-26396" src="https://scottishrollerderbyblog.com/2017/12/14380016_10100686642377194_6212990695481911800_o-1.jpg?w=600" alt="Mags" width="300" height="300"></div></td>
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-medium wp-image-26396" src="https://www.scottishrollerderbyblog.com/2017/12/14380016_10100686642377194_6212990695481911800_o-1.jpg?w=600" alt="Mags" width="300" height="300"></div></td>
 <td><b>Newcastle Roller Girls</b></td>
 <td><b>5 years</b></td>
 </tr>
@@ -173,7 +173,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26395" src="https://scottishrollerderbyblog.com/2017/12/21728784_169710093591642_7659644889462405129_o.jpg?w=1024" alt="Jens Hötger" width="1024" height="768"></div></td>
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26395" src="https://www.scottishrollerderbyblog.com/2017/12/21728784_169710093591642_7659644889462405129_o.jpg?w=1024" alt="Jens Hötger" width="1024" height="768"></div></td>
 <td><b>RuhrPott Roller Derby</b></td>
 <td><b>5 years (coaching), full time officiating 1 year</b></td>
 </tr>
@@ -206,7 +206,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26417" src="https://scottishrollerderbyblog.com/2017/12/lee_gent_bigwhoop_headshot_preview.jpeg?w=1023" alt="lee_gent_bigwhoop_headshot_preview" width="1023" height="1024"></div></td>
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26417" src="https://www.scottishrollerderbyblog.com/2017/12/lee_gent_bigwhoop_headshot_preview.jpeg?w=1023" alt="lee_gent_bigwhoop_headshot_preview" width="1023" height="1024"></div></td>
 <td><b>Nottingham Hellfire Harlots</b></td>
 <td><b>1.5 years</b></td>
 </tr>
@@ -243,7 +243,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26394" src="https://scottishrollerderbyblog.com/2017/12/21427582_1908186592778538_910509932593124088_o.jpg?w=450" alt="Blind Io" width="225" height="300"></div></td>
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26394" src="https://www.scottishrollerderbyblog.com/2017/12/21427582_1908186592778538_910509932593124088_o.jpg?w=450" alt="Blind Io" width="225" height="300"></div></td>
 <td><b>Independant (Edinburgh)</b></td>
 <td><b>Almost 4 years :O</b></td>
 </tr>
@@ -260,7 +260,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-large wp-image-26399" src="https://scottishrollerderbyblog.com/2017/12/xrayted.jpg?w=1024" alt="XRayTed" width="1024" height="768"></div></td>
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-large wp-image-26399" src="https://www.scottishrollerderbyblog.com/2017/12/xrayted.jpg?w=1024" alt="XRayTed" width="1024" height="768"></div></td>
 <td><b>Rainy City Roller Derby</b></td>
 <td><b>3.5 years (ish)</b></td>
 </tr>
@@ -277,7 +277,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26433" src="https://scottishrollerderbyblog.com/2017/12/icemanchamps2017markoniemela.jpg?w=200" alt="IcemanChamps2017MarkoNiemela" width="200" height="300"></div>
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26433" src="https://www.scottishrollerderbyblog.com/2017/12/icemanchamps2017markoniemela.jpg?w=200" alt="IcemanChamps2017MarkoNiemela" width="200" height="300"></div>
  </td>
 <td><b>Gothenburg Roller Derby</b></td>
 <td><b>almost 4 years</b></td>
@@ -311,7 +311,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-large wp-image-26393" src="https://scottishrollerderbyblog.com/2017/12/13724064_1862000684033096_5497674975027850236_o.jpg?w=1024" alt="Yoshi" width="1024" height="643"></div></td>
+<div style="min-width:150px;display:inline-block;"> <img class="aligncenter size-large wp-image-26393" src="https://www.scottishrollerderbyblog.com/2017/12/13724064_1862000684033096_5497674975027850236_o.jpg?w=1024" alt="Yoshi" width="1024" height="643"></div></td>
 <td><b>Suffolk Roller Derby</b></td>
 <td><b>8 years</b></td>
 </tr>
@@ -328,7 +328,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26425" src="https://scottishrollerderbyblog.com/2017/12/22712579_10155797958234801_9106142030972842195_o.jpg?w=300" alt="Bomb Weasley" width="300" height="300"></div></td>
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26425" src="https://www.scottishrollerderbyblog.com/2017/12/22712579_10155797958234801_9106142030972842195_o.jpg?w=300" alt="Bomb Weasley" width="300" height="300"></div></td>
 <td><b>Independent (Portsmouth)</b></td>
 <td><b>4 years</b></td>
 </tr>
@@ -393,7 +393,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26414" src="https://scottishrollerderbyblog.com/2017/12/jones-headshot.jpg?w=300" alt="_Jones headshot" width="300" height="300"></div></td>
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-medium wp-image-26414" src="https://www.scottishrollerderbyblog.com/2017/12/jones-headshot.jpg?w=300" alt="_Jones headshot" width="300" height="300"></div></td>
 <td><b>UKRDA Independent / Oxford Wheels of Gory</b></td>
 <td><b>4 years</b></td>
 </tr>
@@ -460,7 +460,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"><img class="alignnone size-large wp-image-26387" src="https://scottishrollerderbyblog.com/2017/12/hnso-714-purple-pain-e1513075381443.jpg?w=1464" alt="HNSO 714 Purple Pain" width="732" height="1024"></div></td>
+<div style="min-width:150px;display:inline-block;"><img class="alignnone size-large wp-image-26387" src="https://www.scottishrollerderbyblog.com/2017/12/hnso-714-purple-pain-e1513075381443.jpg?w=1464" alt="HNSO 714 Purple Pain" width="732" height="1024"></div></td>
 <td><b>Spa Town Roller Derby</b></td>
 <td><b>3 years (in March)</b></td>
 </tr>
@@ -541,7 +541,7 @@ At present, we have about 50% responses, and we'll be updating the below post if
 <tbody>
 <tr>
 <td rowspan="3">
-<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26420" src="https://scottishrollerderbyblog.com/2017/12/pic-by-nsp189.jpg?w=1024" alt="Miss Fury: Pic by NSP189" width="1024" height="683"></div></td>
+<div style="min-width:150px;display:inline-block;"><img class="aligncenter size-large wp-image-26420" src="https://www.scottishrollerderbyblog.com/2017/12/pic-by-nsp189.jpg?w=1024" alt="Miss Fury: Pic by NSP189" width="1024" height="683"></div></td>
 <td><b>Dublin Roller Derby</b></td>
 <td><b>4 years (sporadically for 3)</b></td>
 </tr>

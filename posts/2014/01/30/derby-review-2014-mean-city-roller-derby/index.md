@@ -1,6 +1,6 @@
 <html><body><p>Just over a year ago, we caught up with BruiseDog from <a title="Mean City Roller Derby on Facebook" href="https://www.facebook.com/MeanCityRollerDerby" target="_blank">Mean City Roller Derby</a> to hear all about their first year. Their 2013 was packed full of training sessions, recruiting Fresh Meat, fundraising and hosting their first bout - so it's only right that we spoke with BruiseDog again to hear all the details!
 
-<a href="http://scottishrollerderbyblog.com/2014/01/mean-city.jpg"><img class="size-full wp-image-3226" alt="Mean City Roller Derby" src="http://scottishrollerderbyblog.com/2014/01/mean-city.jpg" width="614" height="409"></a> Mean City Roller Derby - Photo courtesy of Dave McAleavy
+<a href="http://www.scottishrollerderbyblog.com/2014/01/mean-city.jpg"><img class="size-full wp-image-3226" alt="Mean City Roller Derby" src="http://www.scottishrollerderbyblog.com/2014/01/mean-city.jpg" width="614" height="409"></a> Mean City Roller Derby - Photo courtesy of Dave McAleavy
 
 <strong><strong>1. Within a few months of starting up, Mean City were on a fast-moving recruitment drive. The last time we spoke, you had 10 league members - can you tell us how many you have now? Tell us a bit more about the new skaters at Mean City who joined in 2013!</strong></strong>
 
@@ -47,7 +47,7 @@ There can be no question - our biggest achievement and highlight had to be putti
 
 Also, we are delighted that we are now officially the brother league of Glasgow Roller Derby! It really makes us proud to be tied in with them and we will be working more closely in 2014.<strong> </strong>
 
-<a href="http://scottishrollerderbyblog.com/2014/01/mean-city-group.jpg"><img class="size-full wp-image-3224" alt="Mean City Roller Derby" src="http://scottishrollerderbyblog.com/2014/01/mean-city-group.jpg" width="614" height="409"></a> Tea Virus from Mean City lines up to jam against Barrow Infernos - Photo courtesy of Dave McAleavy
+<a href="http://www.scottishrollerderbyblog.com/2014/01/mean-city-group.jpg"><img class="size-full wp-image-3224" alt="Mean City Roller Derby" src="http://www.scottishrollerderbyblog.com/2014/01/mean-city-group.jpg" width="614" height="409"></a> Tea Virus from Mean City lines up to jam against Barrow Infernos - Photo courtesy of Dave McAleavy
 
 <strong>8. What would you consider as your personal biggest achievement with Mean City in 2013?</strong>
 

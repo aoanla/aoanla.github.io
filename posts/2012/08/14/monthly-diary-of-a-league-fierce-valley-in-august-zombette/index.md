@@ -1,6 +1,6 @@
 <html><body><p>Back to a normal schedule this month, <a href="http://www.fvrg.co.uk/">Fierce Valley Roller Girls</a> bring you their latest diary entry, from the tiny but not at all shambling Zombette!
 
-<a href="http://scottishrollerderbyblog.com/2012/08/301519_255212477860259_646570614_n.jpeg"><img class="size-full wp-image-1598" title="301519_255212477860259_646570614_n" src="http://scottishrollerderbyblog.com/2012/08/301519_255212477860259_646570614_n.jpeg" alt="" width="440" height="651"></a> Zombette, by Claire "Chaos Faerie" Brunton
+<a href="http://www.scottishrollerderbyblog.com/2012/08/301519_255212477860259_646570614_n.jpeg"><img class="size-full wp-image-1598" title="301519_255212477860259_646570614_n" src="http://www.scottishrollerderbyblog.com/2012/08/301519_255212477860259_646570614_n.jpeg" alt="" width="440" height="651"></a> Zombette, by Claire "Chaos Faerie" Brunton
 
 <strong>What first attracted you to Roller Derby?</strong>
 

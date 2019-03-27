@@ -1,7 +1,7 @@
 <html><body><p>Working our way around the South American teams taking part in the <a href="http://rollerderbyworldcup.com/">Blood &amp; Thunder Roller Derby World Cup</a> we come to <a href="https://www.facebook.com/colombiarollerderby?ref=profile">Team Colombia</a>. Along with Chile, Colombia are entering the competition as newcomers, the two new 'dark horses' of Roller Derby in South America.
 We talked to Team Colombia Head Coach, Cesar Cuervo.
 
-<a href="/2014/10/photo-28.jpg"><img src="http://scottishrollerderbyblog.com/2014/10/photo-28.jpg" alt="Team Columbia logo by Yuya Mancilla  and Maria Paola Hernandez" width="614" height="621" class="size-full wp-image-3944"></a> Team Columbia logo by Yuya Mancilla  and Maria Paola Hernandez
+<a href="/2014/10/photo-28.jpg"><img src="http://www.scottishrollerderbyblog.com/2014/10/photo-28.jpg" alt="Team Columbia logo by Yuya Mancilla  and Maria Paola Hernandez" width="614" height="621" class="size-full wp-image-3944"></a> Team Columbia logo by Yuya Mancilla  and Maria Paola Hernandez
 
 <strong>How are the team preparing for the the World Cup?</strong>
 

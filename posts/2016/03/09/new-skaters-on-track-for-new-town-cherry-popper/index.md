@@ -1,6 +1,6 @@
 <html><body><p>This <strong>March 19th</strong> sees the Livingston area's <strong>New Town Roller Girls</strong> host a one of roller derby's traditions - a <a href="https://www.facebook.com/events/1048868645164481/">cherry popper bout</a>, showcasing new skaters from a mix of leagues. The bout will be held in New Town's current bouting venue, <strong><a href="https://goo.gl/maps/DSZTrnU8cYo">Blackburn Community Centre</a></strong>.
 
-<img class="aligncenter size-medium wp-image-6395" src="https://scottishrollerderbyblog.com/2016/03/412387_204493976333497_2093997456_o.jpg?w=600" alt="412387_204493976333497_2093997456_o" width="300" height="300">
+<img class="aligncenter size-medium wp-image-6395" src="https://www.scottishrollerderbyblog.com/2016/03/412387_204493976333497_2093997456_o.jpg?w=600" alt="412387_204493976333497_2093997456_o" width="300" height="300">
 
 Skaters from Auld Reekie Roller Girls, Bairn City Rollers, Lothian Derby Dolls, Doonhame Derby Dolls, Ayrshire Roller Derby, Fair City Rollers and Preston Roller Girls will join host New Town's own new skaters on track in two exhibition teams: The Morello Mashers (skating in hot pink) and the Women of Mass Destruction (skating in sapphire).
 

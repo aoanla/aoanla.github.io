@@ -2,7 +2,7 @@
 <div></div>
 <div>
 
-<a href="http://scottishrollerderbyblog.com/2012/01/cherry.jpg"><img class="size-full wp-image-809" title="cherry" src="http://scottishrollerderbyblog.com/2012/01/cherry.jpg" alt="" width="614" height="887"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/01/cherry.jpg"><img class="size-full wp-image-809" title="cherry" src="http://www.scottishrollerderbyblog.com/2012/01/cherry.jpg" alt="" width="614" height="887"></a>
 
 </div>
 <div></div>

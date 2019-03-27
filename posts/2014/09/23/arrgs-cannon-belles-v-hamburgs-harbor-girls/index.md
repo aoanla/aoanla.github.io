@@ -8,4 +8,4 @@ The 'vendor village' will be open for business before the game and at half-time,
 
 Please join ARRG's <a title="ARRG Facebook Event" href="https://www.facebook.com/events/1417012465241631/" target="_blank">Facebook Event</a> for more details on the event and how you can show your support.
 
-<a href="/2014/09/arrg-v-hamburg.jpg"><img class="size-full wp-image-3854" src="http://scottishrollerderbyblog.com/2014/09/arrg-v-hamburg.jpg" alt="ARRG V HAMBURG" width="614" height="237"></a> Image courtesy of Auld Reekie Roller Girls</p></body></html>
+<a href="/2014/09/arrg-v-hamburg.jpg"><img class="size-full wp-image-3854" src="http://www.scottishrollerderbyblog.com/2014/09/arrg-v-hamburg.jpg" alt="ARRG V HAMBURG" width="614" height="237"></a> Image courtesy of Auld Reekie Roller Girls</p></body></html>

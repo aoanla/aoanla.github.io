@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2013/01/arrg-hs2.jpg"><img src="http://scottishrollerderbyblog.com/2013/01/arrg-hs2.jpg" alt="arrg hs2" width="614" height="227" class="aligncenter size-full wp-image-2066"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2013/01/arrg-hs2.jpg"><img src="http://www.scottishrollerderbyblog.com/2013/01/arrg-hs2.jpg" alt="arrg hs2" width="614" height="227" class="aligncenter size-full wp-image-2066"></a>
 
 <em>Image courtesy of Auld Reekie Roller Girls</em>
 

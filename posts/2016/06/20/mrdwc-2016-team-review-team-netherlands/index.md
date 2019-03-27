@@ -1,6 +1,6 @@
 <html><body><p>Team Netherlands - Men's Derby are up next in our series of articles about the competing teams in the 2016 MRDWC. Here we find out how they have been preparing for Calgary and what they want to achieve whilst over there!
 
-<img class="size-medium wp-image-7860 aligncenter" src="https://scottishrollerderbyblog.com/2016/06/netherlands.jpg?w=300" alt="netherlands" width="300" height="286">
+<img class="size-medium wp-image-7860 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/06/netherlands.jpg?w=300" alt="netherlands" width="300" height="286">
 
 In the 2014 World Cup, Team Netherlands finished a creditable joint 11th, tied with Team Germany, after losing to Finland in the knockout stage.
 This time, they're placed in Group Blue, where the formidable France looks like dominating. The second spot in the group for the top tier of knockouts will be hotly contested, and Netherlands will have to contend with Australia and Belgium for it...

@@ -2,7 +2,7 @@
 
 What better way to start than with one of our most newly bouting leagues, Livingston's <a href="http://newtownrollergirls.tumblr.com/">New Town Roller Girls</a>? We caught up with team captain and league manager Hazzard to look over the highlights of their year.
 
-<a href="http://scottishrollerderbyblog.com/2014/01/img_0129-2-copy.jpg"><img class="size-large wp-image-3142" alt="New Town Roller Girls facing Furness Firecrackers B in their debut bout." src="http://scottishrollerderbyblog.com/2014/01/img_0129-2-copy.jpg?w=614" width="614" height="409"></a> New Town Roller Girls facing Furness Firecrackers B in their debut bout. (Photo Credit: Laura MacDonald)
+<a href="http://www.scottishrollerderbyblog.com/2014/01/img_0129-2-copy.jpg"><img class="size-large wp-image-3142" alt="New Town Roller Girls facing Furness Firecrackers B in their debut bout." src="http://www.scottishrollerderbyblog.com/2014/01/img_0129-2-copy.jpg?w=614" width="614" height="409"></a> New Town Roller Girls facing Furness Firecrackers B in their debut bout. (Photo Credit: Laura MacDonald)
 
  
 

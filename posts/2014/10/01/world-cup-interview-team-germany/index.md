@@ -6,7 +6,7 @@ In the European Championships this past month, they performed similarly to expec
 
 Thanks to Daniel, Team Manager, for his intensive answers to our questions about the team!
 
-<a href="/2014/09/teamgermany.jpg"><img class="aligncenter size-large wp-image-3899" src="http://scottishrollerderbyblog.com/2014/09/teamgermany.jpg?w=614" alt="TeamGermany logo (continuation of 2011 logo)" width="614" height="818"></a>
+<a href="/2014/09/teamgermany.jpg"><img class="aligncenter size-large wp-image-3899" src="http://www.scottishrollerderbyblog.com/2014/09/teamgermany.jpg?w=614" alt="TeamGermany logo (continuation of 2011 logo)" width="614" height="818"></a>
 
 <strong>The Team selection this time around features just 4 veterans from the 2011 roster, and the rest new members of the team. Does this reflect the growth of derby in Germany and is it useful to have the experience of the first world cup to hand?</strong>
 

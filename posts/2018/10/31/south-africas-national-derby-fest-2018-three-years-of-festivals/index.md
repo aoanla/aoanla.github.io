@@ -6,7 +6,7 @@ The South African Roller Derby community has always been, by necessity, a tightl
 That said, there's still a lot of appetite for a big National Tournament to raise the profile of the sport, so Golden City Rollers (previously C-Max Roller Derby) of Johannesburg started the "National Derby Fest" back in 2016. Back then, almost all the teams present were actually part of the C-Max league, with only Pretoria's P-Town making it to the contest from outside (with some skaters from Cape Town joining their team for the event).
 As a result, the 2016 winners were a C-Max home team: the Thundering Hellcats.
 
-<img class="aligncenter size-large wp-image-27680" src="https://scottishrollerderbyblog.com/2018/10/zanational_sa.png?w=1024" alt="ZANational_SA" width="1024" height="813">
+<img class="aligncenter size-large wp-image-27680" src="https://www.scottishrollerderbyblog.com/2018/10/zanational_sa.png?w=1024" alt="ZANational_SA" width="1024" height="813">
 
 Last year, with Golden City hosting again, the event was run as a triple header round robin between Johannesburg, Durban and Cape Town, with the hosts' travel team emerging victorious with a commanding lead over second place Cape Town, with a final score of 219:73!
 

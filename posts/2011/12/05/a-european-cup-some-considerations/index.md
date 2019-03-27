@@ -10,7 +10,7 @@ Now that we have rough rankings for all of the teams in Europe, a European Cup c
 
 For example, based on the rankings from the world cup:
 
-<a href="http://scottishrollerderbyblog.com/2011/12/screen-shot-2011-12-05-at-21-21-45.png"><img class="size-full wp-image-659" title="Double elimination bracket" src="http://scottishrollerderbyblog.com/2011/12/screen-shot-2011-12-05-at-21-21-45.png" alt="" width="614" height="357"></a>
+<a href="http://www.scottishrollerderbyblog.com/2011/12/screen-shot-2011-12-05-at-21-21-45.png"><img class="size-full wp-image-659" title="Double elimination bracket" src="http://www.scottishrollerderbyblog.com/2011/12/screen-shot-2011-12-05-at-21-21-45.png" alt="" width="614" height="357"></a>
 
 The advantage of a double (or triple) elimination tournament is that it would scale to additional teams from Europe (Norway, for example, or Wales, amongst others), with only a small increase in the number of required bouts - twice the number of participants minus 1 for double-, and thrice minus 1 for triple-elimination.
 

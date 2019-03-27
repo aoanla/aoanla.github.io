@@ -1,7 +1,7 @@
-<html><body><p>Back in 2012, Lead Jammer magazine burst onto the stage as one of two new UK-based Roller Derby Magazines. <a href="http://scottishrollerderbyblog.com/2012/02/19/an-interview-with-lead-jammer-magazine/">At the time</a>, Scottish Roller Derby blog editor Sandy caught up with LJ editor Moxie McMurder to talk about the launch.
+<html><body><p>Back in 2012, Lead Jammer magazine burst onto the stage as one of two new UK-based Roller Derby Magazines. <a href="http://www.scottishrollerderbyblog.com/2012/02/19/an-interview-with-lead-jammer-magazine/">At the time</a>, Scottish Roller Derby blog editor Sandy caught up with LJ editor Moxie McMurder to talk about the launch.
 Two years later, it seemed like a good time to catch up with how the magazine, and Moxie, had changed along with derby itself.
 
-<a href="http://scottishrollerderbyblog.com/2014/03/stevenagefull-metal1-171-edit.jpg"><img class="size-large wp-image-3359" src="http://scottishrollerderbyblog.com/2014/03/stevenagefull-metal1-171-edit.jpg?w=614" alt="Moxie McMurder, Full Metal Editor of Lead Jammer Magazine" width="614" height="795"></a> Moxie McMurder, Full Metal Editor of Lead Jammer Magazine
+<a href="http://www.scottishrollerderbyblog.com/2014/03/stevenagefull-metal1-171-edit.jpg"><img class="size-large wp-image-3359" src="http://www.scottishrollerderbyblog.com/2014/03/stevenagefull-metal1-171-edit.jpg?w=614" alt="Moxie McMurder, Full Metal Editor of Lead Jammer Magazine" width="614" height="795"></a> Moxie McMurder, Full Metal Editor of Lead Jammer Magazine
 
  
 

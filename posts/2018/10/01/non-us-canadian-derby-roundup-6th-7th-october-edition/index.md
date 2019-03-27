@@ -5,7 +5,7 @@
 
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
 <h2></h2>
-<img class="aligncenter size-large wp-image-27529" src="https://scottishrollerderbyblog.com/2018/10/eur_map6.png?w=2048" alt="EUR_map" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27529" src="https://www.scottishrollerderbyblog.com/2018/10/eur_map6.png?w=2048" alt="EUR_map" width="1024" height="768">
 <h2>Scotland</h2>
 The major event in Scotland this weekend is Dundee's Officiating Bootcamp, leveraging their internationally known officials to bring the best coaching to Scotland.
 <ul>
@@ -184,7 +184,7 @@ Europe's post season is also pretty active this weekend, with Sunday apparently 
 </ul>
 <h2></h2>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27504" src="https://scottishrollerderbyblog.com/2018/10/asia_map.png?w=1024" alt="ASIA_map" width="1024" height="768"><img class="aligncenter size-large wp-image-27503" src="https://scottishrollerderbyblog.com/2018/10/anz_map.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27504" src="https://www.scottishrollerderbyblog.com/2018/10/asia_map.png?w=1024" alt="ASIA_map" width="1024" height="768"><img class="aligncenter size-large wp-image-27503" src="https://www.scottishrollerderbyblog.com/2018/10/anz_map.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
 <h2><b>Pacific</b></h2>
 Every weekend seems to see another major tournament in Australia - and this weekend it's the first ever Australian National Roller Derby Championships - a "State level" tournament.
 <ul>
@@ -231,7 +231,7 @@ Every weekend seems to see another major tournament in Australia - and this week
 	<li>Wed, <span style="color:#0000ff;"><strong>Bangkok</strong></span>, Thailand: Bangkok Roller Derby have their regular training evening, which is always open to new skaters [<strong><a href="https://www.facebook.com/BangkokRollerDerby/photos/a.496774633792536/1300042966799028/?type=3">EVENT Flyer</a></strong>]</li>
 </ul>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27513" src="https://scottishrollerderbyblog.com/2018/10/la_map1.png?w=2048" alt="LA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27513" src="https://www.scottishrollerderbyblog.com/2018/10/la_map1.png?w=2048" alt="LA_map" width="1024" height="768"></h2>
 <h2>Latin America</h2>
 As usual, for Latin America, this is what we can find in the area - we always appreciate help in finding events here.
 This weekend sees a confluence of national events in multiple countries, with Chile hosting their next Torneo X fixture, and Mexico hosting the Division 2 championship of their Nationals.
@@ -279,10 +279,10 @@ This weekend sees a confluence of national events in multiple countries, with Ch
 </ul>
 </li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27506" src="https://scottishrollerderbyblog.com/2018/10/me_map.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27506" src="https://www.scottishrollerderbyblog.com/2018/10/me_map.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
 <h2></h2>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27507" src="https://scottishrollerderbyblog.com/2018/10/sa_map.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27507" src="https://www.scottishrollerderbyblog.com/2018/10/sa_map.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 Our regular events in South Africa, Dubai and Abu Dhabi continue!
 <ul>

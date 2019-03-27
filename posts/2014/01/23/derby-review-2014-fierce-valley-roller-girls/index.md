@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2014/01/1491511_10100162212354164_1868144851_o.jpg"><img src="http://scottishrollerderbyblog.com/2014/01/1491511_10100162212354164_1868144851_o.jpg" alt="FVRG and Oslo Roller Derby All Stars-Photography by Laura MacDonald" width="614" height="409" class="size-full wp-image-3191"></a> FVRG and Oslo Roller Derby All Stars-Photography by Laura MacDonald
+<html><body><a href="http://www.scottishrollerderbyblog.com/2014/01/1491511_10100162212354164_1868144851_o.jpg"><img src="http://www.scottishrollerderbyblog.com/2014/01/1491511_10100162212354164_1868144851_o.jpg" alt="FVRG and Oslo Roller Derby All Stars-Photography by Laura MacDonald" width="614" height="409" class="size-full wp-image-3191"></a> FVRG and Oslo Roller Derby All Stars-Photography by Laura MacDonald
 
 Next in our end of year reviews is Fierce Valley Roller Girls' captain, Gallus Cooper.
 

@@ -2,4 +2,4 @@
 Band's include the intruigingly named,I Punched A Lion,amongst others,with more to be confirmed,<em>and</em> a raffle with some epic prizes.
 Get yourselves along to support your local Derby team and party with the lovely Perth ladies.
 
-<a href="http://scottishrollerderbyblog.com/2011/08/fcr-fundraiser.jpg"><img src="http://scottishrollerderbyblog.com/2011/08/fcr-fundraiser.jpg" alt="" title="fcr fundraiser" width="509" height="720" class="aligncenter size-full wp-image-101"></a></p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2011/08/fcr-fundraiser.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/08/fcr-fundraiser.jpg" alt="" title="fcr fundraiser" width="509" height="720" class="aligncenter size-full wp-image-101"></a></p></body></html>

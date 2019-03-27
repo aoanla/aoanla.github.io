@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/01/lw-v-cb-bout-1.jpg"><img src="http://scottishrollerderbyblog.com/2012/01/lw-v-cb-bout-1.jpg" alt="" title="lw v cb bout 1" width="614" height="347" class="aligncenter size-full wp-image-829"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/01/lw-v-cb-bout-1.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/01/lw-v-cb-bout-1.jpg" alt="" title="lw v cb bout 1" width="614" height="347" class="aligncenter size-full wp-image-829"></a>
 
 <em>Photograph by Sam Skipsey</em>
 

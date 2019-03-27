@@ -1,6 +1,6 @@
 <html><body><p>Another day, another league Review for 2013. Moving a little further North than the last few, Silvery Tayzers Captain Psychomilly was happy to talk about <a href="http://dundeerollergirls.com/">Dundee Roller Girls</a>' year.
 
-<a href="http://scottishrollerderbyblog.com/2014/01/img_0341-copy.jpg"><img class="size-large wp-image-3158" alt="Dundee Roller Girls taking on Lothian Derby Dolls at Battle of Britain (Photo: Laura MacDonald)" src="http://scottishrollerderbyblog.com/2014/01/img_0341-copy.jpg?w=614" width="614" height="409"></a> Dundee Roller Girls taking on Lothian Derby Dolls at Battle of Britain (Photo: Laura MacDonald)
+<a href="http://www.scottishrollerderbyblog.com/2014/01/img_0341-copy.jpg"><img class="size-large wp-image-3158" alt="Dundee Roller Girls taking on Lothian Derby Dolls at Battle of Britain (Photo: Laura MacDonald)" src="http://www.scottishrollerderbyblog.com/2014/01/img_0341-copy.jpg?w=614" width="614" height="409"></a> Dundee Roller Girls taking on Lothian Derby Dolls at Battle of Britain (Photo: Laura MacDonald)
 
 <strong>Compared to 2012, 2013 has been a slightly more mixed year for the Silvery Tayzers; a couple of losses at the start of the season against Rainy City and Glasgow's Maiden Grrders, followed by an improving streak (a narrow loss against Newcastle's Whippin' Hinnies, and an almost unbroken winning streak since). You said last year that Dundee were aiming higher for their competition in 2013; how did you work to raise your game and fight back over the year?</strong>
 

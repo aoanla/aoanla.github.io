@@ -16,7 +16,7 @@ DE:</strong>   I discovered derby through my girlfriend who was making a short 
 <strong>DE:</strong>   I found them to be a mix of easy and hard tasks. Some of the mins just clicked and others took a while to get the hang of but they were always the most rewarding mins to tick off.
 <strong>MS:</strong>  Mins gave me a well-structured set of basic skating skills to work on and allowed me to measure my progress. During training my teammates would share their insights and offer valuable feedback but in skating everyone has their own technique and part of the process was figuring out my way of doing things. A lot of it is muscle memory so repetition is the key. Passing mins gave me the confidence that I can skate well enough to play without hurting myself or anyone else.
 
-<a href="/2015/09/msde.jpg"><img class="wp-image-4883 size-medium" src="https://scottishrollerderbyblog.com/2015/09/msde.jpg?w=245" alt="Mad Science and Darth Evader" width="245" height="300"></a> Mad Science and Darth Evader - Picture by V.L. Tickle
+<a href="/2015/09/msde.jpg"><img class="wp-image-4883 size-medium" src="https://www.scottishrollerderbyblog.com/2015/09/msde.jpg?w=245" alt="Mad Science and Darth Evader" width="245" height="300"></a> Mad Science and Darth Evader - Picture by V.L. Tickle
 
 <strong><b>What would you say has been your biggest achievement so far in derby?</b>
 DE:</strong>   Learning to do crossovers has to have been the most rewarding thing I’ve ever learned to do. I’d seen loads of skaters do it and couldn’t wait to learn myself and once I did I felt pretty damn good about myself!
@@ -41,7 +41,7 @@ DE:</strong> I get nerves just thinking about a bout let alone actually taking 
 <strong>Have you had any good advice so far to help you prepare for the bout?</strong>
 <strong>DE:</strong> Some of the best advice given to me was to just take it easy in the first few jams of a bout until the adrenaline kicks in, and this advice really has helped.
 
-<a href="/2015/09/de2.jpg"><img class="wp-image-4878 size-medium" src="https://scottishrollerderbyblog.com/2015/09/de2.jpg?w=274" alt="Darth Evader - Picture by V.L. Tickle" width="274" height="300"></a> Darth Evader - Picture by V.L. Tickle
+<a href="/2015/09/de2.jpg"><img class="wp-image-4878 size-medium" src="https://www.scottishrollerderbyblog.com/2015/09/de2.jpg?w=274" alt="Darth Evader - Picture by V.L. Tickle" width="274" height="300"></a> Darth Evader - Picture by V.L. Tickle
 
 <b>Are there any skaters (Male or Female) who inspire you?
 </b><strong>DE:</strong>   I’ve taken a lot of inspiration from all of the skaters at CCRD they all have different styles and I try to put different parts of their experience into my own performance. I also take a lot from the way Rose City’s Loren Mutch plays--or I try to at least!
@@ -51,6 +51,6 @@ DE:</strong> I get nerves just thinking about a bout let alone actually taking 
 DE:</strong>   Someday, I’d like to make POS and to do that I probably need to work on every part of my game. So in the short term that’s my main goal.
 <strong>MS:</strong>  I have the advantage of being stable and quite powerful but the downside is relatively low agility and difficulty with fine speed control, which I need to work on. Also to be a more effective team member, I need to work on my awareness of what is going on in the game and where I’m needed.
 
-<a href="/2015/09/de3.jpg"><img class="wp-image-4879 size-medium" src="https://scottishrollerderbyblog.com/2015/09/de3.jpg?w=296" alt="Darth Evader" width="296" height="300"></a> Darth Evader - Picture by V.L. Tickle
+<a href="/2015/09/de3.jpg"><img class="wp-image-4879 size-medium" src="https://www.scottishrollerderbyblog.com/2015/09/de3.jpg?w=296" alt="Darth Evader" width="296" height="300"></a> Darth Evader - Picture by V.L. Tickle
 
 You can see Mad Science and Darth Evader play in the final game of this years Scottish Men's Roller Derby Nationals at Meddowbank on Saturday the 19th of September, for more information visit the <a href="https://www.facebook.com/events/920630431323750/">event page</a>.</body></html>

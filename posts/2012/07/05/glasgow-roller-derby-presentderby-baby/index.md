@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/07/poster_final1.jpg"><img src="http://scottishrollerderbyblog.com/2012/07/poster_final1.jpg" alt="" title="poster_final" width="614" height="871" class="aligncenter size-full wp-image-1490"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/07/poster_final1.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/07/poster_final1.jpg" alt="" title="poster_final" width="614" height="871" class="aligncenter size-full wp-image-1490"></a>
 
 <a href="http://glasgowrollerderby.com/">Glasgow Roller Derby</a> present a screening of the hotly anticipated movie,Derby Baby at <a href="http://www.thearches.co.uk/">The Arches</a>,Glasgow on Saturday the 21st of July.A very limited number of tickets were available <a href="http://regonline.activeeurope.com/Register/Checkin.aspx?EventID=1117418">here</a> at the time of writing,at a cost of £8.So you would be advised to act now if you want to see this first of its kind screening in Scotland.
 

@@ -17,7 +17,7 @@ Torneo X 2018 will consist of 4 fixtures across the coming months, spread across
 	<li><strong>3rd</strong> Fixture: Viña del Mar (Tacones Bandidos) <strong>6-7 October</strong></li>
 	<li><strong>Final</strong> Puerto Montt (Diosas Volcanicas) <strong>9-10 November</strong></li>
 </ul>
-<img class="aligncenter size-large wp-image-26981" src="https://scottishrollerderbyblog.com/2018/07/torneox_map.png?w=602" alt="TorneoX_map" width="602" height="1024">
+<img class="aligncenter size-large wp-image-26981" src="https://www.scottishrollerderbyblog.com/2018/07/torneox_map.png?w=602" alt="TorneoX_map" width="602" height="1024">
 <p class="p1"><span class="s1">The historical rankings for the previous editions of the tournament are: </span></p>
 
 <table>

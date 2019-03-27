@@ -1,6 +1,6 @@
-<html><body><p>As we've mentioned in <strong><a href="https://scottishrollerderbyblog.com/2016/11/03/november-56th-non-usa-derby-roundup/">our weekend roundup</a></strong>, the November update of the Scottish Roller Derby Ranking system is also available today. This draws from Flat Track Stats records for the 12 lunar months upto and including the 1st November.
+<html><body><p>As we've mentioned in <strong><a href="https://www.scottishrollerderbyblog.com/2016/11/03/november-56th-non-usa-derby-roundup/">our weekend roundup</a></strong>, the November update of the Scottish Roller Derby Ranking system is also available today. This draws from Flat Track Stats records for the 12 lunar months upto and including the 1st November.
 
-SRD Rank is an evolving system, but there's four changes we want to particularly mention for this second update. (The original SRD Rank document is <strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/2">here</a></strong>.)
+SRD Rank is an evolving system, but there's four changes we want to particularly mention for this second update. (The original SRD Rank document is <strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/2">here</a></strong>.)
 
 Firstly, SRD Rank is now hosted off of this wordpress site, at our technical web hosting: <strong><a href="http://aoanla.pythonanywhere.com/16-Nov-ranking.html">HERE</a></strong>.
 

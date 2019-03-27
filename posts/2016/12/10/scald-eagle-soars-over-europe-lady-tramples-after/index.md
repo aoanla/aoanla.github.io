@@ -8,7 +8,7 @@ The bootcamps are Coed, and include a Derby component, with Scald Eagle, and a R
 
 The current list of WinTourope locations is:
 
-<strong>Scotland</strong>: 7-8 Jan 2017 [Host: <strong><a href="https://scottishrollerderbyblog.com/2016/12/09/glasgow-mens-roller-derby/">Glasgow Men's Roller Derby</a></strong>] <strong><a href="https://www.facebook.com/events/1717432861812471/">https://www.facebook.com/events/1717432861812471/</a> <del>Tickets on sale 8pm 15 December </del> TODAY </strong>
+<strong>Scotland</strong>: 7-8 Jan 2017 [Host: <strong><a href="https://www.scottishrollerderbyblog.com/2016/12/09/glasgow-mens-roller-derby/">Glasgow Men's Roller Derby</a></strong>] <strong><a href="https://www.facebook.com/events/1717432861812471/">https://www.facebook.com/events/1717432861812471/</a> <del>Tickets on sale 8pm 15 December </del> TODAY </strong>
 
 <strong>Belgium</strong>: 15 Jan 2017 [Host: Namur Roller Girls] <strong><a href="https://www.facebook.com/events/348014092233029/">https://www.facebook.com/events/348014092233029/</a> Tickets on sale 21st Dec, 8pm [Belgian time] ALMOST ALL TICKET TYPES SOLD OUT (7pm GMT)</strong>
 

@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/01/fvrg_freshmeatposter.jpg"><img class="aligncenter size-full wp-image-745" title="FVRG Fresh Meat" src="http://scottishrollerderbyblog.com/2012/01/fvrg_freshmeatposter.jpg" alt="FVRG Fresh Meat" width="509" height="720"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/01/fvrg_freshmeatposter.jpg"><img class="aligncenter size-full wp-image-745" title="FVRG Fresh Meat" src="http://www.scottishrollerderbyblog.com/2012/01/fvrg_freshmeatposter.jpg" alt="FVRG Fresh Meat" width="509" height="720"></a>
 
 Do you live in the Forth Valley area and fancy playing Roller Derby? Well now is your chance! Fierce Valley Roller Girls invite you to their next Fresh Meat intake on Sunday 19th February at 11am in Bo’ness Recreation Center. Skating experience isn't necessary; you just need to be over 18, willing to learn and have fun!
 

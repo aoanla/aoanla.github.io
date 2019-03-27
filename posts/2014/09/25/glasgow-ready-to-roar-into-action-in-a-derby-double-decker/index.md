@@ -2,7 +2,7 @@
 
 The city’s first men’s roller derby team – Mean City – are once again hosting a special double-decker featuring top male and female skaters from north and south of the border.
 
-<a href="http://scottishrollerderbyblog.com/2014/09/mean-wirrals.jpg"><img class=" wp-image-3883 alignright" src="http://scottishrollerderbyblog.com/2014/09/mean-wirrals.jpg?w=300" alt="Mean Wirrals" width="416" height="164"></a>
+<a href="http://www.scottishrollerderbyblog.com/2014/09/mean-wirrals.jpg"><img class=" wp-image-3883 alignright" src="http://www.scottishrollerderbyblog.com/2014/09/mean-wirrals.jpg?w=300" alt="Mean Wirrals" width="416" height="164"></a>
 
 Mean City Roller Derby will be taking on Wirral’s Pack Animals in an all-male clash, while the all-female, all-awesome Cannie Gingers from Glasgow Roller Derby will go toestop to toestop with fellow Scots, the sensational Central Belters.
 

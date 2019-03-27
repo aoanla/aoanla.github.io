@@ -1,6 +1,6 @@
 <html><body><a href="https://www.facebook.com/MeanCityRollerDerby/"><strong>Mean City Roller Derby</strong></a> obviously like the number two. That's the only explanation for the preponderance of twos in this weekend's <strong><a href="https://www.facebook.com/events/487160101472894/">upcoming event</a></strong> they're hosting, at the <strong><a href="https://www.google.co.uk/maps/place/ARC:+Health+and+Fitness/@55.8662183,-4.2519236,17z/data=!3m1!4b1!4m5!3m4!1s0x4888441f10416197:0x3a9426f40d4b58b7!8m2!3d55.8662153!4d-4.2497349">ARC Sports Centre</a></strong>, Glasgow.
 
-<img class="aligncenter size-large wp-image-7335" src="https://scottishrollerderbyblog.com/2016/05/11707838_666231253513298_2828507735651128838_o.jpg?w=1024" alt="11707838_666231253513298_2828507735651128838_o" width="1024" height="384">
+<img class="aligncenter size-large wp-image-7335" src="https://www.scottishrollerderbyblog.com/2016/05/11707838_666231253513298_2828507735651128838_o.jpg?w=1024" alt="11707838_666231253513298_2828507735651128838_o" width="1024" height="384">
 
 Not only is this a double header, with <em>two</em> exciting bouts to experience, but both bouts have their own multiplicative factors as well.
 

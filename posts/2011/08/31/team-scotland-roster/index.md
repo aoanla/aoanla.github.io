@@ -27,4 +27,4 @@ Reserve Skaters are:
     Psychomilly(DRG)
     Velosidy(ARRG)
 
-This is the team that will play <a href="http://scottishrollerderbyblog.com/2011/08/22/team-scotland-vs-the-best-of-the-rest/">The Best Of The Rest</a> ,this bout will be their first outing as <a href="http://teamscotlandrollerderby.com">Team Scotland</a> and should be a great warm up for the World Cup.</p></body></html>
+This is the team that will play <a href="http://www.scottishrollerderbyblog.com/2011/08/22/team-scotland-vs-the-best-of-the-rest/">The Best Of The Rest</a> ,this bout will be their first outing as <a href="http://teamscotlandrollerderby.com">Team Scotland</a> and should be a great warm up for the World Cup.</p></body></html>

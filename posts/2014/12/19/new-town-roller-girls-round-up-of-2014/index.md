@@ -22,4 +22,4 @@ This year we have been working on running our fresh meat program in a more forma
 <strong>Any final words?
 </strong>I'm really looking forward to 2015. Next year should see me popping my bouting cherry and skating out alongside my fantastic NTRG teammates. I consider myself very lucky to be part of such a lovely bunch of folk and I'm very proud to call myself a New Town Roller Girl.
 
-Photo Courtesy of Rudi Pateluch<a href="/2014/12/ntrg-61.jpg"><img class="alignnone size-large wp-image-4465" src="https://scottishrollerderbyblog.com/2014/12/ntrg-61.jpg?w=660" alt="Courtesy of Rudi Pateluch" width="660" height="440"></a></p></body></html>
+Photo Courtesy of Rudi Pateluch<a href="/2014/12/ntrg-61.jpg"><img class="alignnone size-large wp-image-4465" src="https://www.scottishrollerderbyblog.com/2014/12/ntrg-61.jpg?w=660" alt="Courtesy of Rudi Pateluch" width="660" height="440"></a></p></body></html>

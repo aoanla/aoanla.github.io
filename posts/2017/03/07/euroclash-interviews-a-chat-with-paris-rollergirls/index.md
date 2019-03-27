@@ -1,6 +1,6 @@
 <html><body><p>Next up in our series of interviews with the attendees at Newcastle Roller Girls' <strong><a href="https://www.euro-clash.com/">EuroClash</a></strong> is the second mainland European team, a team tipped for greatness by The Derby Apex... <strong><a href="http://www.parisrollergirls.com/">Paris Rollergirls</a></strong>.
 
-<img class="aligncenter size-medium wp-image-15753" src="https://scottishrollerderbyblog.com/2017/03/prg2017.jpg?w=600" alt="PRG2017" width="300" height="300">
+<img class="aligncenter size-medium wp-image-15753" src="https://www.scottishrollerderbyblog.com/2017/03/prg2017.jpg?w=600" alt="PRG2017" width="300" height="300">
 
 One of the two top leagues and teams in France, vying with Toulouse for the top spot, Paris Rollergirls had an exceptional 2016, winning the Elite tier of the French National (against Toulouse, by only a few points), travelling to the USA for the first time (at Beach Brawl), and making serious gains in their WFTDA Rankings.
 

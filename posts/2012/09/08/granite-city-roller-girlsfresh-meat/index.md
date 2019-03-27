@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/09/freshmeat150912.jpg"><img src="http://scottishrollerderbyblog.com/2012/09/freshmeat150912.jpg" alt="" title="Freshmeat150912" width="614" height="868" class="aligncenter size-full wp-image-1698"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/09/freshmeat150912.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/09/freshmeat150912.jpg" alt="" title="Freshmeat150912" width="614" height="868" class="aligncenter size-full wp-image-1698"></a>
 
 <em>Image courtesy of Granite City Roller Girls</em>
 

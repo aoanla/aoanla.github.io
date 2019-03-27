@@ -4,4 +4,4 @@
 
 The tournament will be open to the public with all profits going to the winning team's nominated charity. Join the <a title="SURV5AL 2013 Facebook Event" href="https://www.facebook.com/events/317269091746500/" target="_blank">Facebook Event</a> for the latest news.
 
-<a href="http://scottishrollerderbyblog.com/2013/10/jakey-sur5al.png"><img class="size-full wp-image-2998" alt="Image courtesy of The Jakey Bites" src="http://scottishrollerderbyblog.com/2013/10/jakey-sur5al.png" width="614" height="230"></a> Image courtesy of The Jakey Bites</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/10/jakey-sur5al.png"><img class="size-full wp-image-2998" alt="Image courtesy of The Jakey Bites" src="http://www.scottishrollerderbyblog.com/2013/10/jakey-sur5al.png" width="614" height="230"></a> Image courtesy of The Jakey Bites</p></body></html>

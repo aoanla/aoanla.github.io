@@ -1,7 +1,7 @@
 <html><body><div>All those people anxiously checking their calendars will no doubt be relieved to find the last <a href="http://nastynessiesrollergirls.wordpress.com/">Nasty Nessies'</a> latest diary entry, from ex-Scarlett-O'Horror, Scarolott!</div>
 <div>
 
-<a href="http://scottishrollerderbyblog.com/2012/06/charlotte.jpg"><img class="size-full wp-image-1430" title="Scarolot" src="http://scottishrollerderbyblog.com/2012/06/charlotte.jpg" alt="" width="614" height="917"></a> Scarolott captured by Nessies photographer James King
+<a href="http://www.scottishrollerderbyblog.com/2012/06/charlotte.jpg"><img class="size-full wp-image-1430" title="Scarolot" src="http://www.scottishrollerderbyblog.com/2012/06/charlotte.jpg" alt="" width="614" height="917"></a> Scarolott captured by Nessies photographer James King
 
 </div>
 <div></div>

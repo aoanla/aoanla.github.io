@@ -4,6 +4,6 @@ In change from the norm, there will be no advanced ticket sales for this event. 
 
 The game will take place at Grangemouth Sports Complex on Saturday the 15th of October, doors will be open from 2.15pm and first whistle will be at 2.40pm, for more information <a href="https://www.facebook.com/events/527945357409228/">visit the event page here</a>
 
-<a href="https://www.facebook.com/events/527945357409228/"><img class="alignnone size-large wp-image-9205" src="https://scottishrollerderbyblog.com/2016/10/bcr-banner.jpg?w=700" alt="bcr-banner" width="700" height="259"></a>
+<a href="https://www.facebook.com/events/527945357409228/"><img class="alignnone size-large wp-image-9205" src="https://www.scottishrollerderbyblog.com/2016/10/bcr-banner.jpg?w=700" alt="bcr-banner" width="700" height="259"></a>
 
  </p></body></html>

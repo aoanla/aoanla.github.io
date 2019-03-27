@@ -4,7 +4,7 @@ If you're watching at home, or at the event,  we hope you have a great time and
 
 Here's a roundup of resources you might find useful.
 
-Firstly, our Team Profiles, published over the past weeks. Learn a bit about each team by clicking <b><a href="https://scottishrollerderbyblog.com/tag/mrdwc2016/">here</a>.</b>
+Firstly, our Team Profiles, published over the past weeks. Learn a bit about each team by clicking <b><a href="https://www.scottishrollerderbyblog.com/tag/mrdwc2016/">here</a>.</b>
 
 The groups are:
 

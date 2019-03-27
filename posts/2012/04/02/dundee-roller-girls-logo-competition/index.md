@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/04/banner1.jpg"><img class="aligncenter size-large wp-image-1012" title="banner1" src="http://scottishrollerderbyblog.com/2012/04/banner1.jpg?w=1024" alt="" width="1024" height="210"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/04/banner1.jpg"><img class="aligncenter size-large wp-image-1012" title="banner1" src="http://www.scottishrollerderbyblog.com/2012/04/banner1.jpg?w=1024" alt="" width="1024" height="210"></a>
 
 The Dundee Roller Girls are looking for a new team logo.
 

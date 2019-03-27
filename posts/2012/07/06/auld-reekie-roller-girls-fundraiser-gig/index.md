@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/07/arrg-fund.jpg"><img src="http://scottishrollerderbyblog.com/2012/07/arrg-fund.jpg" alt="" title="arrg fund" width="510" height="720" class="aligncenter size-full wp-image-1495"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/07/arrg-fund.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/07/arrg-fund.jpg" alt="" title="arrg fund" width="510" height="720" class="aligncenter size-full wp-image-1495"></a>
 
 Auld Reekie Roller Girls together with Anti Manifesto,hold a fundraiser event on Friday the 20th of July at the <a href="http://www.thebansheelabyrinth.com/">Banshee Labyrinth</a>,Niddry Street,Edinburgh.For the sum of £5 you get four punk/hardcore acts...
 

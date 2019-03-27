@@ -4,7 +4,7 @@
 
 <h3 style="text-align:justify;">Capital City Roller Derby</h3>
 <p style="text-align:justify;"><em>An interview with Tequila Jammer</em></p>
-<p style="text-align:justify;"><a href="http://scottishrollerderbyblog.com/2013/02/capital-city.jpg"><img class="aligncenter size-full wp-image-2173" alt="Capital City Roller Derby" src="http://scottishrollerderbyblog.com/2013/02/capital-city.jpg" width="614" height="227"></a></p>
+<p style="text-align:justify;"><a href="http://www.scottishrollerderbyblog.com/2013/02/capital-city.jpg"><img class="aligncenter size-full wp-image-2173" alt="Capital City Roller Derby" src="http://www.scottishrollerderbyblog.com/2013/02/capital-city.jpg" width="614" height="227"></a></p>
 <p style="text-align:justify;"><span style="color:#000000;"><strong>When was your league founded, and by whom?</strong></span></p>
 <p style="text-align:justify;"><strong></strong>Officially Capital City Roller Derby was launched in December 2012 (making us the newest men's league) but informally it's been around for a little longer. It was founded by a bunch of Jakey Bites players (Judder Jam, WKDeid, Genuine Miller Daft, Tequila Jammer, Duff McKegger and Panda). I guess the birth place of Capital City was in Deans Community High School car park on a cold Sunday morning after training, Bairns and Mean City were established and we thought... why not. All of us had skated for a long time with the Jakey Bites and were up for the challenge of starting our own regional league.</p>
 <p style="text-align:justify;"><span style="color:#000000;"><strong>What area of Scotland do you cover?</strong></span></p>
@@ -19,7 +19,7 @@
 
 <h3 style="text-align:justify;">Bairn City Rollers</h3>
 <p style="text-align:justify;"><em>An interview with Mega Blocker</em></p>
-<p style="text-align:justify;"><a href="http://scottishrollerderbyblog.com/2013/02/bairns.png"><img class="aligncenter size-full wp-image-2174" alt="Bairn City Rollers" src="http://scottishrollerderbyblog.com/2013/02/bairns.png" width="614" height="227"></a></p>
+<p style="text-align:justify;"><a href="http://www.scottishrollerderbyblog.com/2013/02/bairns.png"><img class="aligncenter size-full wp-image-2174" alt="Bairn City Rollers" src="http://www.scottishrollerderbyblog.com/2013/02/bairns.png" width="614" height="227"></a></p>
 <p style="text-align:justify;"><span style="color:#000000;"><strong>When was your league founded, and by whom?</strong></span></p>
 <p style="text-align:justify;">Bairn City Rollers was founded in September 2012 by myself and iHorror (Anthony Sweeney). We were the first men’s league to be established outside of the Jakey Bites Scottish All-Stars.</p>
 <p style="text-align:justify;"><span style="color:#000000;"><strong>What area of Scotland do you cover?</strong></span></p>
@@ -36,7 +36,7 @@
 
 <h3 style="text-align:justify;"><strong>Mean City Roller Derby</strong></h3>
 <p style="text-align:justify;"><em>An interview with BruiseDog</em></p>
-<p style="text-align:justify;"><a href="http://scottishrollerderbyblog.com/2013/02/mean-city.jpg"><img class="aligncenter size-full wp-image-2175" alt="Mean City Roller Derby" src="http://scottishrollerderbyblog.com/2013/02/mean-city.jpg" width="614" height="336"></a></p>
+<p style="text-align:justify;"><a href="http://www.scottishrollerderbyblog.com/2013/02/mean-city.jpg"><img class="aligncenter size-full wp-image-2175" alt="Mean City Roller Derby" src="http://www.scottishrollerderbyblog.com/2013/02/mean-city.jpg" width="614" height="336"></a></p>
 <p style="text-align:justify;"><span style="color:#000000;"><strong>When was your league founded, and by whom?</strong></span></p>
 <p style="text-align:justify;">August 2012 by BruiseDog 6 (Jason Crawford) &amp; Stan Lee Knife 7 (Colin Selfridge)</p>
 <p style="text-align:justify;"><span style="color:#000000;"><strong>What area of Scotland do you cover?</strong></span></p>

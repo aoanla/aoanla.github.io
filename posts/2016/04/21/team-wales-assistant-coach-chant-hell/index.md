@@ -2,7 +2,7 @@
 <p class="p1">(Tryouts for skaters in the current Team Wales Roller Derby are this Sunday!)</p>
 
 
-<a href="https://scottishrollerderbyblog.com/wp-1461262604145-jpg/"><img class="wp-image-7084 size-large" src="https://scottishrollerderbyblog.com/2016/04/wp-1461262604145.jpg?w=678" alt="Chant-Hell, playing with Tiger Bay Brawlers against London Rollergirls (Photo: Adam Chard)" width="678" height="1024"></a> Chant-Hell, playing with Tiger Bay Brawlers against London Rollergirls (Photo: <a href="http://www.croatoandesign.co.uk">Adam Chard</a>)
+<a href="https://www.scottishrollerderbyblog.com/wp-1461262604145-jpg/"><img class="wp-image-7084 size-large" src="https://www.scottishrollerderbyblog.com/2016/04/wp-1461262604145.jpg?w=678" alt="Chant-Hell, playing with Tiger Bay Brawlers against London Rollergirls (Photo: Adam Chard)" width="678" height="1024"></a> Chant-Hell, playing with Tiger Bay Brawlers against London Rollergirls (Photo: <a href="http://www.croatoandesign.co.uk">Adam Chard</a>)
 <p class="p1">Chant-Hell started out in the Cardiff Roller Collective in 2011, before moving to coach and skate for Tiger Bay Brawlers in 2012, where she remains. She is also owner of the Skate Alley skate store. Pregnancy ruled out Chant Hell from trying out for positions in the 2014 Team Wales, but this time around she is both Assistant Coach, and also planning to try out for the team itself.</p>
 <strong>What led you to apply to coach Team Wales?</strong>
 

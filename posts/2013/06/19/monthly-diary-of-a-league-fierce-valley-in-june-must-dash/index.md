@@ -2,7 +2,7 @@
 
 Starting a slightly expanded array of Monthly Diaries this month, <a href="www.fvrg.co.uk">Fierce Valley Roller Girls</a> bring you: Must-Dash!
 
-<a href="http://scottishrollerderbyblog.com/2013/06/603122_205960202875611_438612260_n.jpg"><img class="size-large wp-image-2710" alt="Must-Dash with Mustache!" src="http://scottishrollerderbyblog.com/2013/06/603122_205960202875611_438612260_n.jpg?w=614" width="614" height="921"></a> Must-Dash with Mustache!
+<a href="http://www.scottishrollerderbyblog.com/2013/06/603122_205960202875611_438612260_n.jpg"><img class="size-large wp-image-2710" alt="Must-Dash with Mustache!" src="http://www.scottishrollerderbyblog.com/2013/06/603122_205960202875611_438612260_n.jpg?w=614" width="614" height="921"></a> Must-Dash with Mustache!
 
 <strong>What first attracted you to Roller Derby?</strong>
 

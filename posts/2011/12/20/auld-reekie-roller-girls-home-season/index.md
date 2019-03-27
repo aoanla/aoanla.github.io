@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/12/home-season-arrg.jpg"><img class="aligncenter size-full wp-image-674" title="Home-Season-arrg" src="http://scottishrollerderbyblog.com/2011/12/home-season-arrg.jpg" alt="" width="607" height="431"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/12/home-season-arrg.jpg"><img class="aligncenter size-full wp-image-674" title="Home-Season-arrg" src="http://www.scottishrollerderbyblog.com/2011/12/home-season-arrg.jpg" alt="" width="607" height="431"></a>
 
 <em>Image courtesy of ARRG</em>
 

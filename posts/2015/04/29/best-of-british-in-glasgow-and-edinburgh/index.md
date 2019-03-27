@@ -1,7 +1,7 @@
 <html><body><p style="text-align:right;">A team of inspirational women are helping to cement Glasgow’s sporting legacy in the wake of the Commonwealth Games.</p>
 Glasgow Roller Derby are currently making waves in the top tier of the British Roller Derby Championships.
 
-The sensational skaters from the Clyde-side are lighting up the UK Roller Derby Association Premier League – ensuring the sporting feelgood factor from last year’s Games continues.<img class="alignnone size-medium wp-image-4565 alignright" src="https://scottishrollerderbyblog.com/2015/02/grd.jpg?w=300" alt="grd" width="300" height="109">
+The sensational skaters from the Clyde-side are lighting up the UK Roller Derby Association Premier League – ensuring the sporting feelgood factor from last year’s Games continues.<img class="alignnone size-medium wp-image-4565 alignright" src="https://www.scottishrollerderbyblog.com/2015/02/grd.jpg?w=300" alt="grd" width="300" height="109">
 
 So far Glasgow Roller Derby (GRD) have convincingly beaten Central City RollerGirls from Birmingham and Rainy City Roller Girls from Oldham.
 
@@ -14,7 +14,7 @@ Before that, on May 2 in Edinburgh, Glasgow will be taking on the Tiger Bay Braw
 It’s all building up to be a magnificent May for GRD and sport in Scotland.
 
 The British Roller Derby Championships is Europe’s largest inter-league Women’s Flat Track Roller Derby Tournament.
-<p style="text-align:left;"><a href="/2015/04/1958232_818634904872056_8852349267584931611_n.jpg"><img class=" size-medium wp-image-4635 alignleft" src="https://scottishrollerderbyblog.com/2015/04/1958232_818634904872056_8852349267584931611_n.jpg?w=300" alt="1958232_818634904872056_8852349267584931611_n" width="300" height="111"></a></p>
+<p style="text-align:left;"><a href="/2015/04/1958232_818634904872056_8852349267584931611_n.jpg"><img class=" size-medium wp-image-4635 alignleft" src="https://www.scottishrollerderbyblog.com/2015/04/1958232_818634904872056_8852349267584931611_n.jpg?w=300" alt="1958232_818634904872056_8852349267584931611_n" width="300" height="111"></a></p>
 <p style="text-align:left;">A total of 72 women’s leagues from Scotland, England, Wales and Northern Ireland are divided into four tiers for double-header bout days spanning the year, with play-offs to find who will be British Roller Derby Champions for 2015.</p>
 GRD are currently leading the top tier and everyone within the league is working hard to ensure the good form continues.
 

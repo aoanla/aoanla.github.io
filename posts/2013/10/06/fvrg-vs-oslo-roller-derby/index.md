@@ -8,4 +8,4 @@ Tickets are available at £5 (+ admin fee) online from <a title="Buy tickets fro
 
 Keep up to date with the latest bout details by 'joining' the <a title="FVRG vs Oslo Facebook Event" href="https://www.facebook.com/events/729654950394293/" target="_blank">Facebook Event</a>.
 
-<a href="http://scottishrollerderbyblog.com/2013/10/fvrg-vs-oslo.jpg"><img class="size-full wp-image-2984" alt="Image courtesy of Fierce Valley Roller Girls" src="http://scottishrollerderbyblog.com/2013/10/fvrg-vs-oslo.jpg" width="614" height="868"></a> Image courtesy of Fierce Valley Roller Girls</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/10/fvrg-vs-oslo.jpg"><img class="size-full wp-image-2984" alt="Image courtesy of Fierce Valley Roller Girls" src="http://www.scottishrollerderbyblog.com/2013/10/fvrg-vs-oslo.jpg" width="614" height="868"></a> Image courtesy of Fierce Valley Roller Girls</p></body></html>

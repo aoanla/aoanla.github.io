@@ -1,6 +1,6 @@
 <html><body><p>We've been a little remiss with our <a href="https://www.britishchamps.com"><strong>British Champs</strong></a> Northern Divisions updates since the middle of the season, so we're back a with a special catchup with our teams from each Tier, continuing with Tier 3's Granite City Roller Derby!
 
-<img class="aligncenter size-medium wp-image-22709" src="https://scottishrollerderbyblog.com/2017/07/gcrd.png?w=300" alt="GCRD" width="300" height="300"> GCRD!
+<img class="aligncenter size-medium wp-image-22709" src="https://www.scottishrollerderbyblog.com/2017/07/gcrd.png?w=300" alt="GCRD" width="300" height="300"> GCRD!
 
 Granite City's Northern Fights had an exceptional 2016 in Champs, entering Tier 3 in 2017 by promotion after topping the table. They've continued their excellent Champs performance in Tier 3 - they currently top the table here as well, unbeaten, with extremely strong victories in 3 of 4 of their games so far. (The only close game was their first, against Halifax's Bruising Banditas.)
 The rest of the Tier 3 Champs table is more even at the moment with, tentatively, Auld Reekie's Reserves and the newly-rebranded North Wales Roller Derby in the most likely places to take the second top spot. We'll know more after the second-last fixtures of the Tier, today, hosted by North Wales, with the final bouts happening August in Edinburgh as Auld Reekie host.

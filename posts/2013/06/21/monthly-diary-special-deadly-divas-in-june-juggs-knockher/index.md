@@ -1,6 +1,6 @@
 <html><body><p>We know how much everyone looks forward to the Monthly Diaries (or at least, I like to believe you do!), and felt bad about short changing our loyal viewers with only one entry last month. So, this month we have an extra bonus diary to make up for it, from Glasgow/Renfrewshire's newest league: <a href="http://deadlydivasrollerderby.webs.com/">Deadly Divas Roller Girls</a>, here's Juggs Knock'er.
 
-<a href="http://scottishrollerderbyblog.com/2013/06/dsc01592.jpg"><img class="size-large wp-image-2714" alt="Juggs lining up to jam at the Diva's practice session." src="http://scottishrollerderbyblog.com/2013/06/dsc01592.jpg?w=614" width="614" height="409"></a> Juggs lining up to jam at the Diva's practice session.
+<a href="http://www.scottishrollerderbyblog.com/2013/06/dsc01592.jpg"><img class="size-large wp-image-2714" alt="Juggs lining up to jam at the Diva's practice session." src="http://www.scottishrollerderbyblog.com/2013/06/dsc01592.jpg?w=614" width="614" height="409"></a> Juggs lining up to jam at the Diva's practice session.
 
 .
 

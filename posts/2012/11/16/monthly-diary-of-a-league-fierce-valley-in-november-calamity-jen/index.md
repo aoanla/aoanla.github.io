@@ -1,10 +1,10 @@
 <html><body><a href="fvrg.co.uk">Fierce Valley Roller Girls</a> are having an exciting time this month, with their first ever <a href="https://www.facebook.com/events/516737611686532/">home bout tomorrow</a>, against the Wirral's Whipiteres. Who better, then, to make this month's diary entry than the Parma Violents' Captain for the bout, Calamity Jen?
 
-<a href="http://scottishrollerderbyblog.com/2012/11/blog-pics-1.jpg"><img class="size-full wp-image-1855 " title="Calamity Jen powers on!" alt="" src="http://scottishrollerderbyblog.com/2012/11/blog-pics-1.jpg" height="406" width="614"></a> Calamity Jen powers through!
+<a href="http://www.scottishrollerderbyblog.com/2012/11/blog-pics-1.jpg"><img class="size-full wp-image-1855 " title="Calamity Jen powers on!" alt="" src="http://www.scottishrollerderbyblog.com/2012/11/blog-pics-1.jpg" height="406" width="614"></a> Calamity Jen powers through!
 
 <strong>What first attracted you to Roller Derby?</strong>
 
-I was at a Roller Disco in Falkirk with my best friend (<a href="http://scottishrollerderbyblog.com/2012/05/14/monthly-diary-of-a-league-fierce-valley-in-may-hey-ho-lets-jo/">Hey Ho, Let's Jo!</a>) when <a href="http://scottishrollerderbyblog.com/2012/03/09/monthly-diary-of-a-league-fierce-valley-in-march-grizabelta/">Grizabelta</a> and Chaos Faerie got chatting to us about Roller Derby (I should add that they were drawn to us by Jo's purple sparkly hotpants as they were FVRG colours, not by our skating skills!). All that I knew about Derby at this point was what I had learned from watching Whip It! the week before and so we went along to practice, borrowed some kit and the rest, as they say, is history.
+I was at a Roller Disco in Falkirk with my best friend (<a href="http://www.scottishrollerderbyblog.com/2012/05/14/monthly-diary-of-a-league-fierce-valley-in-may-hey-ho-lets-jo/">Hey Ho, Let's Jo!</a>) when <a href="http://www.scottishrollerderbyblog.com/2012/03/09/monthly-diary-of-a-league-fierce-valley-in-march-grizabelta/">Grizabelta</a> and Chaos Faerie got chatting to us about Roller Derby (I should add that they were drawn to us by Jo's purple sparkly hotpants as they were FVRG colours, not by our skating skills!). All that I knew about Derby at this point was what I had learned from watching Whip It! the week before and so we went along to practice, borrowed some kit and the rest, as they say, is history.
 
 <strong>Who are your derby heroes?</strong>
 
@@ -18,7 +18,7 @@ It took me a while to settle on a name, as it was really hard to come up with on
 
 Getting my head around the rules, transitions and my fitness levels-before derby I hated going to the gym and hadn't been involved in a team sport since my High School basketball days. I'm a really competitive person and so Derby has really motivated me to keep improving and pushing myself to the limit at every practice/scrim/game in a way that no other sport ever has.
 
-<a href="http://scottishrollerderbyblog.com/2012/11/blog-pics-2.jpg"><img class="size-medium wp-image-1856" title="Calamity Jen all dressed up..." alt="" src="http://scottishrollerderbyblog.com/2012/11/blog-pics-2.jpg?w=300" height="201" width="300"></a> Channelling Burger Palace Boys for the Grease-themed FVRG intraleague.
+<a href="http://www.scottishrollerderbyblog.com/2012/11/blog-pics-2.jpg"><img class="size-medium wp-image-1856" title="Calamity Jen all dressed up..." alt="" src="http://www.scottishrollerderbyblog.com/2012/11/blog-pics-2.jpg?w=300" height="201" width="300"></a> Channelling Burger Palace Boys for the Grease-themed FVRG intraleague.
 
 <strong>Lots of roller girls find it hard not to spread the word about their new sport. How have you been spreading the word?</strong>
 
@@ -26,7 +26,7 @@ By talking about it constantly! It's become a running joke with my non-derby fri
 
 <strong>What’s the most important thing you’ve learnt/ done this month?</strong>
 
-The last month or so has been a very steep learning curve for me as I have (along with my vice captain <a href="http://scottishrollerderbyblog.com/2011/12/09/monthly-diary-of-a-league-fierce-valley-in-december-funghoul/">Fun Ghoul</a>) prepared my team and support crew for our upcoming bout. The most important thing has probably been working together as a team-both on track and off-to discuss and develop tactics, implement them on track, create strong walls and switch from defense to offense as a pack.
+The last month or so has been a very steep learning curve for me as I have (along with my vice captain <a href="http://www.scottishrollerderbyblog.com/2011/12/09/monthly-diary-of-a-league-fierce-valley-in-december-funghoul/">Fun Ghoul</a>) prepared my team and support crew for our upcoming bout. The most important thing has probably been working together as a team-both on track and off-to discuss and develop tactics, implement them on track, create strong walls and switch from defense to offense as a pack.
 
 <strong>What were the most difficult and the best things?</strong>
 
@@ -36,4 +36,4 @@ The best things were definitely the additional team training sessions with Crazy
 
 FVRG are extremely busy this month as we prepare for our first open home bout, For Whom the Skate Rolls, against the Wirral Whipiteres, on Saturday 17th at the Peak in Stirling-please come along and cheer us on! Everyone has been working tirelessly to bring everything together so that the day runs smoothly-we really do have the best volunteers, NSOs, Refs and volunteers imaginable and we would be nothing without them. We will also be holding our AGM this month and have just celebrated our 2nd birthday-it really is all go at Fierce Valley!
 
-<a href="http://scottishrollerderbyblog.com/2012/11/blog-pic-3.jpg"><img class="size-medium wp-image-1857" title="Blog pic 3" alt="" src="http://scottishrollerderbyblog.com/2012/11/blog-pic-3.jpg?w=185" height="300" width="185"></a> Calamity Jen!</body></html>
+<a href="http://www.scottishrollerderbyblog.com/2012/11/blog-pic-3.jpg"><img class="size-medium wp-image-1857" title="Blog pic 3" alt="" src="http://www.scottishrollerderbyblog.com/2012/11/blog-pic-3.jpg?w=185" height="300" width="185"></a> Calamity Jen!</body></html>

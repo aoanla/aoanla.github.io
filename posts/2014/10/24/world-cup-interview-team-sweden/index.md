@@ -2,7 +2,7 @@
 
 Swede Hurt and the team's media team very kindly took time out of their busy training schedule to tell us how they are feeling about their upcoming World Cup appearance.
 
-<a href="https://scottishrollerderbyblog.com/2014/10/10356690_917939274889367_1670650037814336947_n.png"><img class="size-full wp-image-4035" src="https://scottishrollerderbyblog.com/2014/10/10356690_917939274889367_1670650037814336947_n.png" alt="Team Sweden Logo" width="614" height="292"></a> Image courtesy of Team Sweden
+<a href="https://www.scottishrollerderbyblog.com/2014/10/10356690_917939274889367_1670650037814336947_n.png"><img class="size-full wp-image-4035" src="https://www.scottishrollerderbyblog.com/2014/10/10356690_917939274889367_1670650037814336947_n.png" alt="Team Sweden Logo" width="614" height="292"></a> Image courtesy of Team Sweden
 
 <strong>1. Team Sweden is filled with skaters from many different teams. How did you organise the team selection process since your skaters come from all over the country?</strong>
 
@@ -30,4 +30,4 @@ We have reached out both locally and globally for sponsors and we are really hap
 
 In the deepest forests of Sweden hides a great big animal that will horn all the competition away... Just you wait!
 
-<a href="https://scottishrollerderbyblog.com/2014/10/ts-training-group-2014.jpg"><img class="size-full wp-image-4037" src="https://scottishrollerderbyblog.com/2014/10/ts-training-group-2014.jpg" alt="Team Sweden Training Group 2014" width="614" height="327"></a> Team Sweden Training Group 2014<br>Image courtesy of Team Sweden</body></html>
+<a href="https://www.scottishrollerderbyblog.com/2014/10/ts-training-group-2014.jpg"><img class="size-full wp-image-4037" src="https://www.scottishrollerderbyblog.com/2014/10/ts-training-group-2014.jpg" alt="Team Sweden Training Group 2014" width="614" height="327"></a> Team Sweden Training Group 2014<br>Image courtesy of Team Sweden</body></html>

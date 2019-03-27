@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2014/01/1170672_10201592536112805_723032715_n.jpg"><img src="http://scottishrollerderbyblog.com/2014/01/1170672_10201592536112805_723032715_n.jpg" alt="ARRG V Stockholm-Photography by Thomas Mathieson" width="614" height="377" class="size-full wp-image-3146"></a> ARRG V Stockholm-Photography by Thomas Mathieson
+<html><body><a href="http://www.scottishrollerderbyblog.com/2014/01/1170672_10201592536112805_723032715_n.jpg"><img src="http://www.scottishrollerderbyblog.com/2014/01/1170672_10201592536112805_723032715_n.jpg" alt="ARRG V Stockholm-Photography by Thomas Mathieson" width="614" height="377" class="size-full wp-image-3146"></a> ARRG V Stockholm-Photography by Thomas Mathieson
 
 Next up to look back at 2013 for Auld Reekie Roller Girls, is Twisted Thistles captain, Ciderella.
 

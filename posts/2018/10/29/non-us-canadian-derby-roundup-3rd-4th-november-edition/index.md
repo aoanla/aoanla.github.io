@@ -3,7 +3,7 @@
 <p class="p1"><span class="s1">If we’ve missed you from our roundup, please let us know! [Or add yourselves to FTS and/or Derbylisting]</span></p>
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27684" src="https://scottishrollerderbyblog.com/2018/10/eur_map23.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27684" src="https://www.scottishrollerderbyblog.com/2018/10/eur_map23.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
 <h2>Scotland</h2>
 In Scotland, whilst the big bouting event is Dundee's home teams game of the season, there's several open scrimmages going on for Halloween. (And Glasgow are off to Oldham for a game.)
 <ul>
@@ -225,8 +225,8 @@ France continues to be ridiculously packed with derby this weekend, and it's not
 </ul>
 </li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27667" src="https://scottishrollerderbyblog.com/2018/10/asia_map6.png?w=2048" alt="ASIA_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27668" src="https://scottishrollerderbyblog.com/2018/10/anz_map7.png?w=2048" alt="ANZ_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27667" src="https://www.scottishrollerderbyblog.com/2018/10/asia_map6.png?w=2048" alt="ASIA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27668" src="https://www.scottishrollerderbyblog.com/2018/10/anz_map7.png?w=2048" alt="ANZ_map" width="1024" height="768"></h2>
 <h2><b>Pacific</b></h2>
 The biggest event in the Pacific this weekend is the Rebellion Tournament 2018 in Melbourne, another giant Australian event! That's not to say there's still not plenty of derby elsewhere, though, especially in New Zealand.
 <ul>
@@ -298,7 +298,7 @@ The biggest event in the Pacific this weekend is the Rebellion Tournament 2018 i
 	<li>Wed, <span style="color:#0000ff;"><strong>Bangkok</strong></span>, Thailand: Bangkok Roller Derby have their regular training evening, which is always open to new skaters [<strong><a href="https://www.facebook.com/BangkokRollerDerby/photos/a.496774633792536/1300042966799028/?type=3">EVENT Flyer</a></strong>]</li>
 </ul>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27669" src="https://scottishrollerderbyblog.com/2018/10/la_map11.png?w=2048" alt="LA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27669" src="https://www.scottishrollerderbyblog.com/2018/10/la_map11.png?w=2048" alt="LA_map" width="1024" height="768"></h2>
 <h2>Latin America</h2>
 As always, we find Latin America the hardest continent to keep tabs on. This weekend, though, the big event is the 2018 Brasileirão, Brazil's National Tournament, hosted this year by Ladies of Helltown!
 <ul>
@@ -313,7 +313,7 @@ As always, we find Latin America the hardest continent to keep tabs on. This wee
 	<li>Wed, Fri, Mon, <span style="color:#0000ff;"><strong>Montevideo</strong></span>, Uruguay: Tempestad Roller Derby continue their rolling recruitment [<a href="https://www.facebook.com/tempestadrd/posts/271778980111502"><strong>EVENT Flyer</strong></a>]</li>
 	<li>Thurs+Mon, <span style="color:#0000ff;"><strong>Ensenada</strong></span>, Mexico: Nereidas Ensenada Roller Derby have open recruitment at their training sessions [<a href="https://www.facebook.com/337547586328151/photos/a.338239519592291/1955318284551065/?type=3&amp;theater"><strong>EVENT Flyer</strong></a>]</li>
 	<li>Thurs+Sun?,<span style="color:#0000ff;"><strong> Montevideo</strong></span>, Uruguay: Pájaros Pintados Roller Derby train, and are open to new skaters [<a href="https://www.facebook.com/pajarospintados.derby/videos/2224711517765099/?__xts__%5B0%5D=68.ARCcJom5-XOuoKvjerNZtm-rO1TLUNO-HzlBrk-7KluAHC1Ppm5si_5S16ioyI_wRG35tgNDAmufWYzwCtTqCZuLId_8Q0DEGfrbJkkzhz0J1m1uk6QW7UvT2W83UBP78ao-5sotneZkehVY1TrCwjlEhQ3iJo6nlXPVlpdoOhgGPxH-H1Halw&amp;__tn__=-R"><strong>EVENT Flyer</strong></a>]</li>
-	<li>Fri-Mon, <span style="color:#800000;"><strong>São Paulo</strong></span>, Brazil: Ladies of Helltown host the 7th Brasileirão de Roller Derby, Brazil's National Tournament! We've written a little about this <a href="https://scottishrollerderbyblog.com/2018/10/11/the-brasileirao-brazils-national-championships-at-8/"><strong>here</strong></a>. [FTS Tournament][<a href="https://www.facebook.com/events/303321790502292/"><strong>EVENT</strong></a>]
+	<li>Fri-Mon, <span style="color:#800000;"><strong>São Paulo</strong></span>, Brazil: Ladies of Helltown host the 7th Brasileirão de Roller Derby, Brazil's National Tournament! We've written a little about this <a href="https://www.scottishrollerderbyblog.com/2018/10/11/the-brasileirao-brazils-national-championships-at-8/"><strong>here</strong></a>. [FTS Tournament][<a href="https://www.facebook.com/events/303321790502292/"><strong>EVENT</strong></a>]
 <ul>
 	<li>Mixed no-contact game</li>
 	<li>Ladies of Helltown (São Paulo) versus Iron Ladies (Blumenau)</li>
@@ -341,8 +341,8 @@ As always, we find Latin America the hardest continent to keep tabs on. This wee
 </ul>
 </li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27670" src="https://scottishrollerderbyblog.com/2018/10/me_map4.png?w=2048" alt="ME_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27671" src="https://scottishrollerderbyblog.com/2018/10/sa_map4.png?w=2048" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27670" src="https://www.scottishrollerderbyblog.com/2018/10/me_map4.png?w=2048" alt="ME_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27671" src="https://www.scottishrollerderbyblog.com/2018/10/sa_map4.png?w=2048" alt="SA_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 In the MENA regions, there are the regular recruitment events happening this week.
 <ul>

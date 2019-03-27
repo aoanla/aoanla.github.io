@@ -1,6 +1,6 @@
 <html><body><p>The recently launched Inside Line magazine has caught the attention of many a rollergirl.Happily, Scottish Roller Derby managed to get a chance to catch up with Jessica Rammit,rollergirl and founder of the UK's first dedicated Roller Derby publication,to chat about founding the mag,the future of UK Derby and who will win the World Cup!
 
-<a href="http://scottishrollerderbyblog.com/2011/09/jessprofileresize.jpg"><img src="http://scottishrollerderbyblog.com/2011/09/jessprofileresize.jpg" alt="" title="JessProfileresize" width="614" height="409" class="aligncenter size-full wp-image-168"></a>
+<a href="http://www.scottishrollerderbyblog.com/2011/09/jessprofileresize.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/09/jessprofileresize.jpg" alt="" title="JessProfileresize" width="614" height="409" class="aligncenter size-full wp-image-168"></a>
 <em>Jessica Rammit photo by Kate "Smack Bauer" Thornton</em>
 
 <strong>SRD</strong>-How did the Magazine start?

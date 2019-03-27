@@ -9,7 +9,7 @@
 ちなみに、東京ローラーガールズは日本人のスケーターを募集しています！
 他にも、東京にKAMIKAZE BADASSと呼ばれるチームもあります。
 これらのチームのすべてがWFTDAのルールを使用し、Kokeshi Roller Dolls、Devil Dogs Derby Dames、Tokyo Roller Girls はWFTDAメンバーです。
-<p style="text-align:center;"><strong><a href="https://scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/6">時間割</a></strong></p>
+<p style="text-align:center;"><strong><a href="https://www.scottishrollerderbyblog.com/2016/03/11/the-japan-open-schedule-timezones/6">時間割</a></strong></p>
 
 
 <hr>

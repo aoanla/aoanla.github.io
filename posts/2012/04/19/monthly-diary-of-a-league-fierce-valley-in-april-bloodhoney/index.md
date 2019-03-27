@@ -1,6 +1,6 @@
 <html><body><p>Slightly delayed for reasons outside the interviewee's control, here's <a href="www.fvrg.c.ouk">Fierce Valley Roller Girls</a> latest monthly diary entry. This month, Grizabelta chose <strong>Bloodhoney</strong>, who's not just a strong element of Fierce Valley herself, but also the source of two of their most reliable fans - her husband and son!
 
-<a href="http://scottishrollerderbyblog.com/2012/04/img_6960-bloodhoneycrop.jpg"><img class="size-full wp-image-1125" title="IMG_6960-Bloodhoneycrop" src="http://scottishrollerderbyblog.com/2012/04/img_6960-bloodhoneycrop.jpg" alt="" width="614" height="850"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/04/img_6960-bloodhoneycrop.jpg"><img class="size-full wp-image-1125" title="IMG_6960-Bloodhoneycrop" src="http://www.scottishrollerderbyblog.com/2012/04/img_6960-bloodhoneycrop.jpg" alt="" width="614" height="850"></a>
 
 <strong>What first attracted you to Roller Derby?</strong>
 

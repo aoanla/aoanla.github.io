@@ -1,4 +1,4 @@
-<html><body><p>Mean City will m<a href="/2015/04/11022582_615074245295666_657576044010520377_o.jpg"><img class="  wp-image-4599 alignright" src="https://scottishrollerderbyblog.com/2015/04/11022582_615074245295666_657576044010520377_o.jpg?w=300" alt="11022582_615074245295666_657576044010520377_o" width="442" height="175"></a>eet Madchester later this month when Glasgow hosts a colourful clash of skates, songs and sporting rivalry.
+<html><body><p>Mean City will m<a href="/2015/04/11022582_615074245295666_657576044010520377_o.jpg"><img class="  wp-image-4599 alignright" src="https://www.scottishrollerderbyblog.com/2015/04/11022582_615074245295666_657576044010520377_o.jpg?w=300" alt="11022582_615074245295666_657576044010520377_o" width="442" height="175"></a>eet Madchester later this month when Glasgow hosts a colourful clash of skates, songs and sporting rivalry.
 
 Glasgow’s own Mean City Roller Derby will welcome Manchester Roller Derby’s Chaos Engine to the town for a showdown soundtracked by everyone from Oasis and The Stone Roses to New Order and The Smiths.
 

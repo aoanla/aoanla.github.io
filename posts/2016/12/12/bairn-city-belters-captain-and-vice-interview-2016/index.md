@@ -3,7 +3,7 @@
 <strong>Captain:</strong> Macfarlane 606 #Mac
 <strong>Vice Captain:</strong> JaneSaw Massacre 254 #JM
 
-<img class="wp-image-12497 size-large" src="https://scottishrollerderbyblog.com/2016/12/belters-w2.jpg?w=700" alt="Captain and vice on the offence" width="700" height="560"> Picture courtesy of Laura MacDonald
+<img class="wp-image-12497 size-large" src="https://www.scottishrollerderbyblog.com/2016/12/belters-w2.jpg?w=700" alt="Captain and vice on the offence" width="700" height="560"> Picture courtesy of Laura MacDonald
 
 <b>After a mixed 2015 (5 games: 2 wins 3 losses), did you set yourselves any goals for the team?</b>
 
@@ -38,7 +38,7 @@
 <b>JM:</b> We have set roles in the team, which has made a huge difference.  Knowing how people skate, what they like and don’t, learning set “plays”, spending time with each other, all helps, we laugh a lot, I love that.
 <b>Mac:</b> Having a strong core of skaters has been a benefit to the team. Knowing each other's strengths and weaknesses makes sure we support each other on track.
 
-<img class="wp-image-12498 size-large" src="https://scottishrollerderbyblog.com/2016/12/belters-team.jpg?w=700" alt="Team shot" width="700" height="394"> Picture courtesy of Laura MacDonald
+<img class="wp-image-12498 size-large" src="https://www.scottishrollerderbyblog.com/2016/12/belters-team.jpg?w=700" alt="Team shot" width="700" height="394"> Picture courtesy of Laura MacDonald
 
 <b>You have had a few new skaters this year who have integrated well into your team so much so you would be forgiven for not realising it was their first games. Why do you think that is?</b>
 
@@ -52,7 +52,7 @@
 <b>Mac:</b> All the new skaters have impressed me in so many different ways! Their attitude towards training has been excellent. They came into the team in a time of change and really stepped up to the challenge! After both of RonaCoaster and Volcanic Ash’s first games I have had people say how impressed they are that these two new skaters are playing at such a high level so early on in their derby career.
 <b>JM:</b> They all have, we had two skaters come through BCR’s New Skater Programme and one Transfer Skater.  We’re very fortunate to have them, they’re awesome!  Quality over quantity all the way.
 
-<img class="wp-image-12496 size-large" src="https://scottishrollerderbyblog.com/2016/12/belters-w1.jpg?w=700" alt="in action" width="700" height="467"> Picture courtesy of Laura MacDonald
+<img class="wp-image-12496 size-large" src="https://www.scottishrollerderbyblog.com/2016/12/belters-w1.jpg?w=700" alt="in action" width="700" height="467"> Picture courtesy of Laura MacDonald
 
 <b>Over the last 2 years we have slowly seen a change in the Belters playing style, what would you attribute this to and has it helped with your game results?</b>
 
@@ -72,6 +72,6 @@
 <b>Mac:</b> My favourite game this year was our last one against the Furness Firecrakers. It was our biggest challenge and we fought right to the end and we came out on top.
 <b>JM:</b> The Furness game was a particular highlight for me what with all the lead changes throughout the game. That really was a fight to the finish with both teams leaving everything on the track.  That was also the first game I got to play in with my sister (Volcanic Ash) and her cherry popper!  So that game will always be special.
 
-<img class="alignnone size-large wp-image-12499" src="https://scottishrollerderbyblog.com/2016/12/belters-group.jpg?w=700" alt="Team shot" width="700" height="525">
+<img class="alignnone size-large wp-image-12499" src="https://www.scottishrollerderbyblog.com/2016/12/belters-group.jpg?w=700" alt="Team shot" width="700" height="525">
 
 Taking over from Macfarlane and JaneSaw Massacre as Captain and Vice for the Central Belters in 2017 will be Wheely Wonka as Captain and Cuckoo Cadoo as Vice Captain</p></body></html>

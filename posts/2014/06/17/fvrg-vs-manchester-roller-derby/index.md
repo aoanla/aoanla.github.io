@@ -8,4 +8,4 @@ Tickets are £5 in advance when purchased from <a title="But Tickets from BPT" h
 
 Please join FVRG's <a title="FVRG Facebook Event" href="https://www.facebook.com/events/1398377247117700/" target="_blank">Facebook Event </a>for more details.
 
-<a href="/2014/06/fvrg-vs-mrd-header.jpg"><img class="size-full wp-image-3503" src="http://scottishrollerderbyblog.com/2014/06/fvrg-vs-mrd-header.jpg" alt="FVRG vs MRD Header" width="614" height="292"></a> Image courtesy of Fierce Valley Roller Girls</p></body></html>
+<a href="/2014/06/fvrg-vs-mrd-header.jpg"><img class="size-full wp-image-3503" src="http://www.scottishrollerderbyblog.com/2014/06/fvrg-vs-mrd-header.jpg" alt="FVRG vs MRD Header" width="614" height="292"></a> Image courtesy of Fierce Valley Roller Girls</p></body></html>

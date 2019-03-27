@@ -4,4 +4,4 @@ The Grease-themed Summer Shovin' will be held in Grangemouth Sports Complex on
 
 Although technically a closed bout, a limited number of tickets are available at £3, but only through your friendly Rink Ladies and T-Stop Birds. Due to the venue seating capacity, this will be on a first-come first-served basis so get in quick! Please contact skaters direct if you would like to attend.
 
-<a href="http://scottishrollerderbyblog.com/2012/06/summer-shovin.jpg"><img class="size-full wp-image-1422" title="Summer Shovin' Poster - Design by Claire Brunton" alt="Summer Shovin' Poster - Design by Claire Brunton" src="http://scottishrollerderbyblog.com/2012/06/summer-shovin.jpg" height="595" width="418"></a> Summer Shovin' Poster - Design by Claire Brunton</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2012/06/summer-shovin.jpg"><img class="size-full wp-image-1422" title="Summer Shovin' Poster - Design by Claire Brunton" alt="Summer Shovin' Poster - Design by Claire Brunton" src="http://www.scottishrollerderbyblog.com/2012/06/summer-shovin.jpg" height="595" width="418"></a> Summer Shovin' Poster - Design by Claire Brunton</p></body></html>

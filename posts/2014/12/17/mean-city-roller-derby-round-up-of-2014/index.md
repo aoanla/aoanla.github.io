@@ -2,7 +2,7 @@
 
 Twelve months packed full of arrivals, departures, dramas, delights – not to mention changes, challenges and rule tweaks to keep everyone on their toe-stops.
 
-Over the course of a year, skaters fall in and out of love with the sport, teams<a href="/2014/10/10665957_10204310510036958_302354271905941179_n.jpg"><img class=" size-medium wp-image-4405 alignright" src="https://scottishrollerderbyblog.com/2014/10/10665957_10204310510036958_302354271905941179_n.jpg?w=300" alt="10665957_10204310510036958_302354271905941179_n" width="300" height="200"></a> fragment, others solidify, new techniques are introduced, heroes rise and dynasties fall.
+Over the course of a year, skaters fall in and out of love with the sport, teams<a href="/2014/10/10665957_10204310510036958_302354271905941179_n.jpg"><img class=" size-medium wp-image-4405 alignright" src="https://www.scottishrollerderbyblog.com/2014/10/10665957_10204310510036958_302354271905941179_n.jpg?w=300" alt="10665957_10204310510036958_302354271905941179_n" width="300" height="200"></a> fragment, others solidify, new techniques are introduced, heroes rise and dynasties fall.
 
 Mean City Roller Derby (MCRD) can look back with pride, joy and determination on an action-packed 2014 which saw them win two public games, become the first co-ed league in the West of Scotland and come together as an unbreakable unit.
 
@@ -14,7 +14,7 @@ Mean City Roller Derby (MCRD) can look back with pride, joy and determination on
 
 It’s been an astonishing 52 weeks for a league which took its first breath in 2012 – breaking new ground for men’s roller derby in Scotland - and has never looked back.
 
-On 25 January 2014, Mean City joined with Bairn City Rollers to contest the very first public all-Scottish men’s roller derby league bout. The Skelpies took the scalps that day, but an unquenchable spirit was growing within Mean City, fostered by a new influx of skaters, trainers, supporters and officials.<img class="alignnone size-medium wp-image-4406 alignright" src="https://scottishrollerderbyblog.com/2014/10/1544391_10202472724133459_526197638_n.jpg?w=300" alt="1544391_10202472724133459_526197638_n" width="300" height="240">
+On 25 January 2014, Mean City joined with Bairn City Rollers to contest the very first public all-Scottish men’s roller derby league bout. The Skelpies took the scalps that day, but an unquenchable spirit was growing within Mean City, fostered by a new influx of skaters, trainers, supporters and officials.<img class="alignnone size-medium wp-image-4406 alignright" src="https://www.scottishrollerderbyblog.com/2014/10/1544391_10202472724133459_526197638_n.jpg?w=300" alt="1544391_10202472724133459_526197638_n" width="300" height="240">
 
 It’s that spirit that has driven Mean City forward to make changes both on and off track during a momentous 2014.
 
@@ -40,7 +40,7 @@ That double header was history in the making - the first time a double header ha
 
 Onlookers might have expected a modest improvement from MCRD – perhaps a close game and a typically-Scottish narrow defeat. But the onlookers didn’t realise that Mean City had been working harder than the Italian Stallion when he hit the Russian hills in Rocky IV.
 
-There was nothing rocky about the solid walls employed agains<img class=" size-medium wp-image-4409 alignleft" src="https://scottishrollerderbyblog.com/2014/10/10649861_10100265501092704_2057552521662314684_n.jpg?w=300" alt="10649861_10100265501092704_2057552521662314684_n" width="300" height="200">t Teesside and there was nowt ropey about the juking jammers who spun, ghosted and muscled their way through a tough team.
+There was nothing rocky about the solid walls employed agains<img class=" size-medium wp-image-4409 alignleft" src="https://www.scottishrollerderbyblog.com/2014/10/10649861_10100265501092704_2057552521662314684_n.jpg?w=300" alt="10649861_10100265501092704_2057552521662314684_n" width="300" height="200">t Teesside and there was nowt ropey about the juking jammers who spun, ghosted and muscled their way through a tough team.
 
 In the end, MCRD nabbed an historic 188-185 victory – their first public win – gloriously celebrated with Bench Manager Sara ‘Five Star Sylk’ McCann and their fans.
 
@@ -52,7 +52,7 @@ Said onlookers were soon left picking their jaws up at the floor (and portions o
 
 That score doesn’t begin to tell the story of a team and a league who fought for every inch of track and for every one of their team-mates. It was an awesome performance and marked a real sea-change for Mean City.
 
-But another sea change was about to take place behind the scenes. <img class="alignnone size-medium wp-image-4408 alignright" src="https://scottishrollerderbyblog.com/2014/10/10253967_10204310520997232_7704960216960451892_n.jpg?w=300" alt="10253967_10204310520997232_7704960216960451892_n" width="300" height="240">There had been a growing feeling within the league that it was time to take a brave step into new territory.
+But another sea change was about to take place behind the scenes. <img class="alignnone size-medium wp-image-4408 alignright" src="https://www.scottishrollerderbyblog.com/2014/10/10253967_10204310520997232_7704960216960451892_n.jpg?w=300" alt="10253967_10204310520997232_7704960216960451892_n" width="300" height="240">There had been a growing feeling within the league that it was time to take a brave step into new territory.
 
 Responding to demand – both from within and outwith the league – it was decided that Mean City Roller Derby would become co-ed. Members felt Mean City should help lead the way into a new future for the sport – a future involving people of all genders and all backgrounds.
 
@@ -64,7 +64,7 @@ MCRD Chair Alan Muir said, “This has been an unforgettable and unprecedented y
 
 “Allied to that we took the momentous decision to offer a roller derby home to people of all genders and from all backgrounds. We believe as a co-ed league we offer people the chance to play derby in a fun, committed and competitive environment – helping the sport we love to thrive.
 
-“We would be now<img class="alignnone size-medium wp-image-4407 alignleft" src="https://scottishrollerderbyblog.com/2014/10/1622202_10202472783574945_823268585_n.jpg?w=300" alt="1622202_10202472783574945_823268585_n" width="300" height="200">here without the support of everyone involved with Mean City –skating, supporting, officiating, refereeing or cheering us on – and our brothers and sisters on and off skates around Scotland and beyond.
+“We would be now<img class="alignnone size-medium wp-image-4407 alignleft" src="https://www.scottishrollerderbyblog.com/2014/10/1622202_10202472783574945_823268585_n.jpg?w=300" alt="1622202_10202472783574945_823268585_n" width="300" height="200">here without the support of everyone involved with Mean City –skating, supporting, officiating, refereeing or cheering us on – and our brothers and sisters on and off skates around Scotland and beyond.
 
 “On behalf of MCRD I would like to extend a special thanks to all the referees and NSOs – and all the volunteers - who have helped to keep us within the boundaries and on track during 2014.”
 

@@ -1,4 +1,4 @@
-<html><body><strong>Every passionate Scot dreams of one day pulling on<a href="/2015/03/1959312_449090048556800_2001698922_n.jpg"><img class=" size-medium wp-image-4595 alignright" src="https://scottishrollerderbyblog.com/2015/03/1959312_449090048556800_2001698922_n.jpg?w=300" alt="1959312_449090048556800_2001698922_n" width="300" height="300"></a> the dark blue to represent their country at a World Cup.</strong>
+<html><body><strong>Every passionate Scot dreams of one day pulling on<a href="/2015/03/1959312_449090048556800_2001698922_n.jpg"><img class=" size-medium wp-image-4595 alignright" src="https://www.scottishrollerderbyblog.com/2015/03/1959312_449090048556800_2001698922_n.jpg?w=300" alt="1959312_449090048556800_2001698922_n" width="300" height="300"></a> the dark blue to represent their country at a World Cup.</strong>
 
 For the vast majority that’s how it remains – an unfulfilled daydream during a drizzly Monday lunchtime at the office.
 

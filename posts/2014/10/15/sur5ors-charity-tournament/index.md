@@ -1,6 +1,6 @@
 <html><body><p>While Team Scotland are off to Wales this weekend to skate in the Road to Dallas, the rest of us would be bereft of derby action if it weren't for the foresightedness of Alison Renton - following up last year's charity bout with a whole Sur5al tournament this time around!
 
-<a href="/2014/10/sur5ors.jpg"><img class="aligncenter size-large wp-image-4067" src="https://scottishrollerderbyblog.com/2014/10/sur5ors.jpg?w=614" alt="sur5ors" width="614" height="869"></a>
+<a href="/2014/10/sur5ors.jpg"><img class="aligncenter size-large wp-image-4067" src="https://www.scottishrollerderbyblog.com/2014/10/sur5ors.jpg?w=614" alt="sur5ors" width="614" height="869"></a>
 
 <a href="https://www.facebook.com/events/302622106565291/?fref=ts">Sur5ors</a> will see teams from
 

@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/09/hotwheel.jpg"><img src="http://scottishrollerderbyblog.com/2012/09/hotwheel.jpg" alt="" title="hotwheel" width="509" height="720" class="aligncenter size-full wp-image-1747"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/09/hotwheel.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/09/hotwheel.jpg" alt="" title="hotwheel" width="509" height="720" class="aligncenter size-full wp-image-1747"></a>
 
 <em>Image courtesy of How Wheel Roller Derby</em>
 

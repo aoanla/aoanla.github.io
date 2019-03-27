@@ -29,4 +29,4 @@ If you would like to take advantage of this opportunity, please contact <a href
 
 We look forward to meeting you!
 
-<a href="/2015/02/grd.jpg"><img class="  wp-image-4565 aligncenter" src="https://scottishrollerderbyblog.com/2015/02/grd.jpg?w=300" alt="grd" width="310" height="119"></a></body></html>
+<a href="/2015/02/grd.jpg"><img class="  wp-image-4565 aligncenter" src="https://www.scottishrollerderbyblog.com/2015/02/grd.jpg?w=300" alt="grd" width="310" height="119"></a></body></html>

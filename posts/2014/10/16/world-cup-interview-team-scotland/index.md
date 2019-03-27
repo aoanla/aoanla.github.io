@@ -1,10 +1,10 @@
 <html><body><a href="https://www.facebook.com/pages/Team-Scotland-Roller-Derby/235701999922927">Scotland</a> competed in the 2011 <a href="http://rollerderbyworldcup.com">Roller Derby World Cup</a> and secured 11<sup>th</sup> place, after a difficult placement group with the USA and New Zealand.  Jill Stephen represented Scotland last time (skating as Fight Cub) and is back for more. She was kind enough to let me interview her.
 
-This weekend Scotland will be competing in <a href="https://www.facebook.com/events/724704624268299/?fref=ts">The Road to Dallas</a> alongside Team Ireland, Wales and West Indies, having already played two warm-up bouts (against the <a title="Team Scotland v Euro Stars – This Saturday!" href="http://scottishrollerderbyblog.com/2014/07/03/team-scotland-v-euro-stars-this-saturday/">Euro-Stars</a> and <a title="Are they HOT or WOT? Team Scotland’s latest challengers speak." href="http://scottishrollerderbyblog.com/2014/08/12/are-they-hot-or-wot-team-scotlands-latest-challengers-speak/">Hot or WOT</a>).
+This weekend Scotland will be competing in <a href="https://www.facebook.com/events/724704624268299/?fref=ts">The Road to Dallas</a> alongside Team Ireland, Wales and West Indies, having already played two warm-up bouts (against the <a title="Team Scotland v Euro Stars – This Saturday!" href="http://www.scottishrollerderbyblog.com/2014/07/03/team-scotland-v-euro-stars-this-saturday/">Euro-Stars</a> and <a title="Are they HOT or WOT? Team Scotland’s latest challengers speak." href="http://www.scottishrollerderbyblog.com/2014/08/12/are-they-hot-or-wot-team-scotlands-latest-challengers-speak/">Hot or WOT</a>).
 
  
 
-<a href="/2014/10/team-scotland.png"><img class="size-medium wp-image-4001" src="https://scottishrollerderbyblog.com/2014/10/team-scotland.png?w=300" alt="Team Scotland logo" width="300" height="246"></a> Team Scotland logo by Admiral Attackbar
+<a href="/2014/10/team-scotland.png"><img class="size-medium wp-image-4001" src="https://www.scottishrollerderbyblog.com/2014/10/team-scotland.png?w=300" alt="Team Scotland logo" width="300" height="246"></a> Team Scotland logo by Admiral Attackbar
 
 <strong>On the topic of team selection - Can you tell me a bit about how your team selection process worked?</strong>
 

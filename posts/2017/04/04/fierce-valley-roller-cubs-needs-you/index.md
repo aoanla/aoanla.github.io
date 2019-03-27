@@ -1,6 +1,6 @@
 <html><body><p>Are you interested in being involved in the future of roller derby in Scotland? Now’s your chance; Fierce Valley Roller Cubs is looking for guest coaches from the wider world of Scottish roller derby.
 
-<img class="  wp-image-1833 aligncenter" src="https://scottishrollerderbyblog.com/2012/10/cubs.jpg" alt="cubs" width="291" height="288">
+<img class="  wp-image-1833 aligncenter" src="https://www.scottishrollerderbyblog.com/2012/10/cubs.jpg" alt="cubs" width="291" height="288">
 
 Based in Falkirk and training every Sunday, Fierce Valley Roller Cubs is open to all between the ages of 5 and 17, and currently has a range of skaters from beginners to advanced level. Cubs skaters have taken part in several intraleague games, the first of their kind in Scotland, and last year crossed the border to take part in their first external game.
 

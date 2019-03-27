@@ -1,6 +1,6 @@
 <html><body><p>In our first monthly diary of the new year, we have Fierce Valley's very own bat-winged, pom-pom-antennaed fuzzy<sup>*</sup> telling us all about herself, and <a href="fvrg.co.uk">FVRG</a>'s plans for the next few months. Yes, it's ... Evil Moogle!
 
-<a href="http://scottishrollerderbyblog.com/2013/01/486362_10152263831025392_471089841_n.jpg"><img class="size-full wp-image-2097" alt="Evil Moogle takes a break during Fierce Valley's first home bout against Wirral Whipiteres" src="http://scottishrollerderbyblog.com/2013/01/486362_10152263831025392_471089841_n.jpg" width="614" height="922"></a> Evil Moogle takes a break during Fierce Valley's first home bout against Wirral Whipiteres
+<a href="http://www.scottishrollerderbyblog.com/2013/01/486362_10152263831025392_471089841_n.jpg"><img class="size-full wp-image-2097" alt="Evil Moogle takes a break during Fierce Valley's first home bout against Wirral Whipiteres" src="http://www.scottishrollerderbyblog.com/2013/01/486362_10152263831025392_471089841_n.jpg" width="614" height="922"></a> Evil Moogle takes a break during Fierce Valley's first home bout against Wirral Whipiteres
 
 <strong>What first attracted you to Roller Derby?</strong>
 

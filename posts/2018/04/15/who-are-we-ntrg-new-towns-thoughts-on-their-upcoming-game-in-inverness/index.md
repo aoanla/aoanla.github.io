@@ -2,7 +2,7 @@
 Storm in a D Cup, Millie Manslaughter, Mother Tucker and Hazzard are here to share their pre game insights with you all!
 
 <strong>Storm in a D Cup 69
-<img class="alignnone size-medium wp-image-26609" src="https://scottishrollerderbyblog.com/2018/04/storminad.jpg?w=450" alt="StormInAD" width="225" height="300">
+<img class="alignnone size-medium wp-image-26609" src="https://www.scottishrollerderbyblog.com/2018/04/storminad.jpg?w=450" alt="StormInAD" width="225" height="300">
 </strong>
 
 The thing I am looking forward to most about game day is that feeling of team comraderie. The sick, excited and nervous butterflies-in-your-stomach feeling as we all pile into the bus or car. How we will all send a million messages to our team mates sharing experiences, offering support and motivation.  I am not someone who has ever been involved in sport. I now look back with a bit of regret that I did not do something like this when I was younger. I feel grateful for finding something that I am proud of, for finding all these amazing women who are completely different, but for one day the same. We are all trying our best to succeed, support and survive.
@@ -13,7 +13,7 @@ The one thing I have discovered is that it’s not important who wins. After pas
 
 <strong>Millie Manslaughter 5</strong>
 
-<img class="alignnone size-medium wp-image-26610" src="https://scottishrollerderbyblog.com/2018/04/millemanslaughter.jpg?w=450" alt="MilleManslaughter" width="225" height="300">
+<img class="alignnone size-medium wp-image-26610" src="https://www.scottishrollerderbyblog.com/2018/04/millemanslaughter.jpg?w=450" alt="MilleManslaughter" width="225" height="300">
 
 I am looking forward to seeing how well the team comes together because we have been working and training hard so it will be great to see if our hard work has payed off or not. It will also be nice for the team to spend some time together.
 
@@ -29,7 +29,7 @@ Watch out Inverness, Millie Manslaughter's coming for you!! 😀😀
 
 <strong>Mother Tucker 79</strong>
 
-<img class="alignnone size-medium wp-image-26611" src="https://scottishrollerderbyblog.com/2018/04/mothertucker.jpg?w=450" alt="MotherTucker" width="225" height="300">
+<img class="alignnone size-medium wp-image-26611" src="https://www.scottishrollerderbyblog.com/2018/04/mothertucker.jpg?w=450" alt="MotherTucker" width="225" height="300">
 
 The pre-match build up: Skating out with the team before the game - it’s great to go out and hear everyone cheering your team.  When your name’s announced, you feel all special for a moment or two, then you cheer all the other team members! Also, huddling round just and doing our chant is pretty awesome.
 
@@ -39,7 +39,7 @@ I think it’ll be a good game to watch and if we can communicate well and put i
 
 <strong>Hazzard 810</strong>
 
-<img class="alignnone size-medium wp-image-26612" src="https://scottishrollerderbyblog.com/2018/04/hazzard.jpg?w=450" alt="Hazzard" width="225" height="300">
+<img class="alignnone size-medium wp-image-26612" src="https://www.scottishrollerderbyblog.com/2018/04/hazzard.jpg?w=450" alt="Hazzard" width="225" height="300">
 
 I’m very much looking forward to playing with the team! It’s the first time we’ve been able to train for and play games consistently within a short period of time and it’s a great bonding experience not just for the skating team but for the entire league as well! We have a host of supporters coming up for Inverness so it’s gonna be NTRG tastic!
 

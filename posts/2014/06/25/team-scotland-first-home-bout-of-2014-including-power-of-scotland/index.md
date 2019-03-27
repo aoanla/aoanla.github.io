@@ -12,7 +12,7 @@ Hope to see you there! x
 
  
 
-<a href="/2014/06/bout1.jpg"><img class="aligncenter size-large wp-image-3524" src="http://scottishrollerderbyblog.com/2014/06/bout1.jpg?w=614" alt="Team Scotland vs Euro Stars - first home bout of 2014 Team" width="614" height="866"></a>
+<a href="/2014/06/bout1.jpg"><img class="aligncenter size-large wp-image-3524" src="http://www.scottishrollerderbyblog.com/2014/06/bout1.jpg?w=614" alt="Team Scotland vs Euro Stars - first home bout of 2014 Team" width="614" height="866"></a>
 
 </p><hr>
 

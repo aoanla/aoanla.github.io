@@ -5,12 +5,12 @@
 
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27460" src="https://scottishrollerderbyblog.com/2018/09/eur_map20.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27460" src="https://www.scottishrollerderbyblog.com/2018/09/eur_map20.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
 <h2>Scotland</h2>
 Aberdeen hosts the most exciting action in Scotland this weekend, as Granite City Brawlers host the country's first MRDA Sanctioned Tournament. Dundee, meanwhile, are all down south (barring their officials helping to make the Silver City Cup work) in Kent!
 <ul>
 	<li>Thurs, <strong>Dumbarton</strong>: Chicks in Bowls Scotland host Quad Meet sessions [6-10pm, Unit23 Skatepark][<strong><a href="https://www.facebook.com/events/571664849967506/">EVENT</a></strong>]</li>
-	<li><span style="color:#800000;"><strong>Aberdeen</strong></span>: Granite City Brawlers host the Silver City Cup, Scotland's first MRDA Sanctioned Roller Derby Tournament, about which we wrote more <a href="https://scottishrollerderbyblog.com/2018/09/06/silver-city-cup-a-brawling-interview/"><strong>here</strong></a> and <a href="https://scottishrollerderbyblog.com/2018/09/14/the-silver-city-cup-scotlands-first-mrda-tournament/"><strong>here</strong></a>.  [<a href="http://flattrackstats.com/tournaments/104137/overview"><strong>FTS Tournament</strong></a>][<strong><a href="https://www.facebook.com/events/616684768693015">EVENT</a></strong>]
+	<li><span style="color:#800000;"><strong>Aberdeen</strong></span>: Granite City Brawlers host the Silver City Cup, Scotland's first MRDA Sanctioned Roller Derby Tournament, about which we wrote more <a href="https://www.scottishrollerderbyblog.com/2018/09/06/silver-city-cup-a-brawling-interview/"><strong>here</strong></a> and <a href="https://www.scottishrollerderbyblog.com/2018/09/14/the-silver-city-cup-scotlands-first-mrda-tournament/"><strong>here</strong></a>.  [<a href="http://flattrackstats.com/tournaments/104137/overview"><strong>FTS Tournament</strong></a>][<strong><a href="https://www.facebook.com/events/616684768693015">EVENT</a></strong>]
 <ul>
 	<li>Granite City Brawlers (Aberdeen M) versus South Wales Silures (Cardiff M)</li>
 	<li>South Wales Silures versus Tampere Rollin' Bros</li>
@@ -194,8 +194,8 @@ Whilst there's a lot of recruitment across Europe, there's also plenty of bouts 
 	<li>Wed, <span style="color:#0000ff;"><strong>Ostrava</strong></span>, Czech Republic: Trojhali Ostrava Roller Derby host their ongoing recruitment / open training for the next few months on Wednesdays! [<a href="https://www.facebook.com/events/1825366267557931/"><strong>EVENT</strong></a>]</li>
 	<li>Wed, <span style="color:#0000ff;"><strong>Nancy</strong></span>, France: Wheel Spirit Roller Derby are hosting their next recruitment day - for both skaters and officials of all kinds! [<strong><a href="https://www.facebook.com/events/439830946523452/">EVENT</a></strong>]</li>
 </ul>
-<img class="aligncenter size-large wp-image-27467" src="https://scottishrollerderbyblog.com/2018/09/asia_map4.png?w=1024" alt="ASIA_map" width="1024" height="768">
-<h2><img class="aligncenter size-large wp-image-27450" src="https://scottishrollerderbyblog.com/2018/09/anz_map4.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
+<img class="aligncenter size-large wp-image-27467" src="https://www.scottishrollerderbyblog.com/2018/09/asia_map4.png?w=1024" alt="ASIA_map" width="1024" height="768">
+<h2><img class="aligncenter size-large wp-image-27450" src="https://www.scottishrollerderbyblog.com/2018/09/anz_map4.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
 <h2><b>Pacific</b></h2>
 Roller Derby continues to happen busily in the Pacific region - New Zealand hosts a triple and a <em>hextuple</em> header, whilst Australia hosts more smaller fixtures.
 <ul>
@@ -252,7 +252,7 @@ Roller Derby continues to happen busily in the Pacific region - New Zealand host
 	<li>Wed, <span style="color:#0000ff;"><strong>Queenstown</strong></span>, New Zealand: Queenstown Roller Derby host the first of 4 "Skate Date" try derby / recruitment days. (The next is this coming Thursday, in Wanaka) [<a href="https://www.facebook.com/events/260283494814757/"><strong>EVENT</strong></a>]</li>
 	<li>Wed, <span style="color:#0000ff;"><strong>Bangkok</strong></span>, Thailand: Bangkok Roller Derby have their regular training evening, which is always open to new skaters [<strong><a href="https://www.facebook.com/BangkokRollerDerby/photos/a.496774633792536/1300042966799028/?type=3">EVENT Flyer</a></strong>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27449" src="https://scottishrollerderbyblog.com/2018/09/la_map9.png?w=1024" alt="LA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27449" src="https://www.scottishrollerderbyblog.com/2018/09/la_map9.png?w=1024" alt="LA_map" width="1024" height="768"></h2>
 <h2>Latin America</h2>
 As usual, for Latin America, this is what we can find in the area - we always appreciate help in finding events here.
 This weekend, there's derby mostly in Buenos Aires, with two of the many local leagues hosting double headers!
@@ -279,8 +279,8 @@ This weekend, there's derby mostly in Buenos Aires, with two of the many local l
 	<li>Mon+Wed+Fri, <span style="color:#0000ff;"><strong>Montevideo</strong></span>, Uruguay: Tempestad Roller Derby - the second Roller Derby team in Uruguay - host recruitments on the training days [<a href="https://www.facebook.com/tempestadrd/posts/263648300924570?__xts__%5B0%5D=68.ARCrMVbeAraLSUgS9Gj936s-n95tVpziYFrsz_Y9WPX1EEBjBoHg15E8WqOhX75nGfQ1SLka4BWpS-IFBHr89WRvNeDAasxxo7iZwZce_zERyNnkBmzoUJuUyOf4neIxfwY7PYTqUlraYJk5-UlBKemz6oHsfqWX_fTOS2U9KG3BlG7zGwqs&amp;__tn__=-R"><strong>EVENT Flyer</strong></a>]</li>
 	<li>Wed, <span style="color:#0000ff;"><strong>Miramar</strong></span>, Buenos Aires, Argentina: Atlántico Sur Roller Derby host a training session (always open to new skaters) [<strong><a href="https://www.facebook.com/atlanticosurRD/photos/a.1789233754704036/1905783729715704/?type=3">EVENT Flyer</a></strong>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27445" src="https://scottishrollerderbyblog.com/2018/09/me_map3.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27446" src="https://scottishrollerderbyblog.com/2018/09/sa_map2.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27445" src="https://www.scottishrollerderbyblog.com/2018/09/me_map3.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27446" src="https://www.scottishrollerderbyblog.com/2018/09/sa_map2.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 Our regular events in South Africa, Dubai and Abu Dhabi continue - but there's also some skating in Israel!
 <ul>

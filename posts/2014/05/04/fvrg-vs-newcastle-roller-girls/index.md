@@ -4,5 +4,5 @@
 <p style="text-align:justify;">Please see the <a title="FVRG Facebook Event" href="https://www.facebook.com/events/688155881225496/" target="_blank">Facebook Event </a>for more details.</p>
 
 
-<a href="http://scottishrollerderbyblog.com/2014/05/1510617_777560178922503_8012496889443094198_n.jpg"><img class="size-full wp-image-3407" src="http://scottishrollerderbyblog.com/2014/05/1510617_777560178922503_8012496889443094198_n.jpg" alt="Poster designed by Gotham Nicky from FVRG" width="474" height="669"></a> Poster designed by Gotham Nicky from FVRG
+<a href="http://www.scottishrollerderbyblog.com/2014/05/1510617_777560178922503_8012496889443094198_n.jpg"><img class="size-full wp-image-3407" src="http://www.scottishrollerderbyblog.com/2014/05/1510617_777560178922503_8012496889443094198_n.jpg" alt="Poster designed by Gotham Nicky from FVRG" width="474" height="669"></a> Poster designed by Gotham Nicky from FVRG
 <p style="text-align:justify;"></p></body></html>

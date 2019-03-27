@@ -2,13 +2,13 @@
 
 As many of these teams are pretty new to WFTDA, they have no WFTDA Rank - most of them are playing a large number of WFTDA Strength Factor Challenges [a special kind of pseudo-Sanctioned bout which counts only towards the "new" teams' rating with WFTDA] in order to fix this. Buenos Aires Roller Derby is not a WFTDA member at all, and so does not have a WFTDA Rank. The advantage of Strength Factor Challenges is that they do not reduce the ranking of the "experienced" team - so all of 2x4's games at Violentango 5 are SFCs.
 
-A full schedule, with time-zone adjustments and links to streams when available, is hosted on our site here: <strong><a href="https://aoanla.pythonanywhere.com/violentango5.html">https://aoanla.pythonanywhere.com/violentango5.html</a> (a smaller article on the tournament is <a href="https://scottishrollerderbyblog.com/2017/03/29/violentango-5-latin-americas-continental-tournament-returns/">HERE</a>. )</strong>
+A full schedule, with time-zone adjustments and links to streams when available, is hosted on our site here: <strong><a href="https://aoanla.pythonanywhere.com/violentango5.html">https://aoanla.pythonanywhere.com/violentango5.html</a> (a smaller article on the tournament is <a href="https://www.scottishrollerderbyblog.com/2017/03/29/violentango-5-latin-americas-continental-tournament-returns/">HERE</a>. )</strong>
 </p><h2>2x4 Roller Derby</h2>
 <img class="alignnone size-full wp-image-17687" src="/2017/04/2x4.jpg" alt="2x4" width="200" height="196">
 
 2x4 are the first WFTDA member league in Argentina. Founded in Buenos Aires, Argentina in 2010, they joined WFTDA fully at the start of 2016, at the beginning of the current trend.
 
-2x4 has organised Violentango tournaments for the last 5 years, although this is the first WFTDA Recognised Tournament version. (We've written a little about the history <strong><a href="https://scottishrollerderbyblog.com/2017/03/29/violentango-5-latin-americas-continental-tournament-returns/">HERE</a></strong>.)
+2x4 has organised Violentango tournaments for the last 5 years, although this is the first WFTDA Recognised Tournament version. (We've written a little about the history <strong><a href="https://www.scottishrollerderbyblog.com/2017/03/29/violentango-5-latin-americas-continental-tournament-returns/">HERE</a></strong>.)
 
 As well as their A Team, Team OSOM, 2x4 also maintains a B Team (Las Pibas) and a C Team. After Violentango, Team OSOM are preparing for attending someone else's tournament, as they feature at <strong><a href="https://www.facebook.com/events/1356059051113408/">The Big O</a></strong>, in Eugene, Oregon.
 

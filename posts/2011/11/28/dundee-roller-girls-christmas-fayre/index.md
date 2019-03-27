@@ -6,4 +6,4 @@ On sale will be handmade gifts, prize raffle, craft stalls as well the famous Du
 http://www.facebook.com/event.php?eid=189608154459598</a></p>
  
 
-<a href="http://scottishrollerderbyblog.com/2011/11/xmas-fair.jpg"><img class="aligncenter size-large wp-image-621" title="Dundee Roller Girls Chrismtas Fayre" src="http://scottishrollerderbyblog.com/2011/11/xmas-fair.jpg?w=723" alt="Poster Design by Sins N Needles" width="723" height="1024"></a></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2011/11/xmas-fair.jpg"><img class="aligncenter size-large wp-image-621" title="Dundee Roller Girls Chrismtas Fayre" src="http://www.scottishrollerderbyblog.com/2011/11/xmas-fair.jpg?w=723" alt="Poster Design by Sins N Needles" width="723" height="1024"></a></body></html>

@@ -1,4 +1,4 @@
-<html><body><p style="text-align:left;"><a href="/2015/07/arrg-banner.jpg"><img class="alignnone size-medium wp-image-4809" src="https://scottishrollerderbyblog.com/2015/07/arrg-banner.jpg?w=300" alt="ARRG-Banner" width="300" height="67"></a></p>
+<html><body><p style="text-align:left;"><a href="/2015/07/arrg-banner.jpg"><img class="alignnone size-medium wp-image-4809" src="https://www.scottishrollerderbyblog.com/2015/07/arrg-banner.jpg?w=300" alt="ARRG-Banner" width="300" height="67"></a></p>
 A RED-HOT new roller derby team will assemble for Auld Reekie Roller Girls’ first Edinburgh Festival Fringe game of 2015.
 
 Sparks are sure to fly as <a href="https://tickets.edfringe.com/whats-on/auld-reekie-roller-girls-presents-live-roller-derby">Edinburgh’s All Star Reserves play Glasgow Roller Derby's Maiden Grrders</a>.

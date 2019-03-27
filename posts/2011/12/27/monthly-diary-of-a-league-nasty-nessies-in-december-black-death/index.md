@@ -1,6 +1,6 @@
 <html><body><div>The winter holidays don't get in the way of our team diaries: while you're recovering from over-indulgence, why not catch up on the Nasty Nessies' happenings with this month's interviewee: Black Death!
 
-<a href="http://scottishrollerderbyblog.com/2011/12/black-death1.jpg"><img class=" wp-image-718 " title="Black Death" src="http://scottishrollerderbyblog.com/2011/12/black-death1.jpg" alt="" width="430" height="641"></a>
+<a href="http://www.scottishrollerderbyblog.com/2011/12/black-death1.jpg"><img class=" wp-image-718 " title="Black Death" src="http://www.scottishrollerderbyblog.com/2011/12/black-death1.jpg" alt="" width="430" height="641"></a>
 
 </div>
 <div></div>

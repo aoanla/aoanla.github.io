@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2013/01/424389_907757491774_2107291117_n.jpg"><img class="size-large wp-image-2133" alt="424389_907757491774_2107291117_n" src="http://scottishrollerderbyblog.com/2013/01/424389_907757491774_2107291117_n.jpg?w=614" width="614" height="460"></a> Cherry Bombers Best Blocker Maulibu Barbie watches out for the Leithals' Sharlotte Fever, jamming.
+<html><body><a href="http://www.scottishrollerderbyblog.com/2013/01/424389_907757491774_2107291117_n.jpg"><img class="size-large wp-image-2133" alt="424389_907757491774_2107291117_n" src="http://www.scottishrollerderbyblog.com/2013/01/424389_907757491774_2107291117_n.jpg?w=614" width="614" height="460"></a> Cherry Bombers Best Blocker Maulibu Barbie watches out for the Leithals' Sharlotte Fever, jamming.
 
 Saturday 19th of January saw the first public bout in Scotland played under the new WFTDA rules. Most famously, these rules remove minor penalties in favour of a streamlined officiation process where only major penalties can be awarded; however, they also make a host of other changed, including starting both the pack and the jammers on the same single starting whistle.
 Auld Reekie started their home season last year in the first third of the year as, amongst other things, a way to warm up after the Christmas/Hogmanay break, but the timing this year has been particularly advantageous, giving them also a chance to get more practice with the new rules before bouting against other leagues.
@@ -24,7 +24,7 @@ Half-time saw the second appearance of <a href="http://www.choiredinburgh.co.uk
 
 -
 
-<a href="http://scottishrollerderbyblog.com/2013/01/385277_907756438884_1922633653_n.jpg"><img class="size-large wp-image-2134" alt="Ciderella chases down Circuit Breaker in one of the several jammer-on-jammer duels in the bout." src="http://scottishrollerderbyblog.com/2013/01/385277_907756438884_1922633653_n.jpg?w=614" width="614" height="409"></a> Ciderella chases down Circuit Breaker in one of the several jammer-on-jammer duels in the bout.
+<a href="http://www.scottishrollerderbyblog.com/2013/01/385277_907756438884_1922633653_n.jpg"><img class="size-large wp-image-2134" alt="Ciderella chases down Circuit Breaker in one of the several jammer-on-jammer duels in the bout." src="http://www.scottishrollerderbyblog.com/2013/01/385277_907756438884_1922633653_n.jpg?w=614" width="614" height="409"></a> Ciderella chases down Circuit Breaker in one of the several jammer-on-jammer duels in the bout.
 
 Returning from half-time, the Cherry Bombers faced a difficult challenge to win with an almost 200 point deficit. In fact, an almost immediate<a href="http://www.youtube.com/watch?v=zip5T4OB1mg&amp;list=PLsfV1BOiVrnEvF6D1YCYGwx1C4pdeBGeb&amp;index=3"> power jam</a> for the Leithals once more, Circuit Breaker (100) spending time in the penalty box, whilst Yin and Bang (39) racked up a few more points, immediately increased their deficit even more...
 
@@ -42,7 +42,7 @@ Just when it looked like the Leithals would actually manage to win with a 10:1 s
 
 With a bout timing issue causing head ref Righteous Oxide to allow one final jam, it was Kaos Moss who took back control for the Leithal Weapons for a final frosting of points, leaving the final score at:
 <p style="text-align:center;"><strong>66</strong> Cherry Bombers : <strong>395</strong> Leithal Weapons</p>
-<a href="http://scottishrollerderbyblog.com/2013/01/74614_907756049664_1997508534_n.jpg"><img class="aligncenter size-large wp-image-2135" alt="74614_907756049664_1997508534_n" src="http://scottishrollerderbyblog.com/2013/01/74614_907756049664_1997508534_n.jpg?w=614" width="614" height="409"></a>
+<a href="http://www.scottishrollerderbyblog.com/2013/01/74614_907756049664_1997508534_n.jpg"><img class="aligncenter size-large wp-image-2135" alt="74614_907756049664_1997508534_n" src="http://www.scottishrollerderbyblog.com/2013/01/74614_907756049664_1997508534_n.jpg?w=614" width="614" height="409"></a>
 
 The Skater awards were given to:
 <table border="0" align="center">

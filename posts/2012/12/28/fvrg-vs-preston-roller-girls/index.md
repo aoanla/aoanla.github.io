@@ -6,4 +6,4 @@ Doors open at 2pm, for a 2:30pm start. Tickets cost £5 in advance online via <a
 
 Full details of the event can be found on the <a title="FVRG vs Preston Roller Girls Facebook Event" href="https://www.facebook.com/events/114944845342095/?ref=22" target="_blank">Facebook Event</a>
 
-<a href="http://scottishrollerderbyblog.com/2012/12/love-hurts-small.jpg"><img class="size-full wp-image-2106" alt="Love Hurts Poster, designed by SeenGus" src="http://scottishrollerderbyblog.com/2012/12/love-hurts-small.jpg" width="614" height="867"></a> Love Hurts Poster, designed by SeenGus</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2012/12/love-hurts-small.jpg"><img class="size-full wp-image-2106" alt="Love Hurts Poster, designed by SeenGus" src="http://www.scottishrollerderbyblog.com/2012/12/love-hurts-small.jpg" width="614" height="867"></a> Love Hurts Poster, designed by SeenGus</p></body></html>

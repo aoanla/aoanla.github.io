@@ -8,7 +8,7 @@ Dorkmistress has had a long and varied time in Roller Derby. Starting in 2011 wi
 
  
 
-<img class=" size-full aligncenter" title="wp-1458819373825" src="http://scottishrollerderbyblog.com/2016/03/wp-1458819373825.jpg" alt="image">
+<img class=" size-full aligncenter" title="wp-1458819373825" src="http://www.scottishrollerderbyblog.com/2016/03/wp-1458819373825.jpg" alt="image">
 
  
 

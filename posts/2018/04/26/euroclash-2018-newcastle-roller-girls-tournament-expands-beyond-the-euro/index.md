@@ -9,7 +9,7 @@ Whilst 2018's edition is slightly smaller than 2017's - 9 attendees (6 returning
 Returning from 2017's inaugural event are:
 
 Newcastle Roller Girls (hosts)
-Auld Reekie Roller Girls (soon to <b><a href="https://scottishrollerderbyblog.com/2018/04/25/auld-reekies-10-anniversary-rebrand-with-your-help/">rebrand</a></b> to Auld Reekie Roller Derby) [Edinburgh]
+Auld Reekie Roller Girls (soon to <b><a href="https://www.scottishrollerderbyblog.com/2018/04/25/auld-reekies-10-anniversary-rebrand-with-your-help/">rebrand</a></b> to Auld Reekie Roller Derby) [Edinburgh]
 Central City Roller Derby (competed last year as Central City Rollergirls) [Birmingham]
 Dublin Roller Derby
 Middlesbrough Roller Derby (EuroClash2017 was their first fixture after rebranding)
@@ -21,10 +21,10 @@ Birmingham Blitz Dames
 Dock City Roller Derby [Gothenburg]
 Steel City Roller Derby [Pittsburgh]!
 
-<img class="aligncenter size-large wp-image-26639" src="https://scottishrollerderbyblog.com/2018/04/euroclash2018.png?w=2048" alt="EuroClash2018" width="1024" height="768">
+<img class="aligncenter size-large wp-image-26639" src="https://www.scottishrollerderbyblog.com/2018/04/euroclash2018.png?w=2048" alt="EuroClash2018" width="1024" height="768">
 
 Last year, EuroClash served as the first step for several of the attending teams' campaigns to get into WFTDA Playoffs - Auld Reekie, Bear City, Paris and Dublin all gaining valuable ranking points from their attendance, as all bouts are WFTDA Sanctioned games.
-Whilst EuroClash itself is not arranged to provide a final ranking, or a tournament cup, we did analyse the tournament itself <b><a href="https://scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/">here.</a></b> Our analysis was good enough to predict the results of Paris Rollergirls' subsequent two games against other attendees, so it's probably as good as any other attempt at rating the teams...
+Whilst EuroClash itself is not arranged to provide a final ranking, or a tournament cup, we did analyse the tournament itself <b><a href="https://www.scottishrollerderbyblog.com/2017/03/30/euroclash-tomodachi-and-quad-wars-three-tournaments-one-weekend-stats/">here.</a></b> Our analysis was good enough to predict the results of Paris Rollergirls' subsequent two games against other attendees, so it's probably as good as any other attempt at rating the teams...
 
 Since last year, the returning teams have played a lot of Roller Derby, with varying stories; so we can expect some changes in the matchups this time around. [We're using the FTS "WFTDA" ratings here, as not all the teams can be rated with the usually-more-accurate Europe ratings.]
 

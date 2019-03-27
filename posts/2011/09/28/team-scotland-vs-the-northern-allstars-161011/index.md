@@ -7,7 +7,7 @@ Brie Larceny,Bettie BasHer,Miss Wired and Marie Bayonet from <a href="http://new
 Marianne Faithkill and Rio De Jam Hero from <a href="http://www.sheffieldsteelrollergirls.com/">Sheffield Steel Roller Girls</a>
 Wheelie Coyote and Madame Whipcrash from <a href="http://www.facebook.com/groups/94328521811/">Wakey Wheeled Cats</a>
 
-<a href="http://scottishrollerderbyblog.com/2011/09/tsfinala3.jpg"><img src="http://scottishrollerderbyblog.com/2011/09/tsfinala3.jpg" alt="" title="TSfinalA3" width="614" height="868" class="aligncenter size-full wp-image-198"></a>
+<a href="http://www.scottishrollerderbyblog.com/2011/09/tsfinala3.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/09/tsfinala3.jpg" alt="" title="TSfinalA3" width="614" height="868" class="aligncenter size-full wp-image-198"></a>
 <em>Image courtesy of Team Scotland Roller Derby,original photograph by Dave McAleavy</em>
 
 </body></html>

@@ -1,5 +1,5 @@
 <html><body><p style="padding-left:30px;">One of the hot topics in Roller Derby, always, is Coaching. In recent times, since the Derby Stance Coaching Summit, we've seen even more collaboration and discussion in the area of UK Coaching - with <strong><a href="http://www.rulefiftysix.com">Rule56</a></strong>'s Coaching Webinars a direct follow on from this. However, there's initiatives happening even in the furthest reaches of the UK's geography... as our guest writer, and founder of <strong><a href="https://www.facebook.com/groups/403911146657994/">Derby Form Check</a></strong>, Ronie Walters (of <strong><a href="https://www.facebook.com/OrkneyViqueens/">Orkney ViQueens</a></strong>) explains:</p>
-<img class="aligncenter size-medium wp-image-18605" src="https://scottishrollerderbyblog.com/2017/05/derbyformcheck.jpg?w=300" alt="DerbyFormCheck" width="300" height="210">
+<img class="aligncenter size-medium wp-image-18605" src="https://www.scottishrollerderbyblog.com/2017/05/derbyformcheck.jpg?w=300" alt="DerbyFormCheck" width="300" height="210">
 
 One of the great things about roller derby is the grassroots ethos. We all know the ethos: "by the skaters for the skaters". You don’t need to jump through a lot of hoops and regulations to set up a roller derby league, you can just have the idea and get going.
 

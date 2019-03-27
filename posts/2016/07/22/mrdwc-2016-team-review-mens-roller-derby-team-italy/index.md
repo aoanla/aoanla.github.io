@@ -2,7 +2,7 @@
 
 In Group Orange, they face the tough seeds of England and Argentina, the slightly more defeatable Sweden, and fellow new team Chile.
 
-<a href="http://scottishrollerderbyblog.com/2016/07/wp-image-978261715jpg.jpg"><img src="http://scottishrollerderbyblog.com/2016/07/wp-image-978261715jpg.jpg" alt="" class="wp-image-8326 alignnone size-full" width="2000" height="1953"></a>
+<a href="http://www.scottishrollerderbyblog.com/2016/07/wp-image-978261715jpg.jpg"><img src="http://www.scottishrollerderbyblog.com/2016/07/wp-image-978261715jpg.jpg" alt="" class="wp-image-8326 alignnone size-full" width="2000" height="1953"></a>
 
 We caught up with Italy's Fast &amp; Furio before their first game today to find out how they felt.
 

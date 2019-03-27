@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/07/fringe-website-pic.jpg"><img src="http://scottishrollerderbyblog.com/2012/07/fringe-website-pic.jpg" alt="" title="Fringe website pic" width="608" height="430" class="aligncenter size-full wp-image-1553"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/07/fringe-website-pic.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/07/fringe-website-pic.jpg" alt="" title="Fringe website pic" width="608" height="430" class="aligncenter size-full wp-image-1553"></a>
 
 <em>Image courtesy of ARRG</em>
 

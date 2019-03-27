@@ -4,7 +4,7 @@ This excitement wasn't simply because Junior derby itself is relatively rare in 
 
 To find out more, we talked to founders Feminist Killjoy and Fever.
 
-<img class="aligncenter size-medium wp-image-10620" src="https://scottishrollerderbyblog.com/2016/10/qoxwv5noelhywijmqnko.png?w=300" alt="qoxwv5noelhywijmqnko" width="300" height="300">
+<img class="aligncenter size-medium wp-image-10620" src="https://www.scottishrollerderbyblog.com/2016/10/qoxwv5noelhywijmqnko.png?w=300" alt="qoxwv5noelhywijmqnko" width="300" height="300">
 </p><p class="p1"><strong>So, you guys sort of burst into visibility from almost invisibility... How long have you been planning Resistance Roller Derby?</strong></p>
 <p class="p1"><strong>Killjoy</strong>: Erm…. [since] May?</p>
 <p class="p1"><strong>Fever</strong>: Yeah, several months.</p>
@@ -36,7 +36,7 @@ To find out more, we talked to founders Feminist Killjoy and Fever.
 <p class="p1"><strong>Killjoy</strong>: Yeah, it's not a process, it's consultation; it's about let's see what you want. When the community exists, it'll be about people making decisions for themselves.</p>
 <p class="p1">So, obviously, it's the two of us just now who have been planning this, but the reason it's been in our heads and not in the world for most of the time it's existed as a concept is because we were really trying to take the time to make sure that our governing document, our policies, and the kind of things that are the bones of the community and the thing itself, exist as something external from us, external from the club when it does exist, whoever is a part of it, and that hopefully that is something that can be in collective ownership, rather than...</p>
 <p class="p1"><strong>Fever</strong>: It is intended to be self-sustaining, so we took a long time to work on everything, to make sure that when it came into the world it was something that existed in its own right, and we do need funding to start it, but it already has a form that is external to us.</p>
-<p class="p1"><strong><a href="https://scottishrollerderbyblog.com/2016/10/30/glasgows-new-inclusive-junior-derby-resistance-roller-derby/2">Click here to get to the next page, where we talk about the funding drive and other topics.</a></strong></p>
+<p class="p1"><strong><a href="https://www.scottishrollerderbyblog.com/2016/10/30/glasgows-new-inclusive-junior-derby-resistance-roller-derby/2">Click here to get to the next page, where we talk about the funding drive and other topics.</a></strong></p>
 <!--nextpage-->
 <p class="p1"><strong>On that note, we should talk about the crowdfunder! Apart from its existence in itself, can we talk about what it will be funding specifically? As the Target money is quite low, people might be concerned about…</strong></p>
 <p class="p1"><strong>Fever</strong>: sustainability! Yeah...</p>

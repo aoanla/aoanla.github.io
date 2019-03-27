@@ -2,7 +2,7 @@
 
 -
 
-<a href="http://scottishrollerderbyblog.com/2013/08/leona-headshot.jpg"><img class=" wp-image-2892 " alt="Devil Drives'er!" src="http://scottishrollerderbyblog.com/2013/08/leona-headshot.jpg" width="473" height="768"></a> Devil Drives'er!
+<a href="http://www.scottishrollerderbyblog.com/2013/08/leona-headshot.jpg"><img class=" wp-image-2892 " alt="Devil Drives'er!" src="http://www.scottishrollerderbyblog.com/2013/08/leona-headshot.jpg" width="473" height="768"></a> Devil Drives'er!
 
 -
 <strong>What first attracted you to Roller Derby?</strong>

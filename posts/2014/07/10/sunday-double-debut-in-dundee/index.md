@@ -2,7 +2,7 @@
 
 Given how rare it is to see a double debut, we caught up with both teams to see how they were feeling. For Dundee, we interviewed Rising Stars Captain: LowBlow Baggins (recently featured as one of their <a href="http://dundeerollergirls.com/2014/skater-of-the-month-lowblow-baggins/">Skaters of the Month</a>). Durham's responses are from Claire.
 
-<a href="/2014/07/jutes-of-hazzard.jpg"><img class="size-large wp-image-3535" src="http://scottishrollerderbyblog.com/2014/07/jutes-of-hazzard.jpg?w=614" alt="LowBlow Baggins has also Line-Upped (and skated) for DRG home team Jutes of Hazard!" width="614" height="409"></a> LowBlow Baggins has also Line-Upped (and skated) for DRG home team Jutes of Hazard! (Photo: Dave McAleavy)
+<a href="/2014/07/jutes-of-hazzard.jpg"><img class="size-large wp-image-3535" src="http://www.scottishrollerderbyblog.com/2014/07/jutes-of-hazzard.jpg?w=614" alt="LowBlow Baggins has also Line-Upped (and skated) for DRG home team Jutes of Hazard!" width="614" height="409"></a> LowBlow Baggins has also Line-Upped (and skated) for DRG home team Jutes of Hazard! (Photo: Dave McAleavy)
 
  
 
@@ -16,7 +16,7 @@ LBB: I did unfortunately break my ankle at scrims, right before my first bout. A
 
  
 
-<a href="/2014/07/1511727_602660379812524_802598606866513887_o.jpg"><img class="size-large wp-image-3536" src="http://scottishrollerderbyblog.com/2014/07/1511727_602660379812524_802598606866513887_o.jpg?w=614" alt="The Durham Roller Derby skaters!" width="614" height="414"></a> The Durham Roller Derby skaters!
+<a href="/2014/07/1511727_602660379812524_802598606866513887_o.jpg"><img class="size-large wp-image-3536" src="http://www.scottishrollerderbyblog.com/2014/07/1511727_602660379812524_802598606866513887_o.jpg?w=614" alt="The Durham Roller Derby skaters!" width="614" height="414"></a> The Durham Roller Derby skaters!
 
 <strong>(To Durham) Normally we’d ask how you’re feeling leading up to your first bout, but you’ve played in a bout before, with Durham City Rolling Angels (DCRA). How did that cherry popper experience compare to the anticipation of your first bout as a new league?</strong>
 
@@ -42,7 +42,7 @@ Encouraging everyone to attend as many scrims, bootcamps and skate related activ
 
 LBB: To prepare for the bout we have been working hard on our drills and scrimming as much as possible. We train with the Tayzers every week and they have given myself and all the other guys great advice. It will be a really awesome game and I hope everyone has fun watching us. :-)
 
-<a href="/2014/07/1899801_586031844808711_1950184115_o.jpg"><img class="size-large wp-image-3537" src="http://scottishrollerderbyblog.com/2014/07/1899801_586031844808711_1950184115_o.jpg?w=614" alt="Jony and Bronia: the secret of Durham's training, synchronised ankle rolls?" width="614" height="432"></a> Jonny and Bronia: the secret of Durham's training, synchronised ankle rolls?
+<a href="/2014/07/1899801_586031844808711_1950184115_o.jpg"><img class="size-large wp-image-3537" src="http://www.scottishrollerderbyblog.com/2014/07/1899801_586031844808711_1950184115_o.jpg?w=614" alt="Jony and Bronia: the secret of Durham's training, synchronised ankle rolls?" width="614" height="432"></a> Jonny and Bronia: the secret of Durham's training, synchronised ankle rolls?
 
 <strong>(Both) With both teams new and unranked, it’s hard to predict a winner, let alone a score. What are your aims for this bout?</strong>
 

@@ -2,7 +2,7 @@
 <p style="text-align:center;"><strong>Friday 2nd August, 7pm</strong></p>
 
 
-<a href="http://scottishrollerderbyblog.com/2013/07/pubquiz_020813.jpg"><img class="size-large wp-image-2862" alt="GCRG's Pub Quiz August 2013" src="http://scottishrollerderbyblog.com/2013/07/pubquiz_020813.jpg?w=614" width="614" height="818"></a> GCRG's Pub Quiz August 2013
+<a href="http://www.scottishrollerderbyblog.com/2013/07/pubquiz_020813.jpg"><img class="size-large wp-image-2862" alt="GCRG's Pub Quiz August 2013" src="http://www.scottishrollerderbyblog.com/2013/07/pubquiz_020813.jpg?w=614" width="614" height="818"></a> GCRG's Pub Quiz August 2013
 <p style="text-align:center;">Get your head and the books and get back to school with Miss Mitchell and Miss Pert! It's time for your reassessments!</p>
 <p style="text-align:center;"></p>
 <p style="text-align:center;"><strong>Pub Quiz, Prizes (cold, hard ca$h!), General Shenanigans!</strong></p>

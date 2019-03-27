@@ -1,4 +1,4 @@
-<html><body><a href="/2014/12/2011arrgbanner1.jpg"><img class="aligncenter size-large wp-image-4496" src="https://scottishrollerderbyblog.com/2014/12/2011arrgbanner1.jpg?w=614" alt="2011ArrgBanner1" width="614" height="138"></a>
+<html><body><a href="/2014/12/2011arrgbanner1.jpg"><img class="aligncenter size-large wp-image-4496" src="https://www.scottishrollerderbyblog.com/2014/12/2011arrgbanner1.jpg?w=614" alt="2011ArrgBanner1" width="614" height="138"></a>
 
 2014 was another exciting year for ARRG. <em>January</em> saw us embark upon our third annual intraleague
 Home Season - and, as we’ve witnessed for the past two years, we saw the Skatefast Club and the

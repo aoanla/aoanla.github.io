@@ -1,4 +1,4 @@
-<html><body><p>Several years ago, back in 2014, we talked to a few teams from Central and Eastern Europe for our series on "<strong><a href="https://scottishrollerderbyblog.com/2014/11/21/the-future-of-derby-central-and-eastern-europe/">The Future of Derby</a></strong>".  Three years later, what was very much the edge of the derby world has developed to the extent that all of those nations have teams at the Roller Derby World Cup in February, and some even have Men's teams aiming at the Men's Roller Derby World Cup.
+<html><body><p>Several years ago, back in 2014, we talked to a few teams from Central and Eastern Europe for our series on "<strong><a href="https://www.scottishrollerderbyblog.com/2014/11/21/the-future-of-derby-central-and-eastern-europe/">The Future of Derby</a></strong>".  Three years later, what was very much the edge of the derby world has developed to the extent that all of those nations have teams at the Roller Derby World Cup in February, and some even have Men's teams aiming at the Men's Roller Derby World Cup.
 
 Closer to hand, though, the world's first "Slavic Tournament" - featuring only teams from Slavic countries - is approaching next month, featuring: <a href="http://www.roller-derby.cz/"><strong>Prague City Roller Derby</strong></a> (Czech Republic), <a href="https://vk.com/whitenightfuries"><strong>White Night Furie</strong></a>s (Russia) and the hosts <a href="https://www.warsawhellcats.com/"><strong>Warsaw Hellcats</strong></a> (Poland).
 
@@ -6,7 +6,7 @@ What better time, then, to catch up with the teams attending?
 
 First, we had in depth interview with Prague City Rollers' Mörkö, following up on some of the topics we discussed with the league 3 years back when they were young!
 
-<img class=" size-medium wp-image-23330 aligncenter" src="https://scottishrollerderbyblog.com/2017/08/morko.jpg?w=200" alt="morko" width="200" height="300"> Mörkö
+<img class=" size-medium wp-image-23330 aligncenter" src="https://www.scottishrollerderbyblog.com/2017/08/morko.jpg?w=200" alt="morko" width="200" height="300"> Mörkö
 
 <strong>When we first interviewed Prague City, back in 2014, we asked if the Czech Republic would be competing in a World Cup by 2016. Obviously, the World Cup is a little later than we expected, but how does it feel for the Czech Roller Derby Team to be competing in 2018 - and how involved was Prague City, specifically, in making this happen?</strong>
 

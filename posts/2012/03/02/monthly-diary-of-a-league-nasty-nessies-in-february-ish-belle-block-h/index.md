@@ -1,6 +1,6 @@
 <html><body><p>Perhaps just a smidgeon late, it's time for Inverness's <a href="http://nastynessiesrollergirls.wordpress.com/home/">Nasty Nessies</a> to make their monthly diary entry. This February, it's <strong>Belle Block-H</strong>!
 
-<a href="http://scottishrollerderbyblog.com/2012/03/izzy.jpg"><img class="size-full wp-image-924" title="izzy" src="http://scottishrollerderbyblog.com/2012/03/izzy.jpg" alt="" width="614" height="848"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/03/izzy.jpg"><img class="size-full wp-image-924" title="izzy" src="http://www.scottishrollerderbyblog.com/2012/03/izzy.jpg" alt="" width="614" height="848"></a>
 
 <strong>What first attracted you to Roller Derby?</strong>
 

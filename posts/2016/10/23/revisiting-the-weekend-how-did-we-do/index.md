@@ -1,8 +1,8 @@
 <html><body><strong>Update: this post has been updated to include additional FTS data.</strong>
 
-On Friday, we published a list (<strong><a href="https://scottishrollerderbyblog.com/2016/10/21/european-roller-derby-22-october-update/">link</a></strong>) of all of the bouts we and <strong><a href="http://flattrackstats.com">Flat Track Stats</a></strong> knew about this weekend in Europe. We might keep doing this, regularly or semiregularly - if you want us to mention you, we'll probably find you if put yourselves in FTS!
+On Friday, we published a list (<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/21/european-roller-derby-22-october-update/">link</a></strong>) of all of the bouts we and <strong><a href="http://flattrackstats.com">Flat Track Stats</a></strong> knew about this weekend in Europe. We might keep doing this, regularly or semiregularly - if you want us to mention you, we'll probably find you if put yourselves in FTS!
 
-What we also did for each bout was to say what our ranking scheme, <strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3">SRD Rank</a></strong>, and the Flat Track Stats ranking scheme predicted for each game. Now that they're all over, how did we do?
+What we also did for each bout was to say what our ranking scheme, <strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3">SRD Rank</a></strong>, and the Flat Track Stats ranking scheme predicted for each game. Now that they're all over, how did we do?
 
 Well, let's start with a graph (bouts are listed in the order we mentioned them in the original article).
 

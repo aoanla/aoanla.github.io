@@ -1,8 +1,8 @@
 <html><body><p>A slightly unusual Review entry this time: not a league, but a collection of Derby Happenings all tied together by one common feature: Falkirk's own skate and roller derby store, <a href="https://www.facebook.com/intothe.nitemareclothing">Into The Nitemare</a>. We thought that, what with having their own exhibition team, founding two others during the year <em>and</em> putting on a national tournament, they probably deserved an article to themselves...
 
-<a href="http://scottishrollerderbyblog.com/2014/02/img_0002.png"><img class=" wp-image-3280" alt="img_0002" src="http://scottishrollerderbyblog.com/2014/02/img_0002.png?w=614" width="368" height="553"></a> Titan and Raven, Into The Nitemare, at the end of Battle of Britain (Copyright: Sam Skipsey)
+<a href="http://www.scottishrollerderbyblog.com/2014/02/img_0002.png"><img class=" wp-image-3280" alt="img_0002" src="http://www.scottishrollerderbyblog.com/2014/02/img_0002.png?w=614" width="368" height="553"></a> Titan and Raven, Into The Nitemare, at the end of Battle of Britain (Copyright: Sam Skipsey)
 
-<a href="http://scottishrollerderbyblog.com/2014/02/img_0001.png"><img class="size-large wp-image-3281" alt="Newcastle Roller Girls, winners of BoB." src="http://scottishrollerderbyblog.com/2014/02/img_0001.png?w=614" width="614" height="408"></a> Newcastle Roller Girls, winners of BoB.
+<a href="http://www.scottishrollerderbyblog.com/2014/02/img_0001.png"><img class="size-large wp-image-3281" alt="Newcastle Roller Girls, winners of BoB." src="http://www.scottishrollerderbyblog.com/2014/02/img_0001.png?w=614" width="614" height="408"></a> Newcastle Roller Girls, winners of BoB.
 
 <strong>This has been an eventful year for Into The Nitemare's derby involvement, with Team Nitemare holding their first exhibition bouts, the formation of Hades Roller Boys and Voodoo Roller Dollies, and the successful hosting of Scotland's second ever national tournament, Battle of Britain. What has been the standout experience for the two of you?</strong>
 

@@ -184,8 +184,8 @@ Whilst there's a lot of recruitment across Europe, the "post-season" seems to ha
 	<li>Wed, <span style="color:#0000ff;"><strong>Ostrava</strong></span>, Czech Republic: Trojhali Ostrava Roller Derby host their ongoing recruitment / open training for the next few months on Wednesdays! [<a href="https://www.facebook.com/events/1825366267557931/"><strong>EVENT</strong></a>]</li>
 	<li>Wed, <span style="color:#0000ff;"><strong>Tournai</strong></span>, Belgium: Roller Derby Tournai host their recruitment and open day for interested skaters [<a href="https://www.facebook.com/events/2141835232756251">EVENT</a>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27471" src="https://scottishrollerderbyblog.com/2018/09/asia_map5.png?w=2048" alt="ASIA_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27470" src="https://scottishrollerderbyblog.com/2018/09/anz_map5.png?w=2048" alt="ANZ_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27471" src="https://www.scottishrollerderbyblog.com/2018/09/asia_map5.png?w=2048" alt="ASIA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27470" src="https://www.scottishrollerderbyblog.com/2018/09/anz_map5.png?w=2048" alt="ANZ_map" width="1024" height="768"></h2>
 <h2><b>Pacific</b></h2>
 Roller Derby continues to happen busily in the Pacific region: this week's big event is the return of the Tropicana Cup in Australia.
 <ul>
@@ -213,7 +213,7 @@ Roller Derby continues to happen busily in the Pacific region: this week's big e
 	<li>Sun<strong>, Albany</strong>, WA, Australia: Albany Roller Derby League follow up their rec league game with their regular Sunday Skate Sessions, open skate of any kind you want [<a href="https://www.facebook.com/events/317431678802800">EVENT</a>]</li>
 	<li>Wed, <span style="color:#0000ff;"><strong>Bangkok</strong></span>, Thailand: Bangkok Roller Derby have their regular training evening, which is always open to new skaters [<strong><a href="https://www.facebook.com/BangkokRollerDerby/photos/a.496774633792536/1300042966799028/?type=3">EVENT Flyer</a></strong>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27498" src="https://scottishrollerderbyblog.com/2018/09/la_map12.png?w=2048" alt="LA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27498" src="https://www.scottishrollerderbyblog.com/2018/09/la_map12.png?w=2048" alt="LA_map" width="1024" height="768"></h2>
 <h2>Latin America</h2>
 As usual, for Latin America, this is what we can find in the area - we always appreciate help in finding events here.
 This weekend, there's derby across Mexico and Chile, and a huge amount of recruitment happening - plus Tacones Banditos are fundraising all this month!
@@ -261,8 +261,8 @@ This weekend, there's derby across Mexico and Chile, and a huge amount of recrui
 	<li>Wed, <span style="color:#0000ff;"><strong>Miramar</strong></span>, Buenos Aires, Argentina: Atlántico Sur Roller Derby host a training session (always open to new skaters) [<strong><a href="https://www.facebook.com/atlanticosurRD/photos/a.1789233754704036/1905783729715704/?type=3">EVENT Flyer</a></strong>]</li>
 </ul>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27473" src="https://scottishrollerderbyblog.com/2018/09/me_map4.png?w=2048" alt="ME_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27493" src="https://scottishrollerderbyblog.com/2018/09/sa_map4.png?w=2048" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27473" src="https://www.scottishrollerderbyblog.com/2018/09/me_map4.png?w=2048" alt="ME_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27493" src="https://www.scottishrollerderbyblog.com/2018/09/sa_map4.png?w=2048" alt="SA_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 Our regular events in South Africa, Dubai and Abu Dhabi continue!
 <ul>

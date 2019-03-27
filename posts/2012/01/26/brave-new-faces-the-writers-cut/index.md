@@ -1,11 +1,11 @@
 <html><body><div>An edited version of this article was published in Issue 2 (December 2011) of <a href="http://www.insidelinemagazine.co.uk/">Inside Line Magazine</a>. Reprinted with permission. Issue 3 of Inside Line will be on sale from March 1st.</div>
-<div>Since this article was written, <a href="http://www.fvrg.co.uk/">Fierce Valley Roller Girls</a> have had their first (closed) bout, against Fair City Rollers' Fear Maidens, which Chasing Katy covered for the blog <a href="http://scottishrollerderbyblog.com/2011/11/02/bout-report-fcr-fear-maidens-vs-fvrg-parma-violents-301011/">here</a>. The final score was 170 FCR to 55 for FVRG. FVRG's first open bout is against Dundee Roller Girls' Silvery Tayzers on Feb 18th, in Dundee.</div>
+<div>Since this article was written, <a href="http://www.fvrg.co.uk/">Fierce Valley Roller Girls</a> have had their first (closed) bout, against Fair City Rollers' Fear Maidens, which Chasing Katy covered for the blog <a href="http://www.scottishrollerderbyblog.com/2011/11/02/bout-report-fcr-fear-maidens-vs-fvrg-parma-violents-301011/">here</a>. The final score was 170 FCR to 55 for FVRG. FVRG's first open bout is against Dundee Roller Girls' Silvery Tayzers on Feb 18th, in Dundee.</div>
 <div>The <a href="http://www.facebook.com/yorkrollerderby">York Minxters</a> and <a href="http://nastynessiesrollergirls.wordpress.com/">Nasty Nessies Roller Girls</a> are both still working towards being fully mins-passed and bout-ready. The Minxters have a weekly practise and an online blog from one member <a href="http://www.oneandother.com/articles/diary-of-a-minxter-part-2/">here</a>, while the Nasty Nessies are gaining lots of attention in their local media.</div>
 <div><a href="http://tigerbaybrawlers.com/">Tiger Bay Brawlers</a> are also going from strength to strength, having recently launched a junior league; while the <a href="http://www.norfolkbrawds.com/">Norfolk Brawds</a> have only this week relaunched a fantastic new website, and announced sponsorship from famous East Anglian rockers, The Darkness!</div>
 <div></div>
 <div>
 
-<a href="http://scottishrollerderbyblog.com/2012/01/team1-1.jpg"><img class="size-full wp-image-821" title="The Nasty Nessies!" src="http://scottishrollerderbyblog.com/2012/01/team1-1.jpg" alt="" width="614" height="409"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/01/team1-1.jpg"><img class="size-full wp-image-821" title="The Nasty Nessies!" src="http://www.scottishrollerderbyblog.com/2012/01/team1-1.jpg" alt="" width="614" height="409"></a>
 
 </div>
 <div></div>
@@ -25,7 +25,7 @@ Dundee Roller Girls’ Cilla Block has been one of those helpful skaters for the
 
 Even without being able to visit, the online roller derby community is a vital resource for information and advice. The Nasty Nessies are over 100 miles from their nearest league, but, according to Team Rep Cherry Bow “…the internet has been our life line! We have had support via Facebook, Twitter and emails from other leagues as well as individual skaters from as far afield as the USA...”
 
-<a href="http://scottishrollerderbyblog.com/2012/01/dsc05260.jpg"><img class="size-full wp-image-824" title="SONY DSC" src="http://scottishrollerderbyblog.com/2012/01/dsc05260.jpg" alt="" width="614" height="411"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/01/dsc05260.jpg"><img class="size-full wp-image-824" title="SONY DSC" src="http://www.scottishrollerderbyblog.com/2012/01/dsc05260.jpg" alt="" width="614" height="411"></a>
 
 If you’re going to be a league, you have to have somewhere to skate. Practice space (and, later, a bouting venue) is often the first difficult problem that a new league faces. Many sports halls are reluctant to host skate-based sports, as they can mark the floors. One solution to this can be to find a hall that already hosts roller hockey; both the York Minxters and Dundee Roller Girls found their practice space by this method.
 The first site is can often be the hardest, as Fierce Valley’s Grizabelta discovered: “As far as finding practice space goes, whilst we hit every obstacle we could to start with, once we'd been at Bo'ness a few months I wrote to all the other halls with a massive spiel about how great derby is (boosts self esteem, gets non-sporty types active, great camaraderie etc) and thankfully it worked!”
@@ -41,7 +41,7 @@ Although as new to roller derby as the rest of the team, he is learning on the j
 
 If you can find someone with more coaching experience, however, it can work wonders: Fierce Valley have gained tremendously from initial coaching by Auld Reekie skater Ella-Bella Bang-Bang. As Grizabelta explains, “we were put in touch with the amazing Ella-Bella Bang-Bang by a mutual friend. Ella-Bella lives in our neck of the woods so helped us with our training right up until we passed our mins.”
 
-<a href="http://scottishrollerderbyblog.com/2012/01/roller-derby-newport-8-october-064tiger-bay-brawlerssimon-ayre.jpg"><img class="size-full wp-image-822" title="Roller Derby Newport 8 October 064Tiger Bay Brawlers,Simon Ayre" src="http://scottishrollerderbyblog.com/2012/01/roller-derby-newport-8-october-064tiger-bay-brawlerssimon-ayre.jpg" alt="" width="614" height="511"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/01/roller-derby-newport-8-october-064tiger-bay-brawlerssimon-ayre.jpg"><img class="size-full wp-image-822" title="Roller Derby Newport 8 October 064Tiger Bay Brawlers,Simon Ayre" src="http://www.scottishrollerderbyblog.com/2012/01/roller-derby-newport-8-october-064tiger-bay-brawlerssimon-ayre.jpg" alt="" width="614" height="511"></a>
 
 Tiger Bay Brawlers have also benefited from having an experienced skater to help kickstart their coaching, BB Bombshell bringing experience from her time in Victorian Roller Derby League in Australia. “BB definitely pushed us as athletes which has contributed to how successful we’ve been so far” say coaches Billie Pistol and Judge Redd.
 
@@ -53,7 +53,7 @@ It’s not just your skaters you need to concentrate on, however; a new league c
 
 When you do start to grow, there’s always the potential for drama; everyone knows at least one league that’s experienced some kind of major or minor conflict. The Norfolk Brawds’ Jessica Whackit advises: “Don't take it personally when people realise it's not for them.  We had a huge number leave us before Christmas and you just have to remember that whenever you get a large group of people together, personality clashes will happen. With this in mind, setting up a coherent committee structure will see you through absolutely ANYTHING.”
 
-<a href="http://scottishrollerderbyblog.com/2012/01/roller-derby-newport-8-october-113tiger-bay-brawlerssimon-ayre.jpg"><img class="size-full wp-image-823" title="Roller Derby Newport 8 October 113Tiger Bay Brawlers,Simon Ayre" src="http://scottishrollerderbyblog.com/2012/01/roller-derby-newport-8-october-113tiger-bay-brawlerssimon-ayre.jpg" alt="" width="614" height="390"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/01/roller-derby-newport-8-october-113tiger-bay-brawlerssimon-ayre.jpg"><img class="size-full wp-image-823" title="Roller Derby Newport 8 October 113Tiger Bay Brawlers,Simon Ayre" src="http://www.scottishrollerderbyblog.com/2012/01/roller-derby-newport-8-october-113tiger-bay-brawlerssimon-ayre.jpg" alt="" width="614" height="390"></a>
 
 When all your skaters have passed their mins, the next challenge for the league is the big one: the first bout. It’s understandable to be a bit nervous; despite it being a closed-bout, Fierce Valley’s Grizabelta admits: “we're still quite terrified! And yet really, really excited... I still struggle to get my head round what we've achieved – the bout will be 2 weeks short of our first birthday so it'll be the best celebration!” Kirk Jammett agrees “As one of the refs I'm terrified of messing up badly and also scared of some angry girls screaming at me! … And as Ella-Bella is being our Head Ref – we really don't want to let her down as she's been such a fundamental element to our success.”
 

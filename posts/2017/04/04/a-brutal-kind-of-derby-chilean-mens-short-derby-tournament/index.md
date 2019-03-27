@@ -20,4 +20,4 @@ An intense tournament resulted in a win for Emoticon Team over Viruta, with a na
 
 With this edition of the tournament complete, the intent is definitely there for a 4th edition - possibly incorporating elements from other short-format roller derby around the world. We'll keep you informed about details as they emerge!
 
-<img class="aligncenter size-large wp-image-17398" src="https://scottishrollerderbyblog.com/2017/04/17505208_10155115703413766_6259473394845813480_o.jpg?w=768" alt="17505208_10155115703413766_6259473394845813480_o" width="768" height="1024"> The Torneo Brutal Trophy - the "Trofeo Brutal" - made by Picota and other artists</p></body></html>
+<img class="aligncenter size-large wp-image-17398" src="https://www.scottishrollerderbyblog.com/2017/04/17505208_10155115703413766_6259473394845813480_o.jpg?w=768" alt="17505208_10155115703413766_6259473394845813480_o" width="768" height="1024"> The Torneo Brutal Trophy - the "Trofeo Brutal" - made by Picota and other artists</p></body></html>

@@ -8,7 +8,7 @@ Competing this year were: hosts Roller Derby Milano (the Harpies), Zurich City R
 
 Unfortunately, due to delays and roster reductions resulting from injuries earlier in the second day, the 7th Place playoff was cancelled (as marked on our timetable). We thought this was an ideal opportunity to see what we can predict about the placements, using our usual statistical tools.
 
-Firstly, predictively, we can use the new <strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3">SRD Rankings</a> </strong>for<strong> October 2016</strong> to predict what was most likely to happen.
+Firstly, predictively, we can use the new <strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3">SRD Rankings</a> </strong>for<strong> October 2016</strong> to predict what was most likely to happen.
 </p><table>
 <tbody>
 <tr>
@@ -43,7 +43,7 @@ Lyon/BarockcityTorino</td>
 </table>
 So, as can be seen, we mostly predicted the tournament correctly, except for the strong placement of Milano. As the hosts, however, they will have benefitted from home team advantage, but we estimate this to be on the order of +0.01, not enough to bridge the rating gap. It's also true that Vienna performed unexpectedly poorly against Zurich, so it may be that they are in fact overranked by us.
 
-Secondly, however, we can also use our <strong><a href="https://scottishrollerderbyblog.com/2016/03/08/european-smackdown-the-statistics/">Bayesian inference toolkit</a></strong> to analyse the tournament itself, isolated from past expectations. As always, this produces graphs showing the estimated range of team strengths (relative to the winner - in this case Porto), with height showing the likelihood of that result.
+Secondly, however, we can also use our <strong><a href="https://www.scottishrollerderbyblog.com/2016/03/08/european-smackdown-the-statistics/">Bayesian inference toolkit</a></strong> to analyse the tournament itself, isolated from past expectations. As always, this produces graphs showing the estimated range of team strengths (relative to the winner - in this case Porto), with height showing the likelihood of that result.
 
 <img class="alignnone size-full wp-image-9499" src="/2016/10/milano_vienna-dagadenter21.png" alt="milano_vienna-dagadenter2" width="2000" height="1100"> Highlighting Milano, Vienna, relative to Porto.
 

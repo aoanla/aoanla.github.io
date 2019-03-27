@@ -1,4 +1,4 @@
-<html><body><p>As we <strong><a href="https://scottishrollerderbyblog.com/2016/11/06/the-pohjola-cup-finland-and-russia-compete/">reported last year</a></strong>, this season's Pohjola Cup - the official tournament for the leagues of Northern Finland - has broken new ground by inviting their first competitors from outside Finland itself.
+<html><body><p>As we <strong><a href="https://www.scottishrollerderbyblog.com/2016/11/06/the-pohjola-cup-finland-and-russia-compete/">reported last year</a></strong>, this season's Pohjola Cup - the official tournament for the leagues of Northern Finland - has broken new ground by inviting their first competitors from outside Finland itself.
 
 St Petersburg's <strong><a href="https://www.facebook.com/rollerderbyrussia/">White Night Furies</a></strong>, Russia's first Roller Derby team (and currently the only bouting one) have played about half of their scheduled bouts in the tournament now, so we thought we'd catch up with them to see how it has been.
 

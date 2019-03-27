@@ -1,4 +1,4 @@
-<html><body><a href="/2014/08/10265400_685889494809802_8521628737669787681_o.jpg"><img src="http://scottishrollerderbyblog.com/2014/08/10265400_685889494809802_8521628737669787681_o.jpg" alt="Image courtesy of Dundee Roller Girls" width="511" height="720" class="size-full wp-image-3604"></a> Image courtesy of Dundee Roller Girls
+<html><body><a href="/2014/08/10265400_685889494809802_8521628737669787681_o.jpg"><img src="http://www.scottishrollerderbyblog.com/2014/08/10265400_685889494809802_8521628737669787681_o.jpg" alt="Image courtesy of Dundee Roller Girls" width="511" height="720" class="size-full wp-image-3604"></a> Image courtesy of Dundee Roller Girls
 
 A little part of <a href="http://dundeerollergirls.com/">Dundee Roller Girls</a> history will be made with the conclusion of their first Home Season this weekend.
 Taking their cues from the history of the City, DRG named their Home Teams after three of the most iconic Dundee exports, jute, jam and journalism. The Jutes of Hazzard, Jammin' Dodgers and Press Gangsters battled it out over the last few months, in a series of fairly balanced games, each team taking a win.

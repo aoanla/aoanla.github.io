@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/10/cb-v-d.jpg"><img src="http://scottishrollerderbyblog.com/2012/10/cb-v-d.jpg" alt="" title="cb v d" width="614" height="227" class="aligncenter size-full wp-image-1815"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/10/cb-v-d.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/10/cb-v-d.jpg" alt="" title="cb v d" width="614" height="227" class="aligncenter size-full wp-image-1815"></a>
 
 <em>Image courtesy of ARRG</em>
 

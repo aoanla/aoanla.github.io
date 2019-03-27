@@ -2,4 +2,4 @@
 
 If you are interested head over to <a href="http://www.capitalcityrollerderby.co.uk/">their website</a> to find out more or sign up via their <a href="https://docs.google.com/forms/d/1kKJfK-CbIL5lB5uI09XrWCgk2IY3beMATIew9cwxHWY/viewform?fbzx=3453879700298045451">online form</a>.
 
-<a href="/2015/07/ccrdfm-july2015.jpg"><img class="wp-image-4766" src="https://scottishrollerderbyblog.com/2015/07/ccrdfm-july2015.jpg?w=212" alt="Capital City new skater intake 14th and 19th of July 2015" width="420" height="594"></a> Capital City new skater intake 14th and 19th of July 2015</p></body></html>
+<a href="/2015/07/ccrdfm-july2015.jpg"><img class="wp-image-4766" src="https://www.scottishrollerderbyblog.com/2015/07/ccrdfm-july2015.jpg?w=212" alt="Capital City new skater intake 14th and 19th of July 2015" width="420" height="594"></a> Capital City new skater intake 14th and 19th of July 2015</p></body></html>

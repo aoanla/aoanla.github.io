@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/11/nz-logo.jpg"><img src="http://scottishrollerderbyblog.com/2011/11/nz-logo.jpg" alt="" title="nz logo" width="614" height="614" class="aligncenter size-full wp-image-576"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/11/nz-logo.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/11/nz-logo.jpg" alt="" title="nz logo" width="614" height="614" class="aligncenter size-full wp-image-576"></a>
 
 <em>Image courtesy of Team New Zealand</em>
 

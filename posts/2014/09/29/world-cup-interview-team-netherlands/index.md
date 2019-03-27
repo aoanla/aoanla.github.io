@@ -4,7 +4,7 @@ Team Netherlands co-Captain Furrrocious was good enough to answer some of our qu
 
  
 
-<a href="/2014/09/teamnetherlands.png"><img class="size-large wp-image-3895" src="http://scottishrollerderbyblog.com/2014/09/teamnetherlands.png?w=614" alt="Team Netherlands logo: Camiel Zwart" width="614" height="563"></a> Team Netherlands logo: Camiel Zwart
+<a href="/2014/09/teamnetherlands.png"><img class="size-large wp-image-3895" src="http://www.scottishrollerderbyblog.com/2014/09/teamnetherlands.png?w=614" alt="Team Netherlands logo: Camiel Zwart" width="614" height="563"></a> Team Netherlands logo: Camiel Zwart
 
 </p><div>
 

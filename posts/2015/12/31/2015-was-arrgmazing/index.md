@@ -1,4 +1,4 @@
-<html><body><a href="/2015/12/arrg-banner.jpg" rel="attachment wp-att-5399"><img class="wp-image-5399 aligncenter" src="https://scottishrollerderbyblog.com/2015/12/arrg-banner.jpg?w=300" alt="ARRG-Banner" width="837" height="187"></a>
+<html><body><a href="/2015/12/arrg-banner.jpg" rel="attachment wp-att-5399"><img class="wp-image-5399 aligncenter" src="https://www.scottishrollerderbyblog.com/2015/12/arrg-banner.jpg?w=300" alt="ARRG-Banner" width="837" height="187"></a>
 
 We had a comedy gig with a famous guy (remember Dylan Moran back in January!).
 The Reserves took on the Oxbridge double.

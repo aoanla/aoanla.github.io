@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/04/skates1.jpg"><img class="aligncenter size-full wp-image-1094" title="skates" src="http://scottishrollerderbyblog.com/2012/04/skates1.jpg" alt="" width="540" height="720"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/04/skates1.jpg"><img class="aligncenter size-full wp-image-1094" title="skates" src="http://www.scottishrollerderbyblog.com/2012/04/skates1.jpg" alt="" width="540" height="720"></a>
 
 Last weekend, I, and around 50 other skaters from leagues around the country, took part in the Glasgow Roller Derby newbie bootcamp. Afterwards, tired and sore, I lay in a bath and reflected on the day. And for me, it was a boost of not just my skills, but also my confidence.
 

@@ -2,7 +2,7 @@
 
 With our next Fresh Meat taster session on the horizon, <a href="https://www.facebook.com/BairnCityRollers">Bairn City Rollers</a> took a look at some of the more frequent queries from those looking to join Fresh Meat – be it with our league or elsewhere :-)
 
-<a href="http://scottishrollerderbyblog.com/2013/06/fm-poster.jpg"><img class="size-full wp-image-2722 aligncenter" alt="fm poster" src="http://scottishrollerderbyblog.com/2013/06/fm-poster.jpg" width="452" height="565"></a>
+<a href="http://www.scottishrollerderbyblog.com/2013/06/fm-poster.jpg"><img class="size-full wp-image-2722 aligncenter" alt="fm poster" src="http://www.scottishrollerderbyblog.com/2013/06/fm-poster.jpg" width="452" height="565"></a>
 
 <em><strong>"I'd love to give it a go, but I can barely skate..."</strong></em>
 

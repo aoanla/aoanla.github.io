@@ -1,6 +1,6 @@
 <html><body><p>And now to Team Scotland, who made us cry with national pride in 2014...was it just me? In the 2014 Men's Roller Derby World Cup Scotland were in Group Orange with Belgium, Canada and Japan. They were knocked out by our friends in Wales and shared 7th place with Argentina.
 
-<a href="http://scottishrollerderbyblog.com/2016/06/fb_img_1448576822432.jpg"><img title="FB_IMG_1448576822432.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2016/06/fb_img_1448576822432.jpg"></a>
+<a href="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1448576822432.jpg"><img title="FB_IMG_1448576822432.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1448576822432.jpg"></a>
 
 Power of Scotland logo 2016
 
@@ -77,4 +77,4 @@ Finally, we hope to display a better performance &amp; therefore ranking this ti
 
 Team Scotland are indeed in a six team group for the 2016 Men's Roller Derby World Cup. They are in Team Red with Finland, Ireland, Japan, Mexico and the USA. Their first game will be on Track 1 against Team USA at 11am Calgary time, 4am UK time...make some coffee although I'm sure the excitement will wake you up.
 
-<a href="http://scottishrollerderbyblog.com/2016/06/fb_img_1466932874572.jpg"><img title="FB_IMG_1466932874572.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2016/06/fb_img_1466932874572.jpg"></a></p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466932874572.jpg"><img title="FB_IMG_1466932874572.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466932874572.jpg"></a></p></body></html>

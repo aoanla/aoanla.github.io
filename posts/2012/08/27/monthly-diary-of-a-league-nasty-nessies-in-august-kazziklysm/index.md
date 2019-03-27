@@ -1,6 +1,6 @@
 <html><body><p>Delayed only slightly by pretty much the entirety of the Scottish Roller Derby blog contributors attending Chaos on the Clyde, here's August's Monthly Diary Entry from the <a href="nastynessiesrollergirls.wordpress.com">Nasty Nessies</a>: Azeroth's finest, Kazziklysm!
 
-<a href="http://scottishrollerderbyblog.com/2012/08/kazzi-k.jpg"><img class="size-full wp-image-1662" title="Kazzi k" src="http://scottishrollerderbyblog.com/2012/08/kazzi-k.jpg" alt="" width="308" height="429"></a> Kazziklysm Skates On!
+<a href="http://www.scottishrollerderbyblog.com/2012/08/kazzi-k.jpg"><img class="size-full wp-image-1662" title="Kazzi k" src="http://www.scottishrollerderbyblog.com/2012/08/kazzi-k.jpg" alt="" width="308" height="429"></a> Kazziklysm Skates On!
 
 <strong>What first attracted you to Roller Derby?</strong>
 

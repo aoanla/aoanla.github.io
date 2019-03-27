@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/02/bruise.jpg"><img src="http://scottishrollerderbyblog.com/2012/02/bruise.jpg" alt="" title="bruise" width="614" height="446" class="aligncenter size-full wp-image-893"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/02/bruise.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/02/bruise.jpg" alt="" title="bruise" width="614" height="446" class="aligncenter size-full wp-image-893"></a>
 
 <em>Photography by Laura MacDonald</em>
 

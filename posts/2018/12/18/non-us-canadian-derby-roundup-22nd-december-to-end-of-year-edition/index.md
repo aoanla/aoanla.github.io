@@ -3,7 +3,7 @@
 <p class="p1"><span class="s1">If we’ve missed you from our roundup, please let us know! [Or add yourselves to FTS and/or Derbylisting]</span></p>
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;" data-mce-style="color: #800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;" data-mce-style="color: #0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;" data-mce-style="color: #993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;" data-mce-style="color: #008000;"><strong>BOOTCAMP</strong></span>s.
 
-This roundup is our end of year roundup, so covers everything until the new year (also because there's just not much stuff happening).<img src="https://scottishrollerderbyblog.com/2018/12/EUR_map-1.png?w=1024" alt="EUR_map" width="1024" height="768" class="aligncenter size-large wp-image-27893">
+This roundup is our end of year roundup, so covers everything until the new year (also because there's just not much stuff happening).<img src="https://www.scottishrollerderbyblog.com/2018/12/EUR_map-1.png?w=1024" alt="EUR_map" width="1024" height="768" class="aligncenter size-large wp-image-27893">
 <h2>Scotland</h2>
 Scotland is still pretty full of skating this weekend before Christmas, with the Last Scrim of 2018 on Friday...
 <ul>
@@ -53,7 +53,7 @@ It seems very quiet in the Asia-Pacific region before the end of year.
 <ul>
  	<li>Next Sat (29th), <strong>Eltham</strong>, VIC, Australia: Diamond Valley Roller Derby Club host a "Sausage Sizzle and Bake Sale". [<a href="https://www.facebook.com/events/1935206959861597/" data-mce-href="https://www.facebook.com/events/1935206959861597/"><strong>EVENT</strong></a>]</li>
 </ul>
-<h2><img src="https://scottishrollerderbyblog.com/2018/12/LA_map-5.png?w=1024" alt="LA_map" width="1024" height="768" class="aligncenter size-large wp-image-27894"></h2>
+<h2><img src="https://www.scottishrollerderbyblog.com/2018/12/LA_map-5.png?w=1024" alt="LA_map" width="1024" height="768" class="aligncenter size-large wp-image-27894"></h2>
 <h2>Latin America</h2>
 The Latin American region is always the hardest for us to find things in. We'd appreciate any heads-up about things we've missed!
 <ul>

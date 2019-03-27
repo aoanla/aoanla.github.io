@@ -1,4 +1,4 @@
-<html><body><p>As Caley Kapowski <a href="https://scottishrollerderbyblog.com/2016/02/15/power-of-scotland-fundraising-for-calgary/">reported for the blog</a>, Scottish Men's National Team, Power of Scotland, are going all out to raise money for the trip to Calgary for the second ever Men's Roller Derby World Cup.
+<html><body><p>As Caley Kapowski <a href="https://www.scottishrollerderbyblog.com/2016/02/15/power-of-scotland-fundraising-for-calgary/">reported for the blog</a>, Scottish Men's National Team, Power of Scotland, are going all out to raise money for the trip to Calgary for the second ever Men's Roller Derby World Cup.
 
 One member of the Power of Scotland Team who has recently started her own fundraising endeavour is new Assistant Coach, <strong>Rosie Peacock</strong>. As she's offering roller derby coaching, we caught up with her to talk a bit about her coaching experience, and what she's offering for those who may be interested. Rosie is also currently on <a href="http://arrg.co.uk/teams/allstars/">Auld Reekie Roller Girls All-Stars</a> roster.
 

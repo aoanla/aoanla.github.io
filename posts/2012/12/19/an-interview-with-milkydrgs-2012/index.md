@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/12/19/an-interview-with-milkydrgs-2012/drg-group-photo-by-dave-mcaleavey/" rel="attachment wp-att-1993"><img src="http://scottishrollerderbyblog.com/2012/12/drg-group-photo-by-dave-mcaleavey.jpg" alt="drg group photo by Dave McAleavey" width="614" height="409" class="aligncenter size-full wp-image-1993"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/12/19/an-interview-with-milkydrgs-2012/drg-group-photo-by-dave-mcaleavey/" rel="attachment wp-att-1993"><img src="http://www.scottishrollerderbyblog.com/2012/12/drg-group-photo-by-dave-mcaleavey.jpg" alt="drg group photo by Dave McAleavey" width="614" height="409" class="aligncenter size-full wp-image-1993"></a>
 
 Photography by <a href="http://boutday.com/">Dave McAleavy</a>
 

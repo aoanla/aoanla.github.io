@@ -7,7 +7,7 @@ If you are involved in a new National Team which we haven't featured here, pleas
 Teams <strong><a href="#P">Philippines</a></strong>, <strong><a href="#K">Korea</a></strong>, <strong><a href="#R">Russia</a></strong>,<strong> <a href="#I">Iceland</a></strong>, and<strong> <a href="#C">Czech [Republic]</a></strong> all responded - you can jump to the particular team by clicking on their name in this sentence.
 <a name="P"></a>
 </p><h2>Team Philippines</h2>
-<img class="aligncenter size-medium wp-image-18101" src="https://scottishrollerderbyblog.com/2016/12/logo_philippinerollerderby_02.png?w=300" alt="logo_philippineRollerDerby_02" width="300" height="300"> The Team Philippines Logo (added after this article was completed)
+<img class="aligncenter size-medium wp-image-18101" src="https://www.scottishrollerderbyblog.com/2016/12/logo_philippinerollerderby_02.png?w=300" alt="logo_philippineRollerDerby_02" width="300" height="300"> The Team Philippines Logo (added after this article was completed)
 
 Hey! Actually it started in the FB Asians Derby Group as casual convo. As RDWC started really planning together for 2017 (which of course turned out to be 2018), a couple of people were like "WHAT IF we did a Team Philippines?" It always starts with that "what if?!" Then dreams come true!
 
@@ -20,7 +20,7 @@ It's such a crazy opportunity, and all someone had to do was reach out and start
 Team Philippines on Facebook: <strong><a href="https://www.facebook.com/groups/1514551035482853/">https://www.facebook.com/groups/1514551035482853/</a></strong>
 <a name="K"></a>
 <h2>Team Korea Roller Derby</h2>
-<img class="aligncenter size-medium wp-image-18331" src="https://scottishrollerderbyblog.com/2016/12/teamkorea_logo_rdwc.png?w=510" alt="TeamKorea_Logo_RDWC" width="255" height="300"> Team Korea Logo (added after publication)
+<img class="aligncenter size-medium wp-image-18331" src="https://www.scottishrollerderbyblog.com/2016/12/teamkorea_logo_rdwc.png?w=510" alt="TeamKorea_Logo_RDWC" width="255" height="300"> Team Korea Logo (added after publication)
 
 Team Korea formed through the power of the internet and the roller derby community. Many members were already involved with a Facebook Group for Asian derby skaters. The Facebook Group was created to empower and inspire Asian derby skaters both within America and worldwide. When the Derby World Cup opened up, enough Asian skaters of Korean descent spoke up to form a team; some magic stardust was sprinkled, a unicorn was petted and voilá. Through the determination and dedication of a couple of active and vocal Korean skaters, like ShortStop from Gotham Girls Roller Derby and Killo Kitty from San Fernando Valley, numerous skaters of Korean descent were contacted and invited to be a part of the inaugural Team Korea.
 
@@ -52,7 +52,7 @@ Team Russia on Facebook: <strong><a href="https://www.facebook.com/teamrussiaro
 
 <a name="I"></a>
 <h2>Team Iceland [Roller Derby Iceland]</h2>
-<img class=" size-medium wp-image-13244 aligncenter" src="https://scottishrollerderbyblog.com/2016/12/team_iceland.jpg?w=300" alt="team_iceland" width="300" height="300">
+<img class=" size-medium wp-image-13244 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/12/team_iceland.jpg?w=300" alt="team_iceland" width="300" height="300">
 
 Starting up a brand new sport on a small island is no easy feat (especially when none of the equipment needed is available nationally) but, somehow, we made it.
 
@@ -67,7 +67,7 @@ We have our skaters, our ref crew and a few NSO’s and other volunteers, amazin
 Team Iceland on Facebook: <strong><a href="https://www.facebook.com/RollerDerbyIceland/">https://www.facebook.com/RollerDerbyIceland/</a></strong>
 <a name="C"></a>
 <h2>Team Czech Roller Derby</h2>
-<img class="aligncenter size-medium wp-image-17727" src="https://scottishrollerderbyblog.com/2016/12/czechlogo.png?w=298" alt="Czechlogo" width="298" height="300"> (This article edited after submission to add the new Czech Roller Derby Team logo, by Ladis Pachmuch ART)
+<img class="aligncenter size-medium wp-image-17727" src="https://www.scottishrollerderbyblog.com/2016/12/czechlogo.png?w=298" alt="Czechlogo" width="298" height="300"> (This article edited after submission to add the new Czech Roller Derby Team logo, by Ladis Pachmuch ART)
 
 The idea of a Czech national team has been rooted in our minds almost from the beginnings of roller derby in the Czech Republic. As players of Prague City Roller Derby, we have always joked that we already are the national team, because for a long time we were the only team in the country. Our former coach has always wished to create a national team and when we started hearing of more and more derby-playing Czechs, it became obvious that vision could become a reality.
 

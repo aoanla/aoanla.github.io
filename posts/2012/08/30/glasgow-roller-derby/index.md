@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/08/grdgogo.jpg"><img src="http://scottishrollerderbyblog.com/2012/08/grdgogo.jpg" alt="" title="grdgogo" width="614" height="865" class="aligncenter size-full wp-image-1672"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/08/grdgogo.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/08/grdgogo.jpg" alt="" title="grdgogo" width="614" height="865" class="aligncenter size-full wp-image-1672"></a>
 
 <em>Image courtesy of Glasgow Roller Derby</em>
 

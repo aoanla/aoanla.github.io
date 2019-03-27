@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/11/knuckles.jpg"><img src="http://scottishrollerderbyblog.com/2011/11/knuckles.jpg" alt="" title="Knuckles" width="614" height="409" class="aligncenter size-full wp-image-520"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/11/knuckles.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/11/knuckles.jpg" alt="" title="Knuckles" width="614" height="409" class="aligncenter size-full wp-image-520"></a>
 <em>Photo of Knuckles by</em> <a href="http://boutday.com/">Dave McAleavy</a>
 
 With the first ever Roller Derby World Cup just weeks away,we caught up with Knuckles, Team Scotland's Bench Manager, for a chat

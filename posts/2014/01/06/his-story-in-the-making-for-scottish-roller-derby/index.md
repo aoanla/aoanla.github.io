@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2014/01/skelpies.png"><img class="size-full wp-image-3135" alt="Skelpies vs. Mean City Roller Derby" src="http://scottishrollerderbyblog.com/2014/01/skelpies.png" width="614" height="217"></a> Skelpies vs. Mean City Roller Derby - Image courtesy of Bairn City Rollers
+<html><body><a href="http://www.scottishrollerderbyblog.com/2014/01/skelpies.png"><img class="size-full wp-image-3135" alt="Skelpies vs. Mean City Roller Derby" src="http://www.scottishrollerderbyblog.com/2014/01/skelpies.png" width="614" height="217"></a> Skelpies vs. Mean City Roller Derby - Image courtesy of Bairn City Rollers
 
 <em> </em><strong>A guest post, written by journalist - and skater - Alan Muir.</strong>
 

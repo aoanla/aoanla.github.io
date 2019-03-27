@@ -6,7 +6,7 @@ Next, the temperatures will reach fever-pitch as it will be time for round two w
 
 Skelpies, Infernos and Firecrackers . . .  all the elements are due to collide at the height of summer in an explosion of fun. Come on down and join us, you’ll have a (poké)ball!
 
-<a href="http://scottishrollerderbyblog.com/2013/07/blockemon.jpg"><img class="size-large wp-image-2837 aligncenter" alt="blockemon" src="http://scottishrollerderbyblog.com/2013/07/blockemon.jpg?w=614" width="614" height="868"></a>
+<a href="http://www.scottishrollerderbyblog.com/2013/07/blockemon.jpg"><img class="size-large wp-image-2837 aligncenter" alt="blockemon" src="http://www.scottishrollerderbyblog.com/2013/07/blockemon.jpg?w=614" width="614" height="868"></a>
 
 The action kicks off 1:30pm at The Peak in Stirling, tickets are moving fast with only a week to go so make sure you grab some while you can.
 </p><p style="text-align:center;"><strong>Join the <a href="https://www.facebook.com/events/553247878047614/">Facebook event</a> to keep up to date with the latest information.</strong>

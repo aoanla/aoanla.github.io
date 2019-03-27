@@ -2,7 +2,7 @@
 We interviewed Lara Raineri on behalf of Team Brasil. Lara is a skater with the São Paulo league, Gray City Rebels, and handles PR and coaching duties for the national team.
 
 
-<a href="/2014/09/tb-logo.jpg"><img class="size-full wp-image-3785" src="http://scottishrollerderbyblog.com/2014/09/tb-logo.jpg" alt="Team Brasil logo art and design: Fernanda Correa" width="600" height="600"></a> Team Brasil logo art and design: Fernanda Correa
+<a href="/2014/09/tb-logo.jpg"><img class="size-full wp-image-3785" src="http://www.scottishrollerderbyblog.com/2014/09/tb-logo.jpg" alt="Team Brasil logo art and design: Fernanda Correa" width="600" height="600"></a> Team Brasil logo art and design: Fernanda Correa
 
 
 <strong>How are the team preparing for the World Cup?...have you played an warm up bouts?</strong>

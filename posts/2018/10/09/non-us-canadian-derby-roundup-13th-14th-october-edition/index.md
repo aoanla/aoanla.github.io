@@ -5,7 +5,7 @@
 
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
 <h2></h2>
-<img class="aligncenter size-large wp-image-27570" src="https://scottishrollerderbyblog.com/2018/10/eur_map11.png?w=1024" alt="EUR_map" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27570" src="https://www.scottishrollerderbyblog.com/2018/10/eur_map11.png?w=1024" alt="EUR_map" width="1024" height="768">
 <h2>Scotland</h2>
 Other than recruitments, it's fairly quiet in Scotland this weekend - up in Orkney, they're holding their first ever Roller Disco, and Dunblane hosts a trial of the variant Short Track Roller Derby rules.
 <ul>
@@ -213,8 +213,8 @@ Europe is also pretty busy, with Sunday apparently the chosen day for a bunch of
 	<li>Sun, <span style="color:#0000ff;"><strong>The Hague</strong></span>, Netherlands: The Parliament of Pain host open training / try derby recruitment sessions for anyone interested each Sunday. PoP are explicitly interested not just in skaters, but in anyone wanting to contribute in any way: referees, NSOs, announcers, medics, coaches, photographers etc [<a href="https://www.facebook.com/events/900062903511336/"><strong>EVENT</strong></a>]</li>
 	<li>Sun, <span style="color:#0000ff;"><strong>Ourense</strong></span>, Spain: Jabatas Roller Derby Ourense host an outreach day, including a public demonstration of Roller Derby, and a chance to join the league [<a href="https://www.facebook.com/1586559581407401/photos/a.1612551242141568/2010412685688753/?type=3&amp;theater"><strong>EVENT Flyer</strong></a>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27549" src="https://scottishrollerderbyblog.com/2018/10/asia_map1.png?w=2048" alt="ASIA_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27574" src="https://scottishrollerderbyblog.com/2018/10/anz_map3.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27549" src="https://www.scottishrollerderbyblog.com/2018/10/asia_map1.png?w=2048" alt="ASIA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27574" src="https://www.scottishrollerderbyblog.com/2018/10/anz_map3.png?w=1024" alt="ANZ_map" width="1024" height="768"></h2>
 <h2></h2>
 <h2><b>Pacific</b></h2>
 This weekend it is New Zealand with the National Tournament, as their Top 10 Champs has its two-day Final. That doesn't mean that there's not a lot of derby in Australia, of course, including multi-game events, and bootcamps in Tasmania.
@@ -286,7 +286,7 @@ This weekend it is New Zealand with the National Tournament, as their Top 10 Cha
 </li>
 	<li>Wed, <span style="color:#0000ff;"><strong>Bangkok</strong></span>, Thailand: Bangkok Roller Derby have their regular training evening, which is always open to new skaters [<strong><a href="https://www.facebook.com/BangkokRollerDerby/photos/a.496774633792536/1300042966799028/?type=3">EVENT Flyer</a></strong>]</li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27556" src="https://scottishrollerderbyblog.com/2018/10/la_map3.png?w=2048" alt="LA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27556" src="https://www.scottishrollerderbyblog.com/2018/10/la_map3.png?w=2048" alt="LA_map" width="1024" height="768"></h2>
 <h2></h2>
 <h2>Latin America</h2>
 As usual, for Latin America, this is what we can find in the area - we always appreciate help in finding events here.
@@ -325,8 +325,8 @@ This weekend sees the majority of the on-track action in Argentina, as Sailor Ci
 </li>
 </ul>
 <h2></h2>
-<img class="aligncenter size-large wp-image-27552" src="https://scottishrollerderbyblog.com/2018/10/me_map1.png?w=2048" alt="ME_map" width="1024" height="768">
-<h2><img class="aligncenter size-large wp-image-27551" src="https://scottishrollerderbyblog.com/2018/10/sa_map1.png?w=2048" alt="SA_map" width="1024" height="768"></h2>
+<img class="aligncenter size-large wp-image-27552" src="https://www.scottishrollerderbyblog.com/2018/10/me_map1.png?w=2048" alt="ME_map" width="1024" height="768">
+<h2><img class="aligncenter size-large wp-image-27551" src="https://www.scottishrollerderbyblog.com/2018/10/sa_map1.png?w=2048" alt="SA_map" width="1024" height="768"></h2>
 <h2></h2>
 <h2><b>Africa and Middle East</b></h2>
 Our regular events in South Africa, Dubai and Abu Dhabi continue; in addition, Johannesburg hosts a home game, and Cairo has representation at a major expo event.

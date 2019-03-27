@@ -5,7 +5,7 @@
 
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
 
-<img class="aligncenter size-large wp-image-27062" src="https://scottishrollerderbyblog.com/2018/07/eur_map12.png?w=2048" alt="EUR_map" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27062" src="https://www.scottishrollerderbyblog.com/2018/07/eur_map12.png?w=2048" alt="EUR_map" width="1024" height="768">
 <h2>Scotland</h2>
 As far as we know, the majority of the Scottish Derby this weekend is in open scrims, in Aberdeen...
 <ul>
@@ -163,7 +163,7 @@ There's quite a bit of derby in the Pacific this weekend, with the Eastern Regio
 </ul>
  
 
-<img class="aligncenter size-large wp-image-27061" src="https://scottishrollerderbyblog.com/2018/07/la_map8.png?w=2048" alt="LA_map" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27061" src="https://www.scottishrollerderbyblog.com/2018/07/la_map8.png?w=2048" alt="LA_map" width="1024" height="768">
 <h2>Latin America</h2>
 We think we've found all the roller derby in Latin America, this weekend, but there's always a higher chance of us missing things here. Please let us know if we have!
 This weekend, the action we know about is mostly in Brazil and Mexico, with sur5al in the former.

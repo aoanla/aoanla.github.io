@@ -1,4 +1,4 @@
-<html><body><img class="alignnone size-full wp-image-9205" src="https://scottishrollerderbyblog.com/2016/10/bcr-banner.jpg" alt="bcr-banner" width="851" height="315">
+<html><body><img class="alignnone size-full wp-image-9205" src="https://www.scottishrollerderbyblog.com/2016/10/bcr-banner.jpg" alt="bcr-banner" width="851" height="315">
 
 Derby in 2018 has well and truly started after the Christmas break as we have just witnessed the Womens World cup in Manchester recently and still have the Men's world cup to look forward to in April. But this month sees the return of derby in Scotland, with the first games of 2018 taking place thanks to Bairn City Rollers. As they will be kicking of their 2018 by hosting a double header in Grangemouth Sports Complex on Saturday the 24th of February.
 

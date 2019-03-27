@@ -12,7 +12,7 @@ Working up the tiers, then:
 
 This <strong>Saturday</strong>, Aberdeen's <strong><a href="http://www.granitecityrollerderby.co.uk/">Granite City Roller Derby</a></strong> are hosting the <a href="https://www.facebook.com/events/199093520445006/">first fixture</a> of the Tier 4 North Division, in their usual venue, the Beach Leisure Centre. The double header will see Blackpool Roller Derby League take on Halifax Bruising Banditas; followed by hosts Granite City taking on Durham Roller Derby.
 
-<img class=" size-medium wp-image-5755 aligncenter" src="https://scottishrollerderbyblog.com/2016/02/12525411_10154612912394012_7934633322794908992_o.jpg?w=212" alt="12525411_10154612912394012_7934633322794908992_o" width="212" height="300">
+<img class=" size-medium wp-image-5755 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/02/12525411_10154612912394012_7934633322794908992_o.jpg?w=212" alt="12525411_10154612912394012_7934633322794908992_o" width="212" height="300">
 
 <a href="http://www.flattrackstats.com">FlatTrackStats</a> predicts a win for GCRD over Durham; however, the Halifax/Blackpool bout should be extremely close, potentially coming down to the final jam.
 
@@ -26,7 +26,7 @@ Down in <strong>Preston</strong>, both <a href="https://www.facebook.com/dundeer
 
 FTS's predictions here are that H.A.R.D. should triumph over Fierce Valley, while hosts Preston should lose, albeit narrowly, against Dundee.
 
-<img class=" size-medium wp-image-5743 aligncenter" src="https://scottishrollerderbyblog.com/2016/02/brit-champs-t3-gameday-1-768x768.jpg?w=300" alt="Brit-Champs-T3-Gameday-1-768x768" width="300" height="300">
+<img class=" size-medium wp-image-5743 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/02/brit-champs-t3-gameday-1-768x768.jpg?w=300" alt="Brit-Champs-T3-Gameday-1-768x768" width="300" height="300">
 
 This event will be held in Preston's usual venue, <a href="https://www.google.co.uk/maps/place/Preston's+College/@53.7849145,-2.7022612,17z/data=!3m1!4b1!4m2!3m1!1s0x487b721b0a2e51eb:0x9868b02f36edca68">Preston's College</a>. Doors open at <strong>midday</strong>.
 

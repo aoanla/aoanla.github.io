@@ -2,7 +2,7 @@
 
  
 
-<img class="size-medium wp-image-7898 aligncenter" src="https://scottishrollerderbyblog.com/2016/06/team-bel.jpg?w=300" alt="team bel" width="300" height="300">
+<img class="size-medium wp-image-7898 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/06/team-bel.jpg?w=300" alt="team bel" width="300" height="300">
 
  
 

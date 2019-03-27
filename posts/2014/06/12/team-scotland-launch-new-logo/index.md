@@ -2,7 +2,7 @@
 
 After many months of deliberation and polls showcasing various themes and designs (A unicorn had been the leading idea in the beginning), they picked one and sent it off to be made into the snazzy form that you now see here.
 
-<a href="/2014/06/logo.png"><img class="aligncenter size-large wp-image-3475" src="http://scottishrollerderbyblog.com/2014/06/logo.png?w=614" alt="logo" width="614" height="503"></a>
+<a href="/2014/06/logo.png"><img class="aligncenter size-large wp-image-3475" src="http://www.scottishrollerderbyblog.com/2014/06/logo.png?w=614" alt="logo" width="614" height="503"></a>
 
  
 

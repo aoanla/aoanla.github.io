@@ -6,4 +6,4 @@ If you are interested in joining FVRG and are over 18 years old, please complete
 
 *Times and venue for the taster session will be confirmed once you have registered online
 
-<a href="http://scottishrollerderbyblog.com/2013/01/04/fvrg-fresh-meat-10th-february-2013/fvrg_freshmeatposter-2/" rel="attachment wp-att-2059"><img class="aligncenter size-full wp-image-2059" alt="FVRG Fresh Meat Poster" src="http://scottishrollerderbyblog.com/2013/01/fvrg_freshmeatposter.jpg" width="509" height="720"></a></p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/01/04/fvrg-fresh-meat-10th-february-2013/fvrg_freshmeatposter-2/" rel="attachment wp-att-2059"><img class="aligncenter size-full wp-image-2059" alt="FVRG Fresh Meat Poster" src="http://www.scottishrollerderbyblog.com/2013/01/fvrg_freshmeatposter.jpg" width="509" height="720"></a></p></body></html>

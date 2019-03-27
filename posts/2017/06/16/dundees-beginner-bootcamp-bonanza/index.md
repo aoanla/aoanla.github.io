@@ -6,7 +6,7 @@ Breaking the day down into sections: the five DRG coaches are Goldginger #77, G-
 <p style="text-align:center;">♥ Wall work with Hubs and G-Wrecks! ♥</p>
 
 
-<img class="aligncenter  wp-image-20812" src="https://scottishrollerderbyblog.com/2017/06/walls.png?w=300" alt="walls" width="446" height="336"> <em>"We can't wait to get started on our block for the bootcamp! Sharing skating skills with newer skaters and encouraging everyone, no matter their skating levels, to engage with the core skills needed to further roller derby in Scotland is something we both really want to be a part of! It's really the best way to start the summer!!"</em>
+<img class="aligncenter  wp-image-20812" src="https://www.scottishrollerderbyblog.com/2017/06/walls.png?w=300" alt="walls" width="446" height="336"> <em>"We can't wait to get started on our block for the bootcamp! Sharing skating skills with newer skaters and encouraging everyone, no matter their skating levels, to engage with the core skills needed to further roller derby in Scotland is something we both really want to be a part of! It's really the best way to start the summer!!"</em>
 <p style="text-align:center;">♥ Jammer work with Landborough and Goldginger ♥</p>
 
 

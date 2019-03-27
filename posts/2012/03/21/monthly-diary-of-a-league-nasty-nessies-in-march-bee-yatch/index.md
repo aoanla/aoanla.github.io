@@ -3,7 +3,7 @@
 <div>
 <div>
 
-<a href="http://scottishrollerderbyblog.com/2012/03/lynn.jpg"><img class="size-full wp-image-963" title="lynn" src="http://scottishrollerderbyblog.com/2012/03/lynn.jpg" alt="" width="614" height="917"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/03/lynn.jpg"><img class="size-full wp-image-963" title="lynn" src="http://www.scottishrollerderbyblog.com/2012/03/lynn.jpg" alt="" width="614" height="917"></a>
 
 </div>
 <div></div>

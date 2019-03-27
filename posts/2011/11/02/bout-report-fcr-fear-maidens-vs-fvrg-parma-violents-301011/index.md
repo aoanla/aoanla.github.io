@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/11/376564_2363938191951_1655254998_2293454_1426060716_n.jpg"><img class="aligncenter size-full wp-image-439" title="FCR vs FVRG" src="http://scottishrollerderbyblog.com/2011/11/376564_2363938191951_1655254998_2293454_1426060716_n.jpg" alt="Post-match celebrations for the Fear Maidens and Parma Violents" width="614" height="409"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/11/376564_2363938191951_1655254998_2293454_1426060716_n.jpg"><img class="aligncenter size-full wp-image-439" title="FCR vs FVRG" src="http://www.scottishrollerderbyblog.com/2011/11/376564_2363938191951_1655254998_2293454_1426060716_n.jpg" alt="Post-match celebrations for the Fear Maidens and Parma Violents" width="614" height="409"></a>
 
 Fair City Rollers bout team, the Fear Maidens, travelled to Grangemouth to take on Fierce Valley Roller Girls' Parma Violents in Candy Jam.
 

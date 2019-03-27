@@ -2,7 +2,7 @@
 
 Tryouts are currently open for the next Team Wales, who will compete in the 2017 Roller Derby World Cup. To learn more about the Tryouts, read the <strong><a href="https://docs.google.com/document/d/19Tw2QvnOzoU3PcD9U4SYPAOLr6tRESI085zvigrlPH4/edit?pref=2&amp;pli=1">FAQ</a></strong>, and the <strong><a href="https://docs.google.com/forms/d/1QhY0y8WdT_D7O5LPclsMFEdi1ZMoSdJ-V7CaERtOLkQ/viewform">Application Form</a></strong>. The Application Form also has details of the dates and locations that Tryouts will occur, in <strong>April</strong> and <strong>May</strong>. If you would like to represent Wales internationally, then sign up to try-out!
 
-<img class="alignnone size-large wp-image-6874" src="https://scottishrollerderbyblog.com/2016/03/230c42621.jpg?w=2048" alt="230C4262" width="1024" height="647"> Fear skating in the 2014 World Cup (against New Zealand), on the right. (Courtesy <a href="http://www.girlsofderby.com/">Sean Murphy</a>)
+<img class="alignnone size-large wp-image-6874" src="https://www.scottishrollerderbyblog.com/2016/03/230c42621.jpg?w=2048" alt="230C4262" width="1024" height="647"> Fear skating in the 2014 World Cup (against New Zealand), on the right. (Courtesy <a href="http://www.girlsofderby.com/">Sean Murphy</a>)
 
  
 

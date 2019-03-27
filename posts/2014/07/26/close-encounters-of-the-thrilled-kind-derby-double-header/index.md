@@ -1,4 +1,4 @@
-<html><body><a href="/2014/07/3xo4jhp-imgur.png"><img class="wp-image-3550 aligncenter" src="http://scottishrollerderbyblog.com/2014/07/3xo4jhp-imgur.png?w=300" alt="3xO4jHP - Imgur" width="422" height="163"></a>
+<html><body><a href="/2014/07/3xo4jhp-imgur.png"><img class="wp-image-3550 aligncenter" src="http://www.scottishrollerderbyblog.com/2014/07/3xo4jhp-imgur.png?w=300" alt="3xO4jHP - Imgur" width="422" height="163"></a>
 
 <strong>Glasgow is bracing itself for a close encounter of the ‘thrilled’ kind as some of the grooviest skaters in Scotland and England clash as part of a unique sporting double-header.</strong>
 

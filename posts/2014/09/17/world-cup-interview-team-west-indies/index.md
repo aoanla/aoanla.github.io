@@ -2,7 +2,7 @@
 
 We talked to London Rockin Rollers and Team West Indies skater DisorderLee about her team a few weeks ago via the medium of the Internet. This article is slightly edited from the freeform conversation we had.
 
-<a href="/2014/09/teamwestindies.jpg"><img class="size-full wp-image-3773 aligncenter" src="http://scottishrollerderbyblog.com/2014/09/teamwestindies.jpg" alt="Team West Indies Logo" width="660" height="933"></a>
+<a href="/2014/09/teamwestindies.jpg"><img class="size-full wp-image-3773 aligncenter" src="http://www.scottishrollerderbyblog.com/2014/09/teamwestindies.jpg" alt="Team West Indies Logo" width="660" height="933"></a>
 
 <strong>So, getting straight to the most unusual thing about Team West Indies - you appear to be the only national team based in a region with no local leagues?</strong>
 </p><div id=":z6" class="aOT">Technically, to answer your question, Puerto Rico is part of the West Indies and there is roller derby there. [Since this interview, we have heard news of a Team Barbados starting up as well.]</div>

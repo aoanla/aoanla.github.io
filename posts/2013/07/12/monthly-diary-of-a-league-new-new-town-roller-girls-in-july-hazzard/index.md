@@ -1,6 +1,6 @@
 <html><body><p>Because we've been a little uneven with some of the monthly diaries recently, today marks not only a special event in the Blog's history (more on that later), but also a new regular source of monthly diaries: Livingston's own <a href="http://newtownrollergirls.tumblr.com/">New Town Roller Girls</a>. If you're in Dundee tomorrow, you'll see our first diarist for the league on track as part of the mixed cherry pop bout, presumably showing off her Spectre training... it's league founder Hazzard!
 
-<a href="http://scottishrollerderbyblog.com/2013/07/hazel-headshot-thm.jpg"><img class=" wp-image-2815 " alt="Hazzard, in the New Town Alternate Kit" src="http://scottishrollerderbyblog.com/2013/07/hazel-headshot-thm.jpg?w=614" width="491" height="738"></a> Hazzard, in the New Town Alternate Kit
+<a href="http://www.scottishrollerderbyblog.com/2013/07/hazel-headshot-thm.jpg"><img class=" wp-image-2815 " alt="Hazzard, in the New Town Alternate Kit" src="http://www.scottishrollerderbyblog.com/2013/07/hazel-headshot-thm.jpg?w=614" width="491" height="738"></a> Hazzard, in the New Town Alternate Kit
 
 <strong>What first attracted you to Roller Derby?</strong>
 

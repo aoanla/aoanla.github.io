@@ -3,7 +3,7 @@
 <div><a href="https://www.facebook.com/TeamSouthAfricaRollerDerby">Team South Africa</a> is the only African team participating in the World Cup this time around (next time, we could hope for an Egyptian entry...), and could be one of the big disruptions in the tournament.</div>
 <div>We interviewed Szerdi Nagy (who skates as Julia Sieze-Her) on behalf of the team.</div>
 <div></div>
-<div><a href="/2014/09/teamza.jpg"></a><table><tr><td><img class="size-full wp-image-3758 aligncenter" src="http://scottishrollerderbyblog.com/2014/09/teamza.jpg" alt="Team ZA logo" width="660" height="660"></td></tr><tr><td>Team ZA logo: Ilana van Lingen</td></tr></table> </div>
+<div><a href="/2014/09/teamza.jpg"></a><table><tr><td><img class="size-full wp-image-3758 aligncenter" src="http://www.scottishrollerderbyblog.com/2014/09/teamza.jpg" alt="Team ZA logo" width="660" height="660"></td></tr><tr><td>Team ZA logo: Ilana van Lingen</td></tr></table> </div>
 <div></div>
 <div><strong>So, firstly, Team selection.</strong></div>
 </div>

@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2013/04/903267_377920022321448_1521570605_o.jpg"><img class="aligncenter size-large wp-image-2517" alt="903267_377920022321448_1521570605_o" src="http://scottishrollerderbyblog.com/2013/04/903267_377920022321448_1521570605_o.jpg?w=614" width="614" height="782"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2013/04/903267_377920022321448_1521570605_o.jpg"><img class="aligncenter size-large wp-image-2517" alt="903267_377920022321448_1521570605_o" src="http://www.scottishrollerderbyblog.com/2013/04/903267_377920022321448_1521570605_o.jpg?w=614" width="614" height="782"></a>
 
 Exciting times ahead as the East meets the Centre, <a href="http://lothianderbydolls.com/">Lothian Derby Dolls</a> taking on <a href="https://www.facebook.com/BairnCityRollers">Bairn City Rollers</a>' women's team, the Central Belters, in what will be both teams' first ever public bout!
 

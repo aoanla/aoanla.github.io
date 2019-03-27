@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/08/derby-baby.jpg"><img src="http://scottishrollerderbyblog.com/2012/08/derby-baby.jpg" alt="" title="Derby Baby" width="600" height="849" class="aligncenter size-full wp-image-1658"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/08/derby-baby.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/08/derby-baby.jpg" alt="" title="Derby Baby" width="600" height="849" class="aligncenter size-full wp-image-1658"></a>
 
 <a href="http://arrg.co.uk/">Auld Reekie Roller Girls</a> proudly present a screening of the film Derby Baby at <a href="http://www.thethreesistersbar.co.uk/">The Three Sisters</a>,Cowgate,Edinburgh on Thursday 13th of September.
 Tickets are available <a href="http://derbybabyedinburgh.eventbrite.com/">in advance</a> at a cost of £7 and the screening will be followed by an ARRG afterparty,

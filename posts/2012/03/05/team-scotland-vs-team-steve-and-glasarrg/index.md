@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/03/tsmarch17thposterfinalfinalgood-page-001.jpg"><img src="http://scottishrollerderbyblog.com/2012/03/tsmarch17thposterfinalfinalgood-page-001.jpg" alt="" title="tsmarch17thposterFINALFINALGOOD-page-001" width="614" height="868" class="aligncenter size-full wp-image-938"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/03/tsmarch17thposterfinalfinalgood-page-001.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/03/tsmarch17thposterfinalfinalgood-page-001.jpg" alt="" title="tsmarch17thposterFINALFINALGOOD-page-001" width="614" height="868" class="aligncenter size-full wp-image-938"></a>
 
 <em>Image courtesy of Team Scotland,original photograph by</em> <a href="http://boutday.com/">Dave McAleavy</a>
 

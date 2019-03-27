@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/12/vb.jpg"><img src="http://scottishrollerderbyblog.com/2011/12/vb.jpg" alt="" title="VB" width="614" height="491" class="aligncenter size-full wp-image-685"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/12/vb.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/12/vb.jpg" alt="" title="VB" width="614" height="491" class="aligncenter size-full wp-image-685"></a>
 
 <em>Photo courtesy of</em> <a href="http://www.wickedshamrockphotography.com/">Wicked Shamrock Photography</a>
 

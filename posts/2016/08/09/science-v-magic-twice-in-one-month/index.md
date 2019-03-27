@@ -2,7 +2,7 @@
 
 However, if you like the idea of pitting SF against F, then you don't even have to wait that long, as Glasgow's only Coed league, <strong><a href="https://www.facebook.com/MeanCityRollerDerby/">Mean City Roller Derby</a></strong>, are holding their own <em>coed</em> extravaganza this weekend (<strong>13th August, 2pm</strong>) as the <strong><a href="https://www.facebook.com/events/1807206382885256/">Wizards take on Gallifrey's finest Timelords.</a> </strong>This is an opportunity to see both established MCRD skaters, as well as their newest up-and-coming skaters in one place.
 
-<img class="alignnone size-large wp-image-8598" src="https://scottishrollerderbyblog.com/2016/08/13653353_836734026463019_2149065422421141685_o.jpg?w=2048" alt="13653353_836734026463019_2149065422421141685_o" width="1024" height="724"> Just one of four (4!) posters that Mean City produced for the event!
+<img class="alignnone size-large wp-image-8598" src="https://www.scottishrollerderbyblog.com/2016/08/13653353_836734026463019_2149065422421141685_o.jpg?w=2048" alt="13653353_836734026463019_2149065422421141685_o" width="1024" height="724"> Just one of four (4!) posters that Mean City produced for the event!
 
 The event will be at Mean City's usual venue, the <strong><a href="https://www.google.co.uk/maps/place/ARC:+Health+and+Fitness/@55.8662153,-4.2519236,17z/data=!3m1!4b1!4m5!3m4!1s0x4888441f10416197:0x3a9426f40d4b58b7!8m2!3d55.8662153!4d-4.2497349">ARC Sports Centre</a></strong> in Glasgow, with afterparty at <strong><a href="https://www.google.co.uk/maps/place/Rufus+T+Firefly/@55.8635334,-4.2600056,17z/data=!3m1!4b1!4m5!3m4!1s0x48884420befd257d:0xff9a66f3090f61a0!8m2!3d55.8635594!4d-4.257813">Rufus T Firefly</a></strong>. (Links above link to maps.)
 

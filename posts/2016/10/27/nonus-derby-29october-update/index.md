@@ -4,7 +4,7 @@ As always, this information is from bouts submitted to <strong><a href="http://w
 Starting close to home though:
 </p><h2>Scotland</h2>
 <ul>
-	<li>As we've previously <strong><a href="https://scottishrollerderbyblog.com/2016/10/19/are-you-ready-for-a-skating-spooktacular/">written about</a></strong>, Mean City Roller Derby are hosting a Halloween double header, Hallowmean, with Mean City (Women) facing off against Auld Reekie Roller Girls All-Star Rookies (ASTROS) (<strong><a href="http://flattrackstats.com/bouts/85946/overview">FTS link</a></strong>), and Mean City (coed) facing Bairn City Rollers (coed) (not tracked by FTS). [FTS and <strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/2">SRD Rank</a></strong> agree that the ASTROS have the advantage here, although we think they have more of an edge than FTS do.]</li>
+	<li>As we've previously <strong><a href="https://www.scottishrollerderbyblog.com/2016/10/19/are-you-ready-for-a-skating-spooktacular/">written about</a></strong>, Mean City Roller Derby are hosting a Halloween double header, Hallowmean, with Mean City (Women) facing off against Auld Reekie Roller Girls All-Star Rookies (ASTROS) (<strong><a href="http://flattrackstats.com/bouts/85946/overview">FTS link</a></strong>), and Mean City (coed) facing Bairn City Rollers (coed) (not tracked by FTS). [FTS and <strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/2">SRD Rank</a></strong> agree that the ASTROS have the advantage here, although we think they have more of an edge than FTS do.]</li>
 </ul>
 <h2>UK</h2>
 Over in the UK, there's one big tournament we're aware of:

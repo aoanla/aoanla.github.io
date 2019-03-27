@@ -1,6 +1,6 @@
 <html><body><p>Our round up of the MRDWC teams continues with Team Finland! Here they tell us all about how they have prepared for Calgary and their thoughts going in.
 
-<img class="size-medium wp-image-8214 aligncenter" src="https://scottishrollerderbyblog.com/2016/07/finland.jpg?w=300" alt="finland" width="300" height="300">
+<img class="size-medium wp-image-8214 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/07/finland.jpg?w=300" alt="finland" width="300" height="300">
 
 <span style="font-size:11.5pt;font-family:'Calibri', 'sans-serif';color:#444444;">Answers from:
 Menstruella - TFMRD head coach 2016

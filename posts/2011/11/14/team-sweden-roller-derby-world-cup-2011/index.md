@@ -1,6 +1,6 @@
 <html><body><a href="www.teamswedenrollerderby.com">Team Sweden</a> might be relatively new on the scene, but their constituent teams have both been performing well in bouts across Europe. They could be a surprise for the more established teams out there.
 
-<a href="http://scottishrollerderbyblog.com/2011/11/teamswedenlogga1.jpg"><img class="size-full wp-image-495" title="teamswedenlogga" src="http://scottishrollerderbyblog.com/2011/11/teamswedenlogga1.jpg" alt="" width="614" height="614"></a>
+<a href="http://www.scottishrollerderbyblog.com/2011/11/teamswedenlogga1.jpg"><img class="size-full wp-image-495" title="teamswedenlogga" src="http://www.scottishrollerderbyblog.com/2011/11/teamswedenlogga1.jpg" alt="" width="614" height="614"></a>
 
 Team Roster
 Swede Hurt - Head Coach + skater (ex of Gotham Girls Roller Derby and Rat City, now Stockholm Roller Derby, after coaching Crime City Rollers)

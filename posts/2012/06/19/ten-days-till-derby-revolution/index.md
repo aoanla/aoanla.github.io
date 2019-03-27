@@ -2,7 +2,7 @@
 
 Registration for Derby Revolution ends on Sunday.
 
-<a href="http://scottishrollerderbyblog.com/2012/06/drheader-object.png"><img class="aligncenter size-full wp-image-1390" title="drheader-object" src="http://scottishrollerderbyblog.com/2012/06/drheader-object.png" alt="" width="614" height="127"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/06/drheader-object.png"><img class="aligncenter size-full wp-image-1390" title="drheader-object" src="http://www.scottishrollerderbyblog.com/2012/06/drheader-object.png" alt="" width="614" height="127"></a>
 
 <strong>Various people have been comparing Derby Revolution to RollerCon. Do</strong> <strong>you think this is a good comparison?</strong>
 

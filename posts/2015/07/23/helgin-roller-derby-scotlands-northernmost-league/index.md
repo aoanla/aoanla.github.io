@@ -1,6 +1,6 @@
-<html><body><p>New Roller Derby leagues are still popping up over Scotland, as we saw recently in our interview with <a href="https://scottishrollerderbyblog.com/2015/06/29/a-wee-chat-with-wee-county-roller-derby/">Wee County</a>. Now we're catching up with a new league in another part of the country entirely, Elgin's <a href="https://www.facebook.com/HelginRollerDerby">Helgin Roller Derby</a>!
+<html><body><p>New Roller Derby leagues are still popping up over Scotland, as we saw recently in our interview with <a href="https://www.scottishrollerderbyblog.com/2015/06/29/a-wee-chat-with-wee-county-roller-derby/">Wee County</a>. Now we're catching up with a new league in another part of the country entirely, Elgin's <a href="https://www.facebook.com/HelginRollerDerby">Helgin Roller Derby</a>!
 
-<a href="/2015/07/21091_1426672460962596_502025641894684557_n.jpg"><img class="size-large wp-image-4830" src="https://scottishrollerderbyblog.com/2015/07/21091_1426672460962596_502025641894684557_n.jpg?w=660" alt="Helgin Roller Derby logo by Brett Tucker" width="660" height="660"></a> Helgin Roller Derby logo by Brett Tucker
+<a href="/2015/07/21091_1426672460962596_502025641894684557_n.jpg"><img class="size-large wp-image-4830" src="https://www.scottishrollerderbyblog.com/2015/07/21091_1426672460962596_502025641894684557_n.jpg?w=660" alt="Helgin Roller Derby logo by Brett Tucker" width="660" height="660"></a> Helgin Roller Derby logo by Brett Tucker
 
 <strong>Helgin Roller Derby is now the northernmost mainland Scottish league, thanks to the curve of the coast near Lossiemouth. Can you tell us a little about who you are, and why you decided to found a new league?
 </strong>
@@ -13,7 +13,7 @@ Like Wee County, we are also based in a somewhat wee county – Moray has a popu
 
 We think that co-ed is a good starting point, and hope that in the future, we’ll attract enough members to have a co-ed roster, a female roster, a male roster, and a junior roster, giving everyone in Moray the opportunity to play derby… but that will be a few years down the line.
 
-<a href="/2015/07/wpid-wp-1437680568432.jpeg"><img class="size-large wp-image-4828" src="https://scottishrollerderbyblog.com/2015/07/wpid-wp-1437680568432.jpeg?w=660" alt="Helgin at practice!" width="660" height="440"></a> Helgin at practice!
+<a href="/2015/07/wpid-wp-1437680568432.jpeg"><img class="size-large wp-image-4828" src="https://www.scottishrollerderbyblog.com/2015/07/wpid-wp-1437680568432.jpeg?w=660" alt="Helgin at practice!" width="660" height="440"></a> Helgin at practice!
 
 <strong>You’ve already held a few fundraisers and promotional events, including a pub quiz with some impressive prizes. How has your awareness and recruitment been like in the area?
 </strong>

@@ -12,7 +12,7 @@ My vow was fulfulled, as part of a team that I could not fault. It felt like, wh
 
 This year's season has been something I could only dream of. I doubt I could have even imagined the opportunities this year has offered me. I'm still not sure if I am awake. Someone body-check me into the reality hotel.
 
-<img class="aligncenter size-large wp-image-13293" src="https://scottishrollerderbyblog.com/2016/12/philth-mountains.jpg?w=1024" alt="philth-mountains" width="1024" height="768">
+<img class="aligncenter size-large wp-image-13293" src="https://www.scottishrollerderbyblog.com/2016/12/philth-mountains.jpg?w=1024" alt="philth-mountains" width="1024" height="768">
 
 It started in the mountains in Calgary. As a result of how we did, I came home high as a kite but with very few plans for the future. I had ideas, but nothing decided or set in stone. All I knew is that I wanted to get better and play more derby. I felt like I was holding a compass in the mist. I knew where I wanted to go, but no idea how to get there.
 
@@ -70,7 +70,7 @@ To anyone that already truly knows this idea and is already filled with team spi
 
 You're a hired gun and the pressure to deliver seems overwhelming. They call you an ambassador, which is privilege and pressure in equal crushing measure. But it will always be worth it....every single second.
 
-<img class="aligncenter size-large wp-image-13296" src="https://scottishrollerderbyblog.com/2016/12/philth-pos.jpg?w=1024" alt="philth-pos" width="1024" height="683"> Photo: Laura MacDonald
+<img class="aligncenter size-large wp-image-13296" src="https://www.scottishrollerderbyblog.com/2016/12/philth-pos.jpg?w=1024" alt="philth-pos" width="1024" height="683"> Photo: Laura MacDonald
 
 I have grown from this.
 

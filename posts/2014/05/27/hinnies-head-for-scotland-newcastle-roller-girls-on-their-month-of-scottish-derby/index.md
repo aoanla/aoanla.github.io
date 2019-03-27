@@ -2,7 +2,7 @@
 
 As we approach the last of those dates, which sees Newcastle's B-team (The Whippin' Hinnies) take on <a href="http://arrg.co.uk/">Auld Reekie</a>'s B Cannon Belles in Edinburgh on the 31st, we thought we'd have a chat to Newcastle's A and B teams about their experience so far, and some other exciting things that have happened in the last few months.
 
-<a href="http://scottishrollerderbyblog.com/2014/05/theasaurus-wrecks.jpg"><img id="i-3456" class="size-full wp-image" src="http://scottishrollerderbyblog.com/2014/05/theasaurus-wrecks.jpg?w=615" alt="Theasaurus Wrecks"></a>
+<a href="http://www.scottishrollerderbyblog.com/2014/05/theasaurus-wrecks.jpg"><img id="i-3456" class="size-full wp-image" src="http://www.scottishrollerderbyblog.com/2014/05/theasaurus-wrecks.jpg?w=615" alt="Theasaurus Wrecks"></a>
 
 The big event was always planned to be the one Newcastle hosted, a double-header at their usual venue, the Walker Activity Dome, featuring the Whippin' Hinnies taking on <a href="http://dundeerollergirls.com/">Dundee</a>'s Silvery Tayzers, followed by Newcastle A, the Canny Belters, facing off against <a href="http://glasgowrollerderby.com/">Glasgow Roller Derby</a> B, the Maiden Grrders.
 
@@ -13,7 +13,7 @@ Coming into the Dundee bout this year, the team composition was a little differe
 
 That the score was that close was a testament to the Hinnies' grit and determination, “In the first section of the 2nd half, the Hinnies were quite battered and feeling a bit down about it, but we kinda escalated away and picked up 70 pts in 15 minutes or so. So we sort of really brought it back in,” Thea told us, adding, “[it] shows what a psychological game roller derby is as well. Quite often if you start to think that you're losing it, then you kind of lose your psychological game and sort of give up. If you're willing to battle through to the end, then you can bring it back 'round to your favour.” While the Hinnies didn't quite manage that this time around, Dundee certainly felt the need to work hard, “They said to us afterwards that it was one of the best games they'd played in a long time, because they'd felt really challenged by it as well.”
 
-<a href="http://scottishrollerderbyblog.com/2014/05/gin-jamming-close-up.jpg"><img class="size-large wp-image-3458" src="http://scottishrollerderbyblog.com/2014/05/gin-jamming-close-up.jpg?w=614" alt="Gin and Sonic, on track." width="614" height="409"></a> Gin and Sonic, on track.
+<a href="http://www.scottishrollerderbyblog.com/2014/05/gin-jamming-close-up.jpg"><img class="size-large wp-image-3458" src="http://www.scottishrollerderbyblog.com/2014/05/gin-jamming-close-up.jpg?w=614" alt="Gin and Sonic, on track." width="614" height="409"></a> Gin and Sonic, on track.
 
 Unfortunately, the second bout of the day was not to happen, as a leak in the roof of the Walker Activity Dome began to let water on to the track during the inter-game break. With the referees ruling the track unsafe as long as water continued to fall, there was no choice but to call off the game. The Belters' Gin and Sonic was not alone in feeling extremely frustrated by the experience.
 
@@ -23,7 +23,7 @@ Currently Newcastle are in negotiations with Newcastle City Council to resolve t
 
 [Breaking News, added to this document after publication: The cancelled Glasgow Roller Derby bout has been rescheduled for June 28th, and will be hosted by <em>Glasgow</em> at their usual venue, the ARC, as a replacement to the previously scheduled Glasgow A v Hot Wheels game (which is now cancelled).]
 
-<a href="http://scottishrollerderbyblog.com/2014/05/theasurus-jamming.jpg"><img class="size-large wp-image-3459" src="http://scottishrollerderbyblog.com/2014/05/theasurus-jamming.jpg?w=614" alt="Theasaurus, pushing past the final blocker." width="614" height="614"></a> Theasaurus, pushing past Dundee's Milky.
+<a href="http://www.scottishrollerderbyblog.com/2014/05/theasurus-jamming.jpg"><img class="size-large wp-image-3459" src="http://www.scottishrollerderbyblog.com/2014/05/theasurus-jamming.jpg?w=614" alt="Theasaurus, pushing past the final blocker." width="614" height="614"></a> Theasaurus, pushing past Dundee's Milky.
 
 While the loss of their venue is a setback, it didn't affect the next Scottish bout for the Hinnies, as they travelled up to Stirling to play <a href="http://www.fvrg.co.uk/">Fierce Valley Roller Girls</a>' Parma Violents. This was a return bout, as Fierce Valley had travelled down to Newcastle in April 2013, and while a Newcastle win was expected, the Hinnies weren't going to relax.
 
@@ -33,7 +33,7 @@ And indeed, taking the opportunity to gain experience for the newer skaters stil
 
 Before we look ahead to the final bout in Newcastle's packed Scottish schedule (and it is exciting for multiple reasons), we should note that Scotland is not the <span style="font-weight:bold;">only </span>place that Newcastle Roller Girls have been involved with recently.
 
-<a href="http://scottishrollerderbyblog.com/2014/05/gin-sonic-high-fives.jpg"><img class="size-large wp-image-3460" src="http://scottishrollerderbyblog.com/2014/05/gin-sonic-high-fives.jpg?w=614" alt="Gin and Sonic, taking high-fives post bout." width="614" height="345"></a> Gin and Sonic, taking high-fives post bout.
+<a href="http://www.scottishrollerderbyblog.com/2014/05/gin-sonic-high-fives.jpg"><img class="size-large wp-image-3460" src="http://www.scottishrollerderbyblog.com/2014/05/gin-sonic-high-fives.jpg?w=614" alt="Gin and Sonic, taking high-fives post bout." width="614" height="345"></a> Gin and Sonic, taking high-fives post bout.
 
 For a start, three of the Canny Belters have made the roster for Team Wales Roller Derby, and will be playing for the Valleys in the Blood and Thunder World Cup in December. Gin and Sonic was one of the three, and was happy to talk to us about her choice of Wales over England:
 

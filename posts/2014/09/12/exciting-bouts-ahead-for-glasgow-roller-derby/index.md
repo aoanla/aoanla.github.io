@@ -2,7 +2,7 @@
 
 Tomorrow, GRD's A-team, the Irn Bruisers, will take on Middlesbrough Milk Rollers in what is sure to be an exciting bout (the Maidens and MMR have are closely in UKRDA's UK rankings, but Flat Track Stats <a href="http://flattrackstats.com/bouts/55057/rankings">predicts</a> a GRD home win).
 
-<a href="/2014/09/middlesbrough.jpg"><img class="size-full wp-image-3748 aligncenter" src="http://scottishrollerderbyblog.com/2014/09/middlesbrough.jpg" alt="GRD B v MMR bout poster" width="400" height="569"></a>
+<a href="/2014/09/middlesbrough.jpg"><img class="size-full wp-image-3748 aligncenter" src="http://www.scottishrollerderbyblog.com/2014/09/middlesbrough.jpg" alt="GRD B v MMR bout poster" width="400" height="569"></a>
 
 <a href="http://glasgowrollerderby.com/content/grds-irn-bruisers-vs-middlesborough-milk-rollers">http://glasgowrollerderby.com/content/grds-irn-bruisers-vs-middlesborough-milk-rollers</a>
 
@@ -16,4 +16,4 @@ Finally, on the 4th of October, we are informed that Glasgow C-team, the Canny G
 
 <a href="https://www.facebook.com/events/718678178181099/">https://www.facebook.com/events/718678178181099/</a>
 
-All of these bouts are, of course, listed on our <a href="http://scottishrollerderbyblog.com/scottish-bouts/">Scottish Bouts </a>page here on the blog.</p></body></html>
+All of these bouts are, of course, listed on our <a href="http://www.scottishrollerderbyblog.com/scottish-bouts/">Scottish Bouts </a>page here on the blog.</p></body></html>

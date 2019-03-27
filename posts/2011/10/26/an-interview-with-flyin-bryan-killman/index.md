@@ -1,6 +1,6 @@
 <html><body><p>The first ever Roller Derby World Cup is just around the corner.With flights booked and accomodation sorted,the thoughts of many fans travelling to Toronto will be of the city itself.To find out a little more about Toronto,i talked to Bryan Mcwilliam aka Flyin' Bryan Killman.
 
-<a href="http://scottishrollerderbyblog.com/2011/10/flyin-bryan-killman.jpg"><img src="http://scottishrollerderbyblog.com/2011/10/flyin-bryan-killman.jpg" alt="" title="Flyin' Bryan Killman" width="534" height="691" class="aligncenter size-full wp-image-374"></a>
+<a href="http://www.scottishrollerderbyblog.com/2011/10/flyin-bryan-killman.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/10/flyin-bryan-killman.jpg" alt="" title="Flyin' Bryan Killman" width="534" height="691" class="aligncenter size-full wp-image-374"></a>
 
 Bryan is the manager of <a href="http://www.torontorollerderby.com/chicksahoy.php">Chicks Ahoy!</a> of Toronto Roller Derby and a freelance journalist from Toronto. He has covered roller derby for <a href="http://www.gearupforsports.com/">Gear Up For Sports</a> and his writing portfolio can be viewed at <a href="http://bryanmcwilliam.com/">Bryan McWilliam.com</a>
 

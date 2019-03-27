@@ -2,7 +2,7 @@
 <p class="p1"><span class="s1">Predictions of bouts are from FTS, if possible, and from our own <b><a href="http://aoanla.pythonanywhere.com/SRDRankv2.html">SRD Rank</a></b> where FTS cannot make predictions (for example: Latin America, or non-MRDA men’s bouts). (SRDRank also has recent WFTDA rankings, including the 31st June ranking, as well as SRDRank, and allows you to make predictions from them.)</span></p>
 <p class="p1"><span class="s1">If we’ve missed you from our roundup, please let us know! [Or add yourselves to FTS and/or Derbylisting]</span></p>
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
-<h2><span class="s1"><a href="https://scottishrollerderbyblog.com/?attachment_id=27824#main" rel="attachment wp-att-27824"><img class="aligncenter size-large wp-image-27824" src="https://scottishrollerderbyblog.com/2018/12/eur_map.png?w=700" alt="" width="580" height="435"></a></span></h2>
+<h2><span class="s1"><a href="https://www.scottishrollerderbyblog.com/?attachment_id=27824#main" rel="attachment wp-att-27824"><img class="aligncenter size-large wp-image-27824" src="https://www.scottishrollerderbyblog.com/2018/12/eur_map.png?w=700" alt="" width="580" height="435"></a></span></h2>
 <h2>Scotland</h2>
 Scotland is a little quieter this weekend, as Christmas approaches. There's still a chance to get some track time in Aberdeen on Thursday though.
 <ul>
@@ -184,7 +184,7 @@ The French National tournament continues to roll on, with the second Nationale 1
  	<li>Mon, <span style="color:#0000ff;"><strong>Warsaw</strong></span>, Poland: Worst Warsaw's Open recruitment continues for interested potential members in any roles! [<a href="https://www.facebook.com/events/2024174427621904/?"><strong>EVENT</strong></a>]</li>
  	<li>Wed, <span style="color:#0000ff;"><strong>Ostrava</strong></span>, Czech Republic: Trojhali Ostrava Roller Derby continue their open training and rolling recruitment [<a href="https://www.facebook.com/events/1139929732833996/"><strong>EVENT</strong></a>]</li>
 </ul>
-<h2><a href="https://scottishrollerderbyblog.com/?attachment_id=27825#main" rel="attachment wp-att-27825"><img class="aligncenter size-large wp-image-27825" src="https://scottishrollerderbyblog.com/2018/12/anz_map.png?w=700" alt="" width="580" height="435"></a></h2>
+<h2><a href="https://www.scottishrollerderbyblog.com/?attachment_id=27825#main" rel="attachment wp-att-27825"><img class="aligncenter size-large wp-image-27825" src="https://www.scottishrollerderbyblog.com/2018/12/anz_map.png?w=700" alt="" width="580" height="435"></a></h2>
 <h2>Pacific</h2>
 Australia and New Zealand host mostly Christmas events, with Japan also hosting their regular seasonal scrim.
 <ul>
@@ -219,7 +219,7 @@ Australia and New Zealand host mostly Christmas events, with Japan also hosting 
 </li>
  	<li>Sun, <span style="color:#993300;"><strong>Zushi</strong></span>, Kanagawa, Japan: Yokosuka Sushi Rollers host the 2018 Season's Beatings, their annual scrimmage / mini-bouts event for the end of the year! Open to All genders [<a href="https://www.facebook.com/events/250850952449983/"><strong>EVENT</strong></a>]</li>
 </ul>
-<h2><a href="https://scottishrollerderbyblog.com/?attachment_id=27826#main" rel="attachment wp-att-27826"><img class="aligncenter size-large wp-image-27826" src="https://scottishrollerderbyblog.com/2018/12/la_map.png?w=700" alt="" width="580" height="435"></a></h2>
+<h2><a href="https://www.scottishrollerderbyblog.com/?attachment_id=27826#main" rel="attachment wp-att-27826"><img class="aligncenter size-large wp-image-27826" src="https://www.scottishrollerderbyblog.com/2018/12/la_map.png?w=700" alt="" width="580" height="435"></a></h2>
 <h2>Latin America</h2>
 There's derby in Costa Rica, Brazil and Argentina this weekend, at least (we find it hardest to keep up with events in Latin America, so we appreciate being told what we've missed].
 <ul>

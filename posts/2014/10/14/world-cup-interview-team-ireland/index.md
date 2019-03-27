@@ -6,7 +6,7 @@ Fiona Carton also known as Malibruise Stacy will be skating for Team Ireland in 
 
  
 
-<a href="/2014/10/team-ireland.jpg"><img class="size-medium wp-image-4007" src="https://scottishrollerderbyblog.com/2014/10/team-ireland.jpg?w=300" alt="Team Ireland logo" width="300" height="300"></a> Team Ireland logo (Elaine Snowden and Ann Prendville)
+<a href="/2014/10/team-ireland.jpg"><img class="size-medium wp-image-4007" src="https://www.scottishrollerderbyblog.com/2014/10/team-ireland.jpg?w=300" alt="Team Ireland logo" width="300" height="300"></a> Team Ireland logo (Elaine Snowden and Ann Prendville)
 
 <strong> </strong>
 

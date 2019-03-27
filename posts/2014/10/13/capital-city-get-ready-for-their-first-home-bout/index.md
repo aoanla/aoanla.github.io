@@ -8,7 +8,7 @@ Pretty excited?! We're positively fizzing with excitement! Seriously, it's been 
 
 We've got some of the most dedicated skaters, organisers and just generally awesome people you could possibly meet so organising hasn’t been too much of a stress with everyone chipping in but this has been in the works for a long time - it was one of our main goals this year from our AGM.
 
-<a href="/2014/10/cg2.jpg"><img class="wp-image-4048 size-large" src="https://scottishrollerderbyblog.com/2014/10/cg2.jpg?w=614" alt="cg2" width="614" height="388"></a> Picture by Dave McAleavy
+<a href="/2014/10/cg2.jpg"><img class="wp-image-4048 size-large" src="https://www.scottishrollerderbyblog.com/2014/10/cg2.jpg?w=614" alt="cg2" width="614" height="388"></a> Picture by Dave McAleavy
 
 <b>It’s great to see you working with ARRG to make your bout a double header with their Cannon Belle’s taking on Malmö's Crime City Rollers B in the opening game. Had you always planned to make the game a double header</b>?
 

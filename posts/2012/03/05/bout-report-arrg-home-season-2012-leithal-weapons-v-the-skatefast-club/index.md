@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/03/lw-v-sfc.jpg"><img src="http://scottishrollerderbyblog.com/2012/03/lw-v-sfc.jpg" alt="" title="SONY DSC" width="614" height="398" class="aligncenter size-full wp-image-935"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/03/lw-v-sfc.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/03/lw-v-sfc.jpg" alt="" title="SONY DSC" width="614" height="398" class="aligncenter size-full wp-image-935"></a>
 
 <em>Photograph by Aoanla</em>
 

@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/08/533405_136106239859192_881727727_n.jpg"><img class="aligncenter size-full wp-image-1610" title="533405_136106239859192_881727727_n" alt="" src="http://scottishrollerderbyblog.com/2012/08/533405_136106239859192_881727727_n.jpg" height="614" width="614"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/08/533405_136106239859192_881727727_n.jpg"><img class="aligncenter size-full wp-image-1610" title="533405_136106239859192_881727727_n" alt="" src="http://www.scottishrollerderbyblog.com/2012/08/533405_136106239859192_881727727_n.jpg" height="614" width="614"></a>
 
 Earlier this year, I was given the opportunity to speak to Ellie from Glasgow Roller Derby, aka Cheap Skate, about her plans to set up a National Roller Derby Museum in the city. Located in the Women's Library, it would show the history of Scottish and UK derby, featuring items donated by leagues.
 

@@ -2,7 +2,7 @@
 
 Men’s roller derby may still be in its infancy in the Spanish slice of the Iberian Peninsula, but it’s growing stronger all the time and competing in Canada will help put the flat-track matadors on the map.
 
-<img class="wp-image-7852 aligncenter" src="https://scottishrollerderbyblog.com/2016/06/11754605_131554247184070_805994326635319235_o.jpg?w=680" alt="11754605_131554247184070_805994326635319235_o" width="388" height="384">
+<img class="wp-image-7852 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/06/11754605_131554247184070_805994326635319235_o.jpg?w=680" alt="11754605_131554247184070_805994326635319235_o" width="388" height="384">
 
 They could well prove to be the surprise package at this year’s World Cup, with rival countries unsure of exactly what to expect.
 

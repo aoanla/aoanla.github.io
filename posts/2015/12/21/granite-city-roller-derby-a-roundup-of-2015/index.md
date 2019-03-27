@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2015/11/wpid-wp-1447877216475.jpeg"><img title="wp-1447877216475" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2015/11/wpid-wp-1447877216475.jpeg"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2015/11/wpid-wp-1447877216475.jpeg"><img title="wp-1447877216475" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2015/11/wpid-wp-1447877216475.jpeg"></a>
 
 
 
@@ -14,7 +14,7 @@ In June it was our turn to play Liverpool Roller Birds who scored 284 to our 111
 
 July saw GCRG take on Furness Firecrackers who won our game with 325 to 112.
 
-<a href="http://scottishrollerderbyblog.com/2015/11/wpid-fb_img_1447877829715.jpg"><img title="FB_IMG_1447877829715.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2015/11/wpid-fb_img_1447877829715.jpg"></a>
+<a href="http://www.scottishrollerderbyblog.com/2015/11/wpid-fb_img_1447877829715.jpg"><img title="FB_IMG_1447877829715.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2015/11/wpid-fb_img_1447877829715.jpg"></a>
 
 
 
@@ -28,7 +28,7 @@ I spoke to Berocca Bama, the Northern Fights co-captain for 2015, about taking p
 
 This year we had a record breaking, based on no fact at all other than it seemed a huge amount, number of skaters coming up from fresh meat together. One intake generated 12 new league skaters. 12! That’s almost an entire team. This increase in mins passed skaters is a combination of all of the hardwork put in by our fresh meat training squad (namely Shan, Krusty, Berocca Bama and Nikki) and the hardwork and determination that our ‘noobs’ bring with them to training each and every week. As a mentor I get to witness this first hand…and yes…I have cried many a proud tear.
 
-<a href="http://scottishrollerderbyblog.com/2015/11/wpid-wp-1447876987607.jpeg"><img title="wp-1447876987607" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2015/11/wpid-wp-1447876987607.jpeg"></a>
+<a href="http://www.scottishrollerderbyblog.com/2015/11/wpid-wp-1447876987607.jpeg"><img title="wp-1447876987607" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2015/11/wpid-wp-1447876987607.jpeg"></a>
 
 
 
@@ -44,7 +44,7 @@ I spoke to Fight Hawks' co-captain Whips 'n' Lashes about our newest team.
 
 <em> "2015 was an exciting year for GCRD with the creation of our B team – The Fight Hawks. Fierce and determined we rose to the challenge, with our first game together being a nail biting win. For a lot of our ladies this was their first ever public outing and the professionalism, attitude and energy they showed made our league and support very proud! 2016 is already looking like a good year and we hope to continue our development not only as a team but as a league and we are looking forward to the next lot of skaters coming up. Kakaw!"</em>
 
-<a href="http://scottishrollerderbyblog.com/2015/11/wpid-fb_img_1447877532971.jpg"><img title="FB_IMG_1447877532971.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2015/11/wpid-fb_img_1447877532971.jpg"></a>
+<a href="http://www.scottishrollerderbyblog.com/2015/11/wpid-fb_img_1447877532971.jpg"><img title="FB_IMG_1447877532971.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2015/11/wpid-fb_img_1447877532971.jpg"></a>
 
 Photo credit: the glorious Dave McAleavy
 
@@ -54,7 +54,7 @@ December will see the annual GCRG Christmas ceildhi where we will celebrate our 
 
 The decision was made this year to rebrand. I, for one, am ridiculously excited about our new colour scheme. As a league and as skaters we are growing and we voted to change our name from Granite City Roller Girls to Granite City Roller Derby.
 
-<a href="http://scottishrollerderbyblog.com/2015/11/wpid-bz4tbsp92ovcwuqx4vpjtodas6auvqgnsen4sztbxcw.jpg"><img title="bZ4TBsp92oVCWUqx4VpjTODas6auVQgnsEN4SZtbxcw.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2015/11/wpid-bz4tbsp92ovcwuqx4vpjtodas6auvqgnsen4sztbxcw.jpg"></a>
+<a href="http://www.scottishrollerderbyblog.com/2015/11/wpid-bz4tbsp92ovcwuqx4vpjtodas6auvqgnsen4sztbxcw.jpg"><img title="bZ4TBsp92oVCWUqx4VpjTODas6auVQgnsEN4SZtbxcw.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2015/11/wpid-bz4tbsp92ovcwuqx4vpjtodas6auvqgnsen4sztbxcw.jpg"></a>
 
 
 

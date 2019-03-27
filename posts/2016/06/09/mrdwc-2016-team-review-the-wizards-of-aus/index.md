@@ -110,7 +110,7 @@ When selecting the squad I definitely was aware of a few Aussies living overseas
 </div>
 </div>
 <div></div>
-<div>The Wizards of Aus' <a href="https://scottishrollerderbyblog.com/2016/03/27/mens-roller-derby-world-cupschedule-timezone-adjusted/">f<strong>irst fixture</strong></a> in MRDWC 2016 will be against Belgium at 9am Track 2 on the Thursday (one of the two games which start the tournament), followed by the Netherlands at 11am on Track 1. [The official MRDWC schedule is located here: <strong><a href="http://mrdwc.com/schedule-2016/">http://mrdwc.com/schedule-2016/</a></strong> ]</div>
+<div>The Wizards of Aus' <a href="https://www.scottishrollerderbyblog.com/2016/03/27/mens-roller-derby-world-cupschedule-timezone-adjusted/">f<strong>irst fixture</strong></a> in MRDWC 2016 will be against Belgium at 9am Track 2 on the Thursday (one of the two games which start the tournament), followed by the Netherlands at 11am on Track 1. [The official MRDWC schedule is located here: <strong><a href="http://mrdwc.com/schedule-2016/">http://mrdwc.com/schedule-2016/</a></strong> ]</div>
 <div></div>
 <div>The Roster for 2016 is (* indicates skaters returning from the 2014 roster):</div>
 <div></div>

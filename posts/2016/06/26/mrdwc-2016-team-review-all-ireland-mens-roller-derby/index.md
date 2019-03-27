@@ -1,6 +1,6 @@
 <html><body><p>In 2014, All-Ireland Men's Roller Derby were in Group Blue along with Australia, France and Germany. In their final game they played against Finland who took the bowl. Ireland ended the inaugural Men's Roller Derby at number 10.
 
-<a href="http://scottishrollerderbyblog.com/2016/06/fb_img_1466933364081.jpg"><img title="FB_IMG_1466933364081.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2016/06/fb_img_1466933364081.jpg"></a>
+<a href="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466933364081.jpg"><img title="FB_IMG_1466933364081.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466933364081.jpg"></a>
 
 Team Ireland's logo 2016
 
@@ -46,4 +46,4 @@ You'll understand if we don't share any tactics here! Expect to see a well-drill
 
 This time around, Ireland are in Group Red with Finland, Japan, Mexico, Scotland and the USA. They will play their first game of the 2016 Men's Roller Derby World Cup against Finland (on track 1) at 1pm Calgary time, 6am in the UK and Ireland.
 
-<a href="http://scottishrollerderbyblog.com/2016/06/fb_img_1466937146038.jpg"><img title="FB_IMG_1466937146038.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2016/06/fb_img_1466937146038.jpg"></a></p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466937146038.jpg"><img title="FB_IMG_1466937146038.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466937146038.jpg"></a></p></body></html>

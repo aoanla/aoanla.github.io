@@ -10,4 +10,4 @@ Come on to Jack Kane Sport Centre, Edinburgh. Tickets are available at £5 (+ a
 
  
 
-<a href="http://scottishrollerderbyblog.com/2013/09/boutno2_small.png"><img class="size-large wp-image-2905 aligncenter" alt="Lothian Derby Dolls - Dolls vs. Dolls" src="http://scottishrollerderbyblog.com/2013/09/boutno2_small.png?w=614" width="614" height="868"></a></p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/09/boutno2_small.png"><img class="size-large wp-image-2905 aligncenter" alt="Lothian Derby Dolls - Dolls vs. Dolls" src="http://www.scottishrollerderbyblog.com/2013/09/boutno2_small.png?w=614" width="614" height="868"></a></p></body></html>

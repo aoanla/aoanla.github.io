@@ -10,7 +10,7 @@ The below is all Optimus Grime's work (including selection of images, although t
 
 The following is best consumed with epic 80's motivational soundtracks from such films as the Rocky series, Karate Kid or Commando [The editor would also like to recommend <a href="http://powergloveaudio.bandcamp.com/album/ep-1">PowerGlove's EP1</a> for a similar effect]. The author intent was for it to be spoken aloud &amp; PROUD. Side effects may include feelings of Getupandgoitis, motivationarrhoea &amp; goosebumposis!! You have been WARNED!
 
-<a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021054231.jpg"><img title="wp-1460021054231" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021054231.jpg" alt="image" width="699" height="400"></a> (Unknown copyright: please let us know if this is your image.)
+<a href="http://www.scottishrollerderbyblog.com/2016/04/wp-1460021054231.jpg"><img title="wp-1460021054231" src="http://www.scottishrollerderbyblog.com/2016/04/wp-1460021054231.jpg" alt="image" width="699" height="400"></a> (Unknown copyright: please let us know if this is your image.)
 
 Mental Strength:
 It starts with a dream:
@@ -30,7 +30,7 @@ Decision is incision. To decide is to cut off the chance of being deterred or di
 
 So just DECIDE. (Variable eliminated).
 
-<a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021066618.jpg"><img title="wp-1460021066618" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021066618.jpg" alt="image" width="960" height="540"></a> (Photo: <a href="http://lauramacd.co.uk/roller-derby-photography/">Laura MacDonald</a>)
+<a href="http://www.scottishrollerderbyblog.com/2016/04/wp-1460021066618.jpg"><img title="wp-1460021066618" src="http://www.scottishrollerderbyblog.com/2016/04/wp-1460021066618.jpg" alt="image" width="960" height="540"></a> (Photo: <a href="http://lauramacd.co.uk/roller-derby-photography/">Laura MacDonald</a>)
 
 The Mind of a Building:
 
@@ -59,7 +59,7 @@ Injury, defeat, abuse, pain, losing, ineffectiveness, anger - and we pretend int
 
 Mental preparation and practice, prevents poor performance and promotes positive prognosis. (Variables eliminated)
 
-<a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021074061.jpg"><img title="wp-1460021074061" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021074061.jpg" alt="image" width="1080" height="720"></a> (Photo: <a href="http://lauramacd.co.uk/roller-derby-photography/">Laura MacDonald</a>)
+<a href="http://www.scottishrollerderbyblog.com/2016/04/wp-1460021074061.jpg"><img title="wp-1460021074061" src="http://www.scottishrollerderbyblog.com/2016/04/wp-1460021074061.jpg" alt="image" width="1080" height="720"></a> (Photo: <a href="http://lauramacd.co.uk/roller-derby-photography/">Laura MacDonald</a>)
 
 Learning &amp; Growing:
 
@@ -93,7 +93,7 @@ If I start at ZERO 0, my first success will give me 3 points with a potential sc
 
 (Variable eliminated).
 
-<a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021080516.jpg"><img title="wp-1460021080516" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021080516.jpg" alt="image" width="1120" height="720"></a> (Photo: <a href="https://www.facebook.com/john.hesse.902">John Hesse</a>)
+<a href="http://www.scottishrollerderbyblog.com/2016/04/wp-1460021080516.jpg"><img title="wp-1460021080516" src="http://www.scottishrollerderbyblog.com/2016/04/wp-1460021080516.jpg" alt="image" width="1120" height="720"></a> (Photo: <a href="https://www.facebook.com/john.hesse.902">John Hesse</a>)
 
 Sharing is caring : I grow, we grow:
 "If you want to succeed quickly go alone. If you want to succeed forever, go together"
@@ -127,4 +127,4 @@ If my mind becomes stronger I will eliminate variables that would deter me to tr
 
 Become balanced. Become more. Become awesome.
 
-<a href="http://scottishrollerderbyblog.com/2016/04/wp-1460021085772.jpg"><img title="wp-1460021085772" src="http://scottishrollerderbyblog.com/2016/04/wp-1460021085772.jpg" alt="image" width="800" height="800"></a> (Photo: <a href="http://lauramacd.co.uk/roller-derby-photography/">Laura MacDonald</a>)</body></html>
+<a href="http://www.scottishrollerderbyblog.com/2016/04/wp-1460021085772.jpg"><img title="wp-1460021085772" src="http://www.scottishrollerderbyblog.com/2016/04/wp-1460021085772.jpg" alt="image" width="800" height="800"></a> (Photo: <a href="http://lauramacd.co.uk/roller-derby-photography/">Laura MacDonald</a>)</body></html>

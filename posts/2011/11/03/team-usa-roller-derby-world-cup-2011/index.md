@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/11/teamusalogo.png"><img src="http://scottishrollerderbyblog.com/2011/11/teamusalogo.png" alt="" title="teamusalogo" width="614" height="383" class="aligncenter size-full wp-image-443"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/11/teamusalogo.png"><img src="http://www.scottishrollerderbyblog.com/2011/11/teamusalogo.png" alt="" title="teamusalogo" width="614" height="383" class="aligncenter size-full wp-image-443"></a>
 <em>Team USA logo designed by</em> <a href="http://danikaulakisart.com/">Dani Kaulakis</a> <em>used with permission</em>
 
 Team USA like Team Canada are without doubt one of the main contenders to win the World Cup.They have a stellar line up,masses of experience and are Derby heroes to many skaters all over the world.

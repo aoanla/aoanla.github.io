@@ -15,9 +15,9 @@ As well as West Track Story, which they have won 4 out of 5 times, Nantes also c
 
 Nantes are currently ranked <strong>#144</strong> by <strong><a href="https://wftda.com/rankings-february-28-2017/">WFTDA</a></strong>, <strong>#155</strong> by <strong><a href="https://aoanla.pythonanywhere.com/17-Mar-ranking.html">SRDRank</a> </strong>and<strong> #24 </strong>in<strong> <a href="http://flattrackstats.com/rankings/europe">Europe(FTS)</a></strong>
 <h3>Glasgow Roller Derby</h3>
-<img class="alignnone size-medium wp-image-4717" src="https://scottishrollerderbyblog.com/2015/06/glasgow_roller_derby_3_color_logo.png?w=185" alt="Glasgow_Roller_Derby_3_Color_Logo" width="185" height="300">
+<img class="alignnone size-medium wp-image-4717" src="https://www.scottishrollerderbyblog.com/2015/06/glasgow_roller_derby_3_color_logo.png?w=185" alt="Glasgow_Roller_Derby_3_Color_Logo" width="185" height="300">
 
-The first Roller Derby league in Scotland, GRD recently celebrated their 10th birthday, and we interviewed one of their founding members at the time. [<strong><a href="https://scottishrollerderbyblog.com/2017/03/04/10-years-of-roller-derby-in-glasgow-mistress-malicious-on-grds-10th/">READ MORE</a></strong>]. Glasgow have been full WFTDA members since 2012.
+The first Roller Derby league in Scotland, GRD recently celebrated their 10th birthday, and we interviewed one of their founding members at the time. [<strong><a href="https://www.scottishrollerderbyblog.com/2017/03/04/10-years-of-roller-derby-in-glasgow-mistress-malicious-on-grds-10th/">READ MORE</a></strong>]. Glasgow have been full WFTDA members since 2012.
 
 Back in 2015, Glasgow's B team attended West Track Story III, where they defeated Kallio B, but lost out to the Berlin B team and hosts Nantes narrowly, and to Amsterdam by a knife-edge (just 7 points).
 Glasgow Roller Derby are the only team attending with a history of competing in both Europe and Internationally.

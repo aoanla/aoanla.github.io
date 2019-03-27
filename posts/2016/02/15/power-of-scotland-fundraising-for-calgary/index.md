@@ -1,7 +1,7 @@
 <html><body><p>Canada is very far away. This is fact. As a result, Power of Scotland have some pretty cool fundraising projects in place.
 
 
-<a href="http://scottishrollerderbyblog.com/2016/02/11825045_700882493377553_2649629827109956984_n.jpg"><img title="11825045_700882493377553_2649629827109956984_n.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2016/02/11825045_700882493377553_2649629827109956984_n.jpg"></a> 
+<a href="http://www.scottishrollerderbyblog.com/2016/02/11825045_700882493377553_2649629827109956984_n.jpg"><img title="11825045_700882493377553_2649629827109956984_n.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2016/02/11825045_700882493377553_2649629827109956984_n.jpg"></a> 
 
 
 
@@ -15,7 +15,7 @@ https://www.gofundme.com/kskvy2sc
 
 <strong>All Power No Bull Coed Bootcamp</strong>
 
-<a href="http://i0.wp.com/scottishrollerderbyblog.com/2015/08/pos.jpg?w=656"><img title="PoS" class="alignnone size-full" alt="image" src="http://i0.wp.com/scottishrollerderbyblog.com/2015/08/pos.jpg?w=656?w=357"></a> 
+<a href="http://i0.wp.com/www.scottishrollerderbyblog.com/2015/08/pos.jpg?w=656"><img title="PoS" class="alignnone size-full" alt="image" src="http://i0.wp.com/www.scottishrollerderbyblog.com/2015/08/pos.jpg?w=656?w=357"></a> 
 
 
 

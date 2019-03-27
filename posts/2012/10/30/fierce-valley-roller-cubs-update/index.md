@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/10/cubs.jpg"><img src="http://scottishrollerderbyblog.com/2012/10/cubs.jpg?w=300" alt="" title="cubs" width="300" height="297" class="alignnone size-medium wp-image-1833"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/10/cubs.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/10/cubs.jpg?w=300" alt="" title="cubs" width="300" height="297" class="alignnone size-medium wp-image-1833"></a>
 
 After a number of delays and obstacles, planning for Fierce Valley Roller Cubs is firmly back on track.  As before, our main problem has been raising the money to cover the cost of insurance – vital before we start bringing kids in and letting them loose on skates!  We’re confident now though that we will be able to raise the money needed, in a number of ways.
 

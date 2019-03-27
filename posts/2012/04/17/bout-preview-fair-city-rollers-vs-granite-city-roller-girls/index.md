@@ -1,4 +1,4 @@
-<html><body><p style="text-align:center;"><a href="http://scottishrollerderbyblog.com/2012/04/gcrg1.jpg"><img class="aligncenter size-full wp-image-1111" title="gcrg" src="http://scottishrollerderbyblog.com/2012/04/gcrg1.jpg" alt="" width="614" height="868"></a> </p>
+<html><body><p style="text-align:center;"><a href="http://www.scottishrollerderbyblog.com/2012/04/gcrg1.jpg"><img class="aligncenter size-full wp-image-1111" title="gcrg" src="http://www.scottishrollerderbyblog.com/2012/04/gcrg1.jpg" alt="" width="614" height="868"></a> </p>
  
 
 In what should be a brilliant bout, the Fair City Rollers Fear Maidens will take on the Granite City Roller Girls Northern Fights in Perth this weekend in the Scrimmage of the Damned.

@@ -1,6 +1,6 @@
 <html><body><p>Not that long ago in a derby galaxy not that far away, a group of skaters took a momentous decision…
 
-Towards the tail end of 2014, Glasgow’s Mean City Roller Derby became the<img class="  wp-image-5526 alignright" src="https://scottishrollerderbyblog.com/2016/01/1498887_403382076464885_1005980319_o.png?w=559" alt="1498887_403382076464885_1005980319_o" width="156" height="156"> first co-ed league in the West of Scotland and only the second in the country.
+Towards the tail end of 2014, Glasgow’s Mean City Roller Derby became the<img class="  wp-image-5526 alignright" src="https://www.scottishrollerderbyblog.com/2016/01/1498887_403382076464885_1005980319_o.png?w=559" alt="1498887_403382076464885_1005980319_o" width="156" height="156"> first co-ed league in the West of Scotland and only the second in the country.
 
 It was a huge (toe)step for the league – which had hitherto only accepted men as full members – and not a decision taken lightly, but it was an essential one and it’s fair to say that 2015 validated that vote.
 

@@ -1,6 +1,6 @@
 <html><body><p>On Sunday 12th July, Fierce Valley Roller Girls will host their second home game of the year when the Parma Violents take on Sheffield Steel Roller Girls at Grangemouth Sports Complex. This will be the second half of a Scottish roller derby double header for Sheffield, after they face Dundee Rollers Girls in a British Championships T3 North game the previous day.
 
-<a href="/2015/07/sheffied.jpg"><img class="  wp-image-4745 aligncenter" src="https://scottishrollerderbyblog.com/2015/07/sheffied.jpg?w=214" alt="Sheffied" width="304" height="420"></a>
+<a href="/2015/07/sheffied.jpg"><img class="  wp-image-4745 aligncenter" src="https://www.scottishrollerderbyblog.com/2015/07/sheffied.jpg?w=214" alt="Sheffied" width="304" height="420"></a>
 
 The Parma Violents have won both of their games this year, away to Birmingham Blitz Dames’ Bomb Squad and at home to The Darksiders in a Champs challenge game. If Flat Track Stats’ European rankings are anything to go by, this is bound to be a close game: SSRG are currently ranked at 75, with FVRG just one place behind at 76.
 

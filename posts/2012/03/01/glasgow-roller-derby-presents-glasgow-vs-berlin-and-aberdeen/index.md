@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/02/grg-berlin.jpg"><img src="http://scottishrollerderbyblog.com/2012/02/grg-berlin.jpg" alt="" title="grg berlin" width="509" height="720" class="aligncenter size-full wp-image-901"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/02/grg-berlin.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/02/grg-berlin.jpg" alt="" title="grg berlin" width="509" height="720" class="aligncenter size-full wp-image-901"></a>
 
 <em>Image courtesy of Glasgow Roller Derby</em>
 

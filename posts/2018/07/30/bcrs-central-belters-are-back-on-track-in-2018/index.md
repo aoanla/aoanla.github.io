@@ -6,4 +6,4 @@ The Fight Hawks had a great year in 2017, winning all five of the games they pla
 
 All the details can be found over on the <strong><a href="https://en-gb.facebook.com/events/1767150326733129/">event page here</a>.</strong>
 
-<a href="https://en-gb.facebook.com/events/1767150326733129/"><img class="alignnone wp-image-27087 size-large" src="https://scottishrollerderbyblog.com/2018/07/beltvhawk.jpg?w=700" alt="Wolves vs Hawks" width="700" height="394"></a></body></html>
+<a href="https://en-gb.facebook.com/events/1767150326733129/"><img class="alignnone wp-image-27087 size-large" src="https://www.scottishrollerderbyblog.com/2018/07/beltvhawk.jpg?w=700" alt="Wolves vs Hawks" width="700" height="394"></a></body></html>

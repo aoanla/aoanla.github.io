@@ -2,7 +2,7 @@
 
 Mai Olesen a.k.a Toxic Noir - Manager for Team Denmark - has been speaking to us to share how the team are preparing for the Blood &amp; Thunder World Cup in Dallas later this year.
 
-<a href="/2014/09/team-denmark-logo.png"><img class="wp-image-3911 size-medium" src="https://scottishrollerderbyblog.com/2014/09/team-denmark-logo.png?w=300" alt="Team Denmark Logo" width="300" height="300"></a> Image courtesy of Team Denmark
+<a href="/2014/09/team-denmark-logo.png"><img class="wp-image-3911 size-medium" src="https://www.scottishrollerderbyblog.com/2014/09/team-denmark-logo.png?w=300" alt="Team Denmark Logo" width="300" height="300"></a> Image courtesy of Team Denmark
 
 <strong>1. Team Denmark is filled with skaters from 5 different Danish teams, and even a skater from Crime City Rollers in Sweden! How did you organise the team selection process since your skaters come from all over Denmark, and beyond?</strong>
 
@@ -40,7 +40,7 @@ We have contacted a lot of Danish companies for sponsorships, but without luck.
 
 We don't have a mascot but if we did it would be either a lion, like the one we have on our uniform. Or maybe a hotdog or a Carlsberg beer mascot!
 
-<a href="/2014/09/team-denmark-skaters.png"><img class="size-full wp-image-3912" src="http://scottishrollerderbyblog.com/2014/09/team-denmark-skaters.png" alt="Team Denmark Skaters" width="614" height="227"></a> Image courtesy of Team Denmark
+<a href="/2014/09/team-denmark-skaters.png"><img class="size-full wp-image-3912" src="http://www.scottishrollerderbyblog.com/2014/09/team-denmark-skaters.png" alt="Team Denmark Skaters" width="614" height="227"></a> Image courtesy of Team Denmark
 </p><h3><strong>Team Denmark Roster</strong></h3>
 <ul>
 	<li>Hald, Copenhagen Roller Derby</li>

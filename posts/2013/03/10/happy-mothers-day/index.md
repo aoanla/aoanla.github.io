@@ -7,9 +7,9 @@ This rather revealing insight into my private life brings me, tenuously, to the
 
 But what about those who want the best of both worlds? It's well documented that remaining active and fit during pregnancy is a good thing. In fact, the <a href="http://www.nhs.uk/conditions/pregnancy-and-baby/pages/pregnancy-exercise.aspx" target="_blank">NHS</a> encourages mums to be to keep up their normal physical activies and sports for as long as they're comfortable. If skating is part of your normal physical activity, then with a bit of caution, is it necessary to stop straightaway?
 
-I recently had a chat about this with Irn Bruzer from <a href="http:/http://scottishrollerderbyblog.com/tag/nasty-nessies-roller-girls//" target="_blank">Nasty Nessies </a>who is currently 17 weeks pregnant.
+I recently had a chat about this with Irn Bruzer from <a href="http:/http://www.scottishrollerderbyblog.com/tag/nasty-nessies-roller-girls//" target="_blank">Nasty Nessies </a>who is currently 17 weeks pregnant.
 
-<img class="alignright size-medium wp-image-384" alt="Nasty Nessies Chair Irn-Bruzer" src="http://scottishrollerderbyblog.com/2011/10/laurna-600x400.jpg?w=201" width="201" height="300"><strong>First, huge congratulations on your pregnancy! </strong><strong>How did your Nasty Nessies team-mates react to the news?</strong>
+<img class="alignright size-medium wp-image-384" alt="Nasty Nessies Chair Irn-Bruzer" src="http://www.scottishrollerderbyblog.com/2011/10/laurna-600x400.jpg?w=201" width="201" height="300"><strong>First, huge congratulations on your pregnancy! </strong><strong>How did your Nasty Nessies team-mates react to the news?</strong>
 
 <span style="color:#3366ff;">They were all over the moon for me which was great. I was mostly worried about telling Bee-Yatch and Nat-orious Red as we have all been together from the very start and was worried how they would react. They were so happy for me though so made it a happy time :) </span>
 <div><strong>Have you stopped skating?</strong></div>

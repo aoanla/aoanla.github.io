@@ -4,7 +4,7 @@ In common with all of the Southern European teams, Team Italy is new to the Worl
 
 Thanks to Sikki Sixx and Robscene Behaviour of London Rockin Rollers for responding to these questions on behalf of Team Italy.
 
-<a href="/2014/09/teamitaly.jpg"><img class="wp-image-3876 size-large" src="http://scottishrollerderbyblog.com/2014/09/teamitaly.jpg?w=614" alt="Team Italy logo by ..." width="614" height="614"></a> Team Italy logo by ...
+<a href="/2014/09/teamitaly.jpg"><img class="wp-image-3876 size-large" src="http://www.scottishrollerderbyblog.com/2014/09/teamitaly.jpg?w=614" alt="Team Italy logo by ..." width="614" height="614"></a> Team Italy logo by ...
 
 </p><div><strong>Most of Team Italy is sourced from Italian leagues, but the outliers are based in relatively distant leagues. How did selection work?</strong></div>
 <div>When we discussed the idea of Team Italy there was relatively little experience in the country and the representative of the Italian leagues at the time asked 4 Italian skaters playing for London, Berlin and Copenhagen to be in charge of the tryouts process and the selection of the team.</div>

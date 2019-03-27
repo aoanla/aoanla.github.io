@@ -2,7 +2,7 @@
 
 Podcasts, on the other hand, are a somewhat rarer breed, much to the sadness of everyone who wants to listen to people talk about Derby on their daily commute.
 
-<a href="http://scottishrollerderbyblog.com/2014/02/talkderbytome.png"><img class="aligncenter size-large wp-image-3241" alt="No, really, Talk to Them. They're Listening." src="http://scottishrollerderbyblog.com/2014/02/talkderbytome.png?w=614" width="614" height="81"></a>
+<a href="http://www.scottishrollerderbyblog.com/2014/02/talkderbytome.png"><img class="aligncenter size-large wp-image-3241" alt="No, really, Talk to Them. They're Listening." src="http://www.scottishrollerderbyblog.com/2014/02/talkderbytome.png?w=614" width="614" height="81"></a>
 
 The folk up in Aberdeen are well aware of this, however, and have their most talkative member, sMACklemore, (otherwise known with his announcing hat on for Granite City Roller Girls) on the case. He'll be hosting the new derby fortnightly podcast "<strong>Talk Derby To Me</strong>" starting this very month, with an array of guests from around derby, thanks to the magic of the internet.
 

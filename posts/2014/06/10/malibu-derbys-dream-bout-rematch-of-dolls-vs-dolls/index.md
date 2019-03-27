@@ -10,7 +10,7 @@ Making this the Lothian Derby Dolls first away game this year if you are in or a
 
 To find more details and links to buy tickets in advance please follow the Facebook event page for this bout which can be found here -  <a href="https://www.facebook.com/events/290817137760671/">https://www.facebook.com/events/290817137760671/</a>
 
-<a href="/2014/06/10372917_711072448952890_462582258759216117_o.jpg"><img class="wp-image-3470 aligncenter" src="http://scottishrollerderbyblog.com/2014/06/10372917_711072448952890_462582258759216117_o.jpg?w=614" alt="10372917_711072448952890_462582258759216117_o" width="468" height="662"></a>
+<a href="/2014/06/10372917_711072448952890_462582258759216117_o.jpg"><img class="wp-image-3470 aligncenter" src="http://www.scottishrollerderbyblog.com/2014/06/10372917_711072448952890_462582258759216117_o.jpg?w=614" alt="10372917_711072448952890_462582258759216117_o" width="468" height="662"></a>
 
  
 

@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2013/05/glasgow-team-shot2.jpg"><img class="size-full wp-image" id="i-2582" alt="Image" src="http://scottishrollerderbyblog.com/2013/05/glasgow-team-shot2.jpg?w=487"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2013/05/glasgow-team-shot2.jpg"><img class="size-full wp-image" id="i-2582" alt="Image" src="http://www.scottishrollerderbyblog.com/2013/05/glasgow-team-shot2.jpg?w=487"></a>
 
 <strong>So, ECDX is now less than 8 weeks away! How ready is the team?</strong>
 <strong> Cider (ARRG):</strong>  We bout all year round, so we're always ready to play Roller Derby.  We just need to remember to pack party hats and sun block and we're there!
@@ -10,7 +10,7 @@
 
 <strong>Crazy (ARRG): </strong> Yes - lots of intense off skates, focus on team work and a lot of work on our technical skating skills lately -  we jumped at LRG's invite to go play at Anarchy in the UK III because we knew that would give us a couple of really challenging games and bring the team together just before ECDX.  And the lovely Hot Wheels invited us down for a bout the week afterwards, which was great in consolidating our team work a bit more. For the next few weeks we have booked in a lot visiting teams to scrimmage against us, so that we can do as much as we can to raise level of the ARRG teamwork dream work!  We also have an exciting scrimmage with Gotham, and a pre ECDX bout with another WFTDA league organised for when we get to the States to acclimatise us before ECDX starts. Bouting in New York AND Philly!
 
-<a href="http://scottishrollerderbyblog.com/2013/05/arrg11.jpg"><img class="size-full wp-image" id="i-2585" alt="Image" src="http://scottishrollerderbyblog.com/2013/05/arrg11.jpg?w=487"></a>
+<a href="http://www.scottishrollerderbyblog.com/2013/05/arrg11.jpg"><img class="size-full wp-image" id="i-2585" alt="Image" src="http://www.scottishrollerderbyblog.com/2013/05/arrg11.jpg?w=487"></a>
 
 <strong>What are the team/wider league doing to help with finances for this international opportunity?</strong>
 <strong><strong>Rogue </strong> (GRD): </strong> The whole league, as well as our families and friends, have been amazing in helping us to raise funds for this. To try to list the ways that people have helped would be to miss something out. Fundraising efforts have been as diverse as bag-packing at a local supermarket;  a photo exhibition at a local café run by our own Phoenix; and a Grd Auction.  I’m grateful to everyone who has helped us and I hope we can make them proud.    Click here if you’d like to help out!  <a href="http://www.glasgowrollerderby.com/get-in-touch/donate">http://www.glasgowrollerderby.com/get-in-touch/donate</a>
@@ -22,7 +22,7 @@
 
 <strong>Rogue (GRD):</strong>  Long island are ranked 93rd, and Columbia 39<sup>th</sup>, in the WFTDA rankings but who knows what that means? Teams don’t tend to give much away and it’s hard to find recent footage online. However Columbia are playing against Charm City (17th) this weekend and I’ll be watching the results of that one very closely! I also know from being in touch with members of both teams that they will play hard and play to win, but that they are lovely people and I can’t wait to meet them.
 
-<a href="http://scottishrollerderbyblog.com/2013/05/grd-brrd1.jpg"><img class="size-full wp-image" id="i-2586" alt="Image" src="http://scottishrollerderbyblog.com/2013/05/grd-brrd1.jpg?w=470"></a>
+<a href="http://www.scottishrollerderbyblog.com/2013/05/grd-brrd1.jpg"><img class="size-full wp-image" id="i-2586" alt="Image" src="http://www.scottishrollerderbyblog.com/2013/05/grd-brrd1.jpg?w=470"></a>
 
 <strong>How do you think the team will perform?</strong>
 <strong><strong>Rogue</strong> (GRD):</strong> The team have all been reminded to pack our A game. We’ll be playing to win!
@@ -35,4 +35,4 @@
 
 <strong>Rogue (GRD):</strong>  Oh, so many things! I’m excited to get there and play with the team and see all of our hard work pay off. I’m excited about the opportunities that this could create for us. I’m excited about the future of GRD. I rarely stop being excited about roller derby!
 
-<a href="http://scottishrollerderbyblog.com/2013/05/group-2-21.jpg"><img class="size-full wp-image" id="i-2588" alt="Image" src="http://scottishrollerderbyblog.com/2013/05/group-2-21.jpg?w=487"></a></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/05/group-2-21.jpg"><img class="size-full wp-image" id="i-2588" alt="Image" src="http://www.scottishrollerderbyblog.com/2013/05/group-2-21.jpg?w=487"></a></body></html>

@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/09/track-queens.jpg"><img src="http://scottishrollerderbyblog.com/2012/09/track-queens.jpg" alt="" title="track queens" width="614" height="869" class="aligncenter size-full wp-image-1836"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/09/track-queens.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/09/track-queens.jpg" alt="" title="track queens" width="614" height="869" class="aligncenter size-full wp-image-1836"></a>
 
 In November 2012,a bit of Roller Derby history will be made,Bear City Roller Derby will host the first WFTDA European tournament in Berlin.The aptly named,Track Queens-Battle Royale,promises to live up to its title with a stellar line up of teams from all over Europe.
 

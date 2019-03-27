@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/10/teamfrancelogo.jpg"><img class="aligncenter size-full wp-image-309" title="TeamFranceLogo" src="http://scottishrollerderbyblog.com/2011/10/teamfrancelogo.jpg" alt="" width="614" height="428"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/10/teamfrancelogo.jpg"><img class="aligncenter size-full wp-image-309" title="TeamFranceLogo" src="http://www.scottishrollerderbyblog.com/2011/10/teamfrancelogo.jpg" alt="" width="614" height="428"></a>
 <em>Team France logo designed by Dixie Pixie,used with permission.</em>
 
 Roller Derby is a relatively new sport in France,both the Paris Roller Girls and Roller Derby Toulouse were formed in early 2010,but already there are dozens more leagues,as Bravehurt,assistant coach to Team France explains,"most of them are too small yet to be considered full on "leagues" with multiple teams, but the teams are growing and multiplying rapidly.Derby is definitely catching on in a big way here!"

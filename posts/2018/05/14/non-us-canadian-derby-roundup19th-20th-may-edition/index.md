@@ -41,7 +41,7 @@ This weekend, British Champs is across the whole weekend, with two fixtures on S
 	<li>Mild Discomfort (London MB) versus Glasgow Men's Roller Derby [<b><a href="http://flattrackstats.com/node/101439">FTS</a></b>]</li>
 </ul>
 </li>
-	<li>Sat-Sun, Newcastle, England: Newcastle Roller Girls host their second ever EuroClash tournament, which you should already know all about from our previous coverage [<b><a href="https://scottishrollerderbyblog.com/2018/04/26/euroclash-2018-newcastle-roller-girls-tournament-expands-beyond-the-euro/">HERE</a></b>, and <b><a href="https://scottishrollerderbyblog.com/2018/05/09/euroclash-2018-two-weeks-to-go-schedule-updated-predictions/">HERE</a></b>]. [<b><a href="http://flattrackstats.com/tournaments/101065/overview">FTS Tournament</a></b>][<b><a href="https://www.facebook.com/events/507109466293725/">EVENT</a></b>]
+	<li>Sat-Sun, Newcastle, England: Newcastle Roller Girls host their second ever EuroClash tournament, which you should already know all about from our previous coverage [<b><a href="https://www.scottishrollerderbyblog.com/2018/04/26/euroclash-2018-newcastle-roller-girls-tournament-expands-beyond-the-euro/">HERE</a></b>, and <b><a href="https://www.scottishrollerderbyblog.com/2018/05/09/euroclash-2018-two-weeks-to-go-schedule-updated-predictions/">HERE</a></b>]. [<b><a href="http://flattrackstats.com/tournaments/101065/overview">FTS Tournament</a></b>][<b><a href="https://www.facebook.com/events/507109466293725/">EVENT</a></b>]
 <ul>
 	<li>Tiger Bay Brawlers (Cardiff) versus Steel City Roller Derby (Pittsburgh)</li>
 	<li>Newcastle Roller Girls versus Birmingham Blitz Dames</li>

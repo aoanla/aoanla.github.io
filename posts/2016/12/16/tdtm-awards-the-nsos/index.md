@@ -15,7 +15,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="alignnone size-medium wp-image-12729" src="https://scottishrollerderbyblog.com/2016/12/blindio.png?w=300" alt="blindio" width="300" height="194"> Photo: John Hesse</td>
+<img class="alignnone size-medium wp-image-12729" src="https://www.scottishrollerderbyblog.com/2016/12/blindio.png?w=300" alt="blindio" width="300" height="194"> Photo: John Hesse</td>
 <td> Blind Io is an independent NSO in the Edinburgh area. He's been NSOing for 3 years. His favourite event to NSO this year was The European Smackdown.
 
 "I became an Independent NSO at the start of this year, helped manage 2 WFTDA Recognised Tournaments as a GTO, visited 5 countries and NSOed my first ever WFTDA D1 &amp; Top-10 games!"</td>
@@ -41,7 +41,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="aligncenter size-medium wp-image-12706" src="https://scottishrollerderbyblog.com/2016/12/petti.png?w=300" alt="petti" width="300" height="200"> Petti is in the left hand side here...click here for closeup Photo: Ken LeBleu ("JammerTime")</td>
+<img class="aligncenter size-medium wp-image-12706" src="https://www.scottishrollerderbyblog.com/2016/12/petti.png?w=300" alt="petti" width="300" height="200"> Petti is in the left hand side here...click here for closeup Photo: Ken LeBleu ("JammerTime")</td>
 <td>Petti is affiliated with Eastbourne Roller Derby, and has been NSOing for 5 and a half years. Her favourite event to NSO this year was the Japan Open, in Okinawa, as "sorry to break loyalty to Eastbourne Extreme, but crew heading the first ever tournament in Asia was pretty frickin special!"
 
 "I became the first level 3 WFTDA certified NSO in Europe from a non-WFTDA league. NSOd to Japan and back, as well as being mentor to many. If you haven’t seen the work that I do…then I’m doing it right. NSOs are the glue that make things awesome :-)"</td>
@@ -54,7 +54,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="aligncenter size-medium wp-image-12758" src="https://scottishrollerderbyblog.com/2016/12/saratonin.jpg?w=300" alt="saratonin" width="300" height="300"> Photo: Shirlaine Forrest</td>
+<img class="aligncenter size-medium wp-image-12758" src="https://www.scottishrollerderbyblog.com/2016/12/saratonin.jpg?w=300" alt="saratonin" width="300" height="300"> Photo: Shirlaine Forrest</td>
 <td>Sara Tonin is an independent NSO based in the Manchester area. She's been an NSO for 2 years, and her favourite event to NSO this year was the Men's Roller Derby World Cup in Calgary.
 
 "I was HNSO with Manchester Roller Derby until recently, I've been THNSO of the men's side of British Championships, and I was lucky enough to LT at MRDWC in Calgary, as well as travel to Rollercon. I've had a busy year, nearly hitting the 200 game mark!"</td>
@@ -67,7 +67,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="alignnone size-medium wp-image-12751" src="https://scottishrollerderbyblog.com/2016/12/stevel.jpg?w=300" alt="stevel" width="300" height="300"> Photo : John Hesse</td>
+<img class="alignnone size-medium wp-image-12751" src="https://www.scottishrollerderbyblog.com/2016/12/stevel.jpg?w=300" alt="stevel" width="300" height="300"> Photo : John Hesse</td>
 <td>Dr Stëvël is NSO for Southern Discomfort Roller Derby, and has been NSOing for 5 years. His favourite event to NSO this year was The European Smackdown.
 
 "Being heckled by close to a thousand people has to be the highlight... It was great to see the crowds having so much fun. I have been mainly Jam Timing or hiding from Team Heckle"</td>
@@ -80,7 +80,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class=" size-full wp-image-12762 aligncenter" src="https://scottishrollerderbyblog.com/2016/12/creative-tail-animal-flamingo-svg.png?w=300" alt="creative-tail-animal-flamingo-svg" width="200" height="200"> -</td>
+<img class=" size-full wp-image-12762 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/12/creative-tail-animal-flamingo-svg.png?w=300" alt="creative-tail-animal-flamingo-svg" width="200" height="200"> -</td>
 <td>DisorderLee is affiliated with London Rockin' Rollers, where she also skates. She's been NSOing for almost 5 years now. Her favourite event to NSO this year was the Men's Roller Derby World Cup in Calgary.
 
 "I've NSO'ed a lot of close door/challenge team games, NSO'ed some games in Tier 2 South British Champs, as many of the Tier 1 Men's British Champs as I could go to (dates sometimes overlap as I also skate), including my first open door game as HNSO, most of our B teams home games and the Men's World Cup in Calgary, CA."</td>
@@ -93,7 +93,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="alignnone size-medium wp-image-12734" src="https://scottishrollerderbyblog.com/2016/12/doriaingrey.png?w=300" alt="doriaingrey" width="300" height="200"> Photo: Graeme Willetts</td>
+<img class="alignnone size-medium wp-image-12734" src="https://www.scottishrollerderbyblog.com/2016/12/doriaingrey.png?w=300" alt="doriaingrey" width="300" height="200"> Photo: Graeme Willetts</td>
 <td>Dor-Iain NSOs for Bath Roller Derby Girls, where he has been for 2 years. His favourite event to NSO this year was The Louisey Rider Cup.
 
 "This year I was a Divisional HNSO for British Championships, and a Crew Head for the promotion playoffs. I officiated at The European Smackdown in Sweden, the first WFTDA recognised tournament outside of America, as well as Eastbourne Extreme, Men's European Cup, Road to TBC and many more, covering 70+ games in total."</td>
@@ -106,7 +106,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class=" size-full wp-image-12762 aligncenter" src="https://scottishrollerderbyblog.com/2016/12/creative-tail-animal-flamingo-svg.png?w=300" alt="creative-tail-animal-flamingo-svg" width="200" height="200"> -</td>
+<img class=" size-full wp-image-12762 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/12/creative-tail-animal-flamingo-svg.png?w=300" alt="creative-tail-animal-flamingo-svg" width="200" height="200"> -</td>
 <td>Bath Vader also NSOs with Bath Roller Derby Girls, where they've been for 14 months. Their favourite event to NSO was the Suomi Cup Final.
 
 "NSOd Champs Tier 3 South, SWUK, BRDG closed door games, playoffs, hyper unicorn tourney, Road to TBC, Soumi Cup final, Oslo, London Brawling, Tattoo Freeze. Lots still to learn which is why it's great when I get to work with really seasoned NSOs."</td>
@@ -119,7 +119,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="alignnone size-medium wp-image-12773" src="https://scottishrollerderbyblog.com/2016/12/misstickle.jpg?w=300" alt="misstickle" width="300" height="300"> -</td>
+<img class="alignnone size-medium wp-image-12773" src="https://www.scottishrollerderbyblog.com/2016/12/misstickle.jpg?w=300" alt="misstickle" width="300" height="300"> -</td>
 <td>Miss Tickle NSOs for Glasgow Men's Roller Derby, as of only a month ago - she was previously independent. She's been NSOing for 1 year, after stepping down from skating. Her favourite event to NSO this year was 5th Blocker's 5th Birthday Party, as "it was my first time NSOing a Junior game!".
 
 "I've travelled the length and breadth of the UK for scrims, bouts &amp; tournaments. I’ve learnt to be Jam Timer as well as a penalty box official and can now confidently be PBM! When all NSO roles were filled, I’ve been LUM, Bench as well as photographed many a game!"</td>
@@ -132,7 +132,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="aligncenter size-medium wp-image-12826" src="https://scottishrollerderbyblog.com/2016/12/kv.jpg?w=169" alt="kv" width="169" height="300"> -</td>
+<img class="aligncenter size-medium wp-image-12826" src="https://www.scottishrollerderbyblog.com/2016/12/kv.jpg?w=169" alt="kv" width="169" height="300"> -</td>
 <td>Krystal Vice Head NSOs for Seaside Sirens Roller Girls and Southern Discomfort, as well as <em>both</em> Team Englands. She's been an NSO for 5 years. Her favourite event to NSO this year was The European Smackdown, as "Crew Head - terrifying but awesome (got to CH with Acid!)"
 
 "HNSO for two leagues and two national teams, THed Sevens x 2, MEC and Suomi Cup. Went to RollerCon and MRDWC, West Track Story, Mayday, Sci Fight, London/Gotham, ERDT, HUUEB, DDT, Road to TBC, among other things! :)"</td>
@@ -145,7 +145,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="alignnone size-medium wp-image-12877" src="https://scottishrollerderbyblog.com/2016/12/peggy.jpg?w=298" alt="peggy" width="298" height="300"> -</td>
+<img class="alignnone size-medium wp-image-12877" src="https://www.scottishrollerderbyblog.com/2016/12/peggy.jpg?w=298" alt="peggy" width="298" height="300"> -</td>
 <td>Peggy Kreuger is Head NSO for Auld Reekie Roller Girls, and has been NSOing for about 3 and a half years (in Edinburgh and Aberdeen). Her favourite event to NSO was the WFTDA Clinic, although she also includes "reaching 100 games and the charity games where everyone dressed to a theme".
 
 "Increasing my knowledge as a NSO through Head NSOing and helping the training of others. I've head NSO'd single games, double headers, a Sur5al and even a small tournament [ARRGmageddon]! This year has taught me a lot and NSOing will only teach me more in time. "</td>
@@ -158,7 +158,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class=" size-full wp-image-12762 aligncenter" src="https://scottishrollerderbyblog.com/2016/12/creative-tail-animal-flamingo-svg.png?w=200" alt="creative-tail-animal-flamingo-svg" width="200" height="200"> -</td>
+<img class=" size-full wp-image-12762 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/12/creative-tail-animal-flamingo-svg.png?w=200" alt="creative-tail-animal-flamingo-svg" width="200" height="200"> -</td>
 <td>Resting Bexface NSOs for Newcastle Roller Girls and Tyne &amp; Fear Roller Derby, where she's been for 18 months. Her favourite event to NSO was Newcastle's first C Team game.
 
 "Mostly developing my skills and learning lots. Started the year with 6 months experience, half way through the year was HNSO for two big leagues. Lots of learning. Lucky to have worked with some amazing people who have helped me so much."</td>
@@ -171,7 +171,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="aligncenter size-full wp-image-12714" src="https://scottishrollerderbyblog.com/2016/12/emilyotstate.png?w=300" alt="emilyotstate" width="300" height="399"> -</td>
+<img class="aligncenter size-full wp-image-12714" src="https://www.scottishrollerderbyblog.com/2016/12/emilyotstate.png?w=300" alt="emilyotstate" width="300" height="399"> -</td>
 <td>Emily of the State NSOs for Rainy City Roller Derby, where she's been for 3.5 years. Her favourite event to NSO this year was SKOD: A Skate Odyssey, for the "great officials, great derby, great graphics!"
 
 "I have done loads of travelling to various tournaments including The European Smackdown, The Big O, A Skate Odyssey, Skates of Glory, MEC and The Suomi Cup. As well NSOing many other games in and around the UK for British Champs. (As well as dipping my toe in the ref lane back at the Thunderdome!)"</td>
@@ -184,7 +184,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="alignnone size-medium wp-image-12890" src="https://scottishrollerderbyblog.com/2016/12/linzheadshot.png?w=300" alt="linzheadshot" width="300" height="300"> -</td>
+<img class="alignnone size-medium wp-image-12890" src="https://www.scottishrollerderbyblog.com/2016/12/linzheadshot.png?w=300" alt="linzheadshot" width="300" height="300"> -</td>
 <td>Linz &amp; Needles is affiliated with Oxford Roller Derby and Southern Discomfort Roller Derby, and has been NSOing for 3 and a half years. Her favourite event to NSO this year was the Men's European Cup.
 
 "I officiated at 7 tournaments (including my first NSOing trips outside the UK, to Canada for MRDWC and Belgium for ERDT). I worked games from multiple tiers of British Champs, and was a divisional Head NSO. I became MRDA Recognised! I spent about 36 hours in the penalty box…"</td>
@@ -197,7 +197,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="alignleft size-medium wp-image-12673" src="https://scottishrollerderbyblog.com/2016/12/yoshi.jpg?w=300" alt="yoshi" width="300" height="300"> Photo: John Hesse</td>
+<img class="alignleft size-medium wp-image-12673" src="https://www.scottishrollerderbyblog.com/2016/12/yoshi.jpg?w=300" alt="yoshi" width="300" height="300"> Photo: John Hesse</td>
 <td>Yoshi NSOs for Suffolk Roller Derby, and is one of the longest serving NSOs up for an award, having been NSOing for 7 years! His favourite event to NSO this year was Eastbourne Extreme.
 
 "Stepped in as a Divisional Head NSO for Brit Champs in Tier 3 Mens. Jam timed everywhere. Popped my Mainland Europe officiating cherry at ERDT 2016. Teamed with Funk as Puck to run a couple officiating boot camps. NSO’d Road to TBC. WON SO MANY AFTERPARTIES!"</td>
@@ -210,7 +210,7 @@ NSOs are covered in the order they appear in the <strong><a href="https://docs.g
 <tr>
 <td>
 
-<img class="aligncenter size-medium wp-image-12722" src="https://scottishrollerderbyblog.com/2016/12/halojones.png?w=200" alt="halojones" width="200" height="300"> Photo: Eloise Rees</td>
+<img class="aligncenter size-medium wp-image-12722" src="https://www.scottishrollerderbyblog.com/2016/12/halojones.png?w=200" alt="halojones" width="200" height="300"> Photo: Eloise Rees</td>
 <td>Halo Jones is affiliated with Oxford Wheels of Gory, and has been NSOing for more than 3 years. Her favourite event to NSO was Essex Sevens, as "every year it gets better!".
 
 "All the Sevens format games it feels! Handling the Men’s Southern Sevens Cup was amazing-I got to work with great officials. That experience was reflected throughout my year, working with shiny new officials and brilliant veterans. 2016 was a lot of teaching others, watching others and importantly, learning from others!"</td>

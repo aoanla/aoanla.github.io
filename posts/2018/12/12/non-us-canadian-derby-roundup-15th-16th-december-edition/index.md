@@ -2,7 +2,7 @@
 <p class="p1"><span class="s1">Predictions of bouts are from FTS, if possible, and from our own <b><a href="http://aoanla.pythonanywhere.com/SRDRankv2.html">SRD Rank</a></b> where FTS cannot make predictions (for example: Latin America, or non-MRDA men’s bouts). (SRDRank also has recent WFTDA rankings, including the 31st June ranking, as well as SRDRank, and allows you to make predictions from them.)</span></p>
 <p class="p1"><span class="s1">If we’ve missed you from our roundup, please let us know! [Or add yourselves to FTS and/or Derbylisting]</span></p>
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
-<h2><a href="https://scottishrollerderbyblog.com/2018/12/12/non-us-canadian-derby-roundup-15th-16th-december-edition/eur_map-32/#main" rel="attachment wp-att-27859"><img class="aligncenter wp-image-27866 size-large" src="https://scottishrollerderbyblog.com/2018/12/EUR_map.png?w=700" alt="" width="580" height="435"></a></h2>
+<h2><a href="https://www.scottishrollerderbyblog.com/2018/12/12/non-us-canadian-derby-roundup-15th-16th-december-edition/eur_map-32/#main" rel="attachment wp-att-27859"><img class="aligncenter wp-image-27866 size-large" src="https://www.scottishrollerderbyblog.com/2018/12/EUR_map.png?w=700" alt="" width="580" height="435"></a></h2>
 <h2>Scotland</h2>
 Scotland is surprisingly busy this close to Christmas, with Glasgow Men's Roller Derby hosting their MRDA-policy rookie skater game on the Saturday, and also their returning mini-bootcamp series.
 <ul>
@@ -190,7 +190,7 @@ Europe... and especially France... is very much still in bouting mood this close
  	<li>Tues, <strong>A Coruña</strong>, Spain: As Brigantias follow up their open recruitment day with an outreach event at Centro Social A Comuna [<a href="https://www.facebook.com/events/2210725422538195/"><strong>EVENT</strong></a>]</li>
  	<li>Wed, <span style="color:#0000ff;"><strong>Ostrava</strong></span>, Czech Republic: Trojhali Ostrava Roller Derby continue their open training and rolling recruitment [<a href="https://www.facebook.com/events/1139929732833996/"><strong>EVENT</strong></a>]</li>
 </ul>
-<h2><a href="https://scottishrollerderbyblog.com/?attachment_id=27860#main" rel="attachment wp-att-27860"><img class="aligncenter size-large wp-image-27860" src="https://scottishrollerderbyblog.com/2018/12/anz_map1.png?w=700" alt="" width="580" height="435"></a></h2>
+<h2><a href="https://www.scottishrollerderbyblog.com/?attachment_id=27860#main" rel="attachment wp-att-27860"><img class="aligncenter size-large wp-image-27860" src="https://www.scottishrollerderbyblog.com/2018/12/anz_map1.png?w=700" alt="" width="580" height="435"></a></h2>
 <h2>Pacific</h2>
 It... seems... very quiet in Australia, New Zealand and the Asia-Pacific region this weekend, but it's also possible we're missing events. Do let us know if we've missed you.
 <ul>
@@ -202,7 +202,7 @@ It... seems... very quiet in Australia, New Zealand and the Asia-Pacific region 
 </ul>
 </li>
 </ul>
-<h2><a href="https://scottishrollerderbyblog.com/2018/12/12/non-us-canadian-derby-roundup-15th-16th-december-edition/la_map-26/#main" rel="attachment wp-att-27861"><img class="aligncenter wp-image-27885 size-large" src="https://scottishrollerderbyblog.com/2018/12/LA_map-4.png?w=700" alt="" width="580" height="435"></a></h2>
+<h2><a href="https://www.scottishrollerderbyblog.com/2018/12/12/non-us-canadian-derby-roundup-15th-16th-december-edition/la_map-26/#main" rel="attachment wp-att-27861"><img class="aligncenter wp-image-27885 size-large" src="https://www.scottishrollerderbyblog.com/2018/12/LA_map-4.png?w=700" alt="" width="580" height="435"></a></h2>
 <h2>Latin America</h2>
 The big event in Latin America is the Huiñas returning tournament Quad Beer II, covering teams across Argentina!
 <ul>

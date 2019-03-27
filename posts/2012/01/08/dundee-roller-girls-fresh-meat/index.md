@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/01/401054_259845310747558_133126163419474_764668_344304663_n.jpg"><img class="aligncenter size-full wp-image-753" title="Dundee Roller Girls Fresh Meat Poster" src="http://scottishrollerderbyblog.com/2012/01/401054_259845310747558_133126163419474_764668_344304663_n.jpg" alt="" width="536" height="604"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/01/401054_259845310747558_133126163419474_764668_344304663_n.jpg"><img class="aligncenter size-full wp-image-753" title="Dundee Roller Girls Fresh Meat Poster" src="http://www.scottishrollerderbyblog.com/2012/01/401054_259845310747558_133126163419474_764668_344304663_n.jpg" alt="" width="536" height="604"></a>
 
  
 

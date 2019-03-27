@@ -2,7 +2,7 @@
 <div></div>
 <div>
 
-<a href="http://scottishrollerderbyblog.com/2012/01/rufi-ohh.jpg"><img class="size-full wp-image-803" title="rufi-ohh" src="http://scottishrollerderbyblog.com/2012/01/rufi-ohh.jpg" alt="" width="614" height="964"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/01/rufi-ohh.jpg"><img class="size-full wp-image-803" title="rufi-ohh" src="http://www.scottishrollerderbyblog.com/2012/01/rufi-ohh.jpg" alt="" width="614" height="964"></a>
 
 </div>
 <div></div>

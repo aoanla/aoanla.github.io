@@ -2,7 +2,7 @@
 
 I was talking to group founder Heather Harlin.
 
-<a href="http://scottishrollerderbyblog.com/2013/07/920065_488054554599481_999665459_o.jpg"><img class="size-large wp-image-2819" alt="The core Hot Pants Cold Beer group, Heather Harlin giving the thumbs up." src="http://scottishrollerderbyblog.com/2013/07/920065_488054554599481_999665459_o.jpg?w=614" width="614" height="359"></a> The core Hot Pants Cold Beer group, Heather Harlin giving the thumbs up.
+<a href="http://www.scottishrollerderbyblog.com/2013/07/920065_488054554599481_999665459_o.jpg"><img class="size-large wp-image-2819" alt="The core Hot Pants Cold Beer group, Heather Harlin giving the thumbs up." src="http://www.scottishrollerderbyblog.com/2013/07/920065_488054554599481_999665459_o.jpg?w=614" width="614" height="359"></a> The core Hot Pants Cold Beer group, Heather Harlin giving the thumbs up.
 
 <strong>We'll start with some background, I think. So, how did you get started as a group?</strong>
 

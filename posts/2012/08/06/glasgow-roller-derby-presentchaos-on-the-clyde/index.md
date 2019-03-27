@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/08/chaosclyde.jpg"><img src="http://scottishrollerderbyblog.com/2012/08/chaosclyde.jpg" alt="" title="chaosclyde" width="509" height="720" class="aligncenter size-full wp-image-1580"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/08/chaosclyde.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/08/chaosclyde.jpg" alt="" title="chaosclyde" width="509" height="720" class="aligncenter size-full wp-image-1580"></a>
 
 <em>Image courtesy of GRD</em>
 

@@ -6,7 +6,7 @@
 </em>
 <em>-The relationship between Aberdeen and Dundee goes back along time, before I had even put on a pair of skates myself. The maturing of both leagues has ran side by side, and for a while it almost felt like we had a conjoined league of Dundeen where we would attend each others training and in fact GCRG’s first ever closed door bout featured a few of the Dundee girls.</em> -(Clinically Wasted)
 
-<a href="http://scottishrollerderbyblog.com/2014/03/935888_10153084748090392_1488004219_n.jpg"><img class="size-full wp-image-3344" alt="Courtesy of Zenspirations Photography" src="http://scottishrollerderbyblog.com/2014/03/935888_10153084748090392_1488004219_n.jpg" width="614" height="409"></a> Courtesy of Zenspirations Photography
+<a href="http://www.scottishrollerderbyblog.com/2014/03/935888_10153084748090392_1488004219_n.jpg"><img class="size-full wp-image-3344" alt="Courtesy of Zenspirations Photography" src="http://www.scottishrollerderbyblog.com/2014/03/935888_10153084748090392_1488004219_n.jpg" width="614" height="409"></a> Courtesy of Zenspirations Photography
 
 <strong>Riding off the back of Highland Fling, Dundee hosted their first ever home game in November 2010. Their opponents - GCRG's Northern Fights.
 </strong>
@@ -14,7 +14,7 @@
 </em>
 <em>-We were flying high with all the good intentions and in our fishnets, high socks and pants we were ready to kick butt. Dundee so kindly got somebody to film the occasion so it can eternally be watched. The video always makes me smile, because I remember how much fun we had that game, playing against our sisters. </em>(CW)
 
-<a href="http://scottishrollerderbyblog.com/2014/03/gcrgvsrk1.jpg"><img class="size-full wp-image-3346 " alt="Courtesy of Andrew Leatherbarrow." src="http://scottishrollerderbyblog.com/2014/03/gcrgvsrk1.jpg" width="614" height="407"></a> Courtesy of Andrew Leatherbarrow.
+<a href="http://www.scottishrollerderbyblog.com/2014/03/gcrgvsrk1.jpg"><img class="size-full wp-image-3346 " alt="Courtesy of Andrew Leatherbarrow." src="http://www.scottishrollerderbyblog.com/2014/03/gcrgvsrk1.jpg" width="614" height="407"></a> Courtesy of Andrew Leatherbarrow.
 
 And if you haven't seen it already, here is a link to the video by Dylan Drummond: <a href="http://www.youtube.com/watch?v=IPylGsXKJAE" target="_blank">Northern Fights vs Rippin Kittens 2010</a>
 
@@ -24,7 +24,7 @@ And if you haven't seen it already, here is a link to the video by Dylan Drummon
 
 - The game was hard, well fought, close and most of all fun. The level of derby and strategy had changed, but that buzz of seeing your friends play well made it all worth while. (CW)
 
-<a href="http://scottishrollerderbyblog.com/2014/03/nfvsst.jpg"><img class="size-full wp-image-3348" alt="Courtesy of Granite City Roller Girls" src="http://scottishrollerderbyblog.com/2014/03/nfvsst.jpg" width="614" height="409"></a> Courtesy of Granite City Roller Girls
+<a href="http://www.scottishrollerderbyblog.com/2014/03/nfvsst.jpg"><img class="size-full wp-image-3348" alt="Courtesy of Granite City Roller Girls" src="http://www.scottishrollerderbyblog.com/2014/03/nfvsst.jpg" width="614" height="409"></a> Courtesy of Granite City Roller Girls
 
 <strong>Fast forward to now, in 2014. DRG and GCRG have both had an incredible few seasons. Both teams are serious about progressing our sport and promoting the athleticism and empowerment they've worked so hard to achieve. Each team has changed vastly since they first lined up against each other in 2010; Dundee are in fact a completely different league with only 4 rostered skaters playing from the original line up, and Granite City only having 3 original Fights playing. Despite all the changes the two teams have experienced, they've continued to meet on track throughout the years, together and as opponents, still supporting our derby sisters and always proud of each teams acheivements.
 </strong>
@@ -34,6 +34,6 @@ And if you haven't seen it already, here is a link to the video by Dylan Drummon
 
 <strong>Granite City Roller Girls play Dundee Roller Girls Saturday 29th of March 2014 at the Beach Leisure Centre in Aberdeen. Doors at 2.00pm for 3.00pm. Free Entry.</strong>
 
-<a href="http://scottishrollerderbyblog.com/2014/03/blamming-season.jpg"><img class="size-full wp-image-3347" alt="Courtesy of Granite City Roller Girls." src="http://scottishrollerderbyblog.com/2014/03/blamming-season.jpg" width="614" height="868"></a> Courtesy of Granite City Roller Girls.
+<a href="http://www.scottishrollerderbyblog.com/2014/03/blamming-season.jpg"><img class="size-full wp-image-3347" alt="Courtesy of Granite City Roller Girls." src="http://www.scottishrollerderbyblog.com/2014/03/blamming-season.jpg" width="614" height="868"></a> Courtesy of Granite City Roller Girls.
 
 <strong> </strong></p></body></html>

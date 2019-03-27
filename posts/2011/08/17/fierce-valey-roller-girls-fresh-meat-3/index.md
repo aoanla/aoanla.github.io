@@ -1,4 +1,4 @@
 <html><body><a href="http://www.fvrg.co.uk/">Fierce Valley Roller Girls</a> next Fresh Meat intake is on Sunday 28th of August at Grangemouth Sports Centre,if you fancy playing Derby for FVRG,then get along and meet the team .This event is not only for potential skaters,but for non skating officials and referees too.Derby has lots of opportunities for officials,scorekeepers and even photographers and announcers.
 If you want to go along,just fill out the FVRG <a href="http://www.fvrg.co.uk/fresh-meat.php">Fresh Meat registration form</a> ,where you can also find additional information on what to wear,safety equipment etc
 
-<a href="http://scottishrollerderbyblog.com/2011/08/fvrgfreshmeat.jpg"><img src="http://scottishrollerderbyblog.com/2011/08/fvrgfreshmeat.jpg" alt="" title="fvrgfreshmeat" width="509" height="720" class="aligncenter size-full wp-image-67"></a></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2011/08/fvrgfreshmeat.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/08/fvrgfreshmeat.jpg" alt="" title="fvrgfreshmeat" width="509" height="720" class="aligncenter size-full wp-image-67"></a></body></html>

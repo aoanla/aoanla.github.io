@@ -23,7 +23,7 @@ This cup is one great example of how more local roller derby groups can be essen
 As with previous iterations, the 2016/7 Pohjola Cup is a round-robin, played over several months - one or two double-header fixtures a month, for a total of 21 bouts. Points are assigned as 2 for a win, 0 for a loss, with defaults counted as a loss for the absent team.
 There's then a single-elimination "finals" which takes the top 4 teams to determine the absolute winner for the year. The winner wins the Pohjola "Pölkky" (log), which is gloriously decorated for the occasion.
 
-<img class="alignnone size-large wp-image-11006" src="https://scottishrollerderbyblog.com/2016/11/20161106_102324.jpg?w=2002" alt="_20161106_102324" width="1001" height="1024"> The Pohjola Cup "Pölkky", which is retained by the champions each year.
+<img class="alignnone size-large wp-image-11006" src="https://www.scottishrollerderbyblog.com/2016/11/20161106_102324.jpg?w=2002" alt="_20161106_102324" width="1001" height="1024"> The Pohjola Cup "Pölkky", which is retained by the champions each year.
 
 This may be the final year when this is possible, however; the rapid growth of required games in round-robin tournaments with size might cause a change in formats next year, if the Cup continues to grow in membership, especially outside of Finland itself.
 

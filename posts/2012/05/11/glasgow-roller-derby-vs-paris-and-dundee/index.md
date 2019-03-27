@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/05/parisgrdposterweb.jpg"><img src="http://scottishrollerderbyblog.com/2012/05/parisgrdposterweb.jpg" alt="" title="ParisGRdposterWEB" width="614" height="868" class="aligncenter size-full wp-image-1228"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/05/parisgrdposterweb.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/05/parisgrdposterweb.jpg" alt="" title="ParisGRdposterWEB" width="614" height="868" class="aligncenter size-full wp-image-1228"></a>
 
 <em>Image courtesy of Glasgow Roller Derby</em>
 

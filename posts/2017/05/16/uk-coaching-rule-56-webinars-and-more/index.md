@@ -1,6 +1,6 @@
 <html><body><p>As part of our short series on Coaches and Coaching initiatives in the UK (which started with a look at the Derby Form Check initiative), it would be remiss of us not to cover this next topic:
 
-<img class=" size-medium wp-image-19248 aligncenter" src="https://scottishrollerderbyblog.com/2017/05/rule56.jpg?w=600" alt="Rule56" width="300" height="300"> Logo by Lee Moyer Designs
+<img class=" size-medium wp-image-19248 aligncenter" src="https://www.scottishrollerderbyblog.com/2017/05/rule56.jpg?w=600" alt="Rule56" width="300" height="300"> Logo by Lee Moyer Designs
 
 <a href="http://www.rulefiftysix.com/"><strong>Rule 56</strong></a>, the North-of-England based coaching business responsible for the UK's first Coaching Summit last year, have not been resting on their laurels.
 

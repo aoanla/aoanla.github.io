@@ -8,7 +8,7 @@ Violent Femme was happy to answer our questions in a face to face interview in B
 
 -
 
-<a href="/2014/09/teamspain.jpg"><img class="wp-image-3842 size-large" src="http://scottishrollerderbyblog.com/2014/09/teamspain.jpg?w=614" alt="Team Spain logo - " width="614" height="614"></a> Team Spain Logo: Alicia Reyes Schwartz
+<a href="/2014/09/teamspain.jpg"><img class="wp-image-3842 size-large" src="http://www.scottishrollerderbyblog.com/2014/09/teamspain.jpg?w=614" alt="Team Spain logo - " width="614" height="614"></a> Team Spain Logo: Alicia Reyes Schwartz
 
 -
 

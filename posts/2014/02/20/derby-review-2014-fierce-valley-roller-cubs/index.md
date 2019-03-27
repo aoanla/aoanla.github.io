@@ -1,6 +1,6 @@
 <html><body><p>Latest in a series of year review interviews, we catch up with Crash Overload, Vice Chair and Head Coach of the Fierce Valley Roller Cubs.
 
-<a href="http://scottishrollerderbyblog.com/2013/09/trial3.jpg"><img src="http://scottishrollerderbyblog.com/2013/09/trial3.jpg" alt="Photography by Zenspirations Photography" width="614" height="409" class="size-full wp-image-2932"></a> Photography by Zenspirations Photography
+<a href="http://www.scottishrollerderbyblog.com/2013/09/trial3.jpg"><img src="http://www.scottishrollerderbyblog.com/2013/09/trial3.jpg" alt="Photography by Zenspirations Photography" width="614" height="409" class="size-full wp-image-2932"></a> Photography by Zenspirations Photography
 
 <strong>It's been a busy year for the Fierce Valley Roller Cubs,from raising awareness and funds with events to running your first trial sessions. What have been the highs, and lows, of the past year?</strong>
 

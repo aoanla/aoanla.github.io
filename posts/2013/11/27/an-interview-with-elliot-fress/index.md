@@ -1,6 +1,6 @@
 <html><body><p>Next up in line in our announcer interviews, Glasgow Roller Derby's Elliot Fress.
 
-<a href="http://scottishrollerderbyblog.com/2013/11/img_20131126_0083258.jpg"><img src="http://scottishrollerderbyblog.com/2013/11/img_20131126_0083258.jpg" alt="Photography by Dave McAleavy" width="614" height="408" class="size-full wp-image-3066"></a> Photography by Dave McAleavy
+<a href="http://www.scottishrollerderbyblog.com/2013/11/img_20131126_0083258.jpg"><img src="http://www.scottishrollerderbyblog.com/2013/11/img_20131126_0083258.jpg" alt="Photography by Dave McAleavy" width="614" height="408" class="size-full wp-image-3066"></a> Photography by Dave McAleavy
 
 <strong>How did you get started announcing for Glasgow Roller Derby</strong>
 

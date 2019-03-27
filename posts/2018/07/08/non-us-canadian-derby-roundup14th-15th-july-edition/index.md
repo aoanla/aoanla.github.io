@@ -100,7 +100,7 @@ The amount of derby is very slowly decreasing in Europe, as we slip into the end
 	<li>Tues, <span style="color:#0000ff;"><strong>Pibrac</strong></span>, France: The Harpies Braqueuses host another of their summer open workshops for potential new skaters wanting to try the sport. [<a href="https://www.facebook.com/events/271329426771852/"><strong>EVENT</strong></a>]</li>
 	<li>Tues, <span style="color:#0000ff;"><strong>Madrid</strong></span>, Spain: The MadRiders, Madrid's Men's Team, are recruiting on an open event (repeated Thursday) [<a href="https://www.facebook.com/madridersrollerderby/photos/a.915546628504563.1073741827.904448146281078/1916880488371167/?type=3&amp;theater"><strong>EVENT Flyer</strong></a>]</li>
 </ul>
-<img class=" size-large wp-image-27000 aligncenter" src="https://scottishrollerderbyblog.com/2018/07/anz_map2.png?w=1024" alt="ANZ_map" width="1024" height="768">
+<img class=" size-large wp-image-27000 aligncenter" src="https://www.scottishrollerderbyblog.com/2018/07/anz_map2.png?w=1024" alt="ANZ_map" width="1024" height="768">
 <h2><b>Pacific</b></h2>
 There's quite a bit of derby in the Pacific this weekend, as Rum City's Skate of Emergency returns, as does South Side Derby Dolls' TriWizard Tournament, and the Statewide Stampede continues through Victoria.
 <ul>
@@ -203,8 +203,8 @@ This weekend has derby everywhere, with a two-day tournament in Argentina, parti
 </ul>
 </li>
 </ul>
-<img class="aligncenter size-large wp-image-27002" src="https://scottishrollerderbyblog.com/2018/07/me_map.png?w=1024" alt="ME_map" width="1024" height="768">
-<h2><img class=" size-large wp-image-27003 aligncenter" src="https://scottishrollerderbyblog.com/2018/07/sa_map1.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
+<img class="aligncenter size-large wp-image-27002" src="https://www.scottishrollerderbyblog.com/2018/07/me_map.png?w=1024" alt="ME_map" width="1024" height="768">
+<h2><img class=" size-large wp-image-27003 aligncenter" src="https://www.scottishrollerderbyblog.com/2018/07/sa_map1.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 As well as the continuing Funskate events in South Africa, the CaiRollers are recruiting again in Egypt!
 <ul>

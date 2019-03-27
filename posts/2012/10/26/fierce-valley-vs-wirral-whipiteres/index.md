@@ -4,4 +4,4 @@ The Peak in Stirling will be the venue  for FVRG's first public home bout, and 
 
 Tickets are priced at £7 on the door, or £5 in advance if you <a title="Buy bout tickets" href="http://www.brownpapertickets.com/event/283751" target="_blank">buy online</a> from Brown Paper Tickets. Children are welcome to attend - under 14s go free when accompanied by an adult.
 
-<a href="http://scottishrollerderbyblog.com/2012/10/final-a41.jpg"><img class="size-full wp-image-1830 " title="For Whom the Skate Rolls" alt="For Whom the Skate Rolls" src="http://scottishrollerderbyblog.com/2012/10/final-a41.jpg" height="868" width="614"></a> Poster designed by Stewart Ferguson</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2012/10/final-a41.jpg"><img class="size-full wp-image-1830 " title="For Whom the Skate Rolls" alt="For Whom the Skate Rolls" src="http://www.scottishrollerderbyblog.com/2012/10/final-a41.jpg" height="868" width="614"></a> Poster designed by Stewart Ferguson</p></body></html>

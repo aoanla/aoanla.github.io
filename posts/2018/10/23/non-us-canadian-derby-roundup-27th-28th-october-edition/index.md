@@ -2,7 +2,7 @@
 <p class="p1"><span class="s1">Predictions of bouts are from FTS, if possible, and from our own <b><a href="http://aoanla.pythonanywhere.com/SRDRankv2.html">SRD Rank</a></b> where FTS cannot make predictions (for example: Latin America, or non-MRDA men’s bouts). (SRDRank also has recent WFTDA rankings, including the 31st June ranking, as well as SRDRank, and allows you to make predictions from them.)</span></p>
 <p class="p1"><span class="s1">If we’ve missed you from our roundup, please let us know! [Or add yourselves to FTS and/or Derbylisting]</span></p>
 We're trying a new colour coding this week, to differentiate <span style="color:#800000;"><b>BOUTS</b></span> from <span style="color:#0000ff;"><b>RECRUITMENTS</b></span> and <span style="color:#993300;"><b>OPEN SCRIM</b></span>s, and <span style="color:#008000;"><strong>BOOTCAMP</strong></span>s.
-<h2><img class="aligncenter size-large wp-image-27636" src="https://scottishrollerderbyblog.com/2018/10/eur_map19.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27636" src="https://www.scottishrollerderbyblog.com/2018/10/eur_map19.png?w=1024" alt="EUR_map" width="1024" height="768"></h2>
 <h2></h2>
 <h2>Scotland</h2>
 In Scotland, whilst there's a lot of recruitment and ramp time, the big derby fixture is in Aberdeen, as Granite City Roller Derby celebrate their 10th birthday!
@@ -50,7 +50,7 @@ Whilst the main event in the UK as a whole is clearly the first ever WFTDA Conti
 </ul>
 </li>
 	<li><strong>Manchester</strong>, England: Manchester Roller Derby host a Halloween Roller Disco, including fancy dress (and prize), and "spooky themed music and cakes" [<a href="https://www.facebook.com/events/568843460202871/"><strong>EVENT</strong></a>]</li>
-	<li>(Sat-Sun), <span style="color:#800000;"><strong>Telford</strong></span>, England: Birmingham Blitz Dames host the first ever WFTDA European Continental Cup! We've covered this in more detail <a href="https://scottishrollerderbyblog.com/2018/10/04/europes-first-continental-cup-the-uks-next-international-derby-fixture-in-2018/"><strong>here</strong></a>. [<a href="http://flattrackstats.com/tournaments/104383/overview"><strong>FTS tournament</strong></a>]<strong>[<a href="https://www.facebook.com/events/130422437830313">EVENT</a>]</strong>
+	<li>(Sat-Sun), <span style="color:#800000;"><strong>Telford</strong></span>, England: Birmingham Blitz Dames host the first ever WFTDA European Continental Cup! We've covered this in more detail <a href="https://www.scottishrollerderbyblog.com/2018/10/04/europes-first-continental-cup-the-uks-next-international-derby-fixture-in-2018/"><strong>here</strong></a>. [<a href="http://flattrackstats.com/tournaments/104383/overview"><strong>FTS tournament</strong></a>]<strong>[<a href="https://www.facebook.com/events/130422437830313">EVENT</a>]</strong>
 <ul>
 	<li>Teams attending:
 <ul>
@@ -228,8 +228,8 @@ The French Championnat starts up for another season this weekend, as the German 
 	<li>Tues, <strong>Berlin</strong>, Germany: Chicks in Bowls Berlin host a Halloween Night session! [<a href="https://www.facebook.com/events/243873689641357/"><strong>EVENT</strong></a>]</li>
 </ul>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27660" src="https://scottishrollerderbyblog.com/2018/10/anz_map6.png?w=2048" alt="ANZ_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27637" src="https://scottishrollerderbyblog.com/2018/10/asia_map5.png?w=1024" alt="ASIA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27660" src="https://www.scottishrollerderbyblog.com/2018/10/anz_map6.png?w=2048" alt="ANZ_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27637" src="https://www.scottishrollerderbyblog.com/2018/10/asia_map5.png?w=1024" alt="ASIA_map" width="1024" height="768"></h2>
 <h2><b>Pacific</b></h2>
 There's too much derby across Australia to summarise neatly - in pretty much every state there's some kind of bout, and New Zealand is even more packed with action, relatively speaking!
 <ul>
@@ -328,7 +328,7 @@ There's too much derby across Australia to summarise neatly - in pretty much eve
 	<li>Wed, <span style="color:#0000ff;"><strong>Bangkok</strong></span>, Thailand: Bangkok Roller Derby have their regular training evening, which is always open to new skaters [<strong><a href="https://www.facebook.com/BangkokRollerDerby/photos/a.496774633792536/1300042966799028/?type=3">EVENT Flyer</a></strong>]</li>
 </ul>
 <h2></h2>
-<h2><img class="aligncenter size-large wp-image-27658" src="https://scottishrollerderbyblog.com/2018/10/la_map10.png?w=2048" alt="LA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27658" src="https://www.scottishrollerderbyblog.com/2018/10/la_map10.png?w=2048" alt="LA_map" width="1024" height="768"></h2>
 <h2>Latin America</h2>
 As always, we find Latin America the hardest continent to keep tabs on. However, Bogotá and Mexico City are definitely pretty busy this weekend, with the Day of the Dead themed Torneo Calavera in the latter!
 <ul>
@@ -365,8 +365,8 @@ As always, we find Latin America the hardest continent to keep tabs on. However,
 </ul>
 </li>
 </ul>
-<h2><img class="aligncenter size-large wp-image-27627" src="https://scottishrollerderbyblog.com/2018/10/me_map3.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
-<h2><img class="aligncenter size-large wp-image-27628" src="https://scottishrollerderbyblog.com/2018/10/sa_map3.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27627" src="https://www.scottishrollerderbyblog.com/2018/10/me_map3.png?w=1024" alt="ME_map" width="1024" height="768"></h2>
+<h2><img class="aligncenter size-large wp-image-27628" src="https://www.scottishrollerderbyblog.com/2018/10/sa_map3.png?w=1024" alt="SA_map" width="1024" height="768"></h2>
 <h2><b>Africa and Middle East</b></h2>
 In the MENA regions, there are the regular recruitment events happening this week.
 <ul>

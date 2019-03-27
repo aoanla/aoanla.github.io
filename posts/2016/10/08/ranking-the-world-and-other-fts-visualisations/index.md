@@ -1,7 +1,7 @@
 <html><body><h1>Connectivity</h1>
-More than a year ago, we published two articles [<strong><a href="https://scottishrollerderbyblog.com/2015/06/07/visualising-the-internationalisation-of-roller-derby-part-1-of-2/">Pt1</a></strong>, <strong><a href="https://scottishrollerderbyblog.com/2015/06/07/visualising-the-internationalisation-of-roller-derby-part-2-of-2-2011-to-present/">Pt2</a></strong>], using the <strong><a href="http://www.flattrackstats.com">Flat Track Stats</a></strong> dataset to visualise how Roller Derby has become both more International, but also, more importantly, more Connected over time.
+More than a year ago, we published two articles [<strong><a href="https://www.scottishrollerderbyblog.com/2015/06/07/visualising-the-internationalisation-of-roller-derby-part-1-of-2/">Pt1</a></strong>, <strong><a href="https://www.scottishrollerderbyblog.com/2015/06/07/visualising-the-internationalisation-of-roller-derby-part-2-of-2-2011-to-present/">Pt2</a></strong>], using the <strong><a href="http://www.flattrackstats.com">Flat Track Stats</a></strong> dataset to visualise how Roller Derby has become both more International, but also, more importantly, more Connected over time.
 
-We thought that it was a good time to revisit this, and see what 2016 looks like for international derby communities. With the <strong><a href="https://scottishrollerderbyblog.com/2016/03/16/the-japan-open-the-other-wftda-first-this-year/">Japan Open</a></strong>, and many big events in Europe, we expect to see that the connectivity of Women's Roller Derby in particular is increased.
+We thought that it was a good time to revisit this, and see what 2016 looks like for international derby communities. With the <strong><a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-japan-open-the-other-wftda-first-this-year/">Japan Open</a></strong>, and many big events in Europe, we expect to see that the connectivity of Women's Roller Derby in particular is increased.
 
 In fact, the situation does seem similar to, but a little better, than 2015. Whilst there are 18 separate groups, all but one are pretty tiny (we show them in a slideshow below), consisting of only a few, mostly new, leagues each. As before, we are colour coding the nodes -<strong><span style="color:#ff0000;">Red is USA</span>, <span style="color:#0000ff;">Blue is Canada</span>,  <span style="color:#008000;">Green: Europe</span>, <span style="color:#00ffff;">Cyan: Australia</span>, <span style="color:#800080;">Purple: New Zealand</span>, <span style="color:#ffff00;">Yellow the Asia-Pacific</span>, </strong>and<strong> White: South America</strong>.
 
@@ -23,7 +23,7 @@ As a result, out of the 19 Groups of connected leagues in the world, the largest
 
 (We're a little perturbed by the lack of South American teams in the FTS dataset - obviously, we can only work with the data available to us, but as far as we can tell, no Men's South American teams did anything in 2016, according to FTS?)
 
-<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/2/">On the next page</a></strong>, we'll do something else with this data...
+<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/2/">On the next page</a></strong>, we'll do something else with this data...
 
 <!--nextpage-->
 <h1>Ranking</h1>
@@ -35,11 +35,11 @@ Another objection might be: "but FlatTrackStats already does this (and this is a
 
 This ranking, then, is based on our physical Spring optimiser, the best-in-class in our recent comprehensive review of predictive rankers. We rank the largest connected group on both score difference and (log) score ratio, and then compute a "synthetic" ranking by combining the normalised ranges of the two results. [This helps to compensate for the deficiencies of both metrics.]
 
-So, the International Ranking (1 Oct 2016) is: (<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3/">over the page</a></strong>, for length)
+So, the International Ranking (1 Oct 2016) is: (<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3/">over the page</a></strong>, for length)
 
 <!--nextpage-->
 
-[<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/4/">CLICK HERE TO SKIP TO NEXT PAGE</a></strong>] [<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/6/">SKIP TO DISCUSSION</a></strong>]
+[<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/4/">CLICK HERE TO SKIP TO NEXT PAGE</a></strong>] [<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/6/">SKIP TO DISCUSSION</a></strong>]
 <h2>SRD International Rankings 1 October 2016</h2>
 <table>
 <tbody>
@@ -9068,13 +9068,13 @@ So, the International Ranking (1 Oct 2016) is: (<strong><a href="https://scottis
 </tr>
 </tbody>
 </table>
-<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/4/">NEXT PAGE
+<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/4/">NEXT PAGE
 
 </a></strong>** Yes, this is an error in the FTS dataset.
 
 <!--nextpage-->
 
-We've also broken this up into Women's and Men's Rankings, shown below: [<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/5/">CLICK HERE TO SKIP TO MEN</a></strong>] [<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3/">CLICK HERE TO SKIP UP TO TOP OF FULL RANKING</a></strong>]
+We've also broken this up into Women's and Men's Rankings, shown below: [<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/5/">CLICK HERE TO SKIP TO MEN</a></strong>] [<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3/">CLICK HERE TO SKIP UP TO TOP OF FULL RANKING</a></strong>]
 <h2>Women's Derby International Rankings 1 October 2016</h2>
 <table>
 <tbody>
@@ -18880,11 +18880,11 @@ We've also broken this up into Women's and Men's Rankings, shown below: [<strong
 </tr>
 </tbody>
 </table>
-[<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/5/">NEXT PAGE</a></strong>]
+[<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/5/">NEXT PAGE</a></strong>]
 
 <!--nextpage-->
 
-[<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/4/">CLICK HERE TO SKIP TO TOP OF WOMEN</a></strong>] [<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/6/">SKIP TO DISCUSSION</a></strong>]
+[<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/4/">CLICK HERE TO SKIP TO TOP OF WOMEN</a></strong>] [<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/6/">SKIP TO DISCUSSION</a></strong>]
 <h2>Men's Derby International Rankings 1 October 2016</h2>
 <table>
 <tbody>
@@ -19410,9 +19410,9 @@ We've also broken this up into Women's and Men's Rankings, shown below: [<strong
 </tr>
 </tbody>
 </table>
-[<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3/">CLICK HERE TO GO TO COMBINED LIST</a></strong>][<strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/4/">CLICK HERE FOR WOMEN'S LIST</a></strong>]
+[<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3/">CLICK HERE TO GO TO COMBINED LIST</a></strong>][<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/4/">CLICK HERE FOR WOMEN'S LIST</a></strong>]
 
-<a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/6/"><strong>Next page</strong></a>, we'll have a bit more discussion!
+<a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/6/"><strong>Next page</strong></a>, we'll have a bit more discussion!
 
 <!--nextpage-->
 
@@ -19683,7 +19683,7 @@ Of course, as the <strong><a href="http://www.flattrackstats.com">Flat Track Sta
 
 As should be clear, the "peak ability" in Roller Derby increases fairly reliably year on year. As new teams enter the ranking mostly near the bottom, we believe that most of this increase in peak ability is actually due to the top teams getting better (as this is a relative ranking, it would also be possible for everyone else to be getting worse). We estimate, then, that (relative to the worst, "just starting out" leagues), the WFTDA/MRDA Top 10 leagues have increased their effective ability by a factor of 49!† (from the Score Ratio metric).
 
-On the <strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/7/">next page</a></strong>, we'll compare our results to what WFTDA and Flat Track Stats have.
+On the <strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/7/">next page</a></strong>, we'll compare our results to what WFTDA and Flat Track Stats have.
 
 *We're working on a refinement, to be added in our next table update, to allow "ghost" rankings representative of leagues who drop out of the connected group between ranking calculation periods.
 
@@ -19693,7 +19693,7 @@ On the <strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-t
 <h2>Comparison with other rankings.</h2>
 Much was made by <a href="https://medium.com/thederbyapex/the-sept-30th-rankings-rundown-d5021d962b0#.pv7iyc1zp"><strong>The Apex</strong> </a>that Angel City Roller Derby had "broken into the top 4" in the October WFTDA rankings. That this was a surprise perhaps reflects on an over concern with WFTDA's ranking system - for some time, Flat Track Stats had shown Angel City as superior to London (or even Rose) in strength, and our own internal rankings have also suggested this since March this year. It's not so much that Angel have suddenly gotten better - it's that WFTDA's addition of Decay to their metric is finally reflecting Angel's actual strength. [Observers of our <strong><a href="https://aoanla.wordpress.com/2016/09/27/ranking-mechanisms-from-sport-and-roller-derby/2/">stats comparison article</a></strong> will see that Angel are in the Top 4 for almost all rankings!]
 
-<a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3/"><strong>Our ranking</strong></a>, <strong><a href="https://www.wftda.com/rankings">WFTDA's</a></strong> and the <a href="http://flattrackstats.com/rankings"><strong>Flat Track Stats ranking</strong> </a>are all pretty good ranking schemes, even though they have slightly different aims, so we can perhaps gain something by looking at where they differ (they agree surprisingly well, which is a good signal for all of them).
+<a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/3/"><strong>Our ranking</strong></a>, <strong><a href="https://www.wftda.com/rankings">WFTDA's</a></strong> and the <a href="http://flattrackstats.com/rankings"><strong>Flat Track Stats ranking</strong> </a>are all pretty good ranking schemes, even though they have slightly different aims, so we can perhaps gain something by looking at where they differ (they agree surprisingly well, which is a good signal for all of them).
 
 Comparing to FTS's WFTDA ranking, and our Women Only, and with reference to The Apex's "talking points"...
 
@@ -19703,7 +19703,7 @@ Comparing to FTS's WFTDA ranking, and our Women Only, and with reference to The 
 <p id="3e01" class="graf graf--h4 graf-after--p"><strong>Biggest Mover ...</strong> we all differ on "new entrant" 2X4 Roller Derby. Whilst WFTDA has them with an impressive entry at #40, FTS is even more impressed, crediting them at #33... but our metric is somewhat less impressed, placing them at an impressive, but less astonishing 67. Remember, though, that our ranking includes non WFTDA leagues, and non A Teams, so some of those additional spots are taken by teams which just don't appear in the other two rankings.</p>
 <p class="graf graf--h4 graf-after--p"><strong>The Euros Are Coming Pt 2...</strong> as previously mentioned, we rate Paris and MMR even more highly than WFTDA does, placing them in our Top 40! We agree that Leeds, Tiger Bay, Dublin and Newcastle are all very worthy Top 80 teams... and might add Lille and Bear City to that list (with Auld Reekie just a smidge outside at 83). Surprisingly, FTS is a bit more skeptical about several of these teams, placing, for example, Newcastle down in the 100s spots!</p>
 <p id="ff5a" class="graf graf--h4 graf-after--p"><strong>The D2 Champs Teams Are All Under Ranked </strong>... The Apex believes that Calgary (@48), Brandywine (@50) , Charlottesville (@52) and Blue Ridge (@43) are all underranked by WFTDA.  FTS would mostly agree, placing Calgary@32, Brandywine@38 and Charlottesville@41, with Blue Ridge down at 47. On the other hand, our ranking (again, with the caveat that we are starting to include non WFTDA A teams at this level) disagrees, placing Calgary@55, Brandywine@56, Charlottesville@59 and Blue Ridge down at 62! In fact, the one thing that FTS and we seem to strongly agree on here is that Blue Ridge is <em>over</em>-ranked, compared to the other three!</p>
-<p class="graf graf--h4 graf-after--p">On the <strong><a href="https://scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/8/">next page</a></strong>, we'll cap things off with something a bit more fun.</p>
+<p class="graf graf--h4 graf-after--p">On the <strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/8/">next page</a></strong>, we'll cap things off with something a bit more fun.</p>
 <!--nextpage-->
 <h1>The Globe</h1>
 Recently, it has become somewhat fashionable to present results in Roller Derby in the form of a Globe.

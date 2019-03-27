@@ -2,7 +2,7 @@
 <div></div>
 <div>
 
-<a href="boutday.com"><img class="size-full wp-image-867" title="slaughtership_down" src="http://scottishrollerderbyblog.com/2012/02/slaughtership_down.jpg" alt="Lady Feerocious skating at Slaughtership Down." width="614" height="409"></a>
+<a href="boutday.com"><img class="size-full wp-image-867" title="slaughtership_down" src="http://www.scottishrollerderbyblog.com/2012/02/slaughtership_down.jpg" alt="Lady Feerocious skating at Slaughtership Down." width="614" height="409"></a>
 
 </div>
 <div></div>

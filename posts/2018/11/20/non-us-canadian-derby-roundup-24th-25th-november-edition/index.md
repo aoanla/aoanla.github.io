@@ -22,7 +22,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":27785,"align":"center","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://scottishrollerderbyblog.com/2018/11/20/non-us-canadian-derby-roundup-24th-25th-november-edition/eur_map-28/#main"><img src="https://scottishrollerderbyblog.com/2018/11/eur_map9.png?w=700" alt="" class="wp-image-27785"></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.scottishrollerderbyblog.com/2018/11/20/non-us-canadian-derby-roundup-24th-25th-november-edition/eur_map-28/#main"><img src="https://www.scottishrollerderbyblog.com/2018/11/eur_map9.png?w=700" alt="" class="wp-image-27785"></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -114,11 +114,11 @@
 <!-- /wp:list -->
 
 <!-- wp:image {"id":27752,"align":"center","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://scottishrollerderbyblog.com/2018/11/20/non-us-canadian-derby-roundup-24th-25th-november-edition/anz_map-22/#main"><img src="https://scottishrollerderbyblog.com/2018/11/anz_map4.png?w=700" alt="" class="wp-image-27752"></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://www.scottishrollerderbyblog.com/2018/11/20/non-us-canadian-derby-roundup-24th-25th-november-edition/anz_map-22/#main"><img src="https://www.scottishrollerderbyblog.com/2018/11/anz_map4.png?w=700" alt="" class="wp-image-27752"></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":27751,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://scottishrollerderbyblog.com/2018/11/asia_map2.png?w=700" alt="" class="wp-image-27751"></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://www.scottishrollerderbyblog.com/2018/11/asia_map2.png?w=700" alt="" class="wp-image-27751"></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -162,7 +162,7 @@
 <!-- /wp:list -->
 
 <!-- wp:heading -->
-<h2><figure><a href="https://scottishrollerderbyblog.com/2018/11/20/non-us-canadian-derby-roundup-24th-25th-november-edition/me_map-16/#main" rel="attachment wp-att-27754"><img class="aligncenter size-large wp-image-27754" src="https://scottishrollerderbyblog.com/2018/11/me_map2.png?w=700" alt="" width="580" height="435"></a></figure><figure><a href="https://scottishrollerderbyblog.com/2018/11/20/non-us-canadian-derby-roundup-24th-25th-november-edition/sa_map-21/#main" rel="attachment wp-att-27755"><img class="aligncenter size-large wp-image-27755" src="https://scottishrollerderbyblog.com/2018/11/sa_map2.png?w=700" alt="" width="580" height="435"></a></figure></h2>
+<h2><figure><a href="https://www.scottishrollerderbyblog.com/2018/11/20/non-us-canadian-derby-roundup-24th-25th-november-edition/me_map-16/#main" rel="attachment wp-att-27754"><img class="aligncenter size-large wp-image-27754" src="https://www.scottishrollerderbyblog.com/2018/11/me_map2.png?w=700" alt="" width="580" height="435"></a></figure><figure><a href="https://www.scottishrollerderbyblog.com/2018/11/20/non-us-canadian-derby-roundup-24th-25th-november-edition/sa_map-21/#main" rel="attachment wp-att-27755"><img class="aligncenter size-large wp-image-27755" src="https://www.scottishrollerderbyblog.com/2018/11/sa_map2.png?w=700" alt="" width="580" height="435"></a></figure></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->

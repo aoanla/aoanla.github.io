@@ -1,6 +1,6 @@
 <html><body><p>Team Scotland, the Women's National Team, is up and running and ready for skaters to try out to represent their country at the 2014 World Cup in Dallas, Texas (and potentially other events).
 
-<a href="http://scottishrollerderbyblog.com/2011/08/ts-logo.gif"><img src="http://scottishrollerderbyblog.com/2011/08/ts-logo.gif?w=614" alt="TS-Logo" width="614" height="652" class="aligncenter size-large wp-image-89"></a>
+<a href="http://www.scottishrollerderbyblog.com/2011/08/ts-logo.gif"><img src="http://www.scottishrollerderbyblog.com/2011/08/ts-logo.gif?w=614" alt="TS-Logo" width="614" height="652" class="aligncenter size-large wp-image-89"></a>
 
 If you'd like to try out, there are two sessions being held:
 

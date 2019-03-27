@@ -4,7 +4,7 @@ Since this interview was given, Team Portugal competed in the <a href="http://eu
 
 Team Portugal managers Carolina and Flávia were responsible for answering the questions we sent them.
 
-<a href="/2014/09/teamportugal.jpg"><img class="size-full wp-image-3847" src="http://scottishrollerderbyblog.com/2014/09/teamportugal.jpg" alt="Team Portugal Logo:  Daniel Pinheiro" width="600" height="559"></a> Team Portugal Logo: Daniel Pinheiro
+<a href="/2014/09/teamportugal.jpg"><img class="size-full wp-image-3847" src="http://www.scottishrollerderbyblog.com/2014/09/teamportugal.jpg" alt="Team Portugal Logo:  Daniel Pinheiro" width="600" height="559"></a> Team Portugal Logo: Daniel Pinheiro
 
  
 

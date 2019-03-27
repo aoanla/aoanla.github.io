@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/02/scotland-usa-23.jpg"><img src="http://scottishrollerderbyblog.com/2012/02/scotland-usa-23.jpg" alt="" title="Scotland-USA-23" width="614" height="421" class="aligncenter size-full wp-image-888"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/02/scotland-usa-23.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/02/scotland-usa-23.jpg" alt="" title="Scotland-USA-23" width="614" height="421" class="aligncenter size-full wp-image-888"></a>
 
 <em>Photograph by</em> <a href="http://boutday.com/">Dave McAleavy</a>
 

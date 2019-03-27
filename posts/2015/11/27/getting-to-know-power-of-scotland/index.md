@@ -1,6 +1,6 @@
 <html><body><p>This weekend will see Birmingham host the 4 Nations Roller Derby Tournament. This weekend's extravaganza will feature Team England, Team Wales, Team France and Team Scotland.  I managed to wangle an opportunity to speak to 3 members of Team Scotland's Power of Scotland; Andy Morris, Skate Plissken  and Chris Mathieson, mainly I wanted to be nosy about how the Power Scotland have been preparing for the Wold Cup in Calgary. Since starting this blog piece, I have been informed that Plissken and Chris Mathieson have been voted in as the captains of Power of Scotland,  huge well done!
 
-<a href="http://scottishrollerderbyblog.com/2015/11/received_10156211484200587.jpeg"><img class="alignnone size-full" title="received_10156211484200587.jpeg" src="http://scottishrollerderbyblog.com/2015/11/received_10156211484200587.jpeg" alt="image"></a>
+<a href="http://www.scottishrollerderbyblog.com/2015/11/received_10156211484200587.jpeg"><img class="alignnone size-full" title="received_10156211484200587.jpeg" src="http://www.scottishrollerderbyblog.com/2015/11/received_10156211484200587.jpeg" alt="image"></a>
 
 Left to right: Mathieson , Plissken and Morris (photo credit Nikki Morris)
 
@@ -118,7 +118,7 @@ We also have a general fundraising page, which if anyone has a few pennies to sp
 
 We are proud again to have our uniforms sponsored by MP Locums. MP Locums place Hospital Doctors and GPs into locum work matching your experience and qualifications to your professional goals and ambitions. As a preferred supplier to NHS Scotland they have a variety of locum positions short and long term available throughout Scot
 
-<a href="http://scottishrollerderbyblog.com/2015/11/fb_img_1448576822432.jpg"><img class="alignnone size-full" title="FB_IMG_1448576822432.jpg" src="http://scottishrollerderbyblog.com/2015/11/fb_img_1448576822432.jpg" alt="image"></a>
+<a href="http://www.scottishrollerderbyblog.com/2015/11/fb_img_1448576822432.jpg"><img class="alignnone size-full" title="FB_IMG_1448576822432.jpg" src="http://www.scottishrollerderbyblog.com/2015/11/fb_img_1448576822432.jpg" alt="image"></a>
 
 land.
 

@@ -1,6 +1,6 @@
 <html><body><p>Don't worry, it is actually August. Still, because they won't be dictated to by anyone, especially dead Romans, the <a href="nastynessiesrollergirls.wordpress.com">Nasty Nessies</a> are having their Monthly Diary for July right now. This month it's Desperate Measures telling us all about herself.
 
-<a href="http://scottishrollerderbyblog.com/2012/08/551796_3842887804958_1321151135_n.jpg"><img class="size-full wp-image-1587" title="Desperate Measures" src="http://scottishrollerderbyblog.com/2012/08/551796_3842887804958_1321151135_n.jpg" alt="" width="389" height="698"></a> Desperate Measures!
+<a href="http://www.scottishrollerderbyblog.com/2012/08/551796_3842887804958_1321151135_n.jpg"><img class="size-full wp-image-1587" title="Desperate Measures" src="http://www.scottishrollerderbyblog.com/2012/08/551796_3842887804958_1321151135_n.jpg" alt="" width="389" height="698"></a> Desperate Measures!
 
  
 

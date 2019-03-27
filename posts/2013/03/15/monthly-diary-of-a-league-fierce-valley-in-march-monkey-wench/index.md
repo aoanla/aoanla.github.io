@@ -1,6 +1,6 @@
 <html><body><p>This month's monthly diary for <a href="http://www.fvrg.co.uk/">Fierce Valley Roller Girls</a> is from a long-standing member, who's contributed to the league in many ways since joining up. This month, we're throwing a Monkey Wench into the works!
 
-<a href="http://scottishrollerderbyblog.com/2013/03/396940_10151880516895392_722952694_n.jpg"><img class="size-large wp-image-2355" alt="Monkey Wrench hi-fives post T-Birds bout" src="http://scottishrollerderbyblog.com/2013/03/396940_10151880516895392_722952694_n.jpg?w=614" width="614" height="409"></a> Monkey Wench hi-fives post Summer Shovin'  (photograph: zenspirations photography)
+<a href="http://www.scottishrollerderbyblog.com/2013/03/396940_10151880516895392_722952694_n.jpg"><img class="size-large wp-image-2355" alt="Monkey Wrench hi-fives post T-Birds bout" src="http://www.scottishrollerderbyblog.com/2013/03/396940_10151880516895392_722952694_n.jpg?w=614" width="614" height="409"></a> Monkey Wench hi-fives post Summer Shovin'  (photograph: zenspirations photography)
 
  
 
@@ -22,7 +22,7 @@ Initially it was the time, derby took over to be honest. But it’s worth every 
 
 <strong>Lots of roller girls find it hard not to spread the word about their new sport. How have you been spreading the word?</strong>
 
-I just chatted about derby non stop to anyone who would, and those who wouldn’t, listen! It pays off though as I’ve managed to recruit Camelon Diaz, <a href="http://scottishrollerderbyblog.com/2013/02/24/monthly-diary-of-a-league-fierce-valley-in-february-wiggy-stardust/">Wiggy Stardust</a> and Duff McKegger to the sport! I also try to help out at any promotional events FVRG do which is great fun and has it’s perks – last summer we met Mark Beaumont at an event.
+I just chatted about derby non stop to anyone who would, and those who wouldn’t, listen! It pays off though as I’ve managed to recruit Camelon Diaz, <a href="http://www.scottishrollerderbyblog.com/2013/02/24/monthly-diary-of-a-league-fierce-valley-in-february-wiggy-stardust/">Wiggy Stardust</a> and Duff McKegger to the sport! I also try to help out at any promotional events FVRG do which is great fun and has it’s perks – last summer we met Mark Beaumont at an event.
 
 <strong>What’s the most important thing you’ve learnt/ done this month?</strong>
 
@@ -38,4 +38,4 @@ The best things about derby are the opportunities it brings about and the fab pe
 
 We’re off to Newcastle to play the Whipping Hinnies on 30th March so we’ve got a FVRG road trip to look forward to! We’ve also got a super exciting social event coming up for our league which will allow us all to get to know each other a bit better by speed dating!
 
-<a href="http://scottishrollerderbyblog.com/2013/03/484088_471014722910385_1818583878_n.jpg"><img class="aligncenter size-large wp-image-2356" alt="484088_471014722910385_1818583878_n" src="http://scottishrollerderbyblog.com/2013/03/484088_471014722910385_1818583878_n.jpg?w=614" width="614" height="434"></a></p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/03/484088_471014722910385_1818583878_n.jpg"><img class="aligncenter size-large wp-image-2356" alt="484088_471014722910385_1818583878_n" src="http://www.scottishrollerderbyblog.com/2013/03/484088_471014722910385_1818583878_n.jpg?w=614" width="614" height="434"></a></p></body></html>

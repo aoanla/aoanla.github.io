@@ -1,6 +1,6 @@
 <html><body><p>This weekend, <strong><a href="https://www.facebook.com/teneriferollerderby/">Tenerife Roller Derby</a></strong> are hosting one of the last tournaments of the year, as they host Dundee Roller Girls and Malmö's Crime City for a sunny Winter's triple header.
 
-We've already talked to Dundee (<strong><a href="https://scottishrollerderbyblog.com/2016/12/08/dundees-international-debut/">here</a></strong>) and Crime City (<strong><a href="https://scottishrollerderbyblog.com/2016/12/04/crime-city-b-gear-up-for-tenerife/">here</a></strong>), so it's time to catch up with the hosts to talk about their year, and their preparations. Speaking to us was Mercromina Tenerife's Co-Captain and also Co-Captain of the current Team Spain (as Mercedes)!
+We've already talked to Dundee (<strong><a href="https://www.scottishrollerderbyblog.com/2016/12/08/dundees-international-debut/">here</a></strong>) and Crime City (<strong><a href="https://www.scottishrollerderbyblog.com/2016/12/04/crime-city-b-gear-up-for-tenerife/">here</a></strong>), so it's time to catch up with the hosts to talk about their year, and their preparations. Speaking to us was Mercromina Tenerife's Co-Captain and also Co-Captain of the current Team Spain (as Mercedes)!
 
 <img class=" size-full wp-image-12850 aligncenter" src="/2016/12/mercedes_look.jpg" alt="mercedes_look" width="2048" height="1367"> Mercromina, centre, blocking against Las Palmas earlier this year (Photo: Javier Velasco)
 

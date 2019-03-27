@@ -1,6 +1,6 @@
 <html><body><p>In 2014, Wales were in Group Red with Finland and USA. Their final game was against Australia with the winner taking the shiny plate. Australia took that win and Team Wales took 6th place.
 
-<a href="http://scottishrollerderbyblog.com/2016/06/fb_img_1466933587792.jpg"><img title="FB_IMG_1466933587792.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2016/06/fb_img_1466933587792.jpg"></a>
+<a href="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466933587792.jpg"><img title="FB_IMG_1466933587792.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466933587792.jpg"></a>
 
 Team Wales' logo, retained from the 2014 MRDWC
 
@@ -44,4 +44,4 @@ Some heavy hitting as is standard in our derby heritage but with much more contr
 
 In the 2016 Men's Roller Derby World Cup Wales are in Group Green with Canada, Colombia,  Spain and Germany.  Their first game will be on track 1 against Colombia at 10am Calgary time...which is like 5pm UK time, from the looks of both of these teams, it's definitely going to be a fantastic game to watch! [Due to Colombia dropping out of the Cup, Mexico replaces them - so Wales' first game is at the same time, but against Mexico...]
 
-<a href="http://scottishrollerderbyblog.com/2016/06/fb_img_1466938690275.jpg"><img title="FB_IMG_1466938690275.jpg" class="alignnone size-full" alt="image" src="http://scottishrollerderbyblog.com/2016/06/fb_img_1466938690275.jpg"></a></p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466938690275.jpg"><img title="FB_IMG_1466938690275.jpg" class="alignnone size-full" alt="image" src="http://www.scottishrollerderbyblog.com/2016/06/fb_img_1466938690275.jpg"></a></p></body></html>

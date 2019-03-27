@@ -6,7 +6,7 @@ At Dundee, Jill currently holds the role of Head of Social Committee, as well as
 
 Over her extensive skating career, Jill has skated in over 40 public games, including a host of charity and exhibition bouts. She was also Team Manager for the Scottish National Women's Team, Team Scotland Roller Derby, for the period leading up to (and following) the 2014 Blood and Thunder Roller Derby World Cup, in which the team placed approximately 13th.
 
-<a href="https://scottishrollerderbyblog.com/2016/03/03/managing-team-scotland-jill-antonic-team-scotlands-team-manager-2013-2016/teamscotland2014-012-2/" rel="attachment wp-att-6069"><img class="size-full wp-image-6069" src="/2016/03/teamscotland2014-0121.jpg" alt="Jill Antonic (Team Scotland Roster Photo. Credit: Dave McAleavy)" width="480" height="600"></a> Jill Antonic (Team Scotland Roster Photo. Credit: <a href="http://boutday.com">Dave McAleavy</a>)
+<a href="https://www.scottishrollerderbyblog.com/2016/03/03/managing-team-scotland-jill-antonic-team-scotlands-team-manager-2013-2016/teamscotland2014-012-2/" rel="attachment wp-att-6069"><img class="size-full wp-image-6069" src="/2016/03/teamscotland2014-0121.jpg" alt="Jill Antonic (Team Scotland Roster Photo. Credit: Dave McAleavy)" width="480" height="600"></a> Jill Antonic (Team Scotland Roster Photo. Credit: <a href="http://boutday.com">Dave McAleavy</a>)
 
 <strong>Jill, while you've had a lot of experience in managing Dundee Roller Girls' league matters, what led you to apply to Manage Team Scotland?</strong><span style="font-weight:400;">
 </span><span style="font-weight:400;">

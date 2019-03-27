@@ -1,7 +1,7 @@
 <html><body><div dir="ltr">Once again the time rolls around for the next monthly diary entry from the Forth Valley's finest skaters. This month, it's Hey Ho Let's Jo telling us about what's happening at <a href="http://www.fvrg.co.uk/">Fierce Valley</a>.</div>
 <div dir="ltr">
 
-<a href="http://scottishrollerderbyblog.com/2012/05/img_5833-001.jpg"><img class="size-full wp-image-1256" title="IMG_5833-001" src="http://scottishrollerderbyblog.com/2012/05/img_5833-001.jpg" alt="" width="614" height="480"></a> Hey Ho Let's Jo! warming up for FVRG's bout against Dundee Roller Girls. By Laura MacDonald.
+<a href="http://www.scottishrollerderbyblog.com/2012/05/img_5833-001.jpg"><img class="size-full wp-image-1256" title="IMG_5833-001" src="http://www.scottishrollerderbyblog.com/2012/05/img_5833-001.jpg" alt="" width="614" height="480"></a> Hey Ho Let's Jo! warming up for FVRG's bout against Dundee Roller Girls. By Laura MacDonald.
 
 </div>
 <div dir="ltr"></div>

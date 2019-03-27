@@ -1,4 +1,4 @@
-<html><body><a href="/2015/08/nazgul.jpg"><img class="alignnone size-medium wp-image-4856" src="https://scottishrollerderbyblog.com/2015/08/nazgul.jpg?w=225" alt="Nazgul" width="225" height="300"></a>
+<html><body><a href="/2015/08/nazgul.jpg"><img class="alignnone size-medium wp-image-4856" src="https://www.scottishrollerderbyblog.com/2015/08/nazgul.jpg?w=225" alt="Nazgul" width="225" height="300"></a>
 
 AULD Reekie Roller Girls’ InARRGuration bout for the league’s newest competitive skaters and guests was a victory for all.
 A close-run game saw Green Eggs and SLAM! Leading with 123 points to Team Nazgul’s 99 at half-time.

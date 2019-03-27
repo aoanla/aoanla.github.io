@@ -4,4 +4,4 @@ Both teams will be taken out of their comfort zone as each line-up will feature 
 
 Come along to The Peak in Stirling on Saturday 10th August for a guaranteed action-packed afternoon. Tickets are £7 on the door (under 12s go free with a paying adult). Doors open at 2pm for a 2:30pm start. Further details available on the <a title="Facebook Event" href="https://www.facebook.com/FierceValleyRG?ref=hl#!/events/381912665243385/" target="_blank">Facebook Event</a>.
 
-<a href="http://scottishrollerderbyblog.com/2013/07/bout-poster.jpg"><img class="size-full wp-image-2846" alt="Co Ed Bout Poster - image courtesy of Chaos Faerie" src="http://scottishrollerderbyblog.com/2013/07/bout-poster.jpg" width="595" height="842"></a> Co Ed Bout Poster - image courtesy of Chaos Faerie</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/07/bout-poster.jpg"><img class="size-full wp-image-2846" alt="Co Ed Bout Poster - image courtesy of Chaos Faerie" src="http://www.scottishrollerderbyblog.com/2013/07/bout-poster.jpg" width="595" height="842"></a> Co Ed Bout Poster - image courtesy of Chaos Faerie</p></body></html>

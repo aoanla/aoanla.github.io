@@ -12,4 +12,4 @@ Tickets for the double-header bout are available online from <a title="Buy Ticke
 
 Please see Team Nitemare's <a title="Wee Raven's New Nitemare Facebook Event" href="https://www.facebook.com/events/147236675460398/" target="_blank">Facebook Event</a> for further details on this double-header bout, or if you have any questions for the organisers.
 
-<a href="http://scottishrollerderbyblog.com/2013/09/teamnitemare.jpg"><img class="size-full wp-image-2915" alt="Image courtesy of Team Nitemare" src="http://scottishrollerderbyblog.com/2013/09/teamnitemare.jpg" width="599" height="900"></a> Image courtesy of Team Nitemare</body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/09/teamnitemare.jpg"><img class="size-full wp-image-2915" alt="Image courtesy of Team Nitemare" src="http://www.scottishrollerderbyblog.com/2013/09/teamnitemare.jpg" width="599" height="900"></a> Image courtesy of Team Nitemare</body></html>

@@ -1,6 +1,6 @@
 <html><body><p>Next up it's the turn of Stephen Tawking, announcer at Auld Reekie Roller Girls.
 
-<a href="http://scottishrollerderbyblog.com/2013/10/s-tawking3.png"><img src="http://scottishrollerderbyblog.com/2013/10/s-tawking3.png" alt="Photography by Graeme D Duncan." width="343" height="891" class="size-full wp-image-2974"></a> Photography by Graeme D Duncan.
+<a href="http://www.scottishrollerderbyblog.com/2013/10/s-tawking3.png"><img src="http://www.scottishrollerderbyblog.com/2013/10/s-tawking3.png" alt="Photography by Graeme D Duncan." width="343" height="891" class="size-full wp-image-2974"></a> Photography by Graeme D Duncan.
 
 <strong>How did you get started announcing for ARRG?</strong>
 

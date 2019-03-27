@@ -6,4 +6,4 @@
 
 More information nearer the time.
 
-<a href="http://scottishrollerderbyblog.com/2011/08/arrg-home.jpg"><img src="http://scottishrollerderbyblog.com/2011/08/arrg-home.jpg" alt="" title="arrg home" width="543" height="777" class="aligncenter size-full wp-image-93"></a></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2011/08/arrg-home.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/08/arrg-home.jpg" alt="" title="arrg home" width="543" height="777" class="aligncenter size-full wp-image-93"></a></body></html>

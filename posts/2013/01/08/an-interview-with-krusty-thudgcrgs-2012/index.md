@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2013/01/gcrg-group.jpg"><img src="http://scottishrollerderbyblog.com/2013/01/gcrg-group.jpg" alt="gcrg group" width="614" height="409" class="aligncenter size-full wp-image-2072"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2013/01/gcrg-group.jpg"><img src="http://www.scottishrollerderbyblog.com/2013/01/gcrg-group.jpg" alt="gcrg group" width="614" height="409" class="aligncenter size-full wp-image-2072"></a>
 
 <em>Photography by Man On Gerrard</em>
 

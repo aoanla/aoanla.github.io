@@ -1,6 +1,6 @@
 <html><body><p>So quickly our traditions come around again: Easter, Halloween, Christmas, and the monthly diaries for <a href="http://www.fvrg.co.uk/">Fierce Valley'</a>s roller girls. This month it's Dita Von Cheese, who debuted at the Rising Stars bout held by Dundee Roller Girls a few weeks ago.
 
-<a href="http://scottishrollerderbyblog.com/2012/09/561907_467541299943194_1263056083_n.jpg"><img class="size-full wp-image-1727" title="561907_467541299943194_1263056083_n" src="http://scottishrollerderbyblog.com/2012/09/561907_467541299943194_1263056083_n.jpg" alt="" width="614" height="409"></a> Dita gives the crowd some love. (Copyright: Ian Mccreadie)
+<a href="http://www.scottishrollerderbyblog.com/2012/09/561907_467541299943194_1263056083_n.jpg"><img class="size-full wp-image-1727" title="561907_467541299943194_1263056083_n" src="http://www.scottishrollerderbyblog.com/2012/09/561907_467541299943194_1263056083_n.jpg" alt="" width="614" height="409"></a> Dita gives the crowd some love. (Copyright: Ian Mccreadie)
 
 <strong>What first attracted you to roller derby?</strong>
 I found out about it through a friend and went through to the Fresh Meat Intake in October 2011. As soon as I strapped on the skates I felt like a kid again! I felt like I was racing around the track like a gazelle, it felt so natural. In reality, I was flailing all over the shop, making a racket and probably wrecking the skates! But I felt something I had not felt in a long time, utter joy and a feeling of falling in love. All I could do was think about derby.

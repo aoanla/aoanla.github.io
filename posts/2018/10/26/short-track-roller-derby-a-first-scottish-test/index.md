@@ -1,6 +1,6 @@
 <html><body><p>Whilst WFTDA's Rules of Flat Track Roller Derby are the (overwhelmingly*) most widely played version of Roller Derby in the modern world, there are situations where a smaller version of the game is better suited.
 
-Tournaments with many teams have adopted variations like Sur5al, Derby Sevens, PivotStar rules, Chilean Brutal, and so on, to fit more games into a shorter space of time - but most of these rulesets only significantly adjust a few parameters: the game duration and or the maximum roster size, and scale other properties (like timeouts) to fit the new game length. PivotStar rules, as we <strong><a href="https://scottishrollerderbyblog.com/2018/05/21/viqueens-victorious-valhalla-a-test-for-pivotstar-rules/">reported earlier this year</a></strong>, also make changes to reduce the officiating load, but even then, you still need space for that full-sized track...
+Tournaments with many teams have adopted variations like Sur5al, Derby Sevens, PivotStar rules, Chilean Brutal, and so on, to fit more games into a shorter space of time - but most of these rulesets only significantly adjust a few parameters: the game duration and or the maximum roster size, and scale other properties (like timeouts) to fit the new game length. PivotStar rules, as we <strong><a href="https://www.scottishrollerderbyblog.com/2018/05/21/viqueens-victorious-valhalla-a-test-for-pivotstar-rules/">reported earlier this year</a></strong>, also make changes to reduce the officiating load, but even then, you still need space for that full-sized track...
 
 <strong>...which is why Rolla Skate Club's "Short Track Roller Derby", launched to the public at this year's Rollercon, is so exciting. </strong>
 
@@ -10,7 +10,7 @@ In <span style="font-weight:400;">the words of the Owner of Roller Derby Athlet
 
 Most significantly, this means that the track (<em>unlike</em> all of those variant rules above) is rescaled to just<strong> half the area</strong> of a WFTDA Flat Track**, and fits inside a standard UK four-court sports hall with ample room to spare***.
 
-<img class="aligncenter size-large wp-image-27647" src="https://scottishrollerderbyblog.com/2018/10/shorttrackvswftdavshall.png?w=1024" alt="ShortTrackvsWFTDAvsHall" width="1024" height="768"> <strong>Relative areas (including ref lanes) of: WFTDA track (pink), Short Track (reddish pink / magenta) and the minimum-allowed 4-court sports hall in the UK (black). (Second image shows how two Short Tracks will fit into one WFTDA track, with space to spare.)</strong>
+<img class="aligncenter size-large wp-image-27647" src="https://www.scottishrollerderbyblog.com/2018/10/shorttrackvswftdavshall.png?w=1024" alt="ShortTrackvsWFTDAvsHall" width="1024" height="768"> <strong>Relative areas (including ref lanes) of: WFTDA track (pink), Short Track (reddish pink / magenta) and the minimum-allowed 4-court sports hall in the UK (black). (Second image shows how two Short Tracks will fit into one WFTDA track, with space to spare.)</strong>
 
 With a smaller track comes the next resource saving: players. The narrower track means that just <strong>two blockers per team</strong> are sufficient to impede the opposing jammer, so each jam fields just six skaters on track in total; and rosters for a game are limited to just <strong>seven skaters per team</strong>.
 

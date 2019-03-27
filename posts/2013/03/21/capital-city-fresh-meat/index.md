@@ -6,4 +6,4 @@ Equipment for this session can be loaned by existing members of CCRD, but they 
 
 For further details, please see the<a title="CCRD's Fresh Meat Event on Facebook" href="https://www.facebook.com/events/280669135399833/" target="_blank"> CCRD's Fresh Meat Event on Facebook</a>.
 
-<a href="http://scottishrollerderbyblog.com/2013/03/capitalcity-freshmeat-flyer-blue.png"><img class="size-full wp-image-2374" alt="CCRD Fresh Meat Poster - image courtesy of Tequila Jammer" src="http://scottishrollerderbyblog.com/2013/03/capitalcity-freshmeat-flyer-blue.png" width="614" height="799"></a> CCRD Fresh Meat Poster - image courtesy of Tequila Jammer</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2013/03/capitalcity-freshmeat-flyer-blue.png"><img class="size-full wp-image-2374" alt="CCRD Fresh Meat Poster - image courtesy of Tequila Jammer" src="http://www.scottishrollerderbyblog.com/2013/03/capitalcity-freshmeat-flyer-blue.png" width="614" height="799"></a> CCRD Fresh Meat Poster - image courtesy of Tequila Jammer</p></body></html>

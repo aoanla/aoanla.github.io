@@ -4,7 +4,7 @@ Since 2014, Newcastle's Tyne &amp; Fear Roller Derby have hosted the "Men's Euro
 
 This means that 2018 is your last chance to experience the side-benefits of previous MECs, including exposure to a large number of friendly (and now kinda famous) dogs, in the canine-friendly venue.
 
-<img class="aligncenter size-large wp-image-27193" src="https://scottishrollerderbyblog.com/2018/08/mec2018_eur_map-big.png?w=2048" alt="MEC2018_EUR_map-big" width="1024" height="768">
+<img class="aligncenter size-large wp-image-27193" src="https://www.scottishrollerderbyblog.com/2018/08/mec2018_eur_map-big.png?w=2048" alt="MEC2018_EUR_map-big" width="1024" height="768">
 
 This year's competitors cover a substantial chunk of Europe, from the best MRDA-members in England [Southern Discomfort (London), Tyne and Fear (Newcastle), Barrow Infernos (Barrow-in-Furness),  New Wheeled Order (Manchester) and Lincolnshire Rolling Thunder], through single teams from Finland (Helsinki Coast Quads), Sweden (Gothenburg Salty Seamen), Scotland (Glasgow Men's Roller Derby), Belgium (Manneken Beasts) and Spain (MadRiders).
 

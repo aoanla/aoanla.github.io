@@ -18,7 +18,7 @@ Perhaps Marla was surprised by the announcement, but with the kind of tournament
 
 Marla showed no fear from the jammer position as she fought through tough packs and took bodily damage over the course of the three days. She scored a large majority of her team’s points along with fellow jammers Lawless, Blazin Phoenix and Clinically Wasted and the tournament decided that her effort and “never say die” attitude was worthy of the MVP honour.
 
-<a href="http://scottishrollerderbyblog.com/2012/01/marla-3.jpg"><img src="http://scottishrollerderbyblog.com/2012/01/marla-3.jpg" alt="" title="Marla 3" width="614" height="470" class="aligncenter size-full wp-image-760"></a>
+<a href="http://www.scottishrollerderbyblog.com/2012/01/marla-3.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/01/marla-3.jpg" alt="" title="Marla 3" width="614" height="470" class="aligncenter size-full wp-image-760"></a>
 
 After getting back from the World Cup, getting over the loss of her voice, working through a mountain of work from her two businesses and spending time with her two pre-schoolers she managed to answer some questions for Scottish Roller Derby.
 

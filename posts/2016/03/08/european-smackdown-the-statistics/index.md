@@ -1,6 +1,6 @@
 <html><body><p>Crime City Rollers' European Smackdown wasn't just a history-making event, bringing WFTDA-sanctioned Division 1 derby to mainland Europe, it was also our first chance to get a look at how those Division 1 teams have changed as the new season starts.
 
-As we mentioned in <a href="https://scottishrollerderbyblog.com/2015/11/18/gotham-rose-victorian-a-three-way-tie/">a previous article</a>, despite the fact that Euro Smackdown wasn't a true tournament (it was more of an invitational, with teams playing different numbers of bouts, and no attempt at ranking them by performance), the fact that it produced a large number of match-ups means that we can use Bayesian inference techniques to infer what the actual relative power of the participating teams are.
+As we mentioned in <a href="https://www.scottishrollerderbyblog.com/2015/11/18/gotham-rose-victorian-a-three-way-tie/">a previous article</a>, despite the fact that Euro Smackdown wasn't a true tournament (it was more of an invitational, with teams playing different numbers of bouts, and no attempt at ranking them by performance), the fact that it produced a large number of match-ups means that we can use Bayesian inference techniques to infer what the actual relative power of the participating teams are.
 
 To start off, lets look at the actual results (versus the predictions from <a href="http://www.flattrackstats.com">FlatTrackStats</a>). We don't consider WFTDA Rankings because the ranking scheme that WFTDA uses combines Team Strength with Strength of Schedule (how many "hard" opponents you played), and so does not purely reflect the actual relative strength of teams.
 </p><table><colgroup> <col width="33%"> <col span="4" width="0*"> </colgroup>
@@ -108,7 +108,7 @@ As London Roller Girls were overwhelmingly likely to be the strongest team in th
 
  
 
-<img class="alignnone size-full wp-image-6274" src="https://scottishrollerderbyblog.com/2016/03/figure_1-es2.png" alt="figure_1-es2" width="1996" height="1050"> Plot of predicted and inferred Team Strengths (relative to London Roller Girls). Strengths are "approximate number of points London would score, for every point the Team scores")
+<img class="alignnone size-full wp-image-6274" src="https://www.scottishrollerderbyblog.com/2016/03/figure_1-es2.png" alt="figure_1-es2" width="1996" height="1050"> Plot of predicted and inferred Team Strengths (relative to London Roller Girls). Strengths are "approximate number of points London would score, for every point the Team scores")
 
 This graph shows two sets of data.
 

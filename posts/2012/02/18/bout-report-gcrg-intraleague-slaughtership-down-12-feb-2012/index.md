@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/02/sdownpic.jpg"><img src="http://scottishrollerderbyblog.com/2012/02/sdownpic.jpg" alt="" title="sdownpic" width="614" height="365" class="aligncenter size-full wp-image-875"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/02/sdownpic.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/02/sdownpic.jpg" alt="" title="sdownpic" width="614" height="365" class="aligncenter size-full wp-image-875"></a>
 
 <em>Photo by Aoanla</em>
 

@@ -4,7 +4,7 @@ In addition to running the store, Raven has also been very much involved with Ba
 
 <!--more-->
 
-<a href="http://scottishrollerderbyblog.com/2013/06/carousel-item-1.jpg"><img class="aligncenter size-large wp-image-2702" alt="carousel-item-1" src="http://scottishrollerderbyblog.com/2013/06/carousel-item-1.jpg?w=614" width="614" height="629"></a>
+<a href="http://www.scottishrollerderbyblog.com/2013/06/carousel-item-1.jpg"><img class="aligncenter size-large wp-image-2702" alt="carousel-item-1" src="http://www.scottishrollerderbyblog.com/2013/06/carousel-item-1.jpg?w=614" width="614" height="629"></a>
 
 It's a Friday evening, and I've just found the home of Falkirk's local Skate Store in a quiet residential area, thanks to the Queens of the Sin Bin tshirt gracing a torso dummy in the window. For now, Into The Nitemare runs its business from home, all of the stock carefully located out of the way of the two kittens who prowl the living room in that slightly uncoordinated way that immature cats do.
 

@@ -2,7 +2,7 @@
 
 GRD’s all-star team won the inaugural British Roller Derby Championships – with emphatic wins over teams from Edinburgh, Cardiff, Manchester, Birmingham and Middlesbrough.
 <p style="text-align:left;">The competition culminated in a two-day derby extravaganza – held in Glasgow – on May 30 and 31.</p>
-Hundreds of fans crowded into the ARC sports centre to cheer on their heroes and were treated to an amazing display of sporting prowess, skating skills and blistering action.<img class=" size-medium wp-image-4717 alignright" src="https://scottishrollerderbyblog.com/2015/06/glasgow_roller_derby_3_color_logo.png?w=185" alt="Glasgow_Roller_Derby_3_Color_Logo" width="185" height="300">
+Hundreds of fans crowded into the ARC sports centre to cheer on their heroes and were treated to an amazing display of sporting prowess, skating skills and blistering action.<img class=" size-medium wp-image-4717 alignright" src="https://www.scottishrollerderbyblog.com/2015/06/glasgow_roller_derby_3_color_logo.png?w=185" alt="Glasgow_Roller_Derby_3_Color_Logo" width="185" height="300">
 
 Tribute has been paid to the all-female Glasgow league for flying the flag for Scottish sport – continuing the legacy of sporting achievement which put the city on the world’s centre stage during the Commonwealth Games.
 
@@ -38,7 +38,7 @@ It was a nail-biter the whole way – with the lead changing hands repeatedly as
 
 Everyone watching in the hall – and around the world via the live stream – were then treated to two minutes of action they would never forget. Both teams scored in the breathtaking final jam, but MMR edged it – just - 183-178.
 <p style="text-align:left;">That put MMR on nine points – equal with Auld Reekie, but behind on points scored and conceded. The Edinburgh team then consolidated their second-place position against CCR, winning 168-152 in another closely-fought contest that went the full distance.</p>
-<p style="text-align:center;"><img class="alignnone  wp-image-4718" src="https://scottishrollerderbyblog.com/2015/06/t1-table.jpg?w=300" alt="T1-table" width="464" height="174"></p>
+<p style="text-align:center;"><img class="alignnone  wp-image-4718" src="https://www.scottishrollerderbyblog.com/2015/06/t1-table.jpg?w=300" alt="T1-table" width="464" height="174"></p>
 Glasgow co-captain Grace Maclean said: “Six sensational games took place on Saturday and Sunday – involving around 80 skaters, dozens of referees and non-skating officials, and hundreds of fans.
 
 “The games were also broadcast live on the Internet and watched across the world, so it genuinely was a team effort from everyone involved.

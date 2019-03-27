@@ -4,4 +4,4 @@
 <p style="text-align:justify;">If you are interested in joining Fierce Valley Roller Girls and are aged 18 or over, please complete their <a title="Join FVRG" href="http://www.fvrg.co.uk/get-involved/join-fvrg/" target="_blank">Registration Form</a> to reserve your place in this Fresh Meat intake.</p>
 
 
-<a href="/2014/08/1551467_829767823701738_6311318072421424699_n.jpg"><img class="size-full wp-image-3569" src="http://scottishrollerderbyblog.com/2014/08/1551467_829767823701738_6311318072421424699_n.jpg" alt="Image Courtesy of Fierce Valley Roller Girls" width="614" height="371"></a> Image Courtesy of Fierce Valley Roller Girls</body></html>
+<a href="/2014/08/1551467_829767823701738_6311318072421424699_n.jpg"><img class="size-full wp-image-3569" src="http://www.scottishrollerderbyblog.com/2014/08/1551467_829767823701738_6311318072421424699_n.jpg" alt="Image Courtesy of Fierce Valley Roller Girls" width="614" height="371"></a> Image Courtesy of Fierce Valley Roller Girls</body></html>

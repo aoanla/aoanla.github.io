@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2014/05/vrd.jpg"><img class="aligncenter size-large wp-image-3413" src="http://scottishrollerderbyblog.com/2014/05/vrd.jpg?w=614" alt="VRD" width="614" height="614"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2014/05/vrd.jpg"><img class="aligncenter size-large wp-image-3413" src="http://www.scottishrollerderbyblog.com/2014/05/vrd.jpg?w=614" alt="VRD" width="614" height="614"></a>
 
  
 

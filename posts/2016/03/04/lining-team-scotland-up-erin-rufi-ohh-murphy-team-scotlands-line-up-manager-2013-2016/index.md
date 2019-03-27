@@ -8,7 +8,7 @@ Rufi was Line-Up Manager for Team Scotland Roller Derby during the period includ
 
  
 
-<a href="http://scottishrollerderbyblog.com/2016/03/wp-1457080455069.jpg"><img class="alignnone size-full" title="wp-1457080455069" src="http://scottishrollerderbyblog.com/2016/03/wp-1457080455069.jpg" alt="image"></a>
+<a href="http://www.scottishrollerderbyblog.com/2016/03/wp-1457080455069.jpg"><img class="alignnone size-full" title="wp-1457080455069" src="http://www.scottishrollerderbyblog.com/2016/03/wp-1457080455069.jpg" alt="image"></a>
 
 <strong>Rufi, you've been in Roller Derby for quite a while, since 2010! What led you to apply to be Line-Up Manager for the Scottish National Team?</strong>
 

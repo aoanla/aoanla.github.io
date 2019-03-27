@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/06/freshmeat_june.jpg"><img src="http://scottishrollerderbyblog.com/2012/06/freshmeat_june.jpg" alt="" title="FreshMeat_June" width="614" height="818" class="aligncenter size-full wp-image-1411"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/06/freshmeat_june.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/06/freshmeat_june.jpg" alt="" title="FreshMeat_June" width="614" height="818" class="aligncenter size-full wp-image-1411"></a>
 
 <em>Image courtesy of Granite City Roller Girls</em>
 

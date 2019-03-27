@@ -3,5 +3,5 @@
 Contact them at their Facebook page,or by email for more details.Or just wander over and say hi.
 They are also on the lookout for new members,so if you are female,18 and over and think you want to give Derby a go,why not drop them a line.
 
-<a href="http://scottishrollerderbyblog.com/2011/11/ldd-logo.jpg"><img src="http://scottishrollerderbyblog.com/2011/11/ldd-logo.jpg" alt="" title="ldd logo" width="614" height="868" class="aligncenter size-full wp-image-537"></a>
+<a href="http://www.scottishrollerderbyblog.com/2011/11/ldd-logo.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/11/ldd-logo.jpg" alt="" title="ldd logo" width="614" height="868" class="aligncenter size-full wp-image-537"></a>
 <em>Image courtesy of Lothian Derby Dolls</em></p></body></html>

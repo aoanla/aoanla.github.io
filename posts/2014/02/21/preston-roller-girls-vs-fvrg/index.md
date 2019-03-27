@@ -6,4 +6,4 @@ Preston Roller Girls will be hosting the bout in Preston College Sports Hall. D
 
 Advanced tickets will be available shortly via Big Cartel. Join the <a href="https://www.facebook.com/events/623798847687043/?ref=5" target="_blank">Facebook Event </a>for full details.
 
-<a href="http://scottishrollerderbyblog.com/2014/02/859773_924515748094_1841628041_o.jpg"><img class="size-full wp-image-3310" alt="Parma Violents - February 2013" src="http://scottishrollerderbyblog.com/2014/02/859773_924515748094_1841628041_o.jpg" width="614" height="408"></a> The Parma Violents who played against Preston Roller Girls in February 2013.<br>Photo courtesy of Sam Skipsey.</p></body></html>
+<a href="http://www.scottishrollerderbyblog.com/2014/02/859773_924515748094_1841628041_o.jpg"><img class="size-full wp-image-3310" alt="Parma Violents - February 2013" src="http://www.scottishrollerderbyblog.com/2014/02/859773_924515748094_1841628041_o.jpg" width="614" height="408"></a> The Parma Violents who played against Preston Roller Girls in February 2013.<br>Photo courtesy of Sam Skipsey.</p></body></html>

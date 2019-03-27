@@ -7,4 +7,4 @@ Please get in touch prior for more details and confirmation of your place for th
 </p><blockquote>Contact us at <a href="mailto:newskaters@lothianderbydolls.com"><strong>newskaters@lothianderbydolls.com</strong></a>
 
 Or through our Facebook <a href="https://www.facebook.com/lothianderby"><strong>https://www.facebook.com/lothianderby</strong></a></blockquote>
-<a href="/2014/08/freshmeataug14.jpg"><img class="aligncenter size-full wp-image-3596" src="http://scottishrollerderbyblog.com/2014/08/freshmeataug14.jpg" alt="Lothian Derby Dolls: Intake Aug 2014" width="600" height="849"></a></body></html>
+<a href="/2014/08/freshmeataug14.jpg"><img class="aligncenter size-full wp-image-3596" src="http://www.scottishrollerderbyblog.com/2014/08/freshmeataug14.jpg" alt="Lothian Derby Dolls: Intake Aug 2014" width="600" height="849"></a></body></html>

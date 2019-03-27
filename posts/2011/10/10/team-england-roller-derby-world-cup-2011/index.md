@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/10/te_logo_1.jpg"><img class="aligncenter size-full wp-image-253" title="TE_Logo_1" src="http://scottishrollerderbyblog.com/2011/10/te_logo_1.jpg" alt="" width="614" height="606"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/10/te_logo_1.jpg"><img class="aligncenter size-full wp-image-253" title="TE_Logo_1" src="http://www.scottishrollerderbyblog.com/2011/10/te_logo_1.jpg" alt="" width="614" height="606"></a>
 <em>Team England Logo designed by Vagablonde,used with permission</em>
 
 There is no way around this fact:England have put together an amazing team-twenty girls from eight leagues,some of the best and most respected anywhere in the country.The collective experience of these skaters cannot be overstressed and as a result England will be a major force in the forthcoming World Cup.

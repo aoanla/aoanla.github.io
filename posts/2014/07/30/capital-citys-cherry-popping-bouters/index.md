@@ -9,7 +9,7 @@ Now that the dust has finally settled since their first bout, I took a moment to
 <b>Niko Blocker Gorey</b><b>    </b><b>#31      (NBG)
 Critical Hit</b><b>    </b><b>            </b><b>#2d6    (CH)</b>
 
-<a href="http://scottishrollerderbyblog.com/2014/07/nbg-ch-1.jpg"><img class="size-medium wp-image-3560" src="http://scottishrollerderbyblog.com/2014/07/nbg-ch-1.jpg?w=300" alt="Niko and Critcal hit in action together" width="300" height="163"></a> Niko and Critcal hit in action together
+<a href="http://www.scottishrollerderbyblog.com/2014/07/nbg-ch-1.jpg"><img class="size-medium wp-image-3560" src="http://www.scottishrollerderbyblog.com/2014/07/nbg-ch-1.jpg?w=300" alt="Niko and Critcal hit in action together" width="300" height="163"></a> Niko and Critcal hit in action together
 
 <b>How did you find out about Derby and CCRD?</b>
 
@@ -33,7 +33,7 @@ My mins pace was very much a snail's crawl. I know from other sports I have play
 
 <b>(NBG): </b>It has to be my first bout. I did the best I could, which by an absolute measure was very poor - but, with only one scrim prior to it, my experience is relative. And by that measure I was happy: I scored some points, got to try all positions out, only committed two penalties and adjusted to stop them recurring. Now I'm just looking forward to more training, more scrims and more game time, just logging the hours and getting more and more skill and game experience.
 
-<a href="http://scottishrollerderbyblog.com/2014/07/nikoblockergory.jpg"><img class="size-medium wp-image-3558" src="http://scottishrollerderbyblog.com/2014/07/nikoblockergory.jpg?w=252" alt="niko blocker gorey vs iHorror" width="252" height="300"></a> niko blocker gorey vs iHorror
+<a href="http://www.scottishrollerderbyblog.com/2014/07/nikoblockergory.jpg"><img class="size-medium wp-image-3558" src="http://www.scottishrollerderbyblog.com/2014/07/nikoblockergory.jpg?w=252" alt="niko blocker gorey vs iHorror" width="252" height="300"></a> niko blocker gorey vs iHorror
 
 <b>Did you get any pre first bout nerves? </b>
 
@@ -53,7 +53,7 @@ My mins pace was very much a snail's crawl. I know from other sports I have play
 
 <b>(NBG):</b> The bench manager for my first bout is our league's captain and chair, who has absolutely moved heaven and earth to keep the league running and training well, so I have a mountain of respect for him, and his advice was simply 'remember your training' and 'stay calm'.
 
-<a href="http://scottishrollerderbyblog.com/2014/07/critical-hit.jpg"><img class="size-medium wp-image-3559" src="http://scottishrollerderbyblog.com/2014/07/critical-hit.jpg?w=300" alt="Critical hit up against a Bairns wall" width="300" height="180"></a> Critical hit up against a Bairns wall
+<a href="http://www.scottishrollerderbyblog.com/2014/07/critical-hit.jpg"><img class="size-medium wp-image-3559" src="http://www.scottishrollerderbyblog.com/2014/07/critical-hit.jpg?w=300" alt="Critical hit up against a Bairns wall" width="300" height="180"></a> Critical hit up against a Bairns wall
 
 <b>Is there any advice you could give others who still have their first bout to come?</b>
 
@@ -67,7 +67,7 @@ My mins pace was very much a snail's crawl. I know from other sports I have play
 
 <b>(NBG):</b> I think the catalyst from going from 'this is fun to watch' to 'I'd like to give this a try' was Teenie Bash (208) from ARRG. I'm a Cherry Bombers fan (4 lyfe!) and she was absolutely excellent for them in the 2012 home season. I'm on the short side for a guy, and when I saw Teenie jamming and blocking against women considerably taller and broader than her, I realised the sport isn't predicated on size, and I guess I saw the opportunity for everyone in roller derby which makes the sport so great and progressive. So in the meantime I hope she isn't too embarrassed by me letting her know this way!
 
-<a href="http://scottishrollerderbyblog.com/2014/07/nbg-ch-2.jpg"><img class="size-medium wp-image-3557" src="http://scottishrollerderbyblog.com/2014/07/nbg-ch-2.jpg?w=300" alt="Niko Blocker Gorey and Critical Hit in action" width="300" height="192"></a> Niko Blocker Gorey and Critical Hit in action
+<a href="http://www.scottishrollerderbyblog.com/2014/07/nbg-ch-2.jpg"><img class="size-medium wp-image-3557" src="http://www.scottishrollerderbyblog.com/2014/07/nbg-ch-2.jpg?w=300" alt="Niko Blocker Gorey and Critical Hit in action" width="300" height="192"></a> Niko Blocker Gorey and Critical Hit in action
 
 <b>Skaters generally set goals for themselves, now that you have played in your first bout what goal's are you now looking to achieve/work towards?</b>
 

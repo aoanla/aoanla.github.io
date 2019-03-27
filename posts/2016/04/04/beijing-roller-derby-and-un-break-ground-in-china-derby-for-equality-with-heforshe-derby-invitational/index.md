@@ -2,8 +2,8 @@
 </p><table>
 <tbody>
 <tr>
-<td style="vertical-align:center;"><a href="https://scottishrollerderbyblog.com/2015/07/13/the-future-of-derby-china/brdlogo/#main" rel="attachment wp-att-4793"><img class="size-medium wp-image-4793 aligncenter" src="https://scottishrollerderbyblog.com/2015/07/brdlogo.jpg?w=300" alt="BRDLogo" width="300" height="216"></a></td>
-<td style="vertical-align:center;"><a href="https://scottishrollerderbyblog.com/2016/04/04/beijing-roller-derby-and-un-break-ground-in-china-derby-for-equality-with-heforshe-derby-invitational/screen-shot-2016-03-31-at-08-37-09/#main" rel="attachment wp-att-6898"><img class="size-medium wp-image-6898 aligncenter" src="https://scottishrollerderbyblog.com/2016/03/screen-shot-2016-03-31-at-08-37-09.png?w=223" alt="HeForShe" width="223" height="300"></a></td>
+<td style="vertical-align:center;"><a href="https://www.scottishrollerderbyblog.com/2015/07/13/the-future-of-derby-china/brdlogo/#main" rel="attachment wp-att-4793"><img class="size-medium wp-image-4793 aligncenter" src="https://www.scottishrollerderbyblog.com/2015/07/brdlogo.jpg?w=300" alt="BRDLogo" width="300" height="216"></a></td>
+<td style="vertical-align:center;"><a href="https://www.scottishrollerderbyblog.com/2016/04/04/beijing-roller-derby-and-un-break-ground-in-china-derby-for-equality-with-heforshe-derby-invitational/screen-shot-2016-03-31-at-08-37-09/#main" rel="attachment wp-att-6898"><img class="size-medium wp-image-6898 aligncenter" src="https://www.scottishrollerderbyblog.com/2016/03/screen-shot-2016-03-31-at-08-37-09.png?w=223" alt="HeForShe" width="223" height="300"></a></td>
 </tr>
 </tbody>
 </table>

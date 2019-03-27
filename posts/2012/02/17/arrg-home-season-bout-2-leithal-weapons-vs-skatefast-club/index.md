@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/01/a3-home-season-poster-lwvssfc.jpg"><img src="http://scottishrollerderbyblog.com/2012/01/a3-home-season-poster-lwvssfc.jpg" alt="" title="A3 Home Season Poster LWvsCB" width="614" height="869" class="aligncenter size-full wp-image-817"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/01/a3-home-season-poster-lwvssfc.jpg"><img src="http://www.scottishrollerderbyblog.com/2012/01/a3-home-season-poster-lwvssfc.jpg" alt="" title="A3 Home Season Poster LWvsCB" width="614" height="869" class="aligncenter size-full wp-image-817"></a>
 
 <em>Image Courtesy of Auld Reekie Roller Girls</em>
 

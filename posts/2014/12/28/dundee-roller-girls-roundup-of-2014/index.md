@@ -1,6 +1,6 @@
 <html><body><p>We caught up with <a href="http://dundeerollergirls.com/">Dundee</a>'s Julia "Crown Julez" Wright to get the story of the league's 2014:
 
-<a href="/2014/12/735097_492237780841642_237571758_n.jpg"><img class="size-medium wp-image-4501" src="https://scottishrollerderbyblog.com/2014/12/735097_492237780841642_237571758_n.jpg?w=300" alt="Dundee Roller Girls logo." width="300" height="300"></a> Dundee Roller Girls logo.
+<a href="/2014/12/735097_492237780841642_237571758_n.jpg"><img class="size-medium wp-image-4501" src="https://www.scottishrollerderbyblog.com/2014/12/735097_492237780841642_237571758_n.jpg?w=300" alt="Dundee Roller Girls logo." width="300" height="300"></a> Dundee Roller Girls logo.
 
 Dundee Roller Girls' Silvery Tayzers started the year with their first game against old rivals Granite City Roller Girls Northern Fights in Aberdeen. The Tayzers had never beaten GCRG in their previous games but after an almighty comeback by GCRG in the second half the Tayzers finally came out winners with a 182 – 83 victory.
 
@@ -10,7 +10,7 @@ An away win against Newcastle’s Whippin Hinnies (131 -163), was closely follow
 
 May saw one of the most exciting developments in DRG history, with the launch of our Home Teams Season. Assisted by the Big Lottery Fund, DRG were awarded £2000 to develop the Home Teams brand. Sticking close to Dundee’s Jute, Jam and Journalism history, three teams were created; The Jutes of Hazzard, Jammin’ Dodgers and the Press Gangsters. After a summer season of Home Teams games, the Jutes and Press Gangsters fought it out for the trophy with the Press Gangsters triumphing in the final 163 - 108.
 
-<a href="/2014/12/10628596_10100312218540564_7362283630468818259_n.jpg"><img class="size-large wp-image-4500" src="https://scottishrollerderbyblog.com/2014/12/10628596_10100312218540564_7362283630468818259_n.jpg?w=614" alt="Dundee's Rising Stars, post Bairn City bout (Photo: Laura MacDonald)" width="614" height="409"></a> Dundee's Rising Stars, post Bairn City bout (Photo: Laura MacDonald)
+<a href="/2014/12/10628596_10100312218540564_7362283630468818259_n.jpg"><img class="size-large wp-image-4500" src="https://www.scottishrollerderbyblog.com/2014/12/10628596_10100312218540564_7362283630468818259_n.jpg?w=614" alt="Dundee's Rising Stars, post Bairn City bout (Photo: Laura MacDonald)" width="614" height="409"></a> Dundee's Rising Stars, post Bairn City bout (Photo: Laura MacDonald)
 
 Late summer also saw the first game for DRG’s B team with the Rising Stars defeating Durham Roller Derby by a single point in nail-biting game (172 – 171). The Silvery Tayzers were also in action on this double-header day being defeated by a hard-hitting Roller Derby Leicester team (107 – 228).
 

@@ -1,6 +1,6 @@
-<html><body><p>Continuing in our look back at how our <a href="nastynessiesrollergirls.wordpress.com">Nasty Nessies</a> diarists feel now, one year later than their initial diary, we have the case of Scarlet O'Horror (or is it Scarolott?). <a href="http://scottishrollerderbyblog.com/2012/06/23/monthly-diary-of-a-league-nasty-nessies-in-june-scarolott/">Her original diary is here.</a>
+<html><body><p>Continuing in our look back at how our <a href="nastynessiesrollergirls.wordpress.com">Nasty Nessies</a> diarists feel now, one year later than their initial diary, we have the case of Scarlet O'Horror (or is it Scarolott?). <a href="http://www.scottishrollerderbyblog.com/2012/06/23/monthly-diary-of-a-league-nasty-nessies-in-june-scarolott/">Her original diary is here.</a>
 
-<a href="http://scottishrollerderbyblog.com/2013/04/skate-pic.jpg"><img class=" wp-image-2524 " alt="Scarolott at practice, yesterday." src="http://scottishrollerderbyblog.com/2013/04/skate-pic.jpg?w=614" width="430" height="575"></a> Scarolott at practice, yesterday.
+<a href="http://www.scottishrollerderbyblog.com/2013/04/skate-pic.jpg"><img class=" wp-image-2524 " alt="Scarolott at practice, yesterday." src="http://www.scottishrollerderbyblog.com/2013/04/skate-pic.jpg?w=614" width="430" height="575"></a> Scarolott at practice, yesterday.
 
 </p><div><strong>It's been more than a year since you became one of the first Nasty Nessies.  Looking back at yourself then, what advice would you give your earlier self?</strong>
 

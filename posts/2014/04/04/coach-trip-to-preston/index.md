@@ -8,7 +8,7 @@ To reserve your seat on FVRG's Coach Trip, please email <a title="Email FVRG" h
 
 See the <a title="Preston vs FVRG Facebook Event" href="https://www.facebook.com/events/623798847687043/?ref=5" target="_blank">Facebook Event </a>for full details on the event; tickets can be bought in advance online for £4.50 from <a title="But Tickets Online" href="http://prg.bigcartel.com/product/block-stock-and-two-smokin-jammers-prg-vs-fvrg-26-04-14" target="_blank">Big Cartel</a>.
 
-<a href="http://scottishrollerderbyblog.com/2014/04/coach-trip-3.jpg"><img class="aligncenter size-full wp-image-3369" src="http://scottishrollerderbyblog.com/2014/04/coach-trip-3.jpg" alt="Coach Trip 3" width="550" height="310"></a>
+<a href="http://www.scottishrollerderbyblog.com/2014/04/coach-trip-3.jpg"><img class="aligncenter size-full wp-image-3369" src="http://www.scottishrollerderbyblog.com/2014/04/coach-trip-3.jpg" alt="Coach Trip 3" width="550" height="310"></a>
 
  
 

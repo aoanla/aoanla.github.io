@@ -1,6 +1,6 @@
 <html><body><p>This month's monthly diary from <a href="http://www.fvrg.co.uk/">Fierce Valley</a> comes around again, and it appears that school is never out for Gallus Cooper!
 
-<a href="http://scottishrollerderbyblog.com/2012/10/image_1350414826642972.jpg"><img class="size-full wp-image-1808" title="image_1350414826642972" alt="" src="http://scottishrollerderbyblog.com/2012/10/image_1350414826642972.jpg" height="818" width="614"></a> An... unusual... look for Gallus Cooper, at the Great Scottish Skate
+<a href="http://www.scottishrollerderbyblog.com/2012/10/image_1350414826642972.jpg"><img class="size-full wp-image-1808" title="image_1350414826642972" alt="" src="http://www.scottishrollerderbyblog.com/2012/10/image_1350414826642972.jpg" height="818" width="614"></a> An... unusual... look for Gallus Cooper, at the Great Scottish Skate
 
 <strong>What first attracted you to derby?</strong>
 I'm not entirely sure what first attracted me to derby. I do remember telling all my friends I was going to play before I even knew what it involved. I had a long conversation with old friends (well, they're not old, I've just known them a really long time!) where I told them about derby and that I wanted to play and they all thought I was crazy! It took me nearly a year to find out about Fierce Valley and their Fresh Meat intake, but once I did, I did not look back, except to keep an eye on that jammer!

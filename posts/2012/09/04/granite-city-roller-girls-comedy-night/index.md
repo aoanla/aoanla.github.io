@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2012/09/viewer.png"><img src="http://scottishrollerderbyblog.com/2012/09/viewer.png" alt="" title="viewer" width="614" height="434" class="aligncenter size-full wp-image-1690"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2012/09/viewer.png"><img src="http://www.scottishrollerderbyblog.com/2012/09/viewer.png" alt="" title="viewer" width="614" height="434" class="aligncenter size-full wp-image-1690"></a>
 
 <em>Image courtesy of Granite City Roller Girls</em>
 

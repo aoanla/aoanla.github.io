@@ -1,4 +1,4 @@
-<html><body><a href="http://scottishrollerderbyblog.com/2011/10/team_canada_final_150x150_p11.jpg"><img src="http://scottishrollerderbyblog.com/2011/10/team_canada_final_150x150_p11.jpg" alt="" title="Team_Canada_Final_150x150_p1" width="614" height="614" class="aligncenter size-full wp-image-348"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/2011/10/team_canada_final_150x150_p11.jpg"><img src="http://www.scottishrollerderbyblog.com/2011/10/team_canada_final_150x150_p11.jpg" alt="" title="Team_Canada_Final_150x150_p1" width="614" height="614" class="aligncenter size-full wp-image-348"></a>
 <em>Team Canada logo designed by Chica Bomb,used with permission</em>
 
 <a href="http://www.teamcanadarollerderby.ca/">Team Canada</a> are beyond doubt one of the contenders to win the upcoming World Cup,they have a stellar squad with a colossal amount of experience.Many of the skaters on the roster will not only be familiar names,but also Derby heroes to many a skater here in Scotland.

@@ -1,6 +1,6 @@
 <html><body><p>This Sunday is the only time you'll see Perth's local roller derby league, Fair City Rollers, on track at home this year, due to the popularity of their excellent local venue, Bell's Sport Centre. As a result, for those following the team, it's an opportunity not to be missed!
 
-<img class="aligncenter size-large wp-image-26879" src="https://scottishrollerderbyblog.com/2018/06/fcr_map-layered.png?w=1024" alt="FCR_map-layered" width="1024" height="948"> Fair City, and the leagues combining to face them as "Scotland's Rising Stars"
+<img class="aligncenter size-large wp-image-26879" src="https://www.scottishrollerderbyblog.com/2018/06/fcr_map-layered.png?w=1024" alt="FCR_map-layered" width="1024" height="948"> Fair City, and the leagues combining to face them as "Scotland's Rising Stars"
 
 The Fear Maidens, Fair City's travel team, will be facing a mixed exhibition team drawing newer skaters from Ayrshire Roller Derby, Bairn City Rollers' Central Belters, Dundee Roller Derby, Granite City Roller Derby, Lothian Roller Derby and Mean City Roller Derby. Coming together as "Scotland's Rising Stars", these skaters represent some of the best new talent in Scottish roller derby.
 

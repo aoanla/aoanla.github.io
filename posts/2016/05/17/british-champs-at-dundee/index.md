@@ -1,4 +1,4 @@
-<html><body><p>As we <a href="https://scottishrollerderbyblog.com/2016/04/22/british-champs-tier-3-comes-to-scotland/">mentioned last month</a>, with Fierce Valley Roller Girls's hosted double header, the <a href="http://www.britishchamps.com/womens-tables-2016/">British Championships</a> Tier 3 North was due a couple of fixtures in Scotland.
+<html><body><p>As we <a href="https://www.scottishrollerderbyblog.com/2016/04/22/british-champs-tier-3-comes-to-scotland/">mentioned last month</a>, with Fierce Valley Roller Girls's hosted double header, the <a href="http://www.britishchamps.com/womens-tables-2016/">British Championships</a> Tier 3 North was due a couple of fixtures in Scotland.
 
 This Saturday, <strong>21 May</strong> sees the second of those, as <strong><a href="http://dundeerollergirls.wix.com/thedrg">Dundee Roller Girls</a></strong> host a double-header at their usual venue, the <strong><a href="https://www.google.co.uk/maps/place/Disc+Dundee+International+Sports+Centre/@56.4762665,-2.9589272,15z/data=!4m5!3m4!1s0x0:0x74e93fd03837f5ac!8m2!3d56.4762665!4d-2.9589272">Dundee International Sports Centre</a></strong>.
 
