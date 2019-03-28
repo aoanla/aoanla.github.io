@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.scottishrollerderbyblog.com/</loc>
-  <lastmod>2019-03-27T16:29:00Z</lastmod>
+  <lastmod>2019-03-28T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/2011/</loc>
@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2019-03-28T10:17:00Z</lastmod>
+  <lastmod>2019-03-28T11:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -167,7 +167,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/</loc>
-  <lastmod>2019-03-28T10:17:00Z</lastmod>
+  <lastmod>2019-03-28T12:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/2011-blood-thunder-roller-derby-world-cup/</loc>
@@ -352,6 +352,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/bairn/</loc>
   <lastmod>2019-03-27T12:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/bali/</loc>
+  <lastmod>2019-03-28T12:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/baltic-roller-derby/</loc>
@@ -842,8 +846,16 @@
   <lastmod>2019-03-27T12:45:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/ecuador/</loc>
+  <lastmod>2019-03-28T12:06:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/edinburgh/</loc>
   <lastmod>2019-03-27T12:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/egypt/</loc>
+  <lastmod>2019-03-28T12:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/ella-bella-bang-bang/</loc>
@@ -956,6 +968,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/for-the-skater/</loc>
   <lastmod>2019-03-27T12:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/forajidas-roller-derby/</loc>
+  <lastmod>2019-03-28T12:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/fresh-meat/</loc>
@@ -1172,6 +1188,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/hoodoo-roller-derby/</loc>
   <lastmod>2019-03-27T12:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/hot-lava-rollers/</loc>
+  <lastmod>2019-03-28T12:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/hot-wheel-roller-derby/</loc>
@@ -1990,6 +2010,10 @@
   <lastmod>2019-03-27T12:45:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/russia/</loc>
+  <lastmod>2019-03-28T12:06:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/sarcasticats/</loc>
   <lastmod>2019-03-27T12:45:00Z</lastmod>
  </url>
@@ -2416,6 +2440,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/texas-rollergirls/</loc>
   <lastmod>2019-03-27T12:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/thailand/</loc>
+  <lastmod>2019-03-28T12:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/the-arc/</loc>
@@ -3159,7 +3187,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-91.html</loc>
-  <lastmod>2019-03-28T10:17:00Z</lastmod>
+  <lastmod>2019-03-28T11:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/listings/</loc>
@@ -6876,5 +6904,9 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/9755/</loc>
   <lastmod>2019-03-27T14:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/derby-without-borders-one-year-catchup/</loc>
+  <lastmod>2019-03-28T12:06:00Z</lastmod>
  </url>
 </urlset>
