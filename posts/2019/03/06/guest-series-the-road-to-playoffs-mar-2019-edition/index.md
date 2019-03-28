@@ -1,7 +1,7 @@
 With the second WFTDA official rating and ranking of the season \(**[https://wftda.com/rankings-february-28-2019/](https://wftda.com/rankings-february-28-2019/)**\), we're keeping to our promise to update our "Road to Playoffs series".
 
 <!-- wp:image {"id":27904} -->
-<figure class="wp-block-image"><img src="https://scottishrollerderby.files.wordpress.com/2019/02/world_playoffs_map.png" alt="" class="wp-image-27904" /><figcaption>All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires).</figcaption></figure>
+![All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires)](https://scottishrollerderby.files.wordpress.com/2019/02/world_playoffs_map.png "All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires)")All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires)
 <!-- /wp:image -->
 
 Speedy Convalesce, Head NSO of Mannheim's Delta Quads, as well as many other things, is here to help us better visualise what's likely to happen at Playoff selection. This ongoing series reports the ratings and rankings of the top 100 WFTDA teams, calculated as _if we were at June 30th 2019_ [the ranking which will be used to decide Qualifications and seedings into both WFTDA Playoffs, and the Continental Cups].
@@ -12,7 +12,108 @@ As well as attaining a minimum ranking, teams also need to play at least 4 bouts
 The list, updated for this month: (# is number of bouts contributing to the ranking, whilst #El is the number of bouts contributing to their eligibility for playoffs). We'll colour teams to indicate when they've played their minimum number of games for eligibility, but as yet, it's too early for anyone to have met this. We've eliminated any teams which have played less than 2 games since July 2018 here. Teams which have shifted rating (or entered the chart for the first time) since the last article are in **_BOLD ITALICS_**.
 
 <!-- wp:table -->
-<table class="wp-block-table"><tbody><tr><td>Rk.</td><td>Team</td><td>Region</td><td>#</td><td>Points</td><td>#El</td></tr><tr><td>**1**</td><td>Rose City Rollers</td><td>N A WEST</td><td>6</td><td>1277.69</td><td>0</td></tr><tr><td>**2**</td><td>Victorian Roller Derby League</td><td>ASIA PACIFIC</td><td>5</td><td>1274.92</td><td>0</td></tr><tr><td>**3**</td><td>Gotham Girls Roller Derby</td><td>N A EAST</td><td>4</td><td>1193.05</td><td>0</td></tr><tr><td>**4**</td><td>Denver Roller Derby</td><td>N A WEST</td><td>5</td><td>1187.67</td><td>0</td></tr><tr><td>**5**</td><td>Arch Rival Roller Derby</td><td>N A EAST</td><td>7</td><td>1135.02</td><td>0</td></tr><tr><td>**6**</td><td>Angel City Derby</td><td>N A WEST</td><td>6</td><td>1011.88</td><td>0</td></tr><tr><td>**7**</td><td>London Rollergirls</td><td>EUROPE</td><td>4</td><td>861.02</td><td>0</td></tr><tr><td>**8**</td><td>Texas Rollergirls</td><td>N A WEST</td><td>7</td><td>858.86</td><td>0</td></tr><tr><td>**9**</td><td>Crime City Rollers</td><td>EUROPE</td><td>5</td><td>849.52</td><td>0</td></tr><tr><td>**10**</td><td>Minnesota RollerGirls</td><td>N A EAST</td><td>3</td><td>835.39</td><td>0</td></tr><tr><td>**11**</td><td>Jacksonville Rollergirls</td><td>N A EAST</td><td>6</td><td>817.81</td><td>0</td></tr><tr><td>**12**</td><td>Montreal Roller Derby</td><td>N A EAST</td><td>7</td><td>803.01</td><td>0</td></tr><tr><td>**13**</td><td>2x4 Roller Derby</td><td>C/S AMERICA</td><td>3</td><td>788.7</td><td>0</td></tr><tr><td>**14**</td><td>Rat City Roller Derby</td><td>N A WEST</td><td>4</td><td>773.87</td><td>0</td></tr><tr><td>**15**</td><td>Santa Cruz Derby Girls</td><td>N A WEST</td><td>3</td><td>768.38</td><td>0</td></tr><tr><td>**16**</td><td>Rainy City Roller Derby</td><td>EUROPE</td><td>3</td><td>753.28</td><td>0</td></tr><tr><td>**17**</td><td>Bay Area Derby</td><td>N A WEST</td><td>3</td><td>753.06</td><td>0</td></tr><tr><td>**18**</td><td>Atlanta Roller Derby</td><td>N A EAST</td><td>5</td><td>737.36</td><td>0</td></tr><tr><td>**19**</td><td>Stockholm Roller Derby</td><td>EUROPE</td><td>2</td><td>711.8</td><td>0</td></tr><tr><td>**20**</td><td>Canberra Roller Derby League</td><td>ASIA PACIFIC</td><td>3</td><td>702.49</td><td>0</td></tr><tr><td>**21**</td><td>Arizona Roller Derby</td><td>N A WEST</td><td>3</td><td>692.91</td><td>0</td></tr><tr><td>**22**</td><td>Helsinki Roller Derby</td><td>EUROPE</td><td>3</td><td>667.73</td><td>0</td></tr><tr><td>**23**</td><td>Ann Arbor Roller Derby</td><td>N A EAST</td><td>2</td><td>657.77</td><td>0</td></tr><tr><td>**24**</td><td>Queen City Roller Girls</td><td>N A EAST</td><td>2</td><td>599.21</td><td>0</td></tr><tr><td>**25**</td><td>Tampa Roller Derby</td><td>N A EAST</td><td>3</td><td>554.73</td><td>0</td></tr><tr><td>**26**</td><td>Charlottesville Derby Dames</td><td>N A EAST</td><td>3</td><td>550.51</td><td>0</td></tr><tr><td>**27**</td><td>Philly Roller Derby</td><td>N A EAST</td><td>3</td><td>536.23</td><td>0</td></tr><tr><td>**28**</td><td>Kallio Rolling Rainbow</td><td>EUROPE</td><td>3</td><td>528.37</td><td>0</td></tr><tr><td>29</td><td>Windy City Rollers</td><td>N A EAST</td><td>2</td><td>515.78</td><td>0</td></tr><tr><td>30</td><td>Boston Roller Derby</td><td>N A EAST</td><td>4</td><td>513.5</td><td>0</td></tr><tr><td>31</td><td>Middlesbrough Roller Derby</td><td>EUROPE</td><td>3</td><td>487.92</td><td>0</td></tr><tr><td>32</td><td>Dublin Roller Derby</td><td>EUROPE</td><td>3</td><td>487.69</td><td>0</td></tr><tr><td>33</td><td>Blue Ridge Rollergirls</td><td>N A EAST</td><td>2</td><td>474.81</td><td>0</td></tr><tr><td>34</td><td>Team United Women's Roller Derby</td><td>N A EAST</td><td>4</td><td>471.13</td><td>0</td></tr><tr><td>35</td><td>Calgary Roller Derby</td><td>N A WEST</td><td>4</td><td>458.14</td><td>0</td></tr><tr><td>36</td><td>Detroit Roller Derby</td><td>N A EAST</td><td>4</td><td>455.59</td><td>0</td></tr><tr><td>37</td><td>Bear City Roller Derby</td><td>EUROPE</td><td>2</td><td>451.72</td><td>0</td></tr><tr><td>38</td><td>North Star Roller Derby</td><td>N A EAST</td><td>3</td><td>444.61</td><td>0</td></tr><tr><td>39</td><td>E-Ville Roller Derby</td><td>N A WEST</td><td>3</td><td>439.04</td><td>0</td></tr><tr><td>**40**</td><td>**_Roc City Roller Derby_**</td><td>**N A EAST**</td><td>**2**</td><td>**434.12**</td><td>**1**</td></tr><tr><td>41</td><td>Sun State Roller Derby</td><td>ASIA PACIFIC</td><td>3</td><td>433.22</td><td>0</td></tr><tr><td>42</td><td>Tiger Bay Brawlers</td><td>EUROPE</td><td>3</td><td>433.05</td><td>0</td></tr><tr><td>43</td><td>Dock City Rollers</td><td>EUROPE</td><td>3</td><td>432.34</td><td>0</td></tr><tr><td>44</td><td>Mad Rollin' Dolls Roller Derby</td><td>N A EAST</td><td>3</td><td>426.87</td><td>0</td></tr><tr><td>45</td><td>Paris Rollergirls</td><td>EUROPE</td><td>2</td><td>415.37</td><td>0</td></tr><tr><td>46</td><td>Birmingham Blitz Dames</td><td>EUROPE</td><td>2</td><td>414.86</td><td>0</td></tr><tr><td>47</td><td>Terminal City Rollergirls</td><td>N A WEST</td><td>2</td><td>405.14</td><td>0</td></tr><tr><td>48</td><td>Sailor City Rollers</td><td>C/S AMERICA</td><td>2</td><td>386.74</td><td>0</td></tr><tr><td>49</td><td>Sacramento Roller Derby</td><td>N A WEST</td><td>3</td><td>386.55</td><td>0</td></tr><tr><td>50</td><td>Rocky Mountain Rollergirls</td><td>N A WEST</td><td>3</td><td>385.47</td><td>0</td></tr><tr><td>51</td><td>Royal City Roller Derby</td><td>N A EAST</td><td>3</td><td>383.71</td><td>0</td></tr><tr><td>52</td><td>Grand Raggidy Roller Derby</td><td>N A EAST</td><td>2</td><td>381.81</td><td>0</td></tr><tr><td>53</td><td>Tucson Roller Derby</td><td>N A WEST</td><td>3</td><td>366.08</td><td>0</td></tr><tr><td>54</td><td>Happy Valley Derby Darlins</td><td>N A WEST</td><td>3</td><td>364.62</td><td>0</td></tr><tr><td>55</td><td>Ohio Roller Derby</td><td>N A EAST</td><td>2</td><td>361.81</td><td>0</td></tr><tr><td>56</td><td>Central City Rollerderby</td><td>EUROPE</td><td>3</td><td>344.36</td><td>0</td></tr><tr><td>57</td><td>Charm City Roller Girls</td><td>N A EAST</td><td>3</td><td>340.23</td><td>0</td></tr><tr><td>58</td><td>Columbia Quad Squad</td><td>N A EAST</td><td>3</td><td>329.57</td><td>0</td></tr><tr><td>59</td><td>Jet City Roller Derby</td><td>N A WEST</td><td>3</td><td>327.72</td><td>0</td></tr><tr><td>**60**</td><td>**_Orangeville Roller Girls_**</td><td>**N A EAST**</td><td>**4**</td><td>**326.69**</td><td>**1**</td></tr><tr><td>61</td><td>Dub City Roller Derby</td><td>N A EAST</td><td>3</td><td>326.25</td><td>0</td></tr><tr><td>62</td><td>No Coast Derby Girls</td><td>N A WEST</td><td>3</td><td>324.05</td><td>0</td></tr><tr><td>63</td><td>Boulder County Bombers</td><td>N A WEST</td><td>2</td><td>304.96</td><td>0</td></tr><tr><td>64</td><td>Classic City Rollergirls</td><td>N A EAST</td><td>4</td><td>293.23</td><td>0</td></tr><tr><td>65</td><td>Crossroads City Derby</td><td>N A WEST</td><td>2</td><td>289.23</td><td>0</td></tr><tr><td>66</td><td>Red Stick Roller Derby</td><td>N A EAST</td><td>5</td><td>284.38</td><td>0</td></tr><tr><td>**67**</td><td>**_Brewcity Bruisers_**</td><td>**N A EAST**</td><td>**3**</td><td>**276.42**</td><td>**1**</td></tr><tr><td>**68**</td><td>**_Humboldt Roller Derby_**</td><td>**N A WEST**</td><td>**2**</td><td>**272.01**</td><td>**1**</td></tr><tr><td>69</td><td>Antwerp Roller Derby</td><td>EUROPE</td><td>4</td><td>266.95</td><td>0</td></tr><tr><td>70</td><td>Appalachian Roller Derby</td><td>N A EAST</td><td>5</td><td>266.51</td><td>0</td></tr><tr><td>71</td><td>Ottawa Valley Roller Derby</td><td>N A EAST</td><td>2</td><td>261.22</td><td>0</td></tr><tr><td>72</td><td>Pikes Peak Derby Dames</td><td>N A WEST</td><td>2</td><td>239.75</td><td>0</td></tr><tr><td>73</td><td>Nottingham Hellfire Harlots</td><td>EUROPE</td><td>2</td><td>233.15</td><td>0</td></tr><tr><td>74</td><td>Duke City Derby</td><td>N A WEST</td><td>3</td><td>229.87</td><td>0</td></tr><tr><td>75</td><td>Nantes Derby Girls</td><td>EUROPE</td><td>2</td><td>221.44</td><td>1</td></tr><tr><td>76</td><td>Amsterdam Roller Derby</td><td>EUROPE</td><td>2</td><td>219.09</td><td>0</td></tr><tr><td>77</td><td>Newcastle Roller Girls</td><td>EUROPE</td><td>2</td><td>213.68</td><td>0</td></tr><tr><td>78</td><td>Lehigh Valley Roller Derby</td><td>N A EAST</td><td>2</td><td>206.7</td><td>0</td></tr><tr><td>79</td><td>Black Rose Rollers</td><td>N A EAST</td><td>2</td><td>201.58</td><td>0</td></tr><tr><td>80</td><td>Dark River Derby Coalition</td><td>N A EAST</td><td>2</td><td>200.36</td><td>0</td></tr><tr><td>**81**</td><td>**_Cincinnati Rollergirls_**</td><td>**N A EAST**</td><td>**2**</td><td>**198.92**</td><td>**1**</td></tr><tr><td>82</td><td>State College Area Roller Derby</td><td>N A EAST</td><td>2</td><td>197.45</td><td>0</td></tr><tr><td>83</td><td>Chattanooga Roller Girls</td><td>N A EAST</td><td>4</td><td>197.22</td><td>0</td></tr><tr><td>84</td><td>Gold Coast Derby Grrls</td><td>N A EAST</td><td>2</td><td>197.19</td><td>0</td></tr><tr><td>85</td><td>Brussels Derby Pixies</td><td>EUROPE</td><td>3</td><td>185.7</td><td>0</td></tr><tr><td>86</td><td>Penn Jersey Roller Derby</td><td>N A EAST</td><td>3</td><td>185.62</td><td>0</td></tr><tr><td>87</td><td>SoCal Derby</td><td>N A WEST</td><td>3</td><td>184.88</td><td>0</td></tr><tr><td>88</td><td>Big Easy Rollergirls</td><td>N A WEST</td><td>3</td><td>180.17</td><td>0</td></tr><tr><td>89</td><td>Confluence Crush Roller Derby</td><td>N A WEST</td><td>3</td><td>176.81</td><td>1</td></tr><tr><td>**90**</td><td>**_Charlotte Roller Derby_**</td><td>**N A EAST**</td><td>**2**</td><td>**175.16**</td><td>**1**</td></tr><tr><td>91</td><td>Rockin City Rollergirls</td><td>N A WEST</td><td>4</td><td>171.37</td><td>0</td></tr><tr><td>92</td><td>Molly Roger Rollergirls</td><td>N A EAST</td><td>2</td><td>171.19</td><td>0</td></tr><tr><td>93</td><td>Sierra Regional Roller Derby</td><td>N A WEST</td><td>4</td><td>170.97</td><td>0</td></tr><tr><td>**94**</td><td>**_Gorge Roller Derby_**</td><td>**NA WEST**</td><td>**3**</td><td>**168.37**</td><td>**3**</td></tr><tr><td>95</td><td>Les Quads des Paris</td><td>EUROPE</td><td>3</td><td>165.75</td><td>1</td></tr><tr><td>**96**</td><td>**_Fox City Roller Derby_**</td><td>**NA EAST**</td><td>**2**</td><td>**165.23**</td><td>**2**</td></tr><tr><td>97</td><td>Zurich City Roller Derby</td><td>EUROPE</td><td>2</td><td>164.5</td><td>0</td></tr><tr><td>**98**</td><td>**_Dirty River Roller Derby_**</td><td>**EUROPE**</td><td>**2**</td><td>**164.13**</td><td>**1**</td></tr><tr><td>**99**</td><td>**_Akron Roller Derby_**</td><td>**NA EAST**</td><td>**2**</td><td>**155.37**</td><td>**1**</td></tr><tr><td>100</td><td>Roller Derby Caen</td><td>EUROPE</td><td>3</td><td>154.35</td><td>2</td></tr></tbody></table>
+|Rk.|Team|Region| # | Points|#El|
+|---:|:---:|:----:|---|---:|---:|
+|**1**|Rose City Rollers|N A WEST|6|1277.69|0|
+|**2**|Victorian Roller Derby League|ASIA PACIFIC|5|1274.92|0|
+|**3**|Gotham Girls Roller Derby|N A EAST|4|1193.05|0|
+|**4**|Denver Roller Derby|N A WEST|5|1187.67|0|
+|**5**|Arch Rival Roller Derby|N A EAST|7|1135.02|0|
+|**6**|Angel City Derby|N A WEST|6|1011.88|0|
+|**7**|London Rollergirls|EUROPE|4|861.02|0|
+|**8**|Texas Rollergirls|N A WEST|7|858.86|0|
+|**9**|Crime City Rollers|EUROPE|5|849.52|0|
+|**10**|Minnesota RollerGirls|N A EAST|3|835.39|0|
+|**11**|Jacksonville Rollergirls|N A EAST|6|817.81|0|
+|**12**|Montreal Roller Derby|N A EAST|7|803.01|0|
+|**13**|2x4 Roller Derby|C/S AMERICA|3|788.7|0|
+|**14**|Rat City Roller Derby|N A WEST|4|773.87|0|
+|**15**|Santa Cruz Derby Girls|N A WEST|3|768.38|0|
+|**16**|Rainy City Roller Derby|EUROPE|3|753.28|0|
+|**17**|Bay Area Derby|N A WEST|3|753.06|0|
+|**18**|Atlanta Roller Derby|N A EAST|5|737.36|0|
+|**19**|Stockholm Roller Derby|EUROPE|2|711.8|0|
+|**20**|Canberra Roller Derby League|ASIA PACIFIC|3|702.49|0|
+|**21**|Arizona Roller Derby|N A WEST|3|692.91|0|
+|**22**|Helsinki Roller Derby|EUROPE|3|667.73|0|
+|**23**|Ann Arbor Roller Derby|N A EAST|2|657.77|0|
+|**24**|Queen City Roller Girls|N A EAST|2|599.21|0|
+|**25**|Tampa Roller Derby|N A EAST|3|554.73|0|
+|**26**|Charlottesville Derby Dames|N A EAST|3|550.51|0|
+|**27**|Philly Roller Derby|N A EAST|3|536.23|0|
+|**28**|Kallio Rolling Rainbow|EUROPE|3|528.37|0|
+|29|Windy City Rollers|N A EAST|2|515.78|0|
+|30|Boston Roller Derby|N A EAST|4|513.5|0|
+|31|Middlesbrough Roller Derby|EUROPE|3|487.92|0|
+|32|Dublin Roller Derby|EUROPE|3|487.69|0|
+|33|Blue Ridge Rollergirls|N A EAST|2|474.81|0|
+|34|Team United Women's Roller Derby|N A EAST|4|471.13|0|
+|35|Calgary Roller Derby|N A WEST|4|458.14|0|
+|36|Detroit Roller Derby|N A EAST|4|455.59|0|
+|37|Bear City Roller Derby|EUROPE|2|451.72|0|
+|38|North Star Roller Derby|N A EAST|3|444.61|0|
+|39|E-Ville Roller Derby|N A WEST|3|439.04|0|
+|**40**|**_Roc City Roller Derby_**|**N A EAST**|**2**|**434.12**|**1**|
+|41|Sun State Roller Derby|ASIA PACIFIC|3|433.22|0|
+|42|Tiger Bay Brawlers|EUROPE|3|433.05|0|
+|43|Dock City Rollers|EUROPE|3|432.34|0|
+|44|Mad Rollin' Dolls Roller Derby|N A EAST|3|426.87|0|
+|45|Paris Rollergirls|EUROPE|2|415.37|0|
+|46|Birmingham Blitz Dames|EUROPE|2|414.86|0|
+|47|Terminal City Rollergirls|N A WEST|2|405.14|0|
+|48|Sailor City Rollers|C/S AMERICA|2|386.74|0|
+|49|Sacramento Roller Derby|N A WEST|3|386.55|0|
+|50|Rocky Mountain Rollergirls|N A WEST|3|385.47|0|
+|51|Royal City Roller Derby|N A EAST|3|383.71|0|
+|52|Grand Raggidy Roller Derby|N A EAST|2|381.81|0|
+|53|Tucson Roller Derby|N A WEST|3|366.08|0|
+|54|Happy Valley Derby Darlins|N A WEST|3|364.62|0|
+|55|Ohio Roller Derby|N A EAST|2|361.81|0|
+|56|Central City Rollerderby|EUROPE|3|344.36|0|
+|57|Charm City Roller Girls|N A EAST|3|340.23|0|
+|58|Columbia Quad Squad|N A EAST|3|329.57|0|
+|59|Jet City Roller Derby|N A WEST|3|327.72|0|
+|**60**|**_Orangeville Roller Girls_**|**N A EAST**|**4**|**326.69**|**1**|
+|61|Dub City Roller Derby|N A EAST|3|326.25|0|
+|62|No Coast Derby Girls|N A WEST|3|324.05|0|
+|63|Boulder County Bombers|N A WEST|2|304.96|0|
+|64|Classic City Rollergirls|N A EAST|4|293.23|0|
+|65|Crossroads City Derby|N A WEST|2|289.23|0|
+|66|Red Stick Roller Derby|N A EAST|5|284.38|0|
+|**67**|**_Brewcity Bruisers_**|**N A EAST**|**3**|**276.42**|**1**|
+|**68**|**_Humboldt Roller Derby_**|**N A WEST**|**2**|**272.01**|**1**|
+|69|Antwerp Roller Derby|EUROPE|4|266.95|0|
+|70|Appalachian Roller Derby|N A EAST|5|266.51|0|
+|71|Ottawa Valley Roller Derby|N A EAST|2|261.22|0|
+|72|Pikes Peak Derby Dames|N A WEST|2|239.75|0|
+|73|Nottingham Hellfire Harlots|EUROPE|2|233.15|0|
+|74|Duke City Derby|N A WEST|3|229.87|0|
+|75|Nantes Derby Girls|EUROPE|2|221.44|1|
+|76|Amsterdam Roller Derby|EUROPE|2|219.09|0|
+|77|Newcastle Roller Girls|EUROPE|2|213.68|0|
+|78|Lehigh Valley Roller Derby|N A EAST|2|206.7|0|
+|79|Black Rose Rollers|N A EAST|2|201.58|0|
+|80|Dark River Derby Coalition|N A EAST|2|200.36|0|
+|**81**|**_Cincinnati Rollergirls_**|**N A EAST**|**2**|**198.92**|**1**|
+|82|State College Area Roller Derby|N A EAST|2|197.45|0|
+|83|Chattanooga Roller Girls|N A EAST|4|197.22|0|
+|84|Gold Coast Derby Grrls|N A EAST|2|197.19|0|
+|85|Brussels Derby Pixies|EUROPE|3|185.7|0|
+|86|Penn Jersey Roller Derby|N A EAST|3|185.62|0|
+|87|SoCal Derby|N A WEST|3|184.88|0|
+|88|Big Easy Rollergirls|N A WEST|3|180.17|0|
+|89|Confluence Crush Roller Derby|N A WEST|3|176.81|1|
+|**90**|**_Charlotte Roller Derby_**|**N A EAST**|**2**|**175.16**|**1**|
+|91|Rockin City Rollergirls|N A WEST|4|171.37|0|
+|92|Molly Roger Rollergirls|N A EAST|2|171.19|0|
+|93|Sierra Regional Roller Derby|N A WEST|4|170.97|0|
+|**94**|**_Gorge Roller Derby_**|**NA WEST**|**3**|**168.37**|**3**|
+|95|Les Quads des Paris|EUROPE|3|165.75|1|
+|**96**|**_Fox City Roller Derby_**|**NA EAST**|**2**|**165.23**|**2**|
+|97|Zurich City Roller Derby|EUROPE|2|164.5|0|
+|**98**|**_Dirty River Roller Derby_**|**EUROPE**|**2**|**164.13**|**1**|
+|**99**|**_Akron Roller Derby_**|**NA EAST**|**2**|**155.37**|**1**|
+|100|Roller Derby Caen|EUROPE|3|154.35|2|
 <!-- /wp:table -->
 
 \[We plan to update this list each time WFTDA release a rating and ranking until Playoffs selections\] 
