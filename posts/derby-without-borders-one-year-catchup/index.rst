@@ -66,7 +66,13 @@ On the 27th April, DwB and Bangkok Roller Derby are co-hosting a bootcamp_ run b
 Being able to run a bootcamp in Bali, in particular, came as a pleasant surprise even to Mae themself. 
 
 	“When Baller [Shot Caller] had reached out to me to ask what she could help the project with, I said, ‘well, here’s all the places I could use help with coaching’, and I let her pick. 
+
+..
+
 	And she said, ‘If I have to choose one, I would say Bali. It seems more secluded, and they probably have less resources’!
+
+..
+
 	“I said, ‘it’s just two people - there’s the potential you could be teaching 5 people minimum skills’. 
 	Baller was completely okay with that, as the gain in awareness, and value in increased representation was worth it. We did choose a date later in the year to give time for recruitment, though.” 
 
@@ -126,7 +132,7 @@ Whilst we’ve mostly focused on activities in Asia in this update, that should 
 
 Whilst the Forajidas have a GoFundMe ( https://www.gofundme.com/help-bring-roller-derby-to-ecuador ), they also need guidance and support in forming their league. Mae is actively looking for either a Sibling League, or a coach, or both, who can help to support the new team.
 
-And, as well as helping to nurture and advise new and developing leagues, DwB is also working to support Roller Derby in other ways. Derby Without Borders can host crowdfunders for such leagues to allow them to raise funds more easily: at present, they’re hosting a GoFundMe to support Buenos Aires’ 2×4 Roller Derby on their current international travel requirements. (You can donate here: https://www.gofundme.com/2×4-international-tour-2019 ) 
+And, as well as helping to nurture and advise new and developing leagues, DwB is also working to support Roller Derby in other ways. Derby Without Borders can host crowdfunders for such leagues to allow them to raise funds more easily: at present, they’re hosting a GoFundMe to support Buenos Aires’ 2×4 Roller Derby on their current international travel requirements. (You can donate here: https://www.gofundme.com/2x4-international-tour-2019 ) 
 
 --------------
 
