@@ -18,7 +18,7 @@ I like jamming, I am still learning a lot but I hope I can be a useful jammer so
 Facebook :) work, rambling on to hairdressers and by wearing my teams t-shirt whilst running or working out.
 
 <strong>What’s the most important thing you've learnt/ done this month</strong>
-Practicing with the boys and girls for our <a title="Bairn City Rollers presents “Day Of Reckoning”" href="http://www.scottishrollerderbyblog.com/2013/09/10/bairn-city-rollers-presents-day-of-reckoning/">upcoming bout</a> (my cherry popper)
+Practicing with the boys and girls for our <a title="Bairn City Rollers presents “Day Of Reckoning”" href="http://www.scottishrollerderbyblog.com/posts/2013/09/10/bairn-city-rollers-presents-day-of-reckoning/">upcoming bout</a> (my cherry popper)
 
 <strong>And the most difficult and the best things?</strong>
 The most difficult is the frustration of not picking up a technique. The best is the first time you get it right. You may not always get it but you realise it's possible.

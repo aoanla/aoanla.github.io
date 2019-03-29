@@ -1,4 +1,4 @@
-<html><body><p>New Roller Derby leagues are still popping up over Scotland, as we saw recently in our interview with <a href="https://www.scottishrollerderbyblog.com/2015/06/29/a-wee-chat-with-wee-county-roller-derby/">Wee County</a>. Now we're catching up with a new league in another part of the country entirely, Elgin's <a href="https://www.facebook.com/HelginRollerDerby">Helgin Roller Derby</a>!
+<html><body><p>New Roller Derby leagues are still popping up over Scotland, as we saw recently in our interview with <a href="https://www.scottishrollerderbyblog.com/posts/2015/06/29/a-wee-chat-with-wee-county-roller-derby/">Wee County</a>. Now we're catching up with a new league in another part of the country entirely, Elgin's <a href="https://www.facebook.com/HelginRollerDerby">Helgin Roller Derby</a>!
 
 <a href="/2015/07/21091_1426672460962596_502025641894684557_n.jpg"><img class="size-large wp-image-4830" src="https://www.scottishrollerderbyblog.com/2015/07/21091_1426672460962596_502025641894684557_n.jpg?w=660" alt="Helgin Roller Derby logo by Brett Tucker" width="660" height="660"></a> Helgin Roller Derby logo by Brett Tucker
 

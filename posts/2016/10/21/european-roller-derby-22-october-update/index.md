@@ -4,7 +4,7 @@ We've looked at <strong><a href="http://www.flattrackstats.com">Flat Track Stats
 </p><h2>The United Kingdom</h2>
 By itself, the UK has a pretty huge amount of Roller Derby going on this weekend.
 
-As we've reported <strong><a href="https://www.scottishrollerderbyblog.com/2016/10/18/auld-reekie-roller-girls-home-and-away/">before</a></strong>, Newcastle Roller Girls are hosting a double-header against Edinburgh's Auld Reekie (A v A, B v B). <strong><a href="http://flattrackstats.com/bouts/85476/overview">FTS link</a> (A), <a href="http://flattrackstats.com/bouts/85477/overview">FTS link</a> (B)</strong>
+As we've reported <strong><a href="https://www.scottishrollerderbyblog.com/posts/2016/10/18/auld-reekie-roller-girls-home-and-away/">before</a></strong>, Newcastle Roller Girls are hosting a double-header against Edinburgh's Auld Reekie (A v A, B v B). <strong><a href="http://flattrackstats.com/bouts/85476/overview">FTS link</a> (A), <a href="http://flattrackstats.com/bouts/85477/overview">FTS link</a> (B)</strong>
 
 Oldham's Rainy City Roller Derby are also hosting a <strong><a href="https://www.facebook.com/events/1749957795268196/">double header</a></strong> on the same theme against Croydon Roller Girls (B v A, C v B). <strong><a href="http://flattrackstats.com/bouts/85740/overview">FTS link</a></strong> (BvA), <strong><a href="http://flattrackstats.com/bouts/85236/overview">FTS link</a></strong> (CvB) [Our own ranking scheme, <strong><a href="https://www.scottishrollerderbyblog.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/2">SRD Rank</a>,</strong> and FTS disagree slightly over these bouts - we both think they'll be close, but we think that Rainy B has a slightly bigger advantage over Croydon than FTS does]
 
@@ -12,7 +12,7 @@ Not to be outdone, Hot Wheel Roller Derby are hosting  <a href="https://www.fac
 
 Finally, Nottingham Hellfire Harlots are <strong><a href="https://www.facebook.com/events/1750855655189255/">hosting</a></strong> Wirral Whipiteres, in what looks like a likely victory for the hosts. (<strong><a href="http://flattrackstats.com/bouts/85858/overview">FTS link</a></strong>), in a double header with co-ed intro bout (not tracked by FTS).
 
-[And, of course, most of Scotland is competing in some way in Fierce Valley Roller Girls' <strong><a href="https://www.scottishrollerderbyblog.com/2016/10/18/the-team-who-sur5ed-fierce-valley-host-harry-potter-themed-open-event/">Sur5al tournament</a></strong>, which is not tracked on FTS.]
+[And, of course, most of Scotland is competing in some way in Fierce Valley Roller Girls' <strong><a href="https://www.scottishrollerderbyblog.com/posts/2016/10/18/the-team-who-sur5ed-fierce-valley-host-harry-potter-themed-open-event/">Sur5al tournament</a></strong>, which is not tracked on FTS.]
 <h2>Mainland Europe &amp; Scandinavia</h2>
 Moving across the Channel, there's even more derby happening!
 

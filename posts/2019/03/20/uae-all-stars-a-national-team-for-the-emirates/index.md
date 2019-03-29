@@ -12,7 +12,7 @@ We spoke to two of the main agents of this initiative, Mean Curls and Inga Kneeâ
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":27922} -->
-![UAE Roller Derby Logo \(&quot;UAE All-Stars&quot; forming part of a circle in grey, with the Arabic name in green on top, designed to include the image of a roller skate in the negative space\)](https://scottishrollerderby.files.wordpress.com/2019/03/52672994_267004467546689_505072778026680320_n.jpg "UAE Roller Derby Logo ('UAE All-Stars' forming part of a circle in grey, with the Arabic name in green on top, designed to include the image of a roller skate in the negative space)")
+![UAE Roller Derby Logo \(&quot;UAE All-Stars&quot; forming part of a circle in grey, with the Arabic name in green on top, designed to include the image of a roller skate in the negative space\)](https://www.scottishrollerderbyblog.com/images/2019/fb/52672994_267004467546689_505072778026680320_n.jpg "UAE Roller Derby Logo ('UAE All-Stars' forming part of a circle in grey, with the Arabic name in green on top, designed to include the image of a roller skate in the negative space)")
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -29,7 +29,7 @@ As Inga and Mean Curls tell it: "In less than two months, we \[\] created the te
 With Dubai and Abu Dhabi also the most populous cities in the UAE (and their eponymous emirates), and fairly closely located, the All-Stars can alternate training between the two easily, helping to build a sense of equal partnership in the national team.
 At present, the team is working on helping to develop visibility and interest in Roller Derby - and Roller  skating - in the UAE, where historically there hasn't been much. \(At present, all of Dubai and Abu Dhabi's kit comes from abroad via international shipping.\)
 One aim of this increased visibility is towards developing the skill levels for their member skaters, by providing opportunities for higher level play that would otherwise be inaccessible. 
-Inga's contacts with the Pan-Asian Spring Rollers \(the Roller Derby collaboration between Beijing, Shanghai, Hong-Kong and Bangkok **[we've covered previously](https://scottishrollerderby.wordpress.com/2017/06/07/east-asian-derbys-new-spring-rollers/)**\) immediately paid off in this sense. Having played against the Spring Rollers as part of the Women's Roller Derby Japan team at the **[Tomodachi Roller Derby tournament](https://scottishrollerderby.wordpress.com/2017/01/19/the-tomodachi-derby-tournament-the-teams/)** in Okinawa \(2017\), she was hoping for opponents to play Short Track derby with.
+Inga's contacts with the Pan-Asian Spring Rollers \(the Roller Derby collaboration between Beijing, Shanghai, Hong-Kong and Bangkok **[we've covered previously](https://www.scottishrollerderbyblog.com/posts/2017/06/07/east-asian-derbys-new-spring-rollers/)**\) immediately paid off in this sense. Having played against the Spring Rollers as part of the Women's Roller Derby Japan team at the **[Tomodachi Roller Derby tournament](https://www.scottishrollerderbyblog.com/posts/2017/01/19/the-tomodachi-derby-tournament-the-teams/)** in Okinawa \(2017\), she was hoping for opponents to play Short Track derby with.
 As it happens, the timing of the Spring Rollers bout against Hong-Kong was too good to pass up: Mean Curls, Spinky, and Inga were able to make the trip to join Pan Asia v. Hong Kong as members of the Spring Rollers team.
 \(Their team ended up winning too, 159 to HKRD's 127.\)
 <!-- /wp:paragraph -->
@@ -39,7 +39,7 @@ That bout also helped to build even more contacts: Derby Without Borders' founde
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":27923,"width":561,"height":842} -->
-![Two of UAE All-Stars' skaters \(Mean Curls, Spinky\) in blue as part of the Pan-Asian Spring Rollers team against hosts Hong Kong Roller Derby. Photograph by Teddy Tse](https://scottishrollerderby.files.wordpress.com/2019/03/dsc_5798-2.jpg "Two of UAE All-Stars' skaters (Mean Curls, Spinky) in blue as part of the Pan-Asian Spring Rollers team against hosts Hong Kong Roller Derby. Photograph by Teddy Tse")Two of UAE All-Stars' skaters \(Mean Curls, Spinky\) in blue as part of the Pan-Asian Spring Rollers team against hosts Hong Kong Roller Derby. Photograph by **[Teddy Tse](https://www.facebook.com/teddy.tse.12)**
+![Two of UAE All-Stars' skaters \(Mean Curls, Spinky\) in blue as part of the Pan-Asian Spring Rollers team against hosts Hong Kong Roller Derby. Photograph by Teddy Tse](https://www.scottishrollerderbyblog.com/images/2019/fb/dsc_5798-2.jpg "Two of UAE All-Stars' skaters (Mean Curls, Spinky) in blue as part of the Pan-Asian Spring Rollers team against hosts Hong Kong Roller Derby. Photograph by Teddy Tse")Two of UAE All-Stars' skaters \(Mean Curls, Spinky\) in blue as part of the Pan-Asian Spring Rollers team against hosts Hong Kong Roller Derby. Photograph by **[Teddy Tse](https://www.facebook.com/teddy.tse.12)**
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

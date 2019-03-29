@@ -1,4 +1,4 @@
-<html><body><p>Last June, <a title="FVRG Website" href="http://www.fvrg.co.uk/" target="_blank">Fierce Valley Roller Girls</a> embraced all things Grease-related in their first intraleague bout, <a title="SRD Advert for Summer Shovin'" href="http://www.scottishrollerderbyblog.com/2012/06/18/fvrg-intra-league-summer-shovin/" target="_blank">Summer Shovin'</a>.
+<html><body><p>Last June, <a title="FVRG Website" href="http://www.fvrg.co.uk/" target="_blank">Fierce Valley Roller Girls</a> embraced all things Grease-related in their first intraleague bout, <a title="SRD Advert for Summer Shovin'" href="http://www.scottishrollerderbyblog.com/posts/2012/06/18/fvrg-intra-league-summer-shovin/" target="_blank">Summer Shovin'</a>.
 
 This year's intraleague on Sunday 25th May will have a Transformers theme: Revenge of the Fallen. Skaters from FVRG will split into the AutoBlocks and DeceptiQuads for one day only to battle it out on track. The line-up will showcase six of the leagues newest skaters: Tri-Sarah-Tops; Bambi; Tiny Tearaway; Johnny Hangover; WhoopAsh and Elburnzo. This will also be the debut outing for ref Wendy Snarling!
 

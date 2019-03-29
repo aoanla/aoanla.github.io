@@ -129,7 +129,7 @@ Europe is also pretty busy, with Cholet Roller Derby hosting a tournament on Sat
 	<li>East Coast Cyclones versus Waterford Viqueens [<a href="http://flattrackstats.com/node/104965"><strong>FTS</strong></a>]</li>
 </ul>
 </li>
-	<li><span style="color:#800000;"><strong>Warsaw</strong></span>, Poland: Warsaw Hellcats Roller Derby host the return of their Slavic Tournament from last year - grown to a Slavic+Baltic Roller Derby Sevens tournament, run as 2 groups of 3 (into 1st, 3rd, 5th place)! We talked more about this <a href="https://www.scottishrollerderbyblog.com/2018/08/23/the-slavic-roller-derby-tournament-grows-into-its-second-year-adds-the-baltics/"><strong>HERE</strong></a> [<a href="https://www.facebook.com/events/2079168135665222/"><strong>EVENT</strong></a>]
+	<li><span style="color:#800000;"><strong>Warsaw</strong></span>, Poland: Warsaw Hellcats Roller Derby host the return of their Slavic Tournament from last year - grown to a Slavic+Baltic Roller Derby Sevens tournament, run as 2 groups of 3 (into 1st, 3rd, 5th place)! We talked more about this <a href="https://www.scottishrollerderbyblog.com/posts/2018/08/23/the-slavic-roller-derby-tournament-grows-into-its-second-year-adds-the-baltics/"><strong>HERE</strong></a> [<a href="https://www.facebook.com/events/2079168135665222/"><strong>EVENT</strong></a>]
 <ul>
 	<li>Teams competing:
 <ul>

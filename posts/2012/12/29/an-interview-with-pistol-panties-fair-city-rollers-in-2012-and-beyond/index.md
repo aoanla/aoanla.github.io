@@ -1,6 +1,6 @@
 <html><body><p>As part of the blog's End of Year interview series, we caught up with Fair City Rollers' Pistol Panties to talk about roller derby in Perth, and the future.
 
-<a href="http://www.scottishrollerderbyblog.com/2012/12/29/an-interview-with-pistol-panties-fair-city-rollers-in-2012-and-beyond/271296_475653322465325_1961521013_o/" rel="attachment wp-att-2014"><img class=" wp-image-2014  " alt="Pistol Panties and the rest of FCR vs Furness Firecrackers. (Photo by Ian Mccreadie)" src="http://www.scottishrollerderbyblog.com/2012/12/271296_475653322465325_1961521013_o.jpg" width="663" height="442"></a> Pistol Panties and the rest of FCR vs Furness Firecrackers. (Photo by Ian Mccreadie)
+<a href="http://www.scottishrollerderbyblog.com/posts/2012/12/29/an-interview-with-pistol-panties-fair-city-rollers-in-2012-and-beyond/271296_475653322465325_1961521013_o/" rel="attachment wp-att-2014"><img class=" wp-image-2014  " alt="Pistol Panties and the rest of FCR vs Furness Firecrackers. (Photo by Ian Mccreadie)" src="http://www.scottishrollerderbyblog.com/2012/12/271296_475653322465325_1961521013_o.jpg" width="663" height="442"></a> Pistol Panties and the rest of FCR vs Furness Firecrackers. (Photo by Ian Mccreadie)
 
 <strong>Despite complications in the latter half of the year, Fair City managed 4 bouts in the past year, including a strong showing against the Furness Firecrackers in September. What's the high point of the year from a bouting perspective?</strong>
 

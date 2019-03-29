@@ -3,7 +3,7 @@
 <em>Photo of Ella Bella Bang Bang by</em> <a href="https://www.facebook.com/pages/Zenspirations-Photography-Design/241551115881209">Zenspirations Photography</a>
 
 
-Ella Bella Bang Bang will be a familiar figure to many readers,Ella's legendary fairness,impartiality and knowledge of the sport make her a highly respected ref,Alongside fellow Arrg zebra, <a href="http://www.scottishrollerderbyblog.com/2011/10/13/an-interview-with-cherry-fury/">Cherry Fury</a> ,Ella will be making the trip to Toronto to officiate at the World Cup.We managed to secure a little of her time for a chat...
+Ella Bella Bang Bang will be a familiar figure to many readers,Ella's legendary fairness,impartiality and knowledge of the sport make her a highly respected ref,Alongside fellow Arrg zebra, <a href="http://www.scottishrollerderbyblog.com/posts/2011/10/13/an-interview-with-cherry-fury/">Cherry Fury</a> ,Ella will be making the trip to Toronto to officiate at the World Cup.We managed to secure a little of her time for a chat...
 
 <strong>What is your background in Derby? </strong>
  

@@ -22,7 +22,7 @@ Initially it was the time, derby took over to be honest. But it’s worth every 
 
 <strong>Lots of roller girls find it hard not to spread the word about their new sport. How have you been spreading the word?</strong>
 
-I just chatted about derby non stop to anyone who would, and those who wouldn’t, listen! It pays off though as I’ve managed to recruit Camelon Diaz, <a href="http://www.scottishrollerderbyblog.com/2013/02/24/monthly-diary-of-a-league-fierce-valley-in-february-wiggy-stardust/">Wiggy Stardust</a> and Duff McKegger to the sport! I also try to help out at any promotional events FVRG do which is great fun and has it’s perks – last summer we met Mark Beaumont at an event.
+I just chatted about derby non stop to anyone who would, and those who wouldn’t, listen! It pays off though as I’ve managed to recruit Camelon Diaz, <a href="http://www.scottishrollerderbyblog.com/posts/2013/02/24/monthly-diary-of-a-league-fierce-valley-in-february-wiggy-stardust/">Wiggy Stardust</a> and Duff McKegger to the sport! I also try to help out at any promotional events FVRG do which is great fun and has it’s perks – last summer we met Mark Beaumont at an event.
 
 <strong>What’s the most important thing you’ve learnt/ done this month?</strong>
 

@@ -39,7 +39,7 @@ The UK as a whole is quite quiet - with the majority of the action in Newcastle,
 </li>
 	<li>Thurs, <span style="color:#0000ff;"><strong>Nottingham</strong></span>, England: Nottingham Hellfire Harlots rolling open recruitment continues, open to potential new skaters under WFTDA gender policy [<strong><a href="https://www.facebook.com/events/2032052900425630/">EVENT</a></strong>]</li>
 	<li>Fri, <strong>Leeds</strong>, England: Leeds Roller Derby are hosting an "animal-friendly race night" at the Wanderer Junk Food, to raise funds for their B team's travel [<a href="https://www.facebook.com/events/276389276327139/"><strong>EVENT</strong></a>]</li>
-	<li>Sat-Sun, <span style="color:#800000;"><strong>Newcastle</strong></span>, England: Tyne &amp; Fear Roller Derby host the 2018 Men's European Cup (about which we wrote a bit <a href="https://www.scottishrollerderbyblog.com/2018/08/10/mens-european-cup-2018-the-walker-activity-domes-last-hurrah/"><strong>here</strong></a>). [<a href="http://flattrackstats.com/tournaments/105322/overview"><strong>FTS tournament</strong></a>][<a href="https://www.facebook.com/events/1722475541104460/"><strong>EVENT</strong></a>]
+	<li>Sat-Sun, <span style="color:#800000;"><strong>Newcastle</strong></span>, England: Tyne &amp; Fear Roller Derby host the 2018 Men's European Cup (about which we wrote a bit <a href="https://www.scottishrollerderbyblog.com/posts/2018/08/10/mens-european-cup-2018-the-walker-activity-domes-last-hurrah/"><strong>here</strong></a>). [<a href="http://flattrackstats.com/tournaments/105322/overview"><strong>FTS tournament</strong></a>][<a href="https://www.facebook.com/events/1722475541104460/"><strong>EVENT</strong></a>]
 <ul>
 	<li>Teams:
 <ul>
@@ -288,7 +288,7 @@ This weekend, as well as the next Un Sol Para Lx Oficials in Buenos Aires... the
 </ul>
 </li>
 	<li><strong>Ushuaia</strong>, Tierra del Fuego, Argentina: Piratas del Beagle host a fundraising Party to support tournaments in Patagonia! <a href="https://www.facebook.com/667808156642695/photos/a.824399230983586/1905498259540339/?type=3"><strong>[EVENT Flyer</strong></a>]</li>
-	<li>Sat+Sun, <span style="color:#800000;"><strong>Mexico City</strong></span>, Mexico: EMEXRD host the Championship for the National Division 1 of the Mexican National tournament 2018. (We've previously written about the tournament <a href="https://www.scottishrollerderbyblog.com/2018/07/18/mexican-national-championships-2018/"><strong>here</strong></a>.) This is a combined championship for both Men's and Women's tiers, and will decide both, as usual, in association with the Asociación Mexicana de Roller Derby.  [FTS Tournament][<a href="https://www.facebook.com/events/1874797235973486/"><strong>EVENT</strong></a>]
+	<li>Sat+Sun, <span style="color:#800000;"><strong>Mexico City</strong></span>, Mexico: EMEXRD host the Championship for the National Division 1 of the Mexican National tournament 2018. (We've previously written about the tournament <a href="https://www.scottishrollerderbyblog.com/posts/2018/07/18/mexican-national-championships-2018/"><strong>here</strong></a>.) This is a combined championship for both Men's and Women's tiers, and will decide both, as usual, in association with the Asociación Mexicana de Roller Derby.  [FTS Tournament][<a href="https://www.facebook.com/events/1874797235973486/"><strong>EVENT</strong></a>]
 <ul>
 	<li> Women's tier:
 <ul>

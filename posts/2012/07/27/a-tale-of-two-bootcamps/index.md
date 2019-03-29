@@ -4,7 +4,7 @@
 
 First up is Glasgow Roller Derby's <a href="http://www.facebook.com/events/415060935206862/">Harder Better Faster Stronger</a> on Saturday the 11th of August.A day dedicated to the skills new skaters need to pass their minimums.You can register your interest <a href="http://regonline.activeeurope.com/Register/Checkin.aspx?EventID=1120768">here</a>.
 Please note that all attending skaters must bring their own kit in addition to both black and coloured shirts with name and number.
-You can read SRD's own Chasing Katy's thoughts on attending a previous GRD Bootcamp <a href="http://www.scottishrollerderbyblog.com/2012/04/15/newbie-bootcamps-how-they-can-help-skaters-grow-and-improve/">here</a>.
+You can read SRD's own Chasing Katy's thoughts on attending a previous GRD Bootcamp <a href="http://www.scottishrollerderbyblog.com/posts/2012/04/15/newbie-bootcamps-how-they-can-help-skaters-grow-and-improve/">here</a>.
 
 
 

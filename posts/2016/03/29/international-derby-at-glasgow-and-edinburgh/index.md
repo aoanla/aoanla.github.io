@@ -1,5 +1,5 @@
 <html><body><p>The Scottish Roller Derby season is hotting up, and that means more International fixtures to add to your diary.
-As well as <strong><a href="https://www.scottishrollerderbyblog.com/2016/03/23/international-roller-derby-in-the-forth-valley/">Fierce Valley Roller Girls taking on the cream of Swiss Derby</a></strong>, both Auld Reekie Roller Girls and Glasgow Roller Derby have international bouts planned for the next few weeks.
+As well as <strong><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/23/international-roller-derby-in-the-forth-valley/">Fierce Valley Roller Girls taking on the cream of Swiss Derby</a></strong>, both Auld Reekie Roller Girls and Glasgow Roller Derby have international bouts planned for the next few weeks.
 
 <a href="https://www.scottishrollerderbyblog.com/2016/03/29/international-derby-at-glasgow-and-edinburgh/883965_10156639729380224_7285447541727594878_o/#main" rel="attachment wp-att-6881"><img class="aligncenter size-full wp-image-6881" src="/2016/03/883965_10156639729380224_7285447541727594878_o.jpg" alt="883965_10156639729380224_7285447541727594878_o" width="700" height="259"></a>
 

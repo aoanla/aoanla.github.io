@@ -4,7 +4,7 @@
 
 <strong>What first attracted you to Roller Derby?</strong>
 
-I was at a Roller Disco in Falkirk with my best friend (<a href="http://www.scottishrollerderbyblog.com/2012/05/14/monthly-diary-of-a-league-fierce-valley-in-may-hey-ho-lets-jo/">Hey Ho, Let's Jo!</a>) when <a href="http://www.scottishrollerderbyblog.com/2012/03/09/monthly-diary-of-a-league-fierce-valley-in-march-grizabelta/">Grizabelta</a> and Chaos Faerie got chatting to us about Roller Derby (I should add that they were drawn to us by Jo's purple sparkly hotpants as they were FVRG colours, not by our skating skills!). All that I knew about Derby at this point was what I had learned from watching Whip It! the week before and so we went along to practice, borrowed some kit and the rest, as they say, is history.
+I was at a Roller Disco in Falkirk with my best friend (<a href="http://www.scottishrollerderbyblog.com/posts/2012/05/14/monthly-diary-of-a-league-fierce-valley-in-may-hey-ho-lets-jo/">Hey Ho, Let's Jo!</a>) when <a href="http://www.scottishrollerderbyblog.com/posts/2012/03/09/monthly-diary-of-a-league-fierce-valley-in-march-grizabelta/">Grizabelta</a> and Chaos Faerie got chatting to us about Roller Derby (I should add that they were drawn to us by Jo's purple sparkly hotpants as they were FVRG colours, not by our skating skills!). All that I knew about Derby at this point was what I had learned from watching Whip It! the week before and so we went along to practice, borrowed some kit and the rest, as they say, is history.
 
 <strong>Who are your derby heroes?</strong>
 
@@ -26,7 +26,7 @@ By talking about it constantly! It's become a running joke with my non-derby fri
 
 <strong>What’s the most important thing you’ve learnt/ done this month?</strong>
 
-The last month or so has been a very steep learning curve for me as I have (along with my vice captain <a href="http://www.scottishrollerderbyblog.com/2011/12/09/monthly-diary-of-a-league-fierce-valley-in-december-funghoul/">Fun Ghoul</a>) prepared my team and support crew for our upcoming bout. The most important thing has probably been working together as a team-both on track and off-to discuss and develop tactics, implement them on track, create strong walls and switch from defense to offense as a pack.
+The last month or so has been a very steep learning curve for me as I have (along with my vice captain <a href="http://www.scottishrollerderbyblog.com/posts/2011/12/09/monthly-diary-of-a-league-fierce-valley-in-december-funghoul/">Fun Ghoul</a>) prepared my team and support crew for our upcoming bout. The most important thing has probably been working together as a team-both on track and off-to discuss and develop tactics, implement them on track, create strong walls and switch from defense to offense as a pack.
 
 <strong>What were the most difficult and the best things?</strong>
 

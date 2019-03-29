@@ -1,4 +1,4 @@
-<html><body><p>As we mentioned <strong><a href="https://www.scottishrollerderbyblog.com/2016/08/09/science-v-magic-twice-in-one-month/">last week</a></strong> (with a quick discussion of how to make the most of it), this weekend is chock-a-block with roller derby.
+<html><body><p>As we mentioned <strong><a href="https://www.scottishrollerderbyblog.com/posts/2016/08/09/science-v-magic-twice-in-one-month/">last week</a></strong> (with a quick discussion of how to make the most of it), this weekend is chock-a-block with roller derby.
 
 <img class="aligncenter size-large wp-image-8808" src="https://www.scottishrollerderbyblog.com/2016/08/13724923_1064306960304848_6262946519438776221_o.jpg?w=2048" alt="13724923_1064306960304848_6262946519438776221_o" width="1024" height="1024">
 

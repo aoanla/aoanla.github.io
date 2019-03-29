@@ -6,7 +6,7 @@ With Glasgow and Fierce Valley playing away, the Scottish home games are happeni
 
 Heading up <strong><a href="https://www.facebook.com/events/350352705088707/">the double-header</a></strong>, Auld Reekie's All-Stars are taking on Kallio Rolling Rainbow, one of Finland's finest teams.
 
-After their usual impressive performance at <strong><a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones/">The Big O</a></strong> in Oregon, Auld Reekie are riding high, ready for another challenge - Kallio are slightly higher ranked than they are (FlatTrackStats <strong><a href="http://flattrackstats.com/bouts/79684/rankings">predicts a win</a></strong> for the Finns, albeit with some uncertainty). This will be a WFTDA Sanctioned bout and contribute to both teams' rankings, so it will be an especially hard-fought contest, as both teams will want to reach Division 1 (or remain in Division 2) of the WFTDA Rankings in order to qualify for Playoffs.
+After their usual impressive performance at <strong><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-big-o-2016-schedule-timezones/">The Big O</a></strong> in Oregon, Auld Reekie are riding high, ready for another challenge - Kallio are slightly higher ranked than they are (FlatTrackStats <strong><a href="http://flattrackstats.com/bouts/79684/rankings">predicts a win</a></strong> for the Finns, albeit with some uncertainty). This will be a WFTDA Sanctioned bout and contribute to both teams' rankings, so it will be an especially hard-fought contest, as both teams will want to reach Division 1 (or remain in Division 2) of the WFTDA Rankings in order to qualify for Playoffs.
 
 The other bout is no less exciting in its own way, marking the debut of ARRG's new 'C'-team, the 'All-Star Rookies'<a href="#sup"><sup>*</sup></a> as they take on Granite City Roller Girls B, the Fight Hawks!
 
@@ -30,7 +30,7 @@ Given the rankings of Tiger Bay Brawlers A, and Rainy City Roller Derby, these b
 
 <hr>
 
-Speaking of <strong><a href="http://britishchamps.com">British Champs</a></strong>, after an extended period <strong><a href="https://www.scottishrollerderbyblog.com/2016/05/17/british-champs-at-dundee/">hosted in Scotland</a></strong>, the Tier 3 North fixtures continue in the North of England, with Hallam Hellcats hosting a <strong><a href="https://www.facebook.com/events/587023974805101/">double-header</a></strong> of bouts.
+Speaking of <strong><a href="http://britishchamps.com">British Champs</a></strong>, after an extended period <strong><a href="https://www.scottishrollerderbyblog.com/posts/2016/05/17/british-champs-at-dundee/">hosted in Scotland</a></strong>, the Tier 3 North fixtures continue in the North of England, with Hallam Hellcats hosting a <strong><a href="https://www.facebook.com/events/587023974805101/">double-header</a></strong> of bouts.
 
 <img class="alignnone size-full wp-image-7445" src="/2016/06/13267947_1010255862421996_6895825634478283487_n.jpg" alt="13267947_1010255862421996_6895825634478283487_n" width="530" height="750"> Hallam's bout poster was also available as a limited edition physical print! (Design by Ed Syder) <a href="http://edsyder.tumblr.com/">http://edsyder.tumblr.com/</a>
 

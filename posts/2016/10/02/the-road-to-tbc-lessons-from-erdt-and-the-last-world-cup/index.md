@@ -12,7 +12,7 @@ But what can we predict, if anything, about The Road to TBC from what has come <
 
 Firstly, we can look at ERDT. Whilst only 50% of the lineup overlaps between ERDT and TRtT, we can judge some expectations about absolute strength.
 
-Here's the now-traditional Bayesian inferred strength charts from ERDT, with the top four teams also singled out in separate highlights [as usual, these charts are relative to the winner - in this case, France - and so they are not directly represented]. We've marked vertical lines to show the <strong><a href="https://www.scottishrollerderbyblog.com/2014/12/20/roller-derby-international-rankings-2014/">performance</a></strong> (also relative to France) in the Blood &amp; Thunder Women's World Cup 2014, for those teams who attended.
+Here's the now-traditional Bayesian inferred strength charts from ERDT, with the top four teams also singled out in separate highlights [as usual, these charts are relative to the winner - in this case, France - and so they are not directly represented]. We've marked vertical lines to show the <strong><a href="https://www.scottishrollerderbyblog.com/posts/2014/12/20/roller-derby-international-rankings-2014/">performance</a></strong> (also relative to France) in the Blood &amp; Thunder Women's World Cup 2014, for those teams who attended.
 
 [gallery ids="8997,9001,8998,8999,9000" type="slideshow" link="file"]
 
@@ -21,7 +21,7 @@ Here's the now-traditional Bayesian inferred strength charts from ERDT, with the
 As is pretty clear, whilst Spain is just about separate from the top three, although closely competitive with Wales and Belgium; the distributions for Belgium and Wales are almost indistinguishable. While France was indisputably the strongest team at ERDT, it's reasonable to suggest that the tournament also showed that Belgium and Wales are almost identical in strength. (Wales was the victim of one of the classic problems with single elimination tournaments, being relegated to the consolation brackets by an early encounter with the eventual Champions, and achieved Third as their highest possible relegation place.)
 It's also possible to see that, assuming France is still relatively similar in strength, that Wales, Spain and Portugal have all noticeably improved in strength from 2014.
 
-<a href="https://www.scottishrollerderbyblog.com/2016/10/02/the-road-to-tbc-lessons-from-erdt-and-the-last-world-cup/2/"><strong>Over the page</strong></a>, we'll talk about the teams at The Road to TBC in more detail...
+<a href="https://www.scottishrollerderbyblog.com/posts/2016/10/02/the-road-to-tbc-lessons-from-erdt-and-the-last-world-cup/2/"><strong>Over the page</strong></a>, we'll talk about the teams at The Road to TBC in more detail...
 
 <!--nextpage-->
 
@@ -29,7 +29,7 @@ So, we can expect the hosts to be strong competitors in November... but what abo
 
 <img class="aligncenter size-medium wp-image-9075" src="https://www.scottishrollerderbyblog.com/2016/10/14448951_1432178393465450_4812609206374398804_n.jpg?w=600" alt="14448951_1432178393465450_4812609206374398804_n" width="300" height="300">
 
-Looking <strong><a href="https://www.scottishrollerderbyblog.com/2014/12/20/roller-derby-international-rankings-2014/">back at the last World Cup</a></strong>, <em>Sweden</em> was one of the strongest teams in the tournament, reflecting the strength of Scandinavian Roller Derby even back then. Since then, Swedish roller derby has gone from strength to strength, with both Stockholm Roller Derby and Crime City Rollers in WFTDA Division 1 Playoffs this year!
+Looking <strong><a href="https://www.scottishrollerderbyblog.com/posts/2014/12/20/roller-derby-international-rankings-2014/">back at the last World Cup</a></strong>, <em>Sweden</em> was one of the strongest teams in the tournament, reflecting the strength of Scandinavian Roller Derby even back then. Since then, Swedish roller derby has gone from strength to strength, with both Stockholm Roller Derby and Crime City Rollers in WFTDA Division 1 Playoffs this year!
 A quick count of their recently published training team for 2016/17 [<strong><a href="https://www.facebook.com/teamswedenrollerderby/photos/a.517256094957689.143365.224501220899846/1432139023469387/?type=1&amp;theater">HERE</a></strong>] suggests that at least <em>13</em> of the skaters from 2014 are returning as possible rosters (as several skaters were recorded under their legal names for the 2014 roster, and under their skatenames here, it's a little tricky to be 100% certain).
 We expect, on the balance of this, and the general health of Swedish derby, for Sweden to be a contender for the top spot at The Road to TBC.
 

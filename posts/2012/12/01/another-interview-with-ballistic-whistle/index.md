@@ -1,4 +1,4 @@
-<html><body><a href="http://www.scottishrollerderbyblog.com/2012/12/01/another-interview-with-ballistic-whistle/ballistic-2/" rel="attachment wp-att-1929"><img src="http://www.scottishrollerderbyblog.com/2012/12/ballistic-2.jpg" alt="Ballistic-2" width="614" height="409" class="aligncenter size-full wp-image-1929"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/posts/2012/12/01/another-interview-with-ballistic-whistle/ballistic-2/" rel="attachment wp-att-1929"><img src="http://www.scottishrollerderbyblog.com/2012/12/ballistic-2.jpg" alt="Ballistic-2" width="614" height="409" class="aligncenter size-full wp-image-1929"></a>
 
 Photography by <a href="http://boutday.com/">Dave McAleavy</a>
 

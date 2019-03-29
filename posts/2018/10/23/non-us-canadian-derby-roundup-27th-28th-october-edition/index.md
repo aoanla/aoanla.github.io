@@ -50,7 +50,7 @@ Whilst the main event in the UK as a whole is clearly the first ever WFTDA Conti
 </ul>
 </li>
 	<li><strong>Manchester</strong>, England: Manchester Roller Derby host a Halloween Roller Disco, including fancy dress (and prize), and "spooky themed music and cakes" [<a href="https://www.facebook.com/events/568843460202871/"><strong>EVENT</strong></a>]</li>
-	<li>(Sat-Sun), <span style="color:#800000;"><strong>Telford</strong></span>, England: Birmingham Blitz Dames host the first ever WFTDA European Continental Cup! We've covered this in more detail <a href="https://www.scottishrollerderbyblog.com/2018/10/04/europes-first-continental-cup-the-uks-next-international-derby-fixture-in-2018/"><strong>here</strong></a>. [<a href="http://flattrackstats.com/tournaments/104383/overview"><strong>FTS tournament</strong></a>]<strong>[<a href="https://www.facebook.com/events/130422437830313">EVENT</a>]</strong>
+	<li>(Sat-Sun), <span style="color:#800000;"><strong>Telford</strong></span>, England: Birmingham Blitz Dames host the first ever WFTDA European Continental Cup! We've covered this in more detail <a href="https://www.scottishrollerderbyblog.com/posts/2018/10/04/europes-first-continental-cup-the-uks-next-international-derby-fixture-in-2018/"><strong>here</strong></a>. [<a href="http://flattrackstats.com/tournaments/104383/overview"><strong>FTS tournament</strong></a>]<strong>[<a href="https://www.facebook.com/events/130422437830313">EVENT</a>]</strong>
 <ul>
 	<li>Teams attending:
 <ul>

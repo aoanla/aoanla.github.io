@@ -1,4 +1,4 @@
-<html><body><a href="http://www.scottishrollerderbyblog.com/2013/01/01/an-interview-with-fun-ghoulfvrgs-2012/fvrg-bruise/" rel="attachment wp-att-2048"><img src="http://www.scottishrollerderbyblog.com/2013/01/fvrg-bruise.jpg" alt="fvrg bruise" width="614" height="438" class="aligncenter size-full wp-image-2048"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/posts/2013/01/01/an-interview-with-fun-ghoulfvrgs-2012/fvrg-bruise/" rel="attachment wp-att-2048"><img src="http://www.scottishrollerderbyblog.com/2013/01/fvrg-bruise.jpg" alt="fvrg bruise" width="614" height="438" class="aligncenter size-full wp-image-2048"></a>
 
 Photogrphy by <a href="http://www.facebook.com/pages/Zenspirations-Photography-Design/241551115881209">Claire Brunton of Zenspirations Photography &amp; Design</a>
 

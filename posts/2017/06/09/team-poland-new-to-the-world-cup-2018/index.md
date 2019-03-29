@@ -27,7 +27,7 @@ As for all National Teams, and especially the newer ones, Team Poland are driven
 
 Surely, we do have them, but taking a part in such a big event could be an eye opener for people here! We would love them to acknowledge this sport as an athletic discipline, not only for 'outcasts'..."
 
-And part of growing that athletic image is, of course, better training. As we discussed with <a href="https://www.scottishrollerderbyblog.com/2017/04/26/team-austria-new-to-the-world-cup/"><strong>Team Austria</strong></a>, the advantage of  National Teams is also in the sharing of experience and skills, and Ewa agrees. "We all think that apart from World Cup, the following months will let us all benefit from the joined training sessions.
+And part of growing that athletic image is, of course, better training. As we discussed with <a href="https://www.scottishrollerderbyblog.com/posts/2017/04/26/team-austria-new-to-the-world-cup/"><strong>Team Austria</strong></a>, the advantage of  National Teams is also in the sharing of experience and skills, and Ewa agrees. "We all think that apart from World Cup, the following months will let us all benefit from the joined training sessions.
 
 It is a big step for Polish roller derby, that's for sure!"
 

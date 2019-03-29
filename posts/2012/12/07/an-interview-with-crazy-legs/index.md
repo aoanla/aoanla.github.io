@@ -1,4 +1,4 @@
-<html><body><a href="http://www.scottishrollerderbyblog.com/2012/12/07/an-interview-with-crazy-legs/crazylegs-1/" rel="attachment wp-att-1964"><img src="http://www.scottishrollerderbyblog.com/2012/12/crazylegs-1.jpg" alt="CrazyLegs-1" width="614" height="409" class="aligncenter size-full wp-image-1964"></a>
+<html><body><a href="http://www.scottishrollerderbyblog.com/posts/2012/12/07/an-interview-with-crazy-legs/crazylegs-1/" rel="attachment wp-att-1964"><img src="http://www.scottishrollerderbyblog.com/2012/12/crazylegs-1.jpg" alt="CrazyLegs-1" width="614" height="409" class="aligncenter size-full wp-image-1964"></a>
 
 <em>Photography by</em> <a href="http://boutday.com/">Dave McAleavy.</a>
 

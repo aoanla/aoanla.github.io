@@ -2,7 +2,7 @@
 
 <img class="size-full wp-image-14040 aligncenter" src="/2017/01/pan-asian.jpg" alt="pan-asian" width="223" height="200">
 
-Readers may remember our coverage of Japan's second-ever Roller Derby Tournament, the<a href="https://www.scottishrollerderbyblog.com/2017/01/19/the-tomodachi-derby-tournament-the-teams/"><strong> Tomodachi Derby Tournament</strong></a>, in Okinawa earlier this year. The <a href="https://www.scottishrollerderbyblog.com/2017/02/08/the-tomodachi-cup-teams-pan-asian-spring-rollers/"><strong>Pan-Asian Spring Rollers</strong></a> were one of two "exhibition" teams founded to attend - comprising of skaters from Beijing Roller Derby, Shanghai Roller Derby, Hong Kong Roller Derby (the three Chinese leagues), and Bangkok Roller Derby for Thailand.
+Readers may remember our coverage of Japan's second-ever Roller Derby Tournament, the<a href="https://www.scottishrollerderbyblog.com/posts/2017/01/19/the-tomodachi-derby-tournament-the-teams/"><strong> Tomodachi Derby Tournament</strong></a>, in Okinawa earlier this year. The <a href="https://www.scottishrollerderbyblog.com/posts/2017/02/08/the-tomodachi-cup-teams-pan-asian-spring-rollers/"><strong>Pan-Asian Spring Rollers</strong></a> were one of two "exhibition" teams founded to attend - comprising of skaters from Beijing Roller Derby, Shanghai Roller Derby, Hong Kong Roller Derby (the three Chinese leagues), and Bangkok Roller Derby for Thailand.
 
 Originally, the plan was for them to simply exist for the one tournament - a chance for those 4 leagues to share costs and make a more competitive roster together - but the Spring Rollers have quickly become something more.
 
