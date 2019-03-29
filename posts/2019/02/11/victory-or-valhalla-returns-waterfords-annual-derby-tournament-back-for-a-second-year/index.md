@@ -2,7 +2,7 @@ Previously on this blog, we've written about Waterford ViQueens' innovative use 
 After the success of the initial tournament, where 6 teams from across Ireland (and also a single team from France) competed in a faster-paced event, Waterford are doing it again.
 
 <!-- wp:image {"id":27911,"align":"center"} -->
-![Waterford ViQueens Logo](https://www.scottishrollerderbyblog.com/2019/fb/waterfordviqueens.png "Waterford ViQueens Logo")
+![Waterford ViQueens Logo](https://www.scottishrollerderbyblog.com/images/2019/fb/waterfordviqueens.png "Waterford ViQueens Logo")
 <!-- /wp:image -->
 
 **[Victory or Vahalla #2](https://www.facebook.com/events/477884896068750/)** will be a **WFTDA-gender policy** tournament held in Waterford on the **27th April**, aimed at teams from around **[FTS Women's Europe](http://flattrackstats.com/rankings/women/women_europe)**"> rating **400** to **500**. 
