@@ -109,7 +109,7 @@ Voodoo Roller Derby - Falkirk/Stirling based Women's? League (hard to track)
 
 [Derby Digger](https://www.derbydigger.de/) - German Derby fanzine
 
-[6717] (https://fanzine6717.bigcartel.com/) - Quebec-based (French language) derby fanzine
+[6717](https://fanzine6717.bigcartel.com/) - Quebec-based (French language) derby fanzine
 
 
 **Follow Scottish Roller Derby**
