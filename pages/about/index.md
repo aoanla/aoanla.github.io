@@ -6,7 +6,7 @@ The Scottish Roller Derby blog was started back in the summer of 2011, and since
 
 <em>aoanla</em>
 
-aoanla is a physicist/systems support guy for the UK bit of the LHC experiment at CERN in real life, and therefore already had some experience in looking at high-speed collisions before getting into roller derby. He started out writing bout reports for the bouts he turned up to on his own <a href="http://aoanla.blogspot.com/">blog</a> [since inactive after moving here], and has also developed quite a lot of the statistical work that we write about. He's a contributor to the Flat Track Stats bout archive moderation effort, as well as to various other rating and organisation efforts. He is a member of the Roller Derby World Cup Committee 2017-.
+aoanla is a physicist/systems support guy for the UK bit of the LHC experiment at CERN in real life, and therefore already had some experience in looking at high-speed collisions before getting into roller derby. He started out writing bout reports for the bouts he turned up to on his own <a href="http://aoanla.blogspot.com/">blog</a> [since inactive after moving here], and has also developed quite a lot of the statistical work that we write about. He's a contributor to the Flat Track Stats bout archive moderation effort, as well as to various other rating and organisation efforts. He is a member of the Roller Derby World Cup Committee 2017-. (He/him, They/Them)
 
 <strong>The Author Team</strong>
 
