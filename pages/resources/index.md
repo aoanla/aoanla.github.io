@@ -14,14 +14,14 @@
 
 [MRDA](http://www.mensrollerderbyassociation.com/)-Men’s Roller Derby Association.
 
-**Scottish Leagues
+**Scottish Leagues**
 
 
-**As yet unnamed Junior League - Edinburgh-based (JRDA level 1) League
+Boardwalk Bombs  - Edinburgh-based Junior (JRDA level 1) League
 
 Rollerstop (Glasgow) based Junior League - Glasgow-based (JRDA level 1 to 3) League
 
-[Auld Reekie Roller Girls](http://arrg.co.uk) - Edinburgh-based WFTDA League
+[Auld Reekie Roller Derby](http://auldreekierollerderby.com/) - Edinburgh-based WFTDA League (renamed from Auld Reekie Roller Girls in 2018)
 
 [Ayrshire Roller Derby](https://www.facebook.com/Ayrshire-Roller-Derby-Official-618921518215712/) - Ayrshire-based WFTDA-gender-policy League
 
@@ -43,7 +43,7 @@ Rollerstop (Glasgow) based Junior League - Glasgow-based (JRDA level 1 to 3) Lea
 
 [Glasgow Men's Roller Derby](https://www.facebook.com/pg/GlasgowMensRollerDerby/) - Glasgow/West Lothian based MRDA member League
 
-[Granite City Roller Derby](http://www.granitecityrollerderby.co.uk/) - Aberdeen-based WFTDA-gender-policy? League
+[Granite City Roller Derby](http://www.granitecityrollerderby.co.uk/) - Aberdeen-based OTA-gender-policy League
 
 [Granite City Brawlers](https://www.facebook.com/granitecitybrawlers/) - Aberdeen-based MRDA member League
 
@@ -51,15 +51,15 @@ Rollerstop (Glasgow) based Junior League - Glasgow-based (JRDA level 1 to 3) Lea
 
 [Helgin Roller Derby](https://helginrollerderby.wordpress.com/) - Elgin-based League
 
-[Inverclyde Roller Derby](https://www.facebook.com/InverclydeRollerDerby/) - Inverclyde-based All-Gender League
+[Inverclyde Roller Derby](https://www.facebook.com/InverclydeRollerDerby/) - Inverclyde-based All-Gender League (still going?)
 
 [Inverness City Roller Derby](http://www.invernessrollerderby.com/) - Inverness-based All-Gender League
 
-[Lothian Derby Dolls](http://lothianderbydolls.com/) - Midlothian-based WFTDA-gender-policy League [additional All-Gender league in "Fear and Lothian"]
+[Lothian Roller Derby](https://lothianrollerderby.co.uk/) - Midlothian-based WFTDA-gender-policy League [additional All-Gender league in "Fear and Lothian"]
 
 [Mean City Roller Derby](http://www.meancityrollerderby.com/index.php) - Glasgow/Renfrewshire-based All-Gender League
 
-[New Town Roller Girls](http://www.ntrg.uk/) - Livingston/West Lothian-based WFTDA-gender-policy League
+[New Town Roller Derby](https://www.facebook.com/NewTownRollerDerby/) - Livingston/West Lothian-based WFTDA-gender-policy League
 
 [Orkney ViQueens Roller Derby](https://www.facebook.com/OrkneyViqueens/) - Orkney-based All-Gender League
 
@@ -93,6 +93,8 @@ Voodoo Roller Derby - Falkirk/Stirling based Women's? League (hard to track)
 
 <del>[Derby News Network](http://www.derbynewsnetwork.com/) </del>- News,scores,rankings,live streaming and an extensive bout archive (sadly defunct)
 
+[5 Segundos](https://www.facebook.com/pg/5segs/) - Argentine Roller Derby podcast + site
+
 **Magazines**
 
 <del>[Inside Line](http://www.insidelinemagazine.co.uk/about/)</del> - UK based,published quarterly (sadly ceased publication)
@@ -103,7 +105,12 @@ Voodoo Roller Derby - Falkirk/Stirling based Women's? League (hard to track)
 
 [Derbylife](http://www.derbylife.com/)-Roller Derby stories, opinions and advice.
 
-[**What A Bout**](https://whataboutmagazine.com/) - Central and Eastern Europe focussed online derby magazine, monthly
+[What A Bout](https://whataboutmagazine.com/) - Central and Eastern Europe focussed online derby magazine, monthly
+
+[Derby Digger](https://www.derbydigger.de/) - German Derby fanzine
+
+[6717] (https://fanzine6717.bigcartel.com/) - Quebec-based (French language) derby fanzine
+
 
 **Follow Scottish Roller Derby**
 
