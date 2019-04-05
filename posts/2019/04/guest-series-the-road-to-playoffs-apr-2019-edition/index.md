@@ -37,20 +37,20 @@ The list, updated for this month: (# is number of bouts contributing to the rank
 |**22**|Helsinki Roller Derby|Europe|3|667,73|0|
 |**23**|Ann Arbor Roller Derby|NA East|2|657,77|0|
 |**24**|Queen City Roller Girls|NA East|2|599,21|0|
-|**25**|**_Houston Roller Derby_**|**NA West**|**5**|**561,7**|**5**|
+|**25**|<span style="color:red">**_Houston Roller Derby_**</span>|**NA West**|**5**|**561,7**|**5**|
 |**26**|Tampa Roller Derby|NA East|3|554,73|0|
-|**27**|**_Boston Roller Derby_**|**NA East**|**8**|**539,3**|**4**|
-|**28**|**_Dublin Roller Derby_**|**Europe**|**8**|**536,59**|**5**|
-|**29**|**_Naptown Roller Derby_**|**NA East**|**4**|**536,51**|**4**|
+|**27**|<span style="color:red">**_Boston Roller Derby_**</span>|**NA East**|**8**|**539,3**|**4**|
+|**28**|<span style="color:red">**_Dublin Roller Derby_**</span>|**Europe**|**8**|**536,59**|**5**|
+|**29**|<span style="color:red">**_Naptown Roller Derby_**</span>|**NA East**|**4**|**536,51**|**4**|
 |30|Philly Roller Derby|NA East|3|536,23|0|
 |31|Kallio Rolling Rainbow|Europe|3|528,37|0|
-|32|**_Sun State Roller Derby_**|**NA West**|**7**|**525,78**|**4**|
+|32|<span style="color:red">**_Sun State Roller Derby_**</span>|**NA West**|**7**|**525,78**|**4**|
 |33|**_Bear City Roller Derby_**|**Europe**|**3**|**521,3**|**1**|
 |34|Windy City Rollers|NA East|2|515,78|0|
 |35|Middlesbrough Roller Derby|Europe|3|487,92|0|
 |36|Blue Ridge Rollergirls|NA East|2|474,81|0|
 |37|Team United Women's Roller Derby|NA West|4|471,13|0|
-|38|**_Columbia Quad Squad_**|**NA East**|**8**|**461,27**|**5**|
+|38|<span style="color:red">**_Columbia Quad Squad_**</span>|**NA East**|**8**|**461,27**|**5**|
 |39|Calgary Roller Derby|NA West|4|458,14|0|
 |40|Detroit Roller Derby|NA East|4|455,59|0|
 |41|**_Happy Valley Derby Darlins_**|**NA West**|**6**|**446,54**|**3**|
@@ -60,9 +60,9 @@ The list, updated for this month: (# is number of bouts contributing to the rank
 |45|Madison Roller Derby|NA East|3|426,87|0|
 |46|Paris Rollergirls|Europe|2|415,37|0|
 |47|Birmingham Blitz Dames|Europe|2|414,86|0|
-|48|**_Sacramento Roller Derby_**|**NA West**|**7**|**413,7**|**4**|
+|48|<span style="color:red">**_Sacramento Roller Derby_**</span>|**NA West**|**7**|**413,7**|**4**|
 |49|**_Charlottesville Derby Dames_**|**NA East**|**5**|**413,59**|**2**|
-|50|**_Perth Roller Derby_**|**Europe**|**4**|**407,55**|**4**|
+|50|<span style="color:red">**_Perth Roller Derby_**</span>|**Europe**|**4**|**407,55**|**4**|
 |51|Terminal City Rollergirls|NA West|2|405,14|0|
 |52|**_North Star Roller Derby_**|**NA West**|**6**|**405,09**|**3**|
 |53|**_Royal City Roller Derby_**|**NA East**|**4**|**394,41**|**1**|
@@ -73,7 +73,7 @@ The list, updated for this month: (# is number of bouts contributing to the rank
 |58|**_Oklahoma Victory Dolls_**|**NA East**|**3**|**382,93**|**3**|
 |59|**_Grand Raggidy Roller Derby_**|**NA East**|**3**|**380,45**|**1**|
 |60|**_V-Town Derby Dames_**|**NA West**|**4**|**375,31**|**3**|
-|61|**_Adelaide Roller Derby_**|**NA West**|**5**|**345,54**|**4**|
+|61|<span style="color:red">**_Adelaide Roller Derby_**</span>|**NA West**|**5**|**345,54**|**4**|
 |62|Central City Rollerderby|Europe|3|344,36|0|
 |63|Charm City Roller Girls|NA East|3|340,23|0|
 |64|**_Orangeville Roller Girls_**|**NA East**|**6**|**340**|**3**|
@@ -86,23 +86,23 @@ The list, updated for this month: (# is number of bouts contributing to the rank
 |71|**_Tucson Roller Derby_**|**NA West**|**6**|**316,1**|**3**|
 |72|**_Red Stick Roller Derby_**|**NA West**|**7**|**307,27**|**2**|
 |73|**_Classic City Rollergirls_**|**NA East**|**5**|**301,31**|**1**|
-|74|**_Pirate City Rollers_**|**NA West**|**4**|**293,46**|**4**|
+|74|<span style="color:red">**_Pirate City Rollers_**</span>|**NA West**|**4**|**293,46**|**4**|
 |75|**_Kalamazoo Derby Darlins_**|**NA East**|**2**|**291,43**|**2**|
 |76|**_Brewcity Bruisers_**|**NA East**|**4**|**282,7**|**2**|
-|77|**_Pikes Peak Derby Dames_**|**NA West**|**8**|**267,92**|**6**|
-|78|**_Crossroads City Derby_**|**NA West**|**6**|**267,91**|**4**|
+|77|<span style="color:red">**_Pikes Peak Derby Dames_**</span>|**NA West**|**8**|**267,92**|**6**|
+|78|<span style="color:red">**_Crossroads City Derby_**</span>|**NA West**|**6**|**267,91**|**4**|
 |79|Antwerp Roller Derby|Europe|4|266,95|0|
 |80|**_Appalachian Roller Derby_**|**NA East**|**6**|**261,26**|**1**|
 |81|Ottawa Valley Roller Derby|NA East|2|261,22|0|
-|82|Humboldt Roller Derby|NA West|5|255,99|4|
+|82|<span style="color:red">Humboldt Roller Derby</span>|NA West|5|255,99|4|
 |83|**_Penn Jersey Roller Derby_**|**NA East**|**4**|**253,75**|**1**|
-|84|**_Assassination City Roller Derby_**|**NA West**|**5**|**252,15**|**4**|
-|85|**_Kansas City Roller Warriors_**|**NA West**|**6**|**251,78**|**6**|
+|84|<span style="color:red">**_Assassination City Roller Derby_**</span>|**NA West**|**5**|**252,15**|**4**|
+|85|<span style="color:red">**_Kansas City Roller Warriors_**</span>|**NA West**|**6**|**251,78**|**6**|
 |86|**_Nashville Roller Derby_**|**NA East**|**3**|**248,28**|**2**|
 |87|**_Lehigh Valley Roller Derby_**|**NA East**|**4**|**245,38**|**2**|
 |88|Nottingham Hellfire Harlots|Europe|2|233,15|0|
 |89|**_Duke City Derby_**|**NA West**|**6**|**232,05**|**3**|
-|90|**_Cincinnati Rollergirls_**|**NA East**|**5**|**227,52**|**4**|
+|90|<span style="color:red">**_Cincinnati Rollergirls_**</span>|**NA East**|**5**|**227,52**|**4**|
 |91|**_Brussels Derby Pixies_**|**Europe**|**5**|**217,68**|**2**|
 |92|**_Twin State Derby_**|**NA East**|**2**|**214,36**|**1**|
 |93|Newcastle Roller Girls|Europe|2|213,68|0|
@@ -112,7 +112,7 @@ The list, updated for this month: (# is number of bouts contributing to the rank
 |97|**_FoCo Roller Derby_**|**NA West**|**3**|**209,42**|**3**|
 |98|**_Chattanooga Roller Girls_**|**NA East**|**6**|**207,52**|**2**|
 |99|**_Black Rose Rollers_**|**NA East**|**5**|**205,78**|**3**|
-|100|**_Akron Roller Derby_**|**NA East**|**5**|**199,09**|**4**|
+|100|<span style="color:red">**_Akron Roller Derby_**</span>|**NA East**|**5**|**199,09**|**4**|
 
 \[We plan to update this list each time WFTDA release a rating and ranking until Playoffs selections\] 
 
