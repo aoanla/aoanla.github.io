@@ -94,7 +94,7 @@ The list, updated for this month: (# is number of bouts contributing to the rank
 |79|Antwerp Roller Derby|Europe|4|266,95|0|
 |80|**_Appalachian Roller Derby_**|**NA East**|**6**|**261,26**|**1**|
 |81|Ottawa Valley Roller Derby|NA East|2|261,22|0|
-|82|<span style="color:red">Humboldt Roller Derby</span>|NA West|5|255,99|4|
+|82|<span style="color:red">**_Humboldt Roller Derby_**</span>|**NA West**|**5**|**255,99**|**4**|
 |83|**_Penn Jersey Roller Derby_**|**NA East**|**4**|**253,75**|**1**|
 |84|<span style="color:red">**_Assassination City Roller Derby_**</span>|**NA West**|**5**|**252,15**|**4**|
 |85|<span style="color:red">**_Kansas City Roller Warriors_**</span>|**NA West**|**6**|**251,78**|**6**|
