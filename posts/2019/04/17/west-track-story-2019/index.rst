@@ -19,13 +19,15 @@ West Track Story 7 will see 5 WFTDA teams compete in a full round-robin tourname
 for a total of 10 games. As with previous years, the event is truly international,
 with each team representing a different country.
 
- - Munich Rolling Rebels representing Germany (WFTDA rating 96.52, FTS Global 552.6)
- - Namur Roller Girls representing Belgium (WFTDA rating 123.31, FTS Global 648.3)
- - Zurich City Roller Derby representing Switzerland (WFTDA rating 152.73, FTS Global 629.7)
+.. image:: /images/2019/04/WTS7-map.png  
+
+- Munich Rolling Rebels representing Germany (WFTDA rating 96.52, FTS Global 552.6)
+- Namur Roller Girls representing Belgium (WFTDA rating 123.31, FTS Global 648.3)
+- Zurich City Roller Derby representing Switzerland (WFTDA rating 152.73, FTS Global 629.7)
 
  and, of course, the hosts
 
- - Nantes Derby Girls representing France, (WFTDA rating 185.91, FTS Global 617.3)
+- Nantes Derby Girls representing France, (WFTDA rating 185.91, FTS Global 617.3)
 
 in addition to Dundee (WFTDA rating 101.41, FTS Global 590.9) .
 
