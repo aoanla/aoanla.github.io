@@ -13,7 +13,7 @@ renaming, an increasing number of international fixtures, and regular British Ch
 attendance.
 
 The team are continuing their onward trend by attending their second tournament in
-France, the 7th edition of Nantes' West Track Story.
+France, the 7th edition of Nantes' West Track Story this weekend (20th-21st April)
 
 West Track Story 7 will see 5 WFTDA teams compete in a full round-robin tournament
 for a total of 10 games. As with previous years, the event is truly international,
