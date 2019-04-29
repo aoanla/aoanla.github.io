@@ -1,6 +1,6 @@
 .. title: Men's World Cup merger!
 .. slug: mrda-mrdwc-2019
-.. date: 2019-04-27 16:00:00 UTC+01:00
+.. date: 2019-04-29 15:00:00 UTC+01:00
 .. tags: mrda, mrdwc, in the news
 .. category:
 .. link:
@@ -27,6 +27,6 @@ Current MRDWC Chair, Statman, told us that he was excited about the development,
  "[This merger] cements the relationship we've been working on for years, and makes a clean path from grassroots all the way to the World Cup Final"
 
 
-.. _announced: https://mrda.org/somefakelink
+.. _announced: https://mrda.org/mrda-mrdwc-agreement/
 .. _Men's Roller Derby Association: https://mrda.org/
 .. _2020 Men's Roller Derby World Cup: http://mrdwc.com/
