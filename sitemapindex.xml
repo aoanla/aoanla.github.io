@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/aoanla.xml</loc>
-  <lastmod>2019-05-02T12:17:00Z</lastmod>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/caleykapowski.xml</loc>
@@ -242,6 +242,10 @@
   <lastmod>2019-03-29T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/argentine-derby.xml</loc>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/arrg.xml</loc>
   <lastmod>2019-03-29T11:56:00Z</lastmod>
  </sitemap>
@@ -279,7 +283,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/australian-derby.xml</loc>
-  <lastmod>2019-05-02T12:17:00Z</lastmod>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/australian-mens-nationals.xml</loc>
@@ -659,11 +663,15 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/czech-derby.xml</loc>
-  <lastmod>2019-05-02T12:17:00Z</lastmod>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/czech-republic.xml</loc>
   <lastmod>2019-03-29T11:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/danish-derby.xml</loc>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/ddrd.xml</loc>
@@ -935,7 +943,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/french-derby.xml</loc>
-  <lastmod>2019-05-02T12:17:00Z</lastmod>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/fresh-meat.xml</loc>
@@ -991,7 +999,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/german-derby.xml</loc>
-  <lastmod>2019-05-02T12:17:00Z</lastmod>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/glasgow-mens-roller-derby.xml</loc>
@@ -1522,6 +1530,10 @@
   <lastmod>2019-03-29T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/mexican-derby.xml</loc>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/mexico.xml</loc>
   <lastmod>2019-03-29T11:56:00Z</lastmod>
  </sitemap>
@@ -1680,6 +1692,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/northern-isles.xml</loc>
   <lastmod>2019-03-29T11:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/norwegian-derby.xml</loc>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/nrg.xml</loc>
@@ -2567,7 +2583,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/uk-derby.xml</loc>
-  <lastmod>2019-05-02T12:17:00Z</lastmod>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/ukrda-directors.xml</loc>
@@ -2707,7 +2723,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/weekend-highlights.xml</loc>
-  <lastmod>2019-05-02T12:17:00Z</lastmod>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/weekly-roundup.xml</loc>
@@ -2815,10 +2831,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2019-05-02T12:17:00Z</lastmod>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2019-05-02T12:17:00Z</lastmod>
+  <lastmod>2019-05-02T13:00:00Z</lastmod>
  </sitemap>
 </sitemapindex>

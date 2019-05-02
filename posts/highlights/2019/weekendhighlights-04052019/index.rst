@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 4/5 May 2019
 .. slug: weekendhighlights-04052019
 .. date: 2019-05-02 12:00 UTC+01:00
-.. tags: weekend highlights, australian derby, uk derby, german derby, french derby, czech derby
+.. tags: weekend highlights, australian derby, uk derby, german derby, french derby, czech derby, mexican derby, norwegian derby, danish derby, argentine derby
 .. category:
 .. link:
 .. description:
@@ -74,6 +74,29 @@ Venue: Apalløkka Idrettshall
 Tjernveien 12, 0957 Oslo, Norway
 
 Starts at: 11:30am Saturday and Sunday
+
+Sat: Bideford, UK
+--------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/1111611035693698/ 
+
+`North Devon Roller Derby`_ hosts the first fixtures in this year's South West Season tournament, returning from last year.
+
+The South West Season is a self-contained mostly-B-teams tournament for the south west of the UK.
+
+.. _North Devon Roller Derby: https://www.instagram.com/northdevonrollerderby/ 
+
+- North Devon B versus Bath B
+- SWAT B (Taunton/Exeter/Cullompton) versus Dorset B
+
+Venue: Bideford College,
+Abbotsham Road,
+Bideford,
+Devon
+
+Starts at: 10:30 Saturday
 
 Sat-Sun, Nîmes, France
 ------------------------------------
