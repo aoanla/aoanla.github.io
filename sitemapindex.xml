@@ -39,7 +39,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/despicablev.xml</loc>
-  <lastmod>2019-03-29T11:56:00Z</lastmod>
+  <lastmod>2019-05-03T11:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/feemccartney.xml</loc>
@@ -307,7 +307,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/bairn-city-rollers.xml</loc>
-  <lastmod>2019-03-29T11:56:00Z</lastmod>
+  <lastmod>2019-05-03T11:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/bairn.xml</loc>
@@ -452,6 +452,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/british-championship.xml</loc>
   <lastmod>2019-03-29T11:57:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/british-championships.xml</loc>
+  <lastmod>2019-05-03T11:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/british-champs.xml</loc>
@@ -2047,7 +2051,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/scottish-roller-derby.xml</loc>
-  <lastmod>2019-03-29T11:56:00Z</lastmod>
+  <lastmod>2019-05-03T11:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/severn-roller-torrent.xml</loc>
@@ -2535,7 +2539,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/tournaments.xml</loc>
-  <lastmod>2019-04-23T11:05:00Z</lastmod>
+  <lastmod>2019-05-03T11:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/toxic-lima-roller-derby.xml</loc>
@@ -2831,10 +2835,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2019-05-02T13:00:00Z</lastmod>
+  <lastmod>2019-05-03T11:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2019-05-02T13:00:00Z</lastmod>
+  <lastmod>2019-05-03T11:27:00Z</lastmod>
  </sitemap>
 </sitemapindex>
