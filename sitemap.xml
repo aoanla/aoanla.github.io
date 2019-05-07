@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.scottishrollerderbyblog.com/</loc>
-  <lastmod>2019-04-23T11:05:00Z</lastmod>
+  <lastmod>2019-05-07T20:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/2011/</loc>
@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2019-05-03T11:26:00Z</lastmod>
+  <lastmod>2019-05-07T20:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -3247,7 +3247,11 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-91.html</loc>
-  <lastmod>2019-05-03T11:26:00Z</lastmod>
+  <lastmod>2019-05-07T20:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/index-92.html</loc>
+  <lastmod>2019-05-07T20:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/listings/</loc>
@@ -6948,6 +6952,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/05/a_positive_start_to_2019_for_bcr/</loc>
   <lastmod>2019-05-03T11:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/2019/05/guest-series-the-road-to-playoffs-may-2019-edition/</loc>
+  <lastmod>2019-05-07T20:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2561/</loc>
