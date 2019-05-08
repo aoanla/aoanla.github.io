@@ -304,7 +304,8 @@ Sat: Warsaw, Poland
 `Warsaw Hellcats Roller Girls`_ host an international double header, with
 both a WFTDA- and MRDA-gender bout. Both are exciting, as this is one of the first chances
 to see Riga's team play; and the men's National teams bout is one of the first such games
-of the current National teams season.
+of the current National teams season (technically, "Polish Men's Roller Derby" isn't
+the Polish National Men's team, but it *is* all the Polish male skaters in Poland...).
 
 .. _Warsaw Hellcats Roller Girls: http://www.warsawhellcats.com
 
