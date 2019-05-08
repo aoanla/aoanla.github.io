@@ -60,7 +60,7 @@ Sun: Buenos Aires, Argentina
 
 `Chat Noir Roller Derby`_ host a double header of Roller Derby
 
-- Chat Noir ( ) versus Snap! ( )
+- Chat Noir ( ) versus SECRET OPPONENTS ( )
 - Alianza Rebelde ( ) versus Bloody Furias ( )
 
 .. _Chat Noir Roller Derby: https://www.instagram.com/chatnoir.rd/

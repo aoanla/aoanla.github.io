@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2019-05-07T20:02:00Z</lastmod>
+  <lastmod>2019-05-08T09:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -167,7 +167,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/</loc>
-  <lastmod>2019-05-03T11:26:00Z</lastmod>
+  <lastmod>2019-05-08T09:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/2011-blood-thunder-roller-derby-world-cup/</loc>
@@ -342,6 +342,10 @@
   <lastmod>2019-04-17T10:33:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/austrian-derby/</loc>
+  <lastmod>2019-05-08T09:32:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/austrian-nationals/</loc>
   <lastmod>2019-04-17T10:33:00Z</lastmod>
  </url>
@@ -420,6 +424,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/belfast-roller-derby/</loc>
   <lastmod>2019-04-17T10:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/belgian-derby/</loc>
+  <lastmod>2019-05-08T09:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/belter-skelpers/</loc>
@@ -866,6 +874,10 @@
   <lastmod>2019-04-17T10:33:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/dutch-derby/</loc>
+  <lastmod>2019-05-08T09:32:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/ecdx/</loc>
   <lastmod>2019-04-17T10:33:00Z</lastmod>
  </url>
@@ -1310,6 +1322,10 @@
   <lastmod>2019-04-17T10:33:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/italian-derby/</loc>
+  <lastmod>2019-05-08T09:32:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/jack-kane-centre/</loc>
   <lastmod>2019-04-17T10:33:00Z</lastmod>
  </url>
@@ -1706,6 +1722,10 @@
   <lastmod>2019-04-17T10:33:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/new-zealand-derby/</loc>
+  <lastmod>2019-05-08T09:32:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/newcastle-roller-girls/</loc>
   <lastmod>2019-04-17T10:33:00Z</lastmod>
  </url>
@@ -1858,8 +1878,16 @@
   <lastmod>2019-04-17T10:33:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/polish-derby/</loc>
+  <lastmod>2019-05-08T09:32:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/polish-roller-derby/</loc>
   <lastmod>2019-04-17T10:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/portugueuse-derby/</loc>
+  <lastmod>2019-05-08T09:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/power-jam/</loc>
@@ -2244,6 +2272,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/swede-hurt/</loc>
   <lastmod>2019-04-17T10:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/swedish-derby/</loc>
+  <lastmod>2019-05-08T09:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/swedish-seriespel/</loc>
@@ -3251,7 +3283,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-92.html</loc>
-  <lastmod>2019-05-07T20:02:00Z</lastmod>
+  <lastmod>2019-05-08T09:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/listings/</loc>
@@ -7008,5 +7040,9 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-04052019/</loc>
   <lastmod>2019-05-02T12:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-11052019/</loc>
+  <lastmod>2019-05-07T20:02:00Z</lastmod>
  </url>
 </urlset>
