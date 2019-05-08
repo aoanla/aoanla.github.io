@@ -350,6 +350,13 @@ tournament series to give mixed (gender?) teams a regular set of games.
 
 .. _Westside Derby Dollz: http://www.westsidederbydollz.org.au
 
+Participating teams:
+
+- Ballarat Roller Derby League
+- Kingston City Rollers
+- Victoria Men's Roller Derby (B)
+- Westside Derby Dollz (Wreckers)
+
 *These bouts are not currently listed in Flat Track Stats.*
 
 Event starts: 1400 Saturday (doors open)
