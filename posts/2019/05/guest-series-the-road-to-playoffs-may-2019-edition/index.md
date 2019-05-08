@@ -9,7 +9,7 @@ Whilst we can't predict the future, this will give the best guess of what teams 
 
 As well as attaining a minimum ranking, teams also need to play at least 4 bouts within the eligibility period (December 2018 to June 2019), and we'll be tracking their progress on this measure, too.
 
-The list, updated for this month: (# is number of bouts contributing to the ranking, whilst #El is the number of bouts contributing to their eligibility for playoffs). We'll colour teams to indicate when they've played their minimum number of games for eligibility, but as yet, it's too early for anyone to have met this. We've eliminated any teams which have played less than 2 games since July 2018 here. Teams which have shifted rating (or entered the chart for the first time) since the last article are in **_BOLD ITALICS_**|28|Dublin Roller Derby|Europe|8|536|59|5
+The list, updated for this month: (# is number of bouts contributing to the ranking, whilst #El is the number of bouts contributing to their eligibility for playoffs). We'll colour teams to indicate when they've played their minimum number of games for eligibility, but as yet, it's too early for anyone to have met this. We've eliminated any teams which have played less than 2 games since July 2018 here. Teams which have shifted rating (or entered the chart for the first time) since the last article are in **_BOLD ITALICS_**
 
 |Rk.|Team|Continental Cup|#|Points|#El|
 |---:|:---:|:----:|---|---:|---:|
