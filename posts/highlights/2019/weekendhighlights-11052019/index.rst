@@ -375,12 +375,13 @@ Sat: Wellington, New Zealand
 .. __: http://flattrackstats.com/bouts/109888/overview
 .. __: http://flattrackstats.com/bouts/109889/overview
 
-`Richter City Roller Derby`_ hosts a double header of NZ derby.
+`Richter City Roller Derby`_ hosts a double header of NZ derby. The first bout is an OTA game between two guest leagues, 
+whilst the hosts are playing one of their New Zealand Top 10 fixtures in the second.
 
 .. _Richter City Roller Derby: http://www.richtercity.co.nz
 
-- Richter City Roller Derby (Wellington) versus Whenua Fatales (Levin)
 - West Coast Bombers (Wanganui) versus Remutaka (Upper Hutt/Remutaka region)
+- Richter City Roller Derby (Wellington) versus Whenua Fatales (Levin)
 
 Event starts: 1600 Sat (doors open)
 
