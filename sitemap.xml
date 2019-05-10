@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2019-05-08T09:32:00Z</lastmod>
+  <lastmod>2019-05-10T09:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -167,7 +167,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/</loc>
-  <lastmod>2019-05-08T09:32:00Z</lastmod>
+  <lastmod>2019-05-10T09:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/2011-blood-thunder-roller-derby-world-cup/</loc>
@@ -1144,6 +1144,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/grd/</loc>
   <lastmod>2019-04-17T10:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/greek-derby/</loc>
+  <lastmod>2019-05-10T09:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/grg/</loc>
@@ -3283,7 +3287,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-92.html</loc>
-  <lastmod>2019-05-08T09:32:00Z</lastmod>
+  <lastmod>2019-05-10T09:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/listings/</loc>
@@ -7043,6 +7047,10 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-11052019/</loc>
+  <lastmod>2019-05-07T20:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-12052019/</loc>
   <lastmod>2019-05-07T20:02:00Z</lastmod>
  </url>
 </urlset>
