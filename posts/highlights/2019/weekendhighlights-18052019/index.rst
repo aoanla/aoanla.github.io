@@ -82,7 +82,9 @@ Sat: Pyeongtaek, South Korea
 
 .. __: https://www.facebook.com/events/341945206680399/
 
-`OH! Roller Derby`_ (the only active team in South Korea, at the USAG Humphreys base) host an open scrimmage - listed here as it's using Short Track Roller Derby rules.
+`OH! Roller Derby`_ [Facebook link, as no other social media] (the only active team in South Korea, at the USAG Humphreys base) host an open scrimmage - listed here as it's using Short Track Roller Derby rules.
+
+.. _OH! Roller Derby: https://www.facebook.com/OHDerbyKorea/
 
 Event starts: 1200 Saturday
 
