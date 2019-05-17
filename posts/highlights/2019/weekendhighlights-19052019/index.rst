@@ -21,12 +21,6 @@ get themselves an actual webpage [we can help host one if you need help]).
 
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
-..
-  Items to add:
-  https://www.facebook.com/events/299803043972067/(Cario Jam - Roanne, France)
-  or
-  multiple other good French fixtures
-
 Sun: Maylands, WA, Australia
 --------------------------------
 

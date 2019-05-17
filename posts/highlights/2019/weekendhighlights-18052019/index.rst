@@ -71,9 +71,9 @@ Sat-Sun: Sydney, NSW, Australia
   - Tasmanian Men's Roller Derby
   - Men of Steel (Newcastle M)
 
-Event starts: ??
+Event starts: 1400 Saturday
 
-Venue: ??
+Venue: Dunc Gray Velodrome, Bass Hill, Sydney, NSW, Australia
 
 Sat: Pyeongtaek, South Korea
 -------------------------------
