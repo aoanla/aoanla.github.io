@@ -322,9 +322,11 @@ Sat-Sun: Curitiba, Brazil
 
 - Sun:
 
-  - Blue Jay Rollers (Curitiba) versus Thunder Rats Derby Squad (Santos)
+  - <s>Blue Jay Rollers (Curitiba) versus Thunder Rats Derby Squad (Santos)</s>
   - Blue Jay Rollers versus Iron Ladies Roller Derby (Blumenau)
-  - Thunder Rats Derby Squad versus Iron Ladies Roller Derby
+  - <s>Thunder Rats Derby Squad versus Iron Ladies Roller Derby</s>
+
+*Note, due to problems with Thunder Rats attending the event, their games were replaced with games against a pick-up team from skaters present*
 
 Event starts: 0900 Saturday (doors open)
 
