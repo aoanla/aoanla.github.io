@@ -409,10 +409,12 @@ Sat-Sun: Madrid, Spain
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
 
 .. __: https://www.facebook.com/events/2316568251995837/
 .. __: http://flattrackstats.com/node/109754
+.. __: http://flattrackstats.com/node/110104
 
 `Roller Derby Madrid`_ hosts a double-header with international roller derby and a chance to see one of the new "hybrid" Teams formed for the
 ARDE Spanish Nationals for the first time. "Frankensteam" consists of a fusion of skaters from Salamanca, Cáceres and Badalona, and this will be the first time they've played in public!
@@ -421,8 +423,6 @@ ARDE Spanish Nationals for the first time. "Frankensteam" consists of a fusion o
 
 - Roller Derby Madrid A versus Gothenburg A
 - Roller Derby Madrid B versus Frankensteam (Spanish hybrid)
-
-*As Frankensteam is unrateable (at present), that bout is not listed in FTS*
 
 Event starts: 1530 Saturday (first bout?)
 
