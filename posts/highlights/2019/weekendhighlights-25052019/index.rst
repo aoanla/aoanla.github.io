@@ -468,7 +468,7 @@ Event starts: 1000 Saturday
 
 Venue: Centro Esportivo Tietê, Avenida Santos Dumont 843. São Paulo, Brazil
 
-Sat: Chillán, Chile
+Sat-Sun: Chillán, Chile
 --------------------------------
 
 `[FACEBOOK LINK]`__
@@ -480,11 +480,14 @@ Sat: Chillán, Chile
 .. __: http://flattrackstats.com/node/110039
 
 `Chillanrolleros`_ host the semi-finals of Chilean Men's National tournament, Torneo X Men for 2019. As with previous coverage of the Torneo X Men, there's almost nothing public about this event, and we can't even confirm the venue!
+(It's since become more clear that this is also the finals of the Torneo X, on the Sunday. Standby for more info as it is made public.)
 
 .. _Chillanrolleros: https://www.instagram.com/chillanrolleros_derbyclub
 
 - Bototos Bandidos (Valparaíso) versus Indomitos (Valdivia M)
 - Terror SQuad (Santiago M) versus Chillanrolleros (Chillán M)
+- (Losers for 3rd Place) Sunday
+- (Winners for 1st Place) Sunday
 
 Event starts: 1200 Sat (first bout)
 
