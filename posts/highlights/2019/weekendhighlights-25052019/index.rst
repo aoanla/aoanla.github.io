@@ -537,6 +537,42 @@ Event starts: 0800 Saturday (doors open / registration)
 
 Venue: Centro Deportivo Villa Olimpica, Avenida Insurgentes Sur, Tlalpan, Distro Federal, Mexico
 
+
+++++++++++++++++
+
+
+SPECIAL MENTION TO, ALSO, THESE NORTH AMERICAN TOURNAMENTS, OF INTEREST AS THEY FEATURE EUROPEAN COMPETITORS:
+================================================================================================================
+
+Sat-Sun: Rome, NY, USA
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/1146751268826332/
+.. __: http://flattrackstats.com/tournaments/110151
+
+`Mohawk Valley Roller Derby`_ hosts the Mohawk Valley Cup 2019, the regular Men's Roller Derby tournament sanctioned by MRDA. This is of interest to us due to the attendance of Brussels' `Manneken Beasts`_.
+
+.. _Mohawk Valley Roller Derby: https://www.instagram.com/mvrd_ny
+.. _Manneken Beasts: https://www.instagram.com/mannekenbeasts/
+
+- Competing:
+
+  - Chinook City Roller Derby
+  - Flour City Fear 
+  - Toronto Men's Roller Derby
+  - Mass Maelstrom
+  - Twin Cities Terrors
+  - Montréal Roller Derby Masculin
+  - **Manneken Beasts**
+  - Mohawk Valley Roller Derby
+
+  Event starts: 0900 Saturday
+
+  Venue: John F. Kennedy Arena, 500 West Embargo St, Rome, NY, USA
+
 ..
   Sat-Sun:
   --------------------------------
