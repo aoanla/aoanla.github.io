@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.scottishrollerderbyblog.com/</loc>
-  <lastmod>2019-05-22T14:23:00Z</lastmod>
+  <lastmod>2019-05-27T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/2011/</loc>
@@ -47,11 +47,11 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2019-05-23T11:26:00Z</lastmod>
+  <lastmod>2019-05-27T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
-  <lastmod>2019-05-22T14:23:00Z</lastmod>
+  <lastmod>2019-05-27T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/aleishaduke/</loc>
@@ -160,6 +160,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/wearethedrd/</loc>
   <lastmod>2019-05-22T14:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/authors/wilken/</loc>
+  <lastmod>2019-05-27T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/zenrhe/</loc>
@@ -3399,7 +3403,11 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-92.html</loc>
-  <lastmod>2019-05-23T11:26:00Z</lastmod>
+  <lastmod>2019-05-27T08:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/index-93.html</loc>
+  <lastmod>2019-05-27T08:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/listings/</loc>
@@ -7104,6 +7112,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/05/arde-spanish-champs-2019/</loc>
   <lastmod>2019-05-20T15:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/2019/05/guest-post-tnt-roundup-hull-year/</loc>
+  <lastmod>2019-05-27T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/05/guest-series-the-road-to-playoffs-may-2019-edition/</loc>
