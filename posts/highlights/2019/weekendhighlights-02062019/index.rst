@@ -1,6 +1,6 @@
-.. title: Weekend Highlights: 01 June 2019
+.. title: Weekend Highlights: 02 June 2019
 .. slug: weekendhighlights-02062019
-.. date: 2019-05-30 12:00 UTC+01:00
+.. date: 2019-05-30 08:30 UTC+01:00
 .. tags: weekend highlights, australian roller derby, belgian roller derby, okinawan roller derby, japanese roller derby, french roller derby, british roller derby, chilean roller derby
 .. category:
 .. link:
