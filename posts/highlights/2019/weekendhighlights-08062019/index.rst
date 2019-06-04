@@ -24,6 +24,7 @@ Locations are roughly organised East-West (with things before the weekend out se
 
 .. image:: /images/2019/06/08Jun-wkly-map.png
   :alt: Map of all events (coded by type)
+  :width: 100 %
 
 ..
 
@@ -201,6 +202,25 @@ Sat: Örebro, Sweden
 Event starts: 1030 Saturday (doors open)
 
 Venue: 	Idrottshuset, SE-702 16 Örebro, Sweden
+
+Sat: Cape Town, South Africa
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/454995141742222/
+
+`Cape Town Rollergirls`_ tried Rolla Skate Club's Short Track Roller Derby once, and loved it, so they're doing it again!
+This is a Short Track home-teams bout, followed by a roller disco for all attendees!
+
+.. _Cape Town Rollergirls: http://www.capetownrollergirls.com/
+
+- Short Track bout
+- Roller Disco
+
+Event starts: 1700 Saturday (game start)
+
+Venue: Waterville St, Milnerton Rural, Cape Town, South Africa
 
 
 Sat: Regensburg, Germany
