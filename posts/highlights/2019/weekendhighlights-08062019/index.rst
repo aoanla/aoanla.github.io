@@ -246,6 +246,31 @@ Event starts 1430 Saturday (doors open)
 
 Venue: Clermont-Ferrand-Allee 23, Regensburg, Germany
 
+Sat: Milan, Italy
+--------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/teamitalyrollerderby/photos/a.256140751213683/1210834615744287/?type=3
+.. __: http://flattrackstats.com/bouts/110311/overview
+
+`Team Italy Roller Derby`_ hosts a transalpine National Teams triple header, including a rare "cross-gender-policy" bout (a mixed team of 
+RDWC Team Switzerland + Team Italy against MRDWC Team Italy). 
+
+.. _Team Italy Roller Derby: https://www.instagram.com/team_italy_rd/
+
+- Team Italy (Italy W) versus Team Switzerland (Switzerland W)
+- Team Switzerland (Switzerland OTA) versus Woodgang (Milan OTA)
+- Team Switzaly (Switzerland+Italy W mixed) versus Men's Team Italy (Italy M)
+
+*Only The Italy v Switzerland game can be listed in FTS, as, for example, there's no record of an "OTA" Team Switzerland to list.*
+
+Event starts: 1400 Sat (first game)
+
+Venue: Centro Sportivo Vismara, Via dei Missaglia, Milan, Italy
+
+
 
 Sat-Mon: Oberhausen, Germany
 --------------------------------
