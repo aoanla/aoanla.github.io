@@ -105,10 +105,12 @@ Sat-Sun: Beijing, China
 .. __: https://www.facebook.com/events/333943183987623/
 
 `Beijing Roller Derby`_ host a Roller Derby "Sur5al Bootcamp", an intensive bootcamp in all aspects of WFTDA derby. The morning includes an introductory session on what WFTDA derby is, into parallel sessions on skater-skills, and officiating-skills. After lunch, there are sessions on
-communication, followed by a practical series of skater drills (with on-the-job training for officials as part of this), finalising with a block of Sur5al-rules scrimmage to end the day.
+communication, followed by a practical series of skater drills (with on-the-job training for officials as part of this), finalising with a block of Sur5al-rules scrimmage to end the day. [EDIT: as of this update, the programme of events has changed - this is now a `Rolla Skate Club`_ Short Track Roller Derby scrimmage ending the day!
+
 (For survivors still in Beijing on Sunday, there's a lunch debrief and get together.)
 
 .. _Beijing Roller Derby: https://beijingrollerderby.weebly.com/
+.. _Rolla Skate Club: https://rollaskateclub.com/short-track-roller-derby-resources/
 
 - Morning:
 
@@ -118,7 +120,7 @@ communication, followed by a practical series of skater drills (with on-the-job 
 - Afteroon
 
   - Practical skater drills & officiating
-  - Sur5al Scrimmage
+  - **Short Track** Scrimmage
 
 
 Event starts: 0800 Saturday (registration), 0915 (introduction)
