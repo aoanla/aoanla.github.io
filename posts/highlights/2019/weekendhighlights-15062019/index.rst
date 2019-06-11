@@ -270,21 +270,39 @@ Sat-Sun: Pertuis, France
 .. __: https://www.facebook.com/events/419081812214096/
 .. __: pending
 
-`Marseille Roller Derby Club`_ host "Paca l'eau, bientôt la bagarre", a "Regional Tournament" for the teams of Provence-Alpes-Côte d'Azur.
+`Marseille Roller Derby Club`_ host "Paca l'eau, bientôt la bagarre", a "Regional Tournament" for the teams of Provence-Alpes-Côte d'Azur. Thank you to Lise Bonvalot for help with the schedule here.
 
 .. _Marseille Roller Derby Club: http://www.marseillerollerderby.fr/
 
 - Teams involved:
 
   - Les Amazones (Pays d'Aix)
-  - Nice Roller Derby
-  - Sisters in Arms (Gap)
-  - Toxic Ladies (Toulon)
-  - Marseille Roller Derby Club
+  - "Les Morues du Sud" (Nice Roller Derby/Sisters in Arms (Gap)/Toxic Ladies (Toulon))
+  - Mars Invaders: Marseille Roller Derby Club
   - Rabbit Skulls B (Avignon B)
-  - Roller Derby Club Bastiacciu (Bastia)
+  - Rolling Castagne: Roller Derby Club Bastiacciu (Bastia)
 
-Event starts: 0930 Saturday
+- Schedule (Sat - 30 min, single period games)
+
+  - Nice/Toulon/Gap versus Avignon
+  - Marseille versus Aix
+  - Nice/Toulon/Gap versus Bastia
+  - Avignon versus Aix
+  - Bastia versus Marseille
+  - Aix versus Nice/Toulon/Gap
+  - Avignon versus Marseille
+  - Aix versus Bastia
+
+- Schedule (Sun - 30 min single period, unless noted)
+
+  - Marseille versus Nice/Toulon/Gap
+  - Bastia versus Avignon
+  - 3rd Place game : 3eme versus 4eme (2 x 30 min)
+  - Men's open subscription game (2 x 20 min)
+  - artistic roller skating demo
+  - Final : 2eme versus 1er (2 x 30 min) 
+
+Event starts: 0915 Saturday (doors open)
 
 Venue: "Stade Verdun" Pertuis, Avenue de Verdun, Pertuis, France
 
