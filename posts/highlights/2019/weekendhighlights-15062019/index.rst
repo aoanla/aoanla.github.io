@@ -386,9 +386,10 @@ Sat: Bogotá, Colombia
 
 .. __: https://www.facebook.com/events/797096274017458/
 
-`Rock N Roller Queens`_ [link to Facebook, as website link down] are just one of the skating-related clubs participating in the 3rd annual Fiesta Roller Dance Bogotá, a celebration of all kinds of skates-related things in the city. (This edition is branding itself as "Urban", so we expect a different focus to previous editions.)
+`Rock N Roller Queens`_ [link to Facebook, as website link down] and `Combativas Revoltosas`_ are just one of the skating-related clubs participating in the 3rd annual Fiesta Roller Dance Bogotá, a celebration of all kinds of skates-related things in the city. (This edition is branding itself as "Urban", so we expect a different focus to previous editions.)
 
 .. _Rock N Roller Queens: https://www.facebook.com/RockNRollerQueens/
+.. _Combativas Revoltosas: https://www.instagram.com/combativasrevoltosas/
 
 Event starts: 1800 Saturday
 

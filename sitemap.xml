@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.scottishrollerderbyblog.com/</loc>
-  <lastmod>2019-06-11T10:57:00Z</lastmod>
+  <lastmod>2019-06-12T06:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/2011/</loc>
@@ -47,11 +47,11 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2019-06-11T10:57:00Z</lastmod>
+  <lastmod>2019-06-12T07:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
-  <lastmod>2019-06-11T10:57:00Z</lastmod>
+  <lastmod>2019-06-12T06:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/aleishaduke/</loc>
@@ -171,7 +171,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/</loc>
-  <lastmod>2019-06-11T10:57:00Z</lastmod>
+  <lastmod>2019-06-12T07:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/2011-blood-thunder-roller-derby-world-cup/</loc>
@@ -2358,6 +2358,10 @@
   <lastmod>2019-06-11T10:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/small-teams/</loc>
+  <lastmod>2019-06-12T07:02:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/smarty-pants/</loc>
   <lastmod>2019-04-17T10:33:00Z</lastmod>
  </url>
@@ -3487,7 +3491,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-93.html</loc>
-  <lastmod>2019-06-11T10:57:00Z</lastmod>
+  <lastmod>2019-06-12T07:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/listings/</loc>
@@ -7295,7 +7299,11 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-15062019/</loc>
-  <lastmod>2019-06-11T10:57:00Z</lastmod>
+  <lastmod>2019-06-12T06:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-16062019/</loc>
+  <lastmod>2019-06-12T07:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-18052019/</loc>
