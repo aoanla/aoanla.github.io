@@ -133,11 +133,11 @@ Sun: Limoges, France
 .. __: http://flattrackstats.com/bouts/110458/overview
 .. __: http://flattrackstats.com/bouts/110459/overview
 
-Limoges' `Porcelain Dolls`_ host a triple header of French roller derby for a less-than-quiet Sunday. This is a round-robin tournament between Limogues, Quads de Paris, and Toulouse!
+Limoges' `Porcelain Dolls`_ host a triple header of French roller derby for a less-than-quiet Sunday. This is a round-robin tournament between Limoges, Quads de Paris, and Toulouse!
 
 .. _Porcelain Dolls: http://www.limogesrollerskating.info/roller-derby/
 
-- Rainbow Furies (Toulouse C) versus Porcelain Dolls (Limogues)
+- Rainbow Furies (Toulouse C) versus Porcelain Dolls (Limoges)
 - La Carcasse (Quads de Paris C) versus Rainbow Furies
 - Porcelain Dolls versus La Carcasse
 
