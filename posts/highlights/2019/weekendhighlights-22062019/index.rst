@@ -377,6 +377,25 @@ Event starts: 1100 Saturday (first game)
 
 Venue: Complejo deportivo Jonatan Araya, Tranque sur Forestal, Viña del Mar, Chile
 
+Sat: Ciudad Juárez, Mexico
+--------------------------------
+
+`[FACEBOOK LINK (flyer, no event)]`__
+
+.. __: https://www.facebook.com/medias.rotas.RD/photos/a.899314763450580/2261445187237524/?type=3
+
+`Medias Rotas Roller Derby`_ host an exciting, and relatively rare event: a junior team playing their own adult team!
+
+.. _Medias Rotas Roller Derby: https://www.instagram.com/mediasrotasrd/
+
+- Medias Rotas Roller Derby versus Medias Rotas Juniors!
+
+*Not listed on FTS, as FTS has historically not tracked juniors well*
+
+Event starts: 1930 Saturday
+
+Venue: Parque Fidel Velázquez VI, Ciudad Juárez, Mexico
+
 =====
 
 
