@@ -222,7 +222,7 @@ Sat: Newcastle-upon-Tyne, UK
 
 .. __: https://www.facebook.com/events/868774843475083/
 
-`Newcastle Roller Girls`_ host a home teams tournament, with a little bit of mystery Tyne&Fear at the end.
+`Newcastle Roller Girls`_ host a home teams tournament, with a little bit of mystery Tyne&Fear at the end, to celebrate their 10th anniversary as a league! (Happy birthday, Newcastle!)
 
 .. _Newcastle Roller Girls: https://www.newcastlerollergirls.co.uk/
 
