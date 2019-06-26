@@ -406,6 +406,31 @@ Event starts: 1600 Saturday
 Venue: Alberto Bolliger, 120-Juvevê, Curitiba, Brazil
 
 
+Sat: Queretaro, Mexico
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
+
+.. __: https://www.facebook.com/events/2763446470350046/
+.. __: http://flattrackstats.com/bouts/110649/overview
+.. __: http://flattrackstats.com/bouts/110650/overview
+.. __: http://flattrackstats.com/bouts/110651/overview
+
+`Rock City Roller Derby`_ host, with their usual exceptionally late notice, a triple header of Mexican derby. This is all Queretaro versus CDMX, with all three games pitting the two cities against each other at different levels.
+
+.. _Rock City Roller Derby: https://www.instagram.com/rockcityrd/
+
+- Nymerias (Queretaro) versus Burdel Zombie (CDMX B?)
+- Crows (Queretaro M) versus Quimeras (CDMX)
+- Ravens (Queretaro B) versus Tekilleras (CDMX B)
+
+Event starts: 1200 Saturday (first game)
+
+Venue: UAQ Campus Juriquilla, Av. de las Ciencias Sin Número Campus Juriquilla Juriquilla, Queretaro, Mexico
+
 =====
 
 
