@@ -96,9 +96,10 @@ Fri: Durban, South Africa
 
 .. __: https://www.facebook.com/events/1094454724091549/
 
-`Durban Roller Derby`_ follow in Cape Town's experimental footsteps, and host a scrimmage using Rolla Skate Club's Short Track Roller Derby rules, as part of the Durban Pride events!
+`Durban Roller Derby`_ follow in Cape Town's experimental footsteps, and host a scrimmage using Rolla Skate Club's `Short Track Roller Derby`_ rules, as part of the Durban Pride events!
 
-.. _Durban Roller Derby:
+.. _Durban Roller Derby: http://www.durbanrollerderby.co.za/
+.. _Short Track Roller Derby: https://rollaskateclub.com/short-track-roller-derby-resources/
 
 - Team Rainbow Ravens versus Team Glitter Crash-Hers
 
