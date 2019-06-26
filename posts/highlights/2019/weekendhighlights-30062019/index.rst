@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 30 June 2019
 .. slug: weekendhighlights-30062019
 .. date: 2019-06-26 14:30 UTC+01:00
-.. tags: weekend highlights,
+.. tags: weekend highlights, british roller derby, australian roller derby, french roller derby, south african roller derby, argentine roller derby, brazilian roller derby, dutch roller derby, swiss roller derby
 .. category:
 .. link:
 .. description:
