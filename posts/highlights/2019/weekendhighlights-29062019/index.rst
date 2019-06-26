@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 29 June 2019
 .. slug: weekendhighlights-29062019
 .. date: 2019-06-24 20:40 UTC+01:00
-.. tags: weekend highlights, austrian roller derby, mexican roller derby, british roller derby, british championships, german roller derby, czech roller derby, irish roller derby, french roller derby, belgian roller derby, australian roller derby, new zealand roller derby, costa rican roller derby, brazilian roller derby, italian roller derby, norwegian roller derby, national tournament, estonian roller derby
+.. tags: weekend highlights, austrian roller derby, mexican roller derby, british roller derby, british championships, german roller derby, czech roller derby, irish roller derby, french roller derby, belgian roller derby, australian roller derby, new zealand roller derby, costa rican roller derby, brazilian roller derby, italian roller derby, norwegian roller derby, national tournament, estonian roller derby, south african roller derby
 .. category:
 .. link:
 .. description:
@@ -88,6 +88,23 @@ Sat: Devonport, TAS, AUZ
 Event starts: 1630 Saturday (doors open)
 
 Venue: Devonport Basketball Stadium, Forbes Road, Devonport, TAS, Australia
+
+Fri: Durban, South Africa
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/1094454724091549/
+
+`Durban Roller Derby`_ follow in Cape Town's experimental footsteps, and host a scrimmage using Rolla Skate Club's Short Track Roller Derby rules, as part of the Durban Pride events!
+
+.. _Durban Roller Derby:
+
+- Team Rainbow Ravens versus Team Glitter Crash-Hers
+
+Event starts: 1900 Friday (doors open)
+
+Venue: APN Portuguese Club, 5 Wright Place, Durban, South Africa
 
 Wed-Fri: Mustvee, Estonia
 --------------------------------
