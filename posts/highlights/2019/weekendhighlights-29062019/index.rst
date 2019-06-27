@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 29 June 2019
 .. slug: weekendhighlights-29062019
 .. date: 2019-06-24 20:40 UTC+01:00
-.. tags: weekend highlights, austrian roller derby, mexican roller derby, british roller derby, british championships, german roller derby, czech roller derby, irish roller derby, french roller derby, belgian roller derby, australian roller derby, new zealand roller derby, costa rican roller derby, brazilian roller derby, italian roller derby, norwegian roller derby, national tournament, estonian roller derby, south african roller derby
+.. tags: weekend highlights, austrian roller derby, mexican roller derby, british roller derby, british championships, german roller derby, czech roller derby, irish roller derby, french roller derby, belgian roller derby, australian roller derby, new zealand roller derby, costa rican roller derby, brazilian roller derby, italian roller derby, norwegian roller derby, national tournament, estonian roller derby, south african roller derby, argentine roller derby
 .. category:
 .. link:
 .. description:
@@ -404,6 +404,29 @@ Sat: Curitiba, Brazil
 Event starts: 1600 Saturday
 
 Venue: Alberto Bolliger, 120-Juvevê, Curitiba, Brazil
+
+Sat: Neuquén, Argentina
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+
+.. __: https://www.facebook.com/events/2405019606454108/
+.. __: http://flattrackstats.com/bouts/110660/overview
+.. __: http://flattrackstats.com/bouts/110664/overview
+
+`Hienas de la Calle`_ host a triple header event, as they host teams from Fiske Menuco and locally, as well as a Open To All black v white scrimmage.
+
+.. _Hienas de la Calle: https://www.instagram.com/hienasdelacalle/
+
+- Hienas de la Calle A (Neuquén) versus Mandragoras (Fiske Menuco/General Roca)
+- Hienas de la Calle B versus Malditas X (Neuquén)
+- OTA Gender Scrimmage
+
+Event starts: 1600 Saturday
+
+Venue: Gimnasio N° 1, Mengelle 2000,  Cipolletti, Argentina
 
 
 Sat: Queretaro, Mexico
