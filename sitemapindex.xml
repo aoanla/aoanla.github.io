@@ -54,6 +54,10 @@
   <lastmod>2019-06-12T10:11:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/authors/hazzard.xml</loc>
+  <lastmod>2019-07-04T10:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/ihorror67.xml</loc>
   <lastmod>2019-06-12T10:11:00Z</lastmod>
  </sitemap>
@@ -1235,7 +1239,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/guest-posts.xml</loc>
-  <lastmod>2019-06-17T15:34:00Z</lastmod>
+  <lastmod>2019-07-04T10:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/hades-roller-boys.xml</loc>
@@ -1403,7 +1407,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/italian-roller-derby.xml</loc>
-  <lastmod>2019-07-01T18:08:00Z</lastmod>
+  <lastmod>2019-07-04T10:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/jack-kane-centre.xml</loc>
@@ -1787,7 +1791,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/national-tournaments.xml</loc>
-  <lastmod>2019-06-17T15:34:00Z</lastmod>
+  <lastmod>2019-07-04T10:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/new-bouters.xml</loc>
@@ -2310,6 +2314,10 @@
   <lastmod>2019-03-27T14:20:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/skate-im-ring.xml</loc>
+  <lastmod>2019-07-04T10:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/skate-park-event.xml</loc>
   <lastmod>2019-06-12T10:11:00Z</lastmod>
  </sitemap>
@@ -2795,7 +2803,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/tournaments.xml</loc>
-  <lastmod>2019-06-19T12:18:00Z</lastmod>
+  <lastmod>2019-07-04T10:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/toxic-lima-roller-derby.xml</loc>
@@ -3142,6 +3150,10 @@
   <lastmod>2019-06-17T15:34:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/de/authors/hazzard.xml</loc>
+  <lastmod>2019-07-04T10:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/de/authors/ihorror67.xml</loc>
   <lastmod>2019-06-17T15:34:00Z</lastmod>
  </sitemap>
@@ -3239,10 +3251,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2019-07-01T18:08:00Z</lastmod>
+  <lastmod>2019-07-04T10:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2019-07-01T18:08:00Z</lastmod>
+  <lastmod>2019-07-04T10:00:00Z</lastmod>
  </sitemap>
 </sitemapindex>
