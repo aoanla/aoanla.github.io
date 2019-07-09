@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 13 July 2019
 .. slug: weekendhighlights-13072019
 .. date: 2019-07-08 19:40 UTC+01:00
-.. tags: weekend highlights, new zealand roller derby, australian roller derby, british roller derby, mexican roller derby, french roller derby, short track roller derby, italian roller derby, german roller derby, national tournaments
+.. tags: weekend highlights, new zealand roller derby, australian roller derby, british roller derby, mexican roller derby, french roller derby, short track roller derby, italian roller derby, german roller derby, national tournaments, mexican roller derby, spanish roller derby
 .. category:
 .. link:
 .. description:
@@ -11,6 +11,8 @@
 This weekend's highlights are back to our 1 update format as this is a little quieter. There's a bunch of exciting "summer" events on, though, which we should highlight up here: in the UK, Eastbourne Extreme takes derby outside and to the coast for a 2 day mixed tournament; in France, Saint-Gratien once again hosts the pan-France Tournament of 6 Regions; and in Bundaberg, Australia, the 2019 SKATE of Emergency continues to raise funds for emergency services.
 
 (We'd also like to highlight the next "Un sol para lxs oficialxs", raising travel funds for Argentinian officials to support Roller Derby across the country; and on a different note ALL-IN's Short Track Experiment event in Leeds, exploring the new ruleset and how it might help to sustain & develop the sport.)
+
+*This article amended on Tuesday for two late announced fixtures in Spain and Mexico.*
 
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
@@ -252,6 +254,26 @@ Event starts: 1450 Saturday (doors open)
 
 Venue: Dundee International Sports Centre, Mains Loan, Dundee, Scotland
 
+Sat: Madrid, Spain
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/2367431286628183/
+.. __: http://flattrackstats.com/node/110465
+
+
+`Roller Derby Madrid`_ host the last game of their season, just the weekend after winning the first ever National Championships; and this is an international bout!
+
+.. _Roller Derby Madrid: http://www.rollerderbymadrid.com/
+
+- Roller Derby Madrid versus Switchblade (Lille A)
+
+
+Event starts: 1800 Saturday (doors open?)
+
+Venue: Polideportivo Plata y Castañar, Paseo de Plata y Castañar, Madrid, Spain
 
 
 Sat-Sun: Buenos Aires, Argentina
@@ -273,6 +295,35 @@ Un sol para lxs Oficialxs, as always, works as a weekend of roller derby, full o
 Event starts: 1000 Saturday
 
 Venue: Avenida Curapaligüe 1100, 1406 Ciudad de Buenos Aires, Argentina
+
+Sun: Iztapalapa, Mexico
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+`[FTS LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/2462673667117345/
+.. __: http://flattrackstats.com/bouts/110777/overview
+.. __: http://flattrackstats.com/bouts/110778/overview
+.. __: http://flattrackstats.com/bouts/110779/overview
+
+
+`Burdel Zombie`_ host a "Triangular +1" fixture - 3 games, but with 4 teams competing overall, of Mexican derby. As
+we approach the 2019 Mexican National tournament series, all the teams are trying to get more games in to improve their
+rating, and thus placement in the qualifiers.
+
+.. _Burdel Zombie: https://www.instagram.com/burdelzombie_lrdcm/
+
+- Quadtlicues (Mexico City \| MCRD ) vs Tekillerass (Mexico City \| LRDCM )
+- Furias Negras (Puebla)  vs Burdel Zombie (Mexico City \| LRDCM )
+- Tekillerass vs Furias Negras
+
+
+Event starts: 1000 Sunday (first game)
+
+Venue: Escuela de Formación Deportiva Salvador Allende, Av Antonio Díaz Soto y Gama s/n, Iztapalapa, Mexico
 
 
 ..
