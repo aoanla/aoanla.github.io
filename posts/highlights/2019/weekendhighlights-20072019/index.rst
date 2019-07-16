@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 20 July 2019
 .. slug: weekendhighlights-20072019
 .. date: 2019-07-16 14:00 UTC+01:00
-.. tags: weekend highlights, new zealand roller derby, british roller derby, australian roller derby, brazilian roller derby, german roller derby, spanish roller derby, rollercon, WFTDA Officiating Clinic, WFTDA World Summit, short track roller derby, tournaments, national tournaments, roller derby sevens
+.. tags: weekend highlights, new zealand roller derby, british roller derby, australian roller derby, brazilian roller derby, german roller derby, spanish roller derby, rollercon, WFTDA Officiating Clinic, WFTDA World Summit, short track roller derby, tournaments, national tournaments, roller derby sevens, argentine roller derby, mexican roller derby
 .. category:
 .. link:
 .. description:
@@ -212,6 +212,36 @@ Event starts: 1700 Saturday
 
 Venue: Clube Delphi, Piracicaba, Brazil
 
+Sat: Mar del Plata, Argentina
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2320291908058942/permalink/2366326420122157/
+
+`Rebeldes del Asfalto`_ have a stall at the "Femme Fatale: Festival of Art", selling merch, promoting roller derby and providing a buffet as well! This is the first edition of the "Femme Fatale" art festival, intended to promote female-centered art, with live music, tattoos, and art exhibitions.
+
+.. _Rebeldes del Asfalto: https://www.instagram.com/rebeldesdelasfalto/
+
+Event starts: 2000 Saturday
+
+Venue: Liber Art, Moreno 2742, Mar del Plata, Argentina
+
+
+Sat: Mexico City, Mexico
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/1275140542648471/
+
+`Fugaz Roller Derby`_ host a fundraising Punk Rock & Pizza event, woth an array of Mexican Punk, Death metal and Grindcore bands playing live music. This event raises funds for Fugaz' attendance at the 2019 Mexican D1 playoffs in Chihuahua (about which later in the week).
+
+.. _Fugaz Roller Derby: https://www.instagram.com/fugazrollerderby/
+
+Event starts: 1500 Saturday
+
+Venue: TONY EL GORDO, Mixtecas 499, Mexico City, Mexico
 
 
 Special edition addition: ROLLERCON
