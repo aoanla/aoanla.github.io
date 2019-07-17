@@ -243,6 +243,23 @@ Event starts: 1500 Saturday
 
 Venue: TONY EL GORDO, Mixtecas 499, Mexico City, Mexico
 
+Sat: San Luis, Mexico
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/324396445102867/
+.. __: http://flattrackstats.com/bouts/110840/overview
+
+`Furiosas Roller Derby`_ host the Nymerias for a bout, as the Mexican Champs approaches.
+
+.. _Furiosas Roller Derby: https://www.instagram.com/furiosas_rd_slp/
+
+Event starts: 1100 Saturday
+
+Venue: INPODE, Avenida Himno Nal 4000, San Luis, Mexico
+
 
 Special edition addition: ROLLERCON
 =====================================
