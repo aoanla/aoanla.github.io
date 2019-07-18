@@ -12,6 +12,8 @@ This weekend (and the week leading to it) is pretty dominated by the world's lar
 
 We've also included a bonus section in this week's roundup highlighting sessions at Rollercon itself which we think are either interesting, or important, or both.
 
+*This list was updated on Thursday 18th to include late announced bouts on Sunday in Mexico and Argentina*
+
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
@@ -227,6 +229,55 @@ Event starts: 2000 Saturday
 
 Venue: Liber Art, Moreno 2742, Mar del Plata, Argentina
 
+
+Sun: Neuquén, Argentina
+--------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/photo.php?fbid=1061583270898305&set=a.114616335595008&type=3
+.. __: http://flattrackstats.com/bouts/110848/overview
+
+
+`Barderas Insurrectas`_ host a fundraising triple header against the nearby teams of Neuquén, Zapala and General Roca.
+This triangular tournament raises funds, and most importantly resources, for La Balsita, a charitable diner providing
+food for impoverished children.
+
+.. _Barderas Insurrectas: https://www.instagram.com/barderasinsurrectas/
+
+- Barderas Insurrectas ( ) versus Licantropos (Neuquén)
+- Licantropos versus Hijas del Pantano (Zapala)+Mandragoras (General Roca)
+- Barderas Insurrectas versus Hijas del Pantano+Mandragoras
+
+*Only the first bout listed in FTS as the merged team cannot be rated.*
+
+Event starts: 1630 Sunday
+
+Venue: Gym Escuela de Enefermeria, Neuquén, Argentina
+
+Sun: Puebla, Mexico
+--------------------------------
+
+`[FACEBOOK LINK (flyer]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+
+.. __: https://www.facebook.com/FuriasNegras/photos/a.716982108468384/1311645642335358/?type=3
+.. __: http://flattrackstats.com/bouts/110847
+.. __: http://flattrackstats.com/bouts/110850/overview
+
+`Furias Negras Roller Derby`_ host a double header, with late notice, with Pachuca's Medusas (ahead of their
+Mexican champs playoffs in Chihuahua); and a MRDA-gender bout with the Score-pions.
+
+.. _Furias Negras Roller Derby:
+
+- Medusas (Pachuca) versus Furas Negras (Puebla)
+- Berserkers (Xalapa M) versus Score-pions (Puebla M)
+
+Event starts: 1200 Sunday
+
+Venue: Av 8 Pte 1711 Oratorio Salesiano Miguel Rue, Puebla, Mexico
 
 Sat: Mexico City, Mexico
 --------------------------------
