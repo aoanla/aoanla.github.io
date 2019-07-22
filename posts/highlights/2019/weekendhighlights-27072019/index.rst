@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 27 July 2019
 .. slug: weekendhighlights-27072019
 .. date: 2019-07-22 19:00 UTC+01:00
-.. tags: weekend highlights,
+.. tags: weekend highlights, new zealand roller derby, australian roller derby, british roller derby, scottish roller derby, czech roller derby, estonian roller derby, german roller derby, chilean roller derby, argentine roller derby, swiss roller derby, rainbow lightning, roller derby sevens, short track roller derby
 .. category:
 .. link:
 .. description:
