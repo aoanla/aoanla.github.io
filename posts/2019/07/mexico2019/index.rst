@@ -68,6 +68,12 @@ At present, only the second playoffs has a `Facebook Event`_, the others pending
 .. figure:: /images/2019/07/MexicoPlayoffs2.jpg
   :alt: Mexico Playoffs flyer for 2nd Playoff in Mexico City.
 
+*edited to add: the first Playoffs have now gained an event, and an FTS entry [25/Jul/2019]*
+Playoffs 1, Chihuahua [`Facebook Event`__] [`FTS entry`__]
+
+.. __: https://www.facebook.com/events/338466360398384/
+.. __: http://flattrackstats.com/tournaments/110982/overview
+
 ======
 
 Division 2, being smaller, retains the final fixture for its determination: this year hosted in Guanajuato, near León, in early October.

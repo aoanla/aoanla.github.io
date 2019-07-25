@@ -276,6 +276,35 @@ Event starts: 1500 Sunday
 
 Venue: Escuela Alemania, Los Pelues, Valdivia, Chile
 
+
+Sat-Sun: Queretaro, Mexico
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/2310791378997633/
+.. __: pending
+
+
+`Rock City Roller Derby`_ and Crows Roller Derby host "Rock City Deathmatch Vol 2", the return of the Queretaro hosted mini-tournament.
+This is an MRDA-gender policy tournament, featuring co-hosts Crows against 3 other teams in a 6-game round robin.
+
+.. _Rock City Roller Derby: https://www.instagram.com/rockcityrd/
+
+- Teams:
+
+  - Crows Roller Derby (Queretaro M)
+  - Disorder RD (CDMX M)
+  - Minotauros (CDMX M)
+  - Wheels of Mayhem (Baja California M)
+
+*FTS entries pending publication of a schedule of bouts*
+
+Event starts: 1200 Saturday
+
+Venue: Facultad de Ciencias Naturales UAQ, Avenida de las Ciencias, Queretaro, Mexico
+
 ..
   Sat-Sun:
   --------------------------------
