@@ -307,10 +307,10 @@ Venue: 1600 Saturday, and 1000 Sunday
 Sat: Morelia, Michoacan, Mexico
 --------------------------------
 
-`[FACEBOOK LINK (flyer)]`__
+`[FACEBOOK LINK]`__
 `[FTS LINK]`__
 
-.. __: https://www.facebook.com/OvejasNegrasRD/photos/a.426335107464784/2164236610341283/?type=3
+.. __: https://www.facebook.com/events/496183161192387/
 .. __: http://www.flattrackstats.com/bouts/111036/overview
 
 
@@ -320,9 +320,9 @@ Sat: Morelia, Michoacan, Mexico
 
 - Ovejas Negras (Morelia) versus Nymerias (Queretaro)
 
-Event starts: 1600 Saturday (to be confirmed)
+Event starts: 1600 Saturday
 
-Venue: ??
+Venue: Mercado La Colina. Morelia, Mexico
 
 ..
   Sat-Sun:
