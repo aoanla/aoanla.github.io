@@ -10,6 +10,8 @@
 
 This is another "all weekend in one update" set of highlights, although there are several exciting events this weekend: the first fixture of the Chilean national tournament, the Torneo X, in Valdivia; the MRDA Men's European Qualifiers in Aberdeen; and Argentina meet Uruguay in Buenos Aires, for one of Tempestad Roller Derby's first games (plus raising funds for 2x4 to attend in WFTDA Playoffs).
 
+*This article was edited on the 1st August to include late announced events in Dubai*
+
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
@@ -88,6 +90,28 @@ Sat: Adelaide, SA, Australia
 Event starts: 1600 Saturday (doors open)
 
 Venue: Adelaide Showground, Goodwood Rd, Adelaide, SA, Australia
+
+Mon: Dubai, United Arab Emirates
+--------------------------------
+
+`[FACEBOOK LINK 1]`__
+`[FACEBOOK LINK 2]`__
+
+.. __: https://www.facebook.com/events/2311418009124892/
+.. __: https://www.facebook.com/events/332134544333651/
+
+
+`UAE Roller Derby All-Stars`_ are having some international coaching fun, as `Durban Roller Derby`_'s LuciFear visits to host a bootcamp on the Monday, and then, in collaboration with Chicks and Bowls UAE, spend some time on the ramps on the Tuesday.
+
+.. _UAE Roller Derby All-Stars: https://www.instagram.com/uaerollerderby/
+.. _Durban Roller Derby: http://www.durbanrollerderby.co.za/
+
+- Monday: Bootcamp (Footwork and contact drills)
+- Tuesday: "Skate Park Adventures"
+
+Event starts: 1900 Monday (bootcamp)
+
+Venue: Aktiv Nation, Al Quoz, Dubai, United Arab Emirates (bootcamp) ; Townsquare Dubai Skate Park (skating)
 
 
 Sat: Berlin, Germany
