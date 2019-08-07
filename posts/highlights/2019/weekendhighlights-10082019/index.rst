@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 10 August 2019
 .. slug: weekendhighlights-10082019
 .. date: 2019-08-06 19:30:00 UTC+01:00
-.. tags: weekend highlights, mexican roller derby, chilean roller derby, argentine roller derby, german roller derby, bundesliga, asociación mexicana de roller derby, australian roller derby, swedish roller derby, bootcamps, wftda, continental cup
+.. tags: weekend highlights, mexican roller derby, chilean roller derby, argentine roller derby, german roller derby, bundesliga, asociación mexicana de roller derby, australian roller derby, swedish roller derby, bootcamps, wftda, continental cup, colombian roller derby
 .. category:
 .. link:
 .. description:
@@ -278,6 +278,27 @@ Event starts: 0800 Saturday (doors open)
 
 Venue: Facultad de Ciencias de la Cultura Física., Periférico De La Juventud, Chihuahua, Chihuahua, Mexico
 
+Sun: Bogotá, Colombia
+--------------------------------
+
+
+`Rock N Roller Queens`_ host a "friendly" tournament for Bogotá's derby community - a "quadrangular" round-robin tournament, round-robin style.
+
+.. _Rock N Roller Queens: https://www.instagram.com/rollerqueens/
+
+- Teams:
+
+  - Rock N Roller Queens (Bogotá)
+  - Kings Roller Derby (Bogotá M)
+  - Combativas Revoltosas (Bogotá)
+  - Mixed Subscription team
+
+*At present, there is no event for this on Facebook, and the RRQ FB page is very inactive. We have not listed this in FTS, as the games are described
+as "friendlies". As soon as we find a public link for this event, we will add it to this entry.*
+
+Event starts: 1400 Sunday
+
+Venue: Pista Polo, Cra. 24 #24a - 86a, Bogotá, Colombia
 
 =======
 
