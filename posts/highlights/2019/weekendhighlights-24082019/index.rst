@@ -8,6 +8,8 @@
 .. type: text
 .. author: aoanla
 
+This weekend's biggest events are in Mexico, the USA and the UK: Mexico City hosts the second Division 1 Playoffs for the Mexican National tournament, determining who will join Playoff 1 qualifiers Baja Roller Derby, All-Star Juarez and Discordias in the Championships; Sailor City Rollers represent Latin America in the second North American WFTDA Continental Cup this post season; and Riot City Rollers host the first ever Chartist Cup in Wales. Meanwhile, in Scotland, we're raising money to fight cancer with the return of Charity Roller Derby Sevens tournament, Krustfest, for a second year.
+
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
@@ -25,9 +27,6 @@ Locations are roughly organised East-West (with things before the weekend out se
   :width: 100 %
 
 .. TEASER_END
-
-https://www.facebook.com/events/362311994374289/  <-- Krustfest
-https://www.facebook.com/events/399590877322065/ ?
 
 
 Sat: Christchurch, NZ
@@ -53,7 +52,7 @@ Sat: Wauchope, NSW, Australia
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/399590877322065/
-.. __:
+.. __: http://www.flattrackstats.com/bouts/111181/overview
 
 
 `Port Macquarie Roller Derby`_ host a double header, with the main event being their regular rematch against Outcast Roller Derby.
@@ -94,12 +93,12 @@ Sat: Marburg, Germany
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/2265180403593581/
-.. __:
+.. __: http://www.flattrackstats.com/bouts/111182/overview
 
 
 `Marburg's Splatter Fairies`_ host an exciting double header of German derby.
 
-.. _Marburg's Splatter Fairies:
+.. _Marburg's Splatter Fairies: https://www.instagram.com/splatter.fairies/
 
 - Splatter Fairies (Marburg) versus Starlight Excess (Berlin)
 - Roller Grrrl Gang (Frankfurt) versus Team Wundertüte ("mixed lucky dip team")
@@ -115,11 +114,11 @@ Sat: Calais, France
 
 .. __: https://www.facebook.com/events/2813390715355657/
 
-`Roller Derby Calaisis`_ host a Roller Derby Sevens tournament, for 5 teams
+`Roller Derby Calaisis`_ host a Roller Derby Sevens tournament, for 5 teams in one day. 
 
 .. _Roller Derby Calaisis: http://rollerderbycalaisis.fr/
 
-- Teams?
+- Teams to be announced.
 
 Event starts: 1300 Saturday (first whistle)
 
@@ -158,6 +157,34 @@ Event starts: 1000 Sunday
 Venue: Roller Derby Bordeaux club
 87 quai des Queyries, Bordeaux, France
 
+Sat: Glasgow, Scotland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/362311994374289/
+
+Glasgow's ARC hosts the return of Krustfest: a 8 team Roller Derby Sevens tournament, raising funds for against Cancer. This year, the Open-To-All gender teams are all named on the themes of Films and Movies. Teams play two groups of 4, with the winners of each group playing in a final to close the day.
+
+- Teams (Group A)
+
+  - Pack to the Future
+  - The Silence of the Jams
+  - My Skater Totoro
+  - Anti-Clockwise Orange
+
+- (Group B)
+
+  - Blocky Horror Picture Show
+  - Hurl Scouts
+  - Hitty Hitty Bang Bang
+  - Pivot in Pink
+
+Event starts: 0900 Saturday
+
+Venue: The ARC: Health & Fitness, Glasgow Caledonian University, Glasgow, Scotland
+
+
 Sat-Sun: Cwmbran, Wales, UK
 --------------------------------
 
@@ -165,10 +192,10 @@ Sat-Sun: Cwmbran, Wales, UK
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/352357925353894/
-.. __:
+.. __: http://www.flattrackstats.com/tournaments/111187
 
 
-`Riot City Ravens`_ host the first ever edition of The Chartist Cup, named for the hot-bed of Chartist activity in Newport, a full weekend of roller derby, with selection games on Saturday, and placement on the Sunday. (The Chartists were a mid-19th century protest group agitating for reform of politics in the UK; to enfranchise the working class, and reduce what was seen as widespread corruption in the political classes.)
+`Riot City Ravens`_ host the first ever edition of The Chartist Cup, named for the hot-bed of Chartist activity in Newport, a full weekend of roller derby, with 40 minute selection games on Saturday, and full-length placement games on the Sunday. (The Chartists were a mid-19th century protest group agitating for reform of politics in the UK; to enfranchise the working class, and reduce what was seen as widespread corruption in the political classes.).
 
 .. _Riot City Ravens: https://www.instagram.com/riotcityravens/
 
@@ -190,7 +217,6 @@ Sat-Sun: San José, Costa Rica
 --------------------------------
 
 `[FACEBOOK LINK (flyer)]`__
-`[FTS LINK]`__
 
 .. __: https://www.facebook.com/darksiderollerderby/photos/a.422820884559476/1285840228257533/?type=3
 
@@ -252,7 +278,7 @@ Fri-Sun: Mannheim, PA, USA
 
 `Dutchland Derby Rollers`_ host the second WFTDA Continental Cup this post-season, the "Eastbound Throwdown", of interest to us due to the attendance of **Sailor City Rollers**, representing Buenos Aires (and, by extension, Argentina).
 
-.. _Dutchland Derby Rollers:
+.. _Dutchland Derby Rollers: http://www.dutchlandrollers.com/
 
 - Teams:
 
@@ -271,7 +297,7 @@ Fri-Sun: Mannheim, PA, USA
 
 Event starts: 0900 Friday (doors open)
 
-Venue: Spooky Nook Sports, Mannheim, PA, USA
+Venue: Spooky Nook Sports, 75 Champ Blvd, Mannheim, PA, USA
 
 ..
   Sat-Sun:

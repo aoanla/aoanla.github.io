@@ -205,6 +205,22 @@ Event starts: 1200 Monday
 
 Venue: 135 69 Y 70 Club Estrella del Sur, La Plata, Buenos Aires, Argentina
 
+Sat-Sun: Caleta Olivia, Argentina
+-----------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+
+.. __: https://www.facebook.com/OliviaSalvajeRollerDerby/photos/a.949169648460052/2420902694620066/?type=3
+
+`Olivia Salvaje Roller Derby`_ host an exciting bootcamp, run by Maki Lombera (2x4 Roller Derby, Selección Argentina). Attending are representatives from across Patagonia, including Roller Derby Rio Gellegos, Kalakas Roller Derby, FENIX Roller Derby, Comodoro Roller Derby,
+Vendaval Roller Derby and Puerto Madryn Roller Derby.
+
+.. _Olivia Salvaje Roller Derby: https://www.instagram.com/oliviasalvaje.rollerderby/
+
+Event starts: To be Announced.
+
+Venue: Colegio n36, Caleta Olivia, Santa Cruz, Argentina
+
 Sat-Sun: Mendoza, Argentina
 --------------------------------
 
@@ -235,7 +251,23 @@ Event starts: 0900 Saturday
 
 Venue: Escuela Capitan Manzotti, 5539 Las Heras, Mendoza, Argentina
 
+Sun: Ibagué, Colombia
+--------------------------------
 
+`[FACEBOOK LINK (flyer)]`__
+
+.. __: https://www.facebook.com/photo.php?fbid=1262533593910134&set=a.115202988643206&type=3
+
+
+`Violet Attack Roller Derby`_ host the Combativas Revoltosas from Bogotá for a friendly game.
+
+.. _Violet Attack Roller Derby:
+
+- Violet Attack Roller Derby (Ibagué) versus Combativas Revoltosas (Bogotá)
+
+Event starts: 0900 Sunday
+
+Venue: Coliseo Cubierto Coopemtol Sede Salado, Ibagué, Colombia
 
 ..
   Sat-Sun:
