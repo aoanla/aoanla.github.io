@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 17 August 2019
 .. slug: weekendhighlights-17082019
 .. date: 2019-08-12 10:30:00 UTC+01:00
-.. tags: weekend highlights, scottish roller derby, australian roller derby, statewide stampede, emirates roller derby, french roller derby, argentine roller derby, national tournaments,
+.. tags: weekend highlights, scottish roller derby, australian roller derby, statewide stampede, emirates roller derby, french roller derby, argentine roller derby, national tournaments, colombian roller derby, patagonian roller derby
 .. category:
 .. link:
 .. description:
@@ -231,7 +231,7 @@ Sat-Sun: Mendoza, Argentina
 .. __: http://flattrackstats.com/tournaments/111119
 
 
-The `SarcastiCats`_ host an equally important event to Argentine derby, at the other side of the country entirely. Gatoreno 2019 is the league's first ever tournament, bringing together teams from both Argentina and Chile for an international event! This event will be reported on live by Argentina's own Derby news network, `5 Segundos`_ , and will also include an Officating Clinic on the Saturday, run by THNSO and HSNOs Makia and Sector.
+The `SarcastiCats`_ host an equally important event to Argentine derby, at the other side of the country entirely. Gatorneo 2019 is the league's first ever tournament, bringing together teams from both Argentina and Chile for an international event! This event will be reported on live by Argentina's own Derby news network, `5 Segundos`_ , and will also include an Officating Clinic on the Saturday, run by THNSO and HSNOs Makia and Sector.
 
 .. _SarcastiCats: https://www.instagram.com/sarcasticats.rd/
 .. _5 Segundos: https://ar.ivoox.com/es/perfil-5-segundos_aj_6715716_1.html
