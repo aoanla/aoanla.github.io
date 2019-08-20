@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 24 August 2019
 .. slug: weekendhighlights-24082019
-.. date: 2019-08-20 20:50:00 UTC+01:00
+.. date: 2019-08-20 10:00:00 UTC+01:00
 .. tags: weekend highlights, new zealand roller derby, australian roller derby, swedish roller derby, german roller derby, british roller derby, french roller derby, costa rican roller derby, mexican roller derby, argentine roller derby, national tournaments
 .. category:
 .. link:
@@ -114,7 +114,7 @@ Sat: Calais, France
 
 .. __: https://www.facebook.com/events/2813390715355657/
 
-`Roller Derby Calaisis`_ host a Roller Derby Sevens tournament, for 5 teams in one day. 
+`Roller Derby Calaisis`_ host a Roller Derby Sevens tournament, for 5 teams in one day.
 
 .. _Roller Derby Calaisis: http://rollerderbycalaisis.fr/
 
