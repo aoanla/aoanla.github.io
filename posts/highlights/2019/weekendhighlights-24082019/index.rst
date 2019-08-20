@@ -1,14 +1,14 @@
 .. title: Weekend Highlights: 24 August 2019
 .. slug: weekendhighlights-24082019
 .. date: 2019-08-20 10:00:00 UTC+01:00
-.. tags: weekend highlights, new zealand roller derby, australian roller derby, swedish roller derby, german roller derby, british roller derby, french roller derby, costa rican roller derby, mexican roller derby, argentine roller derby, national tournaments
+.. tags: weekend highlights, new zealand roller derby, australian roller derby, swedish roller derby, german roller derby, british roller derby, french roller derby, costa rican roller derby, mexican roller derby, argentine roller derby, national tournaments, spanish roller derby, bootcamps
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: aoanla
 
-This weekend's biggest events are in Mexico, the USA and the UK: Mexico City hosts the second Division 1 Playoffs for the Mexican National tournament, determining who will join Playoff 1 qualifiers Baja Roller Derby, All-Star Juarez and Discordias in the Championships; Sailor City Rollers represent Latin America in the second North American WFTDA Continental Cup this post season; and Riot City Rollers host the first ever Chartist Cup in Wales. Meanwhile, in Scotland, we're raising money to fight cancer with the return of Charity Roller Derby Sevens tournament, Krustfest, for a second year.
+This weekend's biggest events are in Mexico, the USA and the UK: Mexico City hosts the second Division 1 Playoffs for the Mexican National tournament, determining who will join Playoff 1 qualifiers Baja Roller Derby, All-Star Juarez and Discordias in the Championships; Sailor City Rollers represent Latin America in the second North American WFTDA Continental Cup this post season; and Riot City Rollers host the first ever Chartist Cup in Wales. Meanwhile, in Scotland, we're raising money to fight cancer with the return of Charity Roller Derby Sevens tournament, Krustfest, for a second year, and in Spain they're holding a Roller Derby festival!
 
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
@@ -212,6 +212,41 @@ Sat-Sun: Cwmbran, Wales, UK
 Event starts: 0900 Saturday
 
 Venue: Cwmbran Stadium, Cwmbran, Wales, UK
+
+Fri-Sun: Málaga, Spain
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/885591205153056/
+
+
+`Las Judas Roller Derby`_ host a three-day outdoor Roller Derby Festival, starting on Friday. Running every evening from 1800, Friday and Saturday host double-headers of themed, mixed-subscription bouts, and end with non-derby festivities, whilst the Sunday is dedicated to a Ramps workshop.
+
+.. _Las Judas Roller Derby: https://www.instagram.com/lasjudasrd/
+
+- Friday
+
+  - Themed Game: FLOWER POWER versus METAL HEAD
+  - Themed Game: TRAP versus FLAMENCO
+  - WATER WAR (we think this is a water-balloon fight)
+
+- Saturday
+
+  - Themed Game: GLITTER versus ZOMBI
+  - Themed Game: DRAG KINGS versus DRAG QUEENS
+  - ROLL THE DICE (we don't know what this is)
+  - ROLLER DISCO
+
+- Sunday:
+
+  - Ramp Workshop (by Locas por las Ruedas)
+
+Event starts: 1800 Friday (event opens)
+
+Venue: Skatepark Málaga "Rubén Alcántara", Camino Cuarto,  Málaga, Spain
+
+
 
 Sat-Sun: San José, Costa Rica
 --------------------------------
