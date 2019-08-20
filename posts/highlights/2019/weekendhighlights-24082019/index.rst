@@ -66,6 +66,37 @@ Event starts: 1200 Saturday (doors open)
 
 Venue: Chophouse, Wauchope Indoor Stadium, Cameron St, Wauchope, NSW, Australia
 
+Sat: Tel Aviv, Israel
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/510046146473411/
+
+
+`Tel Aviv Roller Derby`_ host a public scrimmage to promote the team. Merch also available on site.
+
+.. _Tel Aviv Roller Derby: https://www.instagram.com/tlv_derbygirls/
+
+Event starts: 2130 Saturday
+
+Venue: Arye De Modina 22, Tel Aviv, Israel
+
+Fri: Gdańsk, Poland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/403298423647084/
+
+`3City Piranhas Roller Derby`_ host a Friday evening Roller Disco, with a chance to meet the members of Gdańsk's finest derby team, and learn about the sport, too.
+
+.. _3City Piranhas Roller Derby: https://www.instagram.com/3citypiranhas/
+
+Event starts: 2100 Friday
+
+Venue: Protokultura - Klub Sztuki Alternatywnej, Ul. Niterów 29B, Gdańsk, Poland
+
 Sat-Sun: Malmö, Sweden
 --------------------------------
 
