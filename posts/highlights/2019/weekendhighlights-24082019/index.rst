@@ -277,7 +277,21 @@ Event starts: 1800 Friday (event opens)
 
 Venue: Skatepark Málaga "Rubén Alcántara", Camino Cuarto,  Málaga, Spain
 
+Sat: Maipú, Chile
+--------------------------------
 
+`[FACEBOOK LINK (flyer)]`__
+
+.. __: https://www.facebook.com/metropolitanrollerderby/posts/2649597681720160?
+
+
+`Metropolitan Roller Derby`_ are present as one of the many demonstrations as part of Santiago's Roller Fest celebration of all things roller skating. They will be holding a demonstration bout in the Saturday evening.
+
+.. _Metropolitan Roller Derby: http://www.rollerderby.cl/
+
+Event starts: 1700 Saturday
+
+Venue: Anfiteatro de Av. Tres Poniente 1930, Maipú, Santiago, Chile
 
 Sat-Sun: San José, Costa Rica
 --------------------------------
