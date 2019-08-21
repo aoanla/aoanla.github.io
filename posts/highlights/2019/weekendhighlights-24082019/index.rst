@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 24 August 2019
 .. slug: weekendhighlights-24082019
 .. date: 2019-08-20 10:00:00 UTC+01:00
-.. tags: weekend highlights, new zealand roller derby, australian roller derby, swedish roller derby, german roller derby, british roller derby, french roller derby, costa rican roller derby, mexican roller derby, argentine roller derby, national tournaments, spanish roller derby, bootcamps
+.. tags: weekend highlights, new zealand roller derby, australian roller derby, swedish roller derby, german roller derby, british roller derby, french roller derby, costa rican roller derby, mexican roller derby, argentine roller derby, national tournaments, spanish roller derby, bootcamps, polish roller derby, chilean roller derby
 .. category:
 .. link:
 .. description:
@@ -277,6 +277,48 @@ Event starts: 1800 Friday (event opens)
 
 Venue: Skatepark Málaga "Rubén Alcántara", Camino Cuarto,  Málaga, Spain
 
+Sat: Buenos Aires, Argentina
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/367258920614287/
+
+
+`Facones Galácticos Roller Derby`_ host a triple header round-robin.. where the three teams have not been announced yet.
+
+.. _Facones Galácticos Roller Derby: https://www.instagram.com/faconesgalacticosrd/
+
+- ?? Not announced yet 
+
+Event starts: 1000 Saturday
+
+Venue: Francisco Narciso de Laprida 2929, 1602 Vicente López, Buenos Aires, Argentina
+
+Sun: Buenos Aires, Argentina
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/1679336345531965/
+.. __: http://www.flattrackstats.com/node/111279
+
+
+`Kamikazes Roller Derby`_ host a double header of games for 2x4 Roller Derby to help them get to Salem for WFTDA Playoffs!
+
+.. _Kamikazes Roller Derby: https://www.instagram.com/kamikazesrollerderby/
+
+- Team C (2x4 C \| Buenos Aires) versus Kamikazes Roller Derby
+- Cat A/B/C Open-To-All Subs team versus Team Osom (2x4 A)
+
+*Only first game is listed on FTS*
+
+Event starts: 1630 Sunday (doors open)
+
+Venue: Club San Francisco Berazategui, 148 Esquina 22, 1884 Villa España, Buenos Aires, Argentina
+
+
 Sat: Maipú, Chile
 --------------------------------
 
@@ -293,7 +335,7 @@ Event starts: 1700 Saturday
 
 Venue: Anfiteatro de Av. Tres Poniente 1930, Maipú, Santiago, Chile
 
-Sat-Sun: San José, Costa Rica
+Sat: San José, Costa Rica
 --------------------------------
 
 `[FACEBOOK LINK (flyer)]`__
