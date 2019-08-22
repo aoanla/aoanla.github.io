@@ -289,11 +289,15 @@ Sat: Buenos Aires, Argentina
 
 .. _Facones Galácticos Roller Derby: https://www.instagram.com/faconesgalacticosrd/
 
-- ?? Not announced yet 
+- Teams playing (announced 22 Aug)
+
+  - Rebel West Roller Derby
+  - Kamikazes Roller Derby
+  - Jose Cuchillo Derby
 
 Event starts: 1000 Saturday
 
-Venue: Francisco Narciso de Laprida 2929, 1602 Vicente López, Buenos Aires, Argentina
+Venue: Club Villa Pearson, Francisco Narciso de Laprida 2929, 1602 Vicente López, Buenos Aires, Argentina
 
 Sun: Buenos Aires, Argentina
 --------------------------------
@@ -305,7 +309,7 @@ Sun: Buenos Aires, Argentina
 .. __: http://www.flattrackstats.com/node/111279
 
 
-`Kamikazes Roller Derby`_ host a double header of games for 2x4 Roller Derby to help them get to Salem for WFTDA Playoffs!
+`Kamikazes Roller Derby`_ are also hosting a double header of games for 2x4 Roller Derby to help them get to Salem for WFTDA Playoffs!
 
 .. _Kamikazes Roller Derby: https://www.instagram.com/kamikazesrollerderby/
 
