@@ -66,6 +66,26 @@ Event starts: 1200 Saturday (doors open)
 
 Venue: Chophouse, Wauchope Indoor Stadium, Cameron St, Wauchope, NSW, Australia
 
+Sat: Launceston, TAS, Australia
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/327907968113760/
+
+`Devil State Derby League`_ host the second round of the Tournament Tasmania regional tournament!
+
+.. _Devil State Derby League: https://www.instagram.com/devilstatederbyleague/
+
+- South Island Sirens versus Swiss Army Wives
+- Cradle Coast Junior Roller Derby versus Hobart Junior Roller Derby
+- South Island Sirens versus Devil State Derby League
+- Tassie Thunder Mixed Gender (OTA) demonstration game
+
+Event starts: 1300 Saturday
+
+Venue: Westbury Sports Hall, Franklin Street, Launceston
+
 Sat: Tel Aviv, Israel
 --------------------------------
 
