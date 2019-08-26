@@ -1,6 +1,6 @@
 .. title: Rollercon Nations Tournament 2019
 .. slug: RNT-2019
-.. date: 2019-08-23 11:00:00 UTC+01:00
+.. date: 2019-08-29 11:00:00 UTC+01:00
 .. tags: tournaments, international roller derby, jewish roller derby, team indigenous roller derby, team indigenous rising, team philippines roller derby, team canada roller derby, team korea roller derby
 .. category:
 .. link:
