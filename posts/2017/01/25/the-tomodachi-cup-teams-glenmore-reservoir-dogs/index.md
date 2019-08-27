@@ -1,4 +1,4 @@
-<html><body><p>As promised last week, we'll be spending some time up to the <a href="https://www.scottishrollerderbyblog.com/2017/01/19/the-tomodachi-derby-tournament-the-teams/"><strong>Tomodachi Derby Tournament</strong> </a>in Okinawa (24th to 26th March) introducing you to the teams competing there.
+<html><body><p>As promised last week, we'll be spending some time up to the <a href="https://www.scottishrollerderbyblog.com/posts/2017/01/19/the-tomodachi-derby-tournament-the-teams/"><strong>Tomodachi Derby Tournament</strong> </a>in Okinawa (24th to 26th March) introducing you to the teams competing there.
 
 First up, competing in the Men's event, we'd like to introduce Calgary's own Men's team, <strong><a href="http://www.chinookcity.ca/">Glenmore Reservoir Dogs</a></strong>.
 

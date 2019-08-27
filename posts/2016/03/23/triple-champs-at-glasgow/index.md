@@ -1,4 +1,4 @@
-<html><body><p>While this Friday and Saturday feature <a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-japan-open-the-other-wftda-first-this-year/">Asia's first ever WFTDA tournament</a>, the time difference means that there's also plenty of time to experience the best that the United Kingdom also has.
+<html><body><p>While this Friday and Saturday feature <a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-japan-open-the-other-wftda-first-this-year/">Asia's first ever WFTDA tournament</a>, the time difference means that there's also plenty of time to experience the best that the United Kingdom also has.
 
 After opening the <a href="http://www.britishchamps.com/">British Championships</a> Premier Tier with a double header only a few weeks ago, Glasgow Roller Derby are topping their own event with a <a href="https://www.facebook.com/events/1682046455408262/">Triple Header of Premier Tier bouts</a> this Saturday, <strong>26th March</strong>.
 

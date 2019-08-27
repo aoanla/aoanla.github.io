@@ -1,4 +1,4 @@
-<html><body><p>In our second interview of our <strong><a href="https://www.scottishrollerderbyblog.com/2017/01/19/the-tomodachi-derby-tournament-the-teams/">Tomodachi Derby Cup</a></strong> series, covering each of the teams competing in Okinawa from the<strong> 24th </strong>to the<strong> 26th March</strong>, we're with <strong><a href="https://www.facebook.com/PacificRollerDerby/">Pacific Roller Derby</a></strong>, of Honolulu, Hawai'i.
+<html><body><p>In our second interview of our <strong><a href="https://www.scottishrollerderbyblog.com/posts/2017/01/19/the-tomodachi-derby-tournament-the-teams/">Tomodachi Derby Cup</a></strong> series, covering each of the teams competing in Okinawa from the<strong> 24th </strong>to the<strong> 26th March</strong>, we're with <strong><a href="https://www.facebook.com/PacificRollerDerby/">Pacific Roller Derby</a></strong>, of Honolulu, Hawai'i.
 
 <img class=" size-full wp-image-14022 aligncenter" src="/2017/01/pacificrollerderby.png" alt="pacificrollerderby" width="200" height="200">
 

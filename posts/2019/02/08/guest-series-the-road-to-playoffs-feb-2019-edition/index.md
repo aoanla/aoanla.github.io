@@ -2,7 +2,7 @@ It's a new season for WFTDA competition, and with it we've had the first new off
 Throughout the year, however, those ratings and rankings will change - not just as the teams play more games, but also because the weighting of their past games will alter. Games will "age out" of the rating if they become more than 1 year old; and games which become more than 6 months old will count only 50% as much.
 
 <!-- wp:image {"id":27904} -->
-![Map of World showing top 100 team locations](https://scottishrollerderby.files.wordpress.com/2019/02/world_playoffs_map.png "All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires).")All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires).
+![Map of World showing top 100 team locations](https://www.scottishrollerderbyblog.com/images/2019/fb/world_playoffs_map.png "All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires).")All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires).
 <!-- /wp:image -->
 
 Speedy Convalesce, Head NSO of Mannheim's Delta Quads, as well as many other things, is here to help us better visualise what's likely to happen at Playoff selection, however. This ongoing series will report the ratings and rankings of the top 100 WFTDA teams, calculated as **if we were at June 30th 2019** [the ranking which will be used to decide Qualifications and seedings into both WFTDA Playoffs, and the Continental Cups].

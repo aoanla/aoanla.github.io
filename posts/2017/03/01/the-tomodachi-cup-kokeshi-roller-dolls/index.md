@@ -2,7 +2,7 @@
 
 The last of our interviewees in the WFTDA Sanctioned tier of the tournament, <strong><a href="http://www.okinawarollerderby.com/">Kokeshi Roller Dolls</a></strong> are one of the two "local" leagues, based in Okinawa itself. KRD can contest with Tokyo Roller Girls for the title of "oldest league in Japan", both being founded around the same date.
 
-In the Japan Open, Kokeshi were the only Japanese team to defeat the might Juneau Roller Derby. Previously to that, the team has also played international roller derby away, at The Big O in 2014. KRD skaters also contributed to the teams competing at the <strong><a href="https://www.scottishrollerderbyblog.com/2016/04/04/beijing-roller-derby-and-un-break-ground-in-china-derby-for-equality-with-heforshe-derby-invitational/">first ever public</a></strong> roller derby bout in China!
+In the Japan Open, Kokeshi were the only Japanese team to defeat the might Juneau Roller Derby. Previously to that, the team has also played international roller derby away, at The Big O in 2014. KRD skaters also contributed to the teams competing at the <strong><a href="https://www.scottishrollerderbyblog.com/posts/2016/04/04/beijing-roller-derby-and-un-break-ground-in-china-derby-for-equality-with-heforshe-derby-invitational/">first ever public</a></strong> roller derby bout in China!
 
 <img class=" size-full wp-image-14036 aligncenter" src="/2017/01/kokeshi.png" alt="kokeshi" width="200" height="200">
 

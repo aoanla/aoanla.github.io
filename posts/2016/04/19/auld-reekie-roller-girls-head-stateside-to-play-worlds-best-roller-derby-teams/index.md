@@ -40,4 +40,4 @@ Are you a derby skater or official who wants to play in America yourself some da
 <p style="text-align:center;">Tickets available at <a href="http://soak5.bpt.me/">http://soak5.bpt.me/</a></p>
 <img src="https://scontent.xx.fbcdn.net/hphotos-xpl1/v/t1.0-9/12985395_10156787669390224_6608699264420207234_n.jpg?oh=27c8d83d0b1cba4da9f1916ded5ebbc4&amp;oe=57C09F0C" alt="">
 
-Those interested in following Auld Reekie's progression in The Big O can do so via our handy timezone adjusted schedule: <a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones/">scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones</a></body></html>
+Those interested in following Auld Reekie's progression in The Big O can do so via our handy timezone adjusted schedule: <a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-big-o-2016-schedule-timezones/">scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones</a></body></html>

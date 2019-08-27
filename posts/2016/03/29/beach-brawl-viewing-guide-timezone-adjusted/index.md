@@ -2,7 +2,7 @@
 This viewing guide contains time-zone adjusted links for the bouts, highlights for each country, and links to the livestream. For completed bouts, we link to the archive video footage (where available - currently Track D's video seems to be a bit broken, for Days 2 and 3 only: we're leaving links to that until the full footage is uploaded [a stand in link just links to the start of the video there is]), and FlatTrackStats stats when available.
 
 </p><table><thead><tr><td colspan="3">TIMEZONE LINKS</td></tr></thead><tbody><tr>
-<td><a href="https://www.scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/2/">PARIS</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/3/">DUBLIN</a></td>
+<td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/2/">PARIS</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/3/">DUBLIN</a></td>
 </tr></tbody></table>
 <table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
 <colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
@@ -175,7 +175,7 @@ Beach Brawl is Gold Coast Derby Grrls' annual Roller Derby invitational. This ye
 This viewing guide contains time-zone adjusted links for the bouts, highlights for each country, and links to the livestream. For completed bouts, we link to the archive video footage (where available - currently Track D's video seems to be a bit broken, for Days 2 and 3 only: we're leaving links to that until the full footage is uploaded [a stand in link just links to the start of the video there is]), and FlatTrackStats stats when available.
 
 <table><thead><tr><td colspan="3">TIMEZONE LINKS</td></tr></thead><tbody><tr>
-<td><a href="https://www.scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/2/">PARIS</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/3/">DUBLIN</a></td>
+<td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/2/">PARIS</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/3/">DUBLIN</a></td>
 </tr></tbody></table>
 <table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
 <colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
@@ -348,7 +348,7 @@ Beach Brawl is Gold Coast Derby Grrls' annual Roller Derby invitational. This ye
 This viewing guide contains time-zone adjusted links for the bouts, highlights for each country, and links to the livestream. For completed bouts, we link to the archive video footage (where available - currently Track D's video seems to be a bit broken, for Days 2 and 3 only: we're leaving links to that until the full footage is uploaded [a stand in link just links to the start of the video there is]), and FlatTrackStats stats when available.
 
 <table><thead><tr><td colspan="3">TIMEZONE LINKS</td></tr></thead><tbody><tr>
-<td><a href="https://www.scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/2/">PARIS</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/3/">DUBLIN</a></td>
+<td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/2/">PARIS</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/29/beach-brawl-viewing-guide-timezone-adjusted/3/">DUBLIN</a></td>
 </tr></tbody></table>
 <table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
 <colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>

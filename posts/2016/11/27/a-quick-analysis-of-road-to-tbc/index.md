@@ -1,4 +1,4 @@
-<html><body><p>With Team Wales' Road to TBC now complete, and France taking a victory over Sweden for 1st place, we've now seen 13 of the potential competitors at the Roller Derby World Cup on track in Europe, between this tournament and the earlier "<strong><a href="https://www.scottishrollerderbyblog.com/2016/10/02/the-road-to-tbc-lessons-from-erdt-and-the-last-world-cup/">European Roller Derby Tournament</a></strong>".
+<html><body><p>With Team Wales' Road to TBC now complete, and France taking a victory over Sweden for 1st place, we've now seen 13 of the potential competitors at the Roller Derby World Cup on track in Europe, between this tournament and the earlier "<strong><a href="https://www.scottishrollerderbyblog.com/posts/2016/10/02/the-road-to-tbc-lessons-from-erdt-and-the-last-world-cup/">European Roller Derby Tournament</a></strong>".
 
 What's quite interesting about comparing ERDT and Road to TBC is just how much the balance of power in some of the teams common between them has changed in a relatively short space of time; and how different some of the newer teams may be to their 2014 versions.
 

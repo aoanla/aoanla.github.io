@@ -2,15 +2,15 @@
 
 If you missed any of the interviews, the links are below:
 
-<a title="World Cup Interview: Team France" href="http://www.scottishrollerderbyblog.com/2014/10/02/world-cup-interview-team-france/">Team France</a>
+<a title="World Cup Interview: Team France" href="http://www.scottishrollerderbyblog.com/posts/2014/10/02/world-cup-interview-team-france/">Team France</a>
 
-<a title="World Cup Interview: Team Belgium" href="http://www.scottishrollerderbyblog.com/2014/09/30/world-cup-interview-team-belgium/">Team Belgium</a>
+<a title="World Cup Interview: Team Belgium" href="http://www.scottishrollerderbyblog.com/posts/2014/09/30/world-cup-interview-team-belgium/">Team Belgium</a>
 
-<a title="World Cup Interview: Team Switzerland" href="http://www.scottishrollerderbyblog.com/2014/10/03/world-cup-interview-team-switzerland/">Team Switzerland</a>
+<a title="World Cup Interview: Team Switzerland" href="http://www.scottishrollerderbyblog.com/posts/2014/10/03/world-cup-interview-team-switzerland/">Team Switzerland</a>
 
-<a title="World Cup Interview: Team Netherlands" href="http://www.scottishrollerderbyblog.com/2014/09/29/world-cup-interview-team-netherlands/">Team Netherlands</a>
+<a title="World Cup Interview: Team Netherlands" href="http://www.scottishrollerderbyblog.com/posts/2014/09/29/world-cup-interview-team-netherlands/">Team Netherlands</a>
 
-<a href="http://www.scottishrollerderbyblog.com/2014/10/01/world-cup-interview-team-germany/">Team Germany</a>
+<a href="http://www.scottishrollerderbyblog.com/posts/2014/10/01/world-cup-interview-team-germany/">Team Germany</a>
 
  
 

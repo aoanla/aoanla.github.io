@@ -275,6 +275,21 @@ Event starts: 1500 Saturday
 
 Venue: Penzance Leisure Centre, St Clare, Penzance, UK
 
+Sun: Miramar, Argentina
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/353276018884326/
+
+
+`Atlantico Sur Roller Derby`_ host a double-header of scrimmages, one "feminino" (and we hope WFTDA-gender) and one OTA policy.
+
+.. _Atlantico Sur Roller Derby: https://www.instagram.com/atlantico_srd/
+
+Event starts: 1500 Sunday
+
+Venue: Defensores de Miramar, 23 N° 2250, Miramar, Buenos Aires, Argentina
 
 Sat: Mar del Plata, Argentina
 --------------------------------

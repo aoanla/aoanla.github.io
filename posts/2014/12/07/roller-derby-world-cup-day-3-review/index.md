@@ -20,7 +20,7 @@ In the end, a scrappy final jam featuring more alternating jammer penalties, bro
 
 At the quarter final, then, the drawing of high seeds against low continued to produce some predictable blowouts, with USA destroying Argentina just like they destroyed everyone else in the tournament, and England taking a very convincing win over Sweden. Being closer to the middle of the seeds, the Canada - Finland and Australia - New Zealand bouts were slightly less one sided, with Finland standing up pretty well to the #3 seed and taking home 145 pts to Canada's 290.
 
-USA will play #4 seed Australia today, before number #2 and #3 seeds England and Canada duke it out. The winners will go through to the Final, while the losers will play for 3rd place in a last minute change to the schedule (check our<a href="http://www.scottishrollerderbyblog.com/2014/11/10/bloodthunder-world-cup-timings-uk/"> UK timetable</a> for the accurate timings).
+USA will play #4 seed Australia today, before number #2 and #3 seeds England and Canada duke it out. The winners will go through to the Final, while the losers will play for 3rd place in a last minute change to the schedule (check our<a href="http://www.scottishrollerderbyblog.com/posts/2014/11/10/bloodthunder-world-cup-timings-uk/"> UK timetable</a> for the accurate timings).
 
 </p><hr>
 

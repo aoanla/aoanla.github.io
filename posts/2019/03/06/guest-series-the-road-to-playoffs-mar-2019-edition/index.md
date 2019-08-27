@@ -1,7 +1,7 @@
 With the second WFTDA official rating and ranking of the season \(**[https://wftda.com/rankings-february-28-2019/](https://wftda.com/rankings-february-28-2019/)**\), we're keeping to our promise to update our "Road to Playoffs series".
 
 <!-- wp:image {"id":27904} -->
-![All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires)](https://scottishrollerderby.files.wordpress.com/2019/02/world_playoffs_map.png "All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires)")All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires)
+![All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires)](https://www.scottishrollerderbyblog.com/images/2019/fb/world_playoffs_map.png "All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires)")All the locations with teams in our top 100 (larger stars mean more than one team is in the list - for example, 2x4 and Sailor City in Buenos Aires)
 <!-- /wp:image -->
 
 Speedy Convalesce, Head NSO of Mannheim's Delta Quads, as well as many other things, is here to help us better visualise what's likely to happen at Playoff selection. This ongoing series reports the ratings and rankings of the top 100 WFTDA teams, calculated as _if we were at June 30th 2019_ [the ranking which will be used to decide Qualifications and seedings into both WFTDA Playoffs, and the Continental Cups].

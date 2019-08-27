@@ -3,7 +3,7 @@
 <p>Click the name of the region to get a link with times for that timezone.</p>
 
 <table><thead><tr><td colspan="3">TIMEZONE LINKS</td></tr></thead><tbody><tr>
-<td><a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones/2/">HELSINKI</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones/3/">VICTORIA</a></td>
+<td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-big-o-2016-schedule-timezones/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-big-o-2016-schedule-timezones/2/">HELSINKI</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-big-o-2016-schedule-timezones/3/">VICTORIA</a></td>
 </tr></tbody></table>
 <table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
 <colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
@@ -239,7 +239,7 @@
 <p>Click the name of the region to get a link with times for that timezone.</p>
 
 <table><thead><tr><td colspan="3">TIMEZONE LINKS</td></tr></thead><tbody><tr>
-<td><a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones/2/">HELSINKI</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones/3/">VICTORIA</a></td>
+<td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-big-o-2016-schedule-timezones/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-big-o-2016-schedule-timezones/2/">HELSINKI</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-big-o-2016-schedule-timezones/3/">VICTORIA</a></td>
 </tr></tbody></table>
 <table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
 <colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>
@@ -475,7 +475,7 @@
 <p>Click the name of the region to get a link with times for that timezone.</p>
 
 <table><thead><tr><td colspan="3">TIMEZONE LINKS</td></tr></thead><tbody><tr>
-<td><a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones/2/">HELSINKI</a></td><td><a href="https://www.scottishrollerderbyblog.com/2016/03/16/the-big-o-2016-schedule-timezones/3/">VICTORIA</a></td>
+<td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-big-o-2016-schedule-timezones/1/">UK</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-big-o-2016-schedule-timezones/2/">HELSINKI</a></td><td><a href="https://www.scottishrollerderbyblog.com/posts/2016/03/16/the-big-o-2016-schedule-timezones/3/">VICTORIA</a></td>
 </tr></tbody></table>
 <table style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;">
 <colgroup style="border-collapse:collapse;border-width:1px;border-color:black;border-style:solid;"><col></colgroup>

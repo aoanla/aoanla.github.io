@@ -26,7 +26,7 @@ Philippines versus Indigenous 33-94
 
 Japan-fam versus Jewish RD 41-134
 
-Canada versus Korea
+Canada versus Korea 130-16
 
 Indigenous versus Jewish RD 67-54
 

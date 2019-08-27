@@ -1,4 +1,4 @@
-<html><body><p>As we reported <a href="https://www.scottishrollerderbyblog.com/2017/03/29/violentango-5-latin-americas-continental-tournament-returns/"><strong>last year</strong></a>, Torneo Violentango, 2x4 Roller Derby's yearly tournament, has taken various forms over recent years.
+<html><body><p>As we reported <a href="https://www.scottishrollerderbyblog.com/posts/2017/03/29/violentango-5-latin-americas-continental-tournament-returns/"><strong>last year</strong></a>, Torneo Violentango, 2x4 Roller Derby's yearly tournament, has taken various forms over recent years.
 
 Starting as a smaller scale tournament, Violentango 4 (2016) was already a Latin America-wide event, with teams from Argentina, Brasil, Chile, Peru and Uruguay in two divisions. Violentango 5 (2017), which we reported on for the first time, was similarly large in scope, with only Uruguay missing, and more teams from the other regions.
 

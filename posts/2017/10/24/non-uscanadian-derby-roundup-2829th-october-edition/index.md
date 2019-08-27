@@ -66,7 +66,7 @@ With Halloween providing an excuse, there's a ton of derby in the UK (and a very
 	<li>Leeds B versus Hulls Angels Roller Derby [<a href="http://flattrackstats.com/bouts/98117/overview"><strong>FTS</strong></a>]</li>
 </ul>
 </li>
-	<li>Newcastle, England: Durham City Rolling Angels host their Halloween triple-header [<a href="https://www.facebook.com/events/111674759544178/"><strong>EVENT</strong></a>][<a href="https://www.scottishrollerderbyblog.com/2017/10/03/doonhame-roller-derby-show-collaboration-is-the-way-to-victory/"><strong>more details in our Doonhame feature here</strong></a>]
+	<li>Newcastle, England: Durham City Rolling Angels host their Halloween triple-header [<a href="https://www.facebook.com/events/111674759544178/"><strong>EVENT</strong></a>][<a href="https://www.scottishrollerderbyblog.com/posts/2017/10/03/doonhame-roller-derby-show-collaboration-is-the-way-to-victory/"><strong>more details in our Doonhame feature here</strong></a>]
 <ul>
 	<li>Spooky cherry popper (female identifying skaters, mins-passed/mins-minus-laps-on appeal)</li>
 	<li>Doom Angels (Doonhame Roller Derby [Dumfries]+Durham City Rolling Angels) versus The World (intermediate - 5 to 10 games)</li>

@@ -1,4 +1,4 @@
-<html><body><p>We've previously covered the first sets of new teams to appear before the 2018 World Cup in two articles - 5 of them in <strong><a href="https://www.scottishrollerderbyblog.com/2016/12/22/new-nations-in-the-world-cup/">this roundup</a></strong> last year, and Team Iran <strong><a href="https://www.scottishrollerderbyblog.com/2017/03/02/representing-the-middle-east-the-effort-to-build-team-iran/">here</a></strong>.
+<html><body><p>We've previously covered the first sets of new teams to appear before the 2018 World Cup in two articles - 5 of them in <strong><a href="https://www.scottishrollerderbyblog.com/posts/2016/12/22/new-nations-in-the-world-cup/">this roundup</a></strong> last year, and Team Iran <strong><a href="https://www.scottishrollerderbyblog.com/posts/2017/03/02/representing-the-middle-east-the-effort-to-build-team-iran/">here</a></strong>.
 
 But there are even more teams arriving on the scene for what will be the largest World Cup ever... and we're catching up with the rest of them in this series.
 
