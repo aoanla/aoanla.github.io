@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 31 August 2019
 .. slug: weekendhighlights-31082019
 .. date: 2019-08-26 14:30:00 UTC+01:00
-.. tags: weekend highlights, roller derby sevens, new zealand roller derby, australian roller derby, polish roller derby, german roller derby, french roller derby, scottish roller derby, british roller derby, chilean roller derby, argentine roller derby
+.. tags: weekend highlights, roller derby sevens, new zealand roller derby, australian roller derby, polish roller derby, german roller derby, french roller derby, scottish roller derby, british roller derby, chilean roller derby, argentine roller derby, mexican roller derby
 .. category:
 .. link:
 .. description:
@@ -339,6 +339,24 @@ Sun: Valdivia, Chile
 Event starts: 1500 Sunday
 
 Venue: Escuela Alemania, Los Pelues, Valdivia, Chile
+
+Sat: Morelia, Michoacán, Mexico
+----------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+
+.. __: https://www.facebook.com/OvejasNegrasRD/photos/a.425975487500746/2217330678365209/?type=3
+
+
+`Ovejas Negras`_ host a friendly game against León's Freyjas! Venue still to be confirmed, as this seems to be a bit of a last minute thing.
+
+.. _Ovejas Negras: https://www.instagram.com/ovejasnegrasrollerderby
+
+- Ovejas Negras (Michoacán) versus Freyjas (León)
+
+Event starts: 1200 Saturday
+
+Venue: ??
 
 ..
   Sat-Sun:
