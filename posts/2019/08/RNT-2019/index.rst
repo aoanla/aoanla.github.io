@@ -1,6 +1,6 @@
 .. title: Rollercon Nations Tournament 2019
 .. slug: RNT-2019
-.. date: 2019-09-06 11:00:00 UTC+01:00
+.. date: 2019-09-07 11:00:00 UTC+01:00
 .. tags: tournaments, international roller derby, jewish roller derby, team indigenous roller derby, team indigenous rising, team philippines roller derby, team canada roller derby, team korea roller derby
 .. category:
 .. link:
@@ -13,7 +13,7 @@ Founded in 2017, before the last Roller Derby World Cup, they've been a great wa
 
 This year was a particularly important point in the tournament's history, as two borderless nations - Team Indigenous Rising, and the new Jewish Roller Derby - competed in the tournament, and even played each other. (In fact, even the styling of the series of games as a true, all-day, tournament was a change this year, as previously there had not been enough competitors to realise this.)
 
-The 2019 Nations tournament was run as an efficient double-elimination bracket, with seedings voted on by the competing teams. This means that each team could lose once in the tournament - that loss knocking them out of the "winners" bracket, and into a sudden-death bracket against other teams with a single loss. The eventual survivor of that sudden death bracket, having proven themselves the best of the teams, other than sole unbeaten team, gets to play in the final against that undefeated remainder. In this case, for time, all games were single period WFTDA-rules bouts, except for the final, run as a full-length WFTDA-rules game. Seeds were voted on by all teams.
+The 2019 Nations tournament was run as an efficient double-elimination bracket, with seedings voted on by the competing teams. This means that each team could lose once in the tournament - that loss knocking them out of the "winners" bracket, and into a sudden-death bracket against other teams with a single loss. The eventual survivor of that sudden death bracket, having proven themselves the best of the teams, other than sole unbeaten team, gets to play in the final against that undefeated remainder. In this case, for time, all games were single period WFTDA-rules bouts, except for the final, run as a full-length WFTDA-rules game.
 
 As well as the two borderless nations, there were also three Asian nations represented: Team Philippines, Team Korea, and Team "Japan-fam" (so named because they felt that they didn't have enough of the Team Japan members to claim the name, and had a more relaxed eligibility criterion). This is also an important aspect of the event, and has been since it began, with Philippines and Korea founding members in 2017.
 
