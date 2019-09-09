@@ -1,6 +1,6 @@
 .. title: Udine's Banshees show their love for derby in three languages!
 .. slug: Banshees-multilingual
-.. date: 2019-09-07 11:00:00 UTC+01:00
+.. date: 2019-09-10 11:00:00 UTC+01:00
 .. tags: italian roller derby, campaign, roller derby udine, italian, friulano, multilingual
 .. category:
 .. link:
@@ -8,7 +8,7 @@
 .. type: text
 .. author: srd
 
-*We are happy to host this guest post from the Banshees of Roller Derby Udine. In the spirit of their project, this post is available in English, Italian and Friulano [click the language button at the left to pick a language]*
+*We are happy to host this guest post from the Banshees of Roller Derby Udine. In the spirit of their project, this post is available in English, Italian and Friulan [click the language button at the left to pick a language]*
 
 
 Hi everybody!

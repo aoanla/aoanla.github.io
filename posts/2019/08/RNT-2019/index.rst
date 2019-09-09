@@ -1,6 +1,6 @@
 .. title: Rollercon Nations Tournament 2019
 .. slug: RNT-2019
-.. date: 2019-09-07 11:00:00 UTC+01:00
+.. date: 2019-09-10 11:00:00 UTC+01:00
 .. tags: tournaments, international roller derby, jewish roller derby, team indigenous roller derby, team indigenous rising, team philippines roller derby, team canada roller derby, team korea roller derby
 .. category:
 .. link:
@@ -15,7 +15,7 @@ This year was a particularly important point in the tournament's history, as two
 
 The 2019 Nations tournament was run as an efficient double-elimination bracket, with seedings voted on by the competing teams. This means that each team could lose once in the tournament - that loss knocking them out of the "winners" bracket, and into a sudden-death bracket against other teams with a single loss. The eventual survivor of that sudden death bracket, having proven themselves the best of the teams, other than sole unbeaten team, gets to play in the final against that undefeated remainder. In this case, for time, all games were single period WFTDA-rules bouts, except for the final, run as a full-length WFTDA-rules game.
 
-As well as the two borderless nations, there were also three Asian nations represented: Team Philippines, Team Korea, and Team "Japan-fam" (so named because they felt that they didn't have enough of the Team Japan members to claim the name, and had a more relaxed eligibility criterion). This is also an important aspect of the event, and has been since it began, with Philippines and Korea founding members in 2017.
+As well as the two borderless nations, there were also three Asian nations represented: Team Philippines, Team Korea, and Team "Japan-fam" (so named because they did not have a tryout and offered this opportunity to all skaters of Japanese heritage). This is also an important aspect of the event, and has been since it began, with Philippines and Korea founding members in 2017.
 
 As ShortStop noted for Korea, in particular:
 
@@ -28,7 +28,7 @@ For Philippines' Electric PIRANHA, it's an equally strong, and personally import
 Even for Japan, where there has been derby in some form for more than a decade, visibility is low, as we've discussed before on this blog.
 Kris Rago, for Japan-fam noted to us that this was a factor in their participation here:
 
-  We had three skaters fly over from Japan and two from Hawaii and all met in person for a practice prior to our games.  Japan, while Derby is at least present there, still has a lot of areas to grow and expand, both in amount of skaters and level of teams/leagues in the country.  This tournament allowed us an opportunity to meet with folks that flew over and hopefully will lead towards working together in strengthening roller derby in Japan.
+  Japan Fam was unique in the sense that roller derby is present in Japan and that some of our skaters from both Japan and Hawaii were able to fly over and join our U.S. Japanese skaters. It was really wonderful to be able to come together and work together to represent our heritage and do amazing things on the track. My hope is more opportunities like this will help to strengthen the relationship between our U.S. Japanese skaters and skaters and leagues in Japan.
 
 ----
 
