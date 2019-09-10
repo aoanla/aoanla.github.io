@@ -115,6 +115,21 @@ Event starts: 1330 Saturday
 
 Venue: Aktiv Nation, Al Quoz, Dubai, United Arab Emirates
 
+Thurs: Pretoria, South Africa
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/ptownrollerderby/photos/a.441326762685948/1381845355300746/?type=3&theater
+
+
+`P-Town Roller Derby`_ are working with Sumo, a local band, to provide more skate experiences, starting with this open skate at Thrashers Skate Park. We're interested to see how this association develops in future.
+
+.. _P-Town Roller Derby: http://www.ptownrollerderby.co.za
+
+Event starts: 1830 Thursday
+
+Venue: Thrashers Skate Park, 241 Serene Street, Menlyn Park, Pretoria, South Africa
 
 Sat: Turku, Finland
 --------------------------------
@@ -315,7 +330,7 @@ Sat-Sun: Truckee, CA, USA
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/755716138140266/
-.. __: pending
+.. __: http://flattrackstats.com/tournaments/111469/overview
 
 
 `Sierra Regional Roller Derby`_ aren't intimidated by the other international event on US soil, as they host the 8th edition of their Deep Blue Derby Tournament, international by virtue of hosting *Brussels Derby Pixies* as one of the competitors. Brussels have been fundraising for much of the year for this tournament, so we hope they do well!
