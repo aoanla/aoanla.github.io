@@ -77,6 +77,28 @@ Event starts: 0900 Saturday (first whistle)
 
 Venue: Wangaratta Indoor Sports and Aquatic Centre, HP Barr Reserve, Schilling Dr, Wangaratta, VIC, Australia
 
+Fri: Tokyo, Japan
+--------------------------------
+
+`[Flyer Link]`__
+
+.. __: https://www.scottishrollerderbyblog.com/images/2019/09/4x4TournamentFlyer.png
+
+
+`Kamikaze Badass Roller Derby`_ face Tokyo Roller Derby's `Neon Roller Monsters`_ as the 2019/2020 edition of the mysterious 4x4 Roller Derby Tournament kicks off.
+As we mentioned last season, it's been extremely difficult to get information in any detail about this tournament series, other than that it seems to be a Sur5al or Roller
+Derby Sevens like short-format endurance ruleset, and involves the leagues around the Tokyo-Yokohama metropolitan area (regardless of the ruleset they endorse, individually).
+We only know of this fixture due to a short-lived "story" post on Kamikaze Badass' instagram account, which we've taken a copy of and hosted here for easier reference.
+
+.. _Kamikaze Badass Roller Derby: https://kamikazebadassrdjpn.amebaownd.com/
+.. _Neon Roller Monsters: https://www.instagram.com/neonrollermonsters/
+
+- Kamikaze Badass Roller Derby (Tokyo) versus Neon Roller Monsters (Tokyo/Yokohama)
+
+Event starts: 2130 Friday (doors open)
+
+Venue: Tokyo Dome Skate Arena, 1-chōme-3-６１号 Kōraku, Bunkyo City, Tōkyō, Japan
+
 Sat-Sun: Al Quoz, Dubai, UAE
 --------------------------------
 
