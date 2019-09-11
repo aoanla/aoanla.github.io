@@ -50,6 +50,31 @@ Event starts: 1600 Saturday (doors open)
 
 Venue: Kilbirnie Recreation Centre, 101 Kilbirnie Crescent, Wellington, New Zealand
 
+Sat: Niagara Park, NSW, Australia
+------------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/2375660192704743/
+.. __: http://flattrackstats.com/tournaments/109651
+
+
+`Central Coast Roller Derby United`_ are also hosting a tournament season final, as New South Wales' 5x5 Roller Derby Championship comes to an end for 2018/19 with championship games for its three divisions.
+
+.. _Central Coast Roller Derby United: https://www.centralcoastrollerderby.com.au/
+
+- Port Macquarie/Central West versus Northern Beaches - CATACLYSM Championship
+- Central Coast & South Side versus Blue Mountains - BATTLEGROUNDS Championship
+- Inner West versus Newcastle  - ARMAGEDDON Championship
+
+*Not all bouts listed in FTS as it cannot track teams formed from separate teams like this*
+
+Event starts: 1330 Saturday (doors open)
+
+Venue: Niagara Park Stadium, 18 Washington Avenue, Niagara Park, NSW, Australia
+
+
 Sat: Wangaratta, VIC, Australia
 ----------------------------------
 
@@ -292,6 +317,27 @@ Sat: Barcelona, Spain
 Event starts: 1030 Saturday (doors open)
 
 Venue: CEM Trinitat Vella, Via de Bàrcino, 84, 08033 Barcelona, Spain
+
+Sat: A Coruña, Spain
+--------------------------------
+
+`[FACEBOOK LINK 1]`__
+`[FACEBOOK LINK 2]`__
+
+.. __: https://www.facebook.com/events/2382716408635076/
+.. __: https://www.facebook.com/events/374557040133809/
+
+
+`As Brigantias`_ meanwhile, at the other end of Spain, are hosting two events: the return of their traditional Summer Camp outreach day for interested skaters, which runs from 11am to 7pm...
+
+... and then their 7th birthday celebration in the evening, marked by a screening of the Roller Derby documentary, "THIS IS DERBY". (free entry)
+
+.. _As Brigantias: https://brigantias.com/
+
+Event starts: 1100 Saturday
+
+Venue: Polideportivo Monte Alto Rua Alcalde Sanjurjo, 4A, 15002 A Coruña, Spain (Summer camp)
+ Centro Social Gomes Gaioso Rúa Marconi, 9, 15002 A Coruña (Anniversary celebration)
 
 =======
 

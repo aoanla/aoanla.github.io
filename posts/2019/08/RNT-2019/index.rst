@@ -12,6 +12,9 @@ For the last few years, the National teams bouts have become a fixture of Roller
 Founded in 2017, before the last Roller Derby World Cup, they've been a great way for newer, or less visible National teams to be seen; and for raising awareness of the globally diverse nature of Roller Derby in general.
 
 This year was a particularly important point in the tournament's history, as two borderless nations - Team Indigenous Rising, and the new Jewish Roller Derby - competed in the tournament, and even played each other. (In fact, even the styling of the series of games as a true, all-day, tournament was a change this year, as previously there had not been enough competitors to realise this.)
+Speaking for Team Indigenous, Jumpy McGee explained the importance of this to both teams:
+
+  Team Indigenous is extremely grateful to have this platform to bring our teams together and highlight that not all humans are defined by borders or citizenship.  There are centuries of displacement, violence, and oppression that have occurred causing people indigenous to their homeland to create home elsewhere.  We believe it was critical then to create a space where players identifying as a member of a nation had a place to belong.  And when WE talk about nation, we're talking about nation in the sense of a collection of humans who have the same cultures, beliefs, languages and traditions who cannot be contained or defined by borders.
 
 The 2019 Nations tournament was run as an efficient double-elimination bracket, with seedings voted on by the competing teams. This means that each team could lose once in the tournament - that loss knocking them out of the "winners" bracket, and into a sudden-death bracket against other teams with a single loss. The eventual survivor of that sudden death bracket, having proven themselves the best of the teams, other than sole unbeaten team, gets to play in the final against that undefeated remainder. In this case, for time, all games were single period WFTDA-rules bouts, except for the final, run as a full-length WFTDA-rules game.
 
@@ -98,5 +101,11 @@ The larger, more formal Nations Tournament was a success, judged by the audience
 Following the current trend, we are looking forward to seeing potentially even more teams representing at Rollercon2020's edition of the event, bringing more visibility to nations, and peoples, who have been under-represented in derby as a whole.
 
 You can next see two of the teams represented here, Team Indigenous Roller Derby & Jewish Roller Derby, participating in a `"Borderless Nations"`__ showcase bout as part of the WFTDA Championships in Montreal, Canada. November 16th, first whistle at 11:30.
+
+To return to Jumpy McGee again to explain why this continues to be important:
+
+  The beautiful thing about Team Indigenous and Jewish Roller Derby coming together on this international stage is the ability to increase community education and awareness about issues facing these typically marginalized groups.  There is also the ability to spotlight some incredible athletes who have so much talent, but given the scope and nature of our sport currently, may not ever have the ability to demonstrate their skill at this highest level.  We also open up the conversations with our community around how we understand marginalized groups within our sport and keep the conversations going on how our roller derby community can provide better support for elevating these groups.
+
+And in a period where various kinds of marginalisation and division are under the spotlight in derby, we need this more than ever.
 
 .. __: https://wftda.com/team-indigenous-vs-jewish-roller-derby-at-2019-wftda-championships/
