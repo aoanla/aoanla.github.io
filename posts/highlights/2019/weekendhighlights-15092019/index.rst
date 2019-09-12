@@ -62,10 +62,10 @@ Tues: Ljubljana, Slovenia
 --------------------------------
 
 `[Initial Post on Facebook]`__
-`[FACEBOOK LINK (pending official event)]`__
+`[FACEBOOK LINK (event)]`__
 
 .. __: https://www.facebook.com/RollerDerbyLjubljana/photos/a.628146750528926/2700235949986652/?type=3
-.. __: pending
+.. __: https://www.facebook.com/events/675245436316439/
 
 `Roller Derby Ljubljana`_ are working with Ljubljana Pride to co-host an outreach event: a screening of the Slovenian dub of famous Roller Derby film, "Whip It!", followed by a discussion of how Roller Derby is portrayed in film and how it works in real life. (And then a chance to get to know Roller Derby Ljubljana themselves.)
 

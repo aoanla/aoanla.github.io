@@ -160,19 +160,20 @@ Sat: Turku, Finland
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
+`[FTS LINK (d1)]`__
+`[FTS LINK (sm)]`__
 
 .. __: https://www.facebook.com/events/604165600109999/
 .. __: http://www.flattrackstats.com/tournaments/111451
+.. __: http://flattrackstats.com/tournaments/111488/overview
 
-
-`Dirty River Roller Derby`_ host the first fixtures for the 2019/20 season of the Finnish national Championship, the Suomi-sarja. This is a Division 1 triple header featuring, for the first time, two entries from one team, as the hosts enter their A and B teams. Also returning from last year, is the cup's only non-Finnish competitor, Russia's White Night Furies from St Petersburg.
+`Dirty River Roller Derby`_ host the first fixtures for the 2019/20 season of the Finnish national Championship, the Suomi-sarja. This is a Division 1 and "SM" (Elite division) triple header featuring, for the first time, two entries from one team, as the hosts enter their A and B teams. Also returning from last year, is the cup's only non-Finnish competitor, Russia's White Night Furies from St Petersburg.
 
 .. _Dirty River Roller Derby: https://dirtyriverrollerderby.com
 
-- Åbo B-ajs (Dirty River B \| Turku) versus C-kasetti (Helsinki C)
-- Kouvola Rock n Rollers versus White Night Furies (St Petersburg)
-- Föri Fighters (Dirty River A) versus Jyväskylä Roller Derby
+- Åbo B-ajs (Dirty River B \| Turku) versus C-kasetti (Helsinki C) [Division 1]
+- Kouvola Rock n Rollers versus White Night Furies (St Petersburg) [SM series?]
+- Föri Fighters (Dirty River A) versus Jyväskylä Roller Derby [SM series]
 
 Event starts: 1230 Saturday (first whistle)
 
@@ -392,6 +393,10 @@ Sat-Sun: Truckee, CA, USA
   - San Fernando Valley Roller Derby
 
 Event starts: 0800 Saturday (doors open?)
+Day 1 Live stream: `YouTube`__ (`Donations for stream costs here`__.)
+
+.. __: https://www.youtube.com/watch?v=spXvjJtCOqY
+.. __: http://paypal.me/SRRD2019
 
 Venue: Truckee River Regional Park, 10500 Brockway Rd, Truckee, CA, USA
 
