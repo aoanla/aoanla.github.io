@@ -45,8 +45,9 @@ Kris Rago, for Japan-fam noted to us that this was a factor in their participati
 .. figure:: /images/2019/09/TristanKing-KoreaPhilippines.jpg
   :alt: Action from the Korea / Philippines game, Philippines jammer on inside line passing blocked Korea jammer in pack.
 
-  Action from Korea versus Philippines (Photo: Tristan King)
+  Action from Korea versus Philippines (Photo: `Tristan King`__ [see link for license])
 
+.. __: https://www.facebook.com/TKvisualarts
 
 The first round of competition saw a strong performance from #4 seed Team Indigenous, and a tight victory for #3 Korea over #6 Philippines:
 
@@ -81,8 +82,9 @@ whilst in the loser's bracket, Team Indigenous knocked out Philippines:
 .. figure:: /images/2019/09/TristanKing-IndigenousPhilippines.jpg
   :alt: Team Indigenous and Team Philippines jammers neck-and-neck on track.
 
-  Team Indigenous and Team Philippines jammers (Photo: Tristan King)
+  Team Indigenous and Team Philippines jammers (Photo: `Tristan King`__ [see link for license])
 
+.. __: https://www.facebook.com/TKvisualarts
 
 In the penultimate rounds, in the loser's bracket, Jewish Roller Derby retained their place, knocking out Japan-fam in a strong performance; whilst in the winner's bracket, Canada overwhelmed Korea:
 

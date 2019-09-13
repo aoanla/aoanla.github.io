@@ -154,7 +154,7 @@ Sun: Quilmes, Buenos Aires, Argentina
 .. _Indias Roller Derby: https://www.instagram.com/indiasrollerderbyquilmes/
 
 - ABC level WFTDA-gender scrimmage
-- Facones Galácticos Roller Derby versus mashup team
+- Facones Galácticos Roller Derby versus mashup team [Cancelled due to concerns over attending skaters. See Indias' Facebook page for details.]
 - OTA-gender scrimmage
 
 Event starts: 1200 Sunday
