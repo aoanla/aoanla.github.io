@@ -313,7 +313,7 @@ Sat: Barcelona, Spain
 
 .. _Barcelona Roller Derby: http://barcelonarollerderby.es/
 
-- Ingles de Acero (Barcelona A) versus Team Unicorn Roller Derby (UK exhibition team)
+- Ingles de Acero Home Team (Barcelona B) versus Team Unicorn Roller Derby (UK exhibition team)
 
 Event starts: 1030 Saturday (doors open)
 

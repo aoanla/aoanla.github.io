@@ -1,6 +1,6 @@
 .. title: Rollercon Nations Tournament 2019
 .. slug: RNT-2019
-.. date: 2019-09-14 11:00:00 UTC+01:00
+.. date: 2019-09-17 11:00:00 UTC+01:00
 .. tags: tournaments, international roller derby, jewish roller derby, team indigenous roller derby, team indigenous rising, team philippines roller derby, team canada roller derby, team korea roller derby
 .. category:
 .. link:
@@ -11,10 +11,10 @@
 For the last few years, the National teams bouts have become a fixture of Rollercon.
 Founded in 2017, before the last Roller Derby World Cup, they've been a great way for newer, or less visible National teams to be seen; and for raising awareness of the globally diverse nature of Roller Derby in general.
 
-This year was a particularly important point in the tournament's history, as two borderless nations - `Team Indigenous Rising`_, and the new `Jewish Roller Derby`_ - competed in the tournament, and even played each other. (In fact, even the styling of the series of games as a true, all-day, tournament was a change this year, as previously there had not been enough competitors to realise this.)
+This year was a particularly important point in the tournament's history, as two borderless nations - `Team Indigenous Rising`_ (link to Facebook), and the new `Jewish Roller Derby`_ - competed in the tournament, and even played each other. (In fact, even the styling of the series of games as a true, all-day, tournament was a change this year, as previously there had not been enough competitors to realise this.)
 
-.. _Team Indigenous Rising:
-.. _Jewish Roller Derby:
+.. _Team Indigenous Rising: https://www.facebook.com/teamindigenousrollerderby/
+.. _Jewish Roller Derby: https://www.instagram.com/jewishrollerderby/
 
 Speaking for Team Indigenous, Jumpy McGee explained the importance of this to both teams:
 
@@ -24,8 +24,8 @@ The 2019 Nations tournament was run as an efficient double-elimination bracket, 
 
 As well as the two borderless nations, there were also three Asian nations represented: `Team Philippines`_, `Team Korea`_, and Team "Japan-fam" (so named because they did not have a tryout and offered this opportunity to all skaters of Japanese heritage). This is also an important aspect of the event, and has been since it began, with Philippines and Korea founding members in 2017.
 
-.. _Team Philippines:
-.. _Team Korea:
+.. _Team Philippines: https://www.instagram.com/teamphilippines_rollerderby/
+.. _Team Korea: https://www.instagram.com/teamkorearollerderby/
 
 As ShortStop noted for Korea, in particular:
 
@@ -38,7 +38,9 @@ For Philippines' Electric PIRANHA, it's an equally strong, and personally import
 Even for Japan, where there has been derby in some form for more than a decade, visibility is low, as we've discussed before on this blog.
 Kris Rago, for Japan-fam noted to us that this was a factor in their participation here:
 
-  Japan Fam was unique in the sense that roller derby is present in Japan and that some of our skaters from both Japan and Hawaii were able to fly over and join our U.S. Japanese skaters. It was really wonderful to be able to come together and work together to represent our heritage and do amazing things on the track. My hope is more opportunities like this will help to strengthen the relationship between our U.S. Japanese skaters and skaters and leagues in Japan.
+  Japan Fam was unique in the sense that roller derby is `present in Japan`__ and that some of our skaters from both Japan and Hawaii were able to fly over and join our U.S. Japanese skaters. It was really wonderful to be able to come together and work together to represent our heritage and do amazing things on the track. My hope is more opportunities like this will help to strengthen the relationship between our U.S. Japanese skaters and skaters and leagues in Japan.
+
+.. __: https://www.facebook.com/rdjapan/photos/a.316960268326566/2053816941307548/?type=3&permPage=1
 
 ----
 
