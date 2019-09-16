@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 21 September 2019
 .. slug: weekendhighlights-21092019
 .. date: 2019-09-16 14:30:00 UTC+01:00
-.. tags: weekend highlights,
+.. tags: weekend highlights, australian roller derby, british roller derby, national championships, argentine roller derby, norwegian roller derby, swedish roller derby, mexican roller derby, bootcamps, german roller derby, british championships, dutch roller derby, south african roller derby, french roller derby
 .. category:
 .. link:
 .. description:
