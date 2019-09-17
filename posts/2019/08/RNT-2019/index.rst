@@ -108,6 +108,8 @@ This meant that the final loser's bracket game, between Indigenous and Jewish Ro
 
     Team Indigenous and Jewish Roller Derby (Photo: `Tristan King`__ [see link for license])
 
+.. __: https://www.facebook.com/TKvisualarts
+
 After a tight game, Team Indigenous took the victory... but were unable to defeat Canada in their resulting rematch.
 
   Indigenous 67 : 54 Jewish RD [Video : (Team Indigenous) `Facebook`__ `YouTube(backup)`__ (Jewish Roller Derby) `Facebook`__ `YouTube(backup)`__ ]
