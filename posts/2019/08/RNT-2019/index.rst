@@ -1,6 +1,6 @@
 .. title: Rollercon Nations Tournament 2019
 .. slug: RNT-2019
-.. date: 2019-09-17 11:00:00 UTC+01:00
+.. date: 2019-09-17 21:00:00 UTC+01:00
 .. tags: tournaments, international roller derby, jewish roller derby, team indigenous roller derby, team indigenous rising, team philippines roller derby, team canada roller derby, team korea roller derby
 .. category:
 .. link:
@@ -102,6 +102,11 @@ Rather than dropping down to the loser's bracket for the semi-final as their the
 This meant that the final loser's bracket game, between Indigenous and Jewish Roller Derby, would determine who would play for the championship against the undefeated Canada. Given the importance of visibility to both teams, the game had a certain special tone to it, as Jewish Roller Derby's Jodi Bon Jodi recalls:
 
   Jewish Roller Derby was honored to play Team Indigenous in that final elimination game. Before the game, both teams were joking about how we didn't care who won, we were all just so grateful to play against another borderless nation. The game ended in hugs rather than high fives, which I think really captured the spirit of what we are doing.
+
+  .. figure:: /images/2019/09/TristanKing-IndigenousJewish.jpg
+    :alt: Team Indigenous and Jewish Roller Derby skaters in a complex blocking situation
+
+    Team Indigenous and Jewish Roller Derby (Photo: `Tristan King`__ [see link for license])
 
 After a tight game, Team Indigenous took the victory... but were unable to defeat Canada in their resulting rematch.
 
