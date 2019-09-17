@@ -27,6 +27,13 @@ As well as the two borderless nations, there were also three Asian nations repre
 .. _Team Philippines: https://www.instagram.com/teamphilippines_rollerderby/
 .. _Team Korea: https://www.instagram.com/teamkorearollerderby/
 
+.. figure:: /images/2019/09/TristanKing-KoreaPhilippines.jpg
+  :alt: Action from the Korea / Philippines game, Philippines jammer on inside line passing blocked Korea jammer in pack.
+
+  Action from Korea versus Philippines (Photo: `Tristan King`__ [see link for license])
+
+.. __: https://www.facebook.com/TKvisualarts
+
 As ShortStop noted for Korea, in particular:
 
   As a small nation, with relatively low representation in Roller Derby, [we] submitted an initial roster that included 8 Koreans, two skaters from OH Roller Derby Team (the only roller derby league in South Korea), and skaters from China, Vietnam, Thailand and Hong Kong. All of our non-Korean Asians are currently involved in building their own nations teams, and we thought it was a wonderful way to include them as start to gather their own teams.
@@ -42,14 +49,9 @@ Kris Rago, for Japan-fam noted to us that this was a factor in their participati
 
 .. __: https://www.facebook.com/rdjapan/photos/a.316960268326566/2053816941307548/?type=3&permPage=1
 
+.. TEASER_END
+
 ----
-
-.. figure:: /images/2019/09/TristanKing-KoreaPhilippines.jpg
-  :alt: Action from the Korea / Philippines game, Philippines jammer on inside line passing blocked Korea jammer in pack.
-
-  Action from Korea versus Philippines (Photo: `Tristan King`__ [see link for license])
-
-.. __: https://www.facebook.com/TKvisualarts
 
 The first round of competition saw a strong performance from #4 seed Team Indigenous, and a tight victory for #3 Korea over #6 Philippines:
 
