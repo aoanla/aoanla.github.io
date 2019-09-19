@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/aoanla.xml</loc>
-  <lastmod>2019-09-17T20:31:00Z</lastmod>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/caleykapowski.xml</loc>
@@ -263,7 +263,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/argentine-roller-derby.xml</loc>
-  <lastmod>2019-09-16T13:48:00Z</lastmod>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/arrg.xml</loc>
@@ -324,6 +324,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/austrian-roller-derby.xml</loc>
   <lastmod>2019-09-16T13:22:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/autralian-roller-derby.xml</loc>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/ayrshire-roller-derby.xml</loc>
@@ -463,7 +467,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/bootcamps.xml</loc>
-  <lastmod>2019-09-16T13:48:00Z</lastmod>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/boudicca-cup.xml</loc>
@@ -523,7 +527,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/british-roller-derby.xml</loc>
-  <lastmod>2019-09-16T13:48:00Z</lastmod>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/bundesliga.xml</loc>
@@ -703,7 +707,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/colombian-roller-derby.xml</loc>
-  <lastmod>2019-09-16T13:22:00Z</lastmod>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/communication.xml</loc>
@@ -1387,7 +1391,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/international-roller-derby.xml</loc>
-  <lastmod>2019-09-17T20:31:00Z</lastmod>
+  <lastmod>2019-09-17T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/international.xml</loc>
@@ -1459,7 +1463,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/jewish-roller-derby.xml</loc>
-  <lastmod>2019-09-17T20:31:00Z</lastmod>
+  <lastmod>2019-09-17T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/join-roller-derby.xml</loc>
@@ -1727,7 +1731,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/mexican-roller-derby.xml</loc>
-  <lastmod>2019-09-16T13:48:00Z</lastmod>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/mexico.xml</loc>
@@ -2326,6 +2330,10 @@
   <lastmod>2019-09-16T13:22:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/scrimmage.xml</loc>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/severn-roller-torrent.xml</loc>
   <lastmod>2019-09-16T13:22:00Z</lastmod>
  </sitemap>
@@ -2435,7 +2443,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/spanish-roller-derby.xml</loc>
-  <lastmod>2019-09-16T13:22:00Z</lastmod>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/spring-roll.xml</loc>
@@ -2567,7 +2575,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-canada-roller-derby.xml</loc>
-  <lastmod>2019-09-17T20:31:00Z</lastmod>
+  <lastmod>2019-09-17T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-canada.xml</loc>
@@ -2631,11 +2639,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-indigenous-rising.xml</loc>
-  <lastmod>2019-09-17T20:31:00Z</lastmod>
+  <lastmod>2019-09-17T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-indigenous-roller-derby.xml</loc>
-  <lastmod>2019-09-17T20:31:00Z</lastmod>
+  <lastmod>2019-09-17T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-iran-roller-derby.xml</loc>
@@ -2659,7 +2667,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-korea-roller-derby.xml</loc>
-  <lastmod>2019-09-17T20:31:00Z</lastmod>
+  <lastmod>2019-09-17T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-korea.xml</loc>
@@ -2691,7 +2699,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-philippines-roller-derby.xml</loc>
-  <lastmod>2019-09-17T20:31:00Z</lastmod>
+  <lastmod>2019-09-17T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-philippines.xml</loc>
@@ -2895,7 +2903,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/tournaments.xml</loc>
-  <lastmod>2019-09-17T20:31:00Z</lastmod>
+  <lastmod>2019-09-17T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/tournaments2018.xml</loc>
@@ -3099,7 +3107,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/weekend-highlights.xml</loc>
-  <lastmod>2019-09-16T13:48:00Z</lastmod>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/weekly-roundup.xml</loc>
@@ -3491,10 +3499,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2019-09-17T20:31:00Z</lastmod>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2019-09-17T20:31:00Z</lastmod>
+  <lastmod>2019-09-19T11:04:00Z</lastmod>
  </sitemap>
 </sitemapindex>
