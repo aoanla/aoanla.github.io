@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2019-09-21T09:02:00Z</lastmod>
+  <lastmod>2019-09-22T19:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -4038,7 +4038,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-97.html</loc>
-  <lastmod>2019-09-21T09:02:00Z</lastmod>
+  <lastmod>2019-09-22T19:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/it/</loc>
@@ -4215,8 +4215,8 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-09-16T13:22:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="en" href="https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/listings/</loc>
@@ -7998,8 +7998,12 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-09-06T13:35:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="it" href="https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/UKRDANeedYou2019/</loc>
+  <lastmod>2019-09-22T18:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/Vendaval_shorttrack/</loc>
