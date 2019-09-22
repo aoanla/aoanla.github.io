@@ -63,4 +63,4 @@ Any and all questions can be addressed to UKRDA via the above email, or via mess
 
 .. _FACEBOOK: https://www.facebook.com/ukrollerderbyassociation/
 .. _INSTAGRAM: https://www.instagram.com/ukrda/
-.. _TWITTER:
+.. _TWITTER: https://twitter.com/UKRDA
