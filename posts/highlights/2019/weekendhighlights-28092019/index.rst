@@ -305,6 +305,25 @@ Event starts: 10am Saturday
 
 Venue: Centro Deportivo Municipal Moratalaz, Valdebernardo, S/N, Madrid, Spain
 
+Sat: San Luis Potosí, Mexico
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/399107264092642/
+.. __: http://flattrackstats.com/bouts/111682/overview
+
+`Furiosas Roller Derby`_ host a single header against the Aniquiladoras of Mexico City.
+
+.. _Furiosas Roller Derby: https://www.instagram.com/furiosas_rd_slp/
+
+- Furiosas (San Luis Potosí) versus Aniquiladoras (Mexico City)
+
+Event starts: 1700 Saturday
+
+Venue: Patinódromo de alto rendimiento Inpode, Av Himno Nacional 4000, Issste, San Luis, S.L.P., Mexico
+
 
 ..
   Sat-Sun:
