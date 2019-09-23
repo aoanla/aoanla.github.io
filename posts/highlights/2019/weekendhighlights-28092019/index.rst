@@ -91,8 +91,8 @@ Sat: Copenhagen, Denmark
 
 .. _Copenhagen Roller Derby: http://www.copenhagenrollerderby.com/
 
-- Copenhagen Roller Derby B versus Dock City Plan B ( B)
-- Troublemakers versus Candy Snatchers ( )
+- Copenhagen Roller Derby B versus Dock City Plan B (NGothenburg B)
+- Troublemakers versus Candy Snatchers
 - Copenhagen Roller Derby A versus Norrköping Roller Derby
 
 *Troublemakers versus Candy Snatchers bout not on FTS as exhibition teams.*
