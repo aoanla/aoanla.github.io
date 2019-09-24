@@ -74,6 +74,22 @@ Event starts: 1330 Saturday
 
 Venue: Aktiv Nation, Al Quoz, Dubai, United Arab Emirates
 
+Fri: Durban, South Africa
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/357086058504165/
+
+`Durban Roller Derby`_ host a WFTDA-rules Roller Derby bout, with a Super Heroes versus Villain theme.
+
+.. _Durban Roller Derby:
+
+- Super Heroes versus Villains home teams expo bout
+
+Event starts: 1900 Friday (doors open)
+
+Venue: APN Portuguese Club, 5 Wright Place, Carrington Heights, Durban, South Africa
 
 Sat: Copenhagen, Denmark
 --------------------------------
