@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 28 September 2019
 .. slug: weekendhighlights-28092019
 .. date: 2019-09-23 14:30:00 UTC+01:00
-.. tags: weekend highlights, australian roller derby, british roller derby, danish roller derby, dutch roller derby, german roller derby, french roller derby, bootcamps, officiating clinics, junior roller derby, swiss roller derby, spanish roller derby
+.. tags: weekend highlights, australian roller derby, british roller derby, danish roller derby, dutch roller derby, german roller derby, french roller derby, bootcamps, officiating clinics, junior roller derby, swiss roller derby, spanish roller derby, mexican roller derby
 .. category:
 .. link:
 .. description:
@@ -304,6 +304,23 @@ scrim may also sign up, as long as they are mins-passed.)
 Event starts: 10am Saturday
 
 Venue: Centro Deportivo Municipal Moratalaz, Valdebernardo, S/N, Madrid, Spain
+
+Sat: Bimenes, Asturias, Spain
+--------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+
+.. __: https://www.facebook.com/asturiesrollerderby/photos/a.369735840109977/805065963243627/?type=3
+
+`La Güestia Roller Derby`_ start the new season with a scrimmage (hence no FTS listing) against A Coruña's Irmandinas.
+
+.. _La Güestia Roller Derby: https://www.instagram.com/laguestiarollerderby
+
+- La Güestia (Asturias region) versus Irmandinas (Roller Derby Coruña \| A Coruña)
+
+Event starts: 1700
+
+Venue:  San Julián 182, San Julián, Asturias, Spain
 
 Sat: San Luis Potosí, Mexico
 --------------------------------
