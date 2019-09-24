@@ -87,12 +87,12 @@ Sat: Copenhagen, Denmark
 .. __: http://flattrackstats.com/node/110667
 
 
-`Copenhagen Roller Derby`_ celebrate 10 years of Roller Derby in Denmark's capital with a triple header event!
+`Copenhagen Roller Derby`_ celebrate 10 years of Roller Derby in Denmark's capital with a triple header event, including international junior roller derby!
 
 .. _Copenhagen Roller Derby: http://www.copenhagenrollerderby.com/
 
-- Copenhagen Roller Derby B versus Dock City Plan B (NGothenburg B)
-- Troublemakers versus Candy Snatchers
+- Copenhagen Roller Derby B versus Dock City Plan B (Gothenburg B)
+- Troublemakers (Copenhagen J) versus Candy Snatchers (Crime City Rollers J \| Malmö )
 - Copenhagen Roller Derby A versus Norrköping Roller Derby
 
 *Troublemakers versus Candy Snatchers bout not on FTS as exhibition teams.*
