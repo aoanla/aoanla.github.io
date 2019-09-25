@@ -338,6 +338,25 @@ Event starts: 1700
 
 Venue:  San Julián 182, San Julián, Asturias, Spain
 
+Sat: Neuquén, Argentina
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/509585509844615/
+
+Neuquén's `Malditas X`_ host a double-header picadito (friendly), for all contenders.
+
+.. _Malditas X: https://www.instagram.com/malditasx/
+
+- Malditas X (Neuquén) versus The World (open subs team)
+- Black versus White open scrimmage
+
+Event starts: 1750 Saturday
+
+Venue: Collón Cura y Calle 5, Neuquén, Argentina
+
+
 Sat: San Luis Potosí, Mexico
 --------------------------------
 
