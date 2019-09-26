@@ -107,7 +107,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/srd.xml</loc>
-  <lastmod>2019-09-22T20:15:00Z</lastmod>
+  <lastmod>2019-09-26T19:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/thejammingpony.xml</loc>
@@ -263,7 +263,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/argentine-roller-derby.xml</loc>
-  <lastmod>2019-09-26T09:34:00Z</lastmod>
+  <lastmod>2019-09-26T19:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/arrg.xml</loc>
@@ -1044,6 +1044,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/fear-maidens.xml</loc>
   <lastmod>2019-09-21T08:59:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/fenix-roller-derby.xml</loc>
+  <lastmod>2019-09-26T19:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/fierce-valley-roller-cubs.xml</loc>
@@ -2055,7 +2059,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/patagonian-roller-derby.xml</loc>
-  <lastmod>2019-09-21T08:59:00Z</lastmod>
+  <lastmod>2019-09-26T19:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/pictures.xml</loc>
@@ -3723,10 +3727,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2019-09-26T09:34:00Z</lastmod>
+  <lastmod>2019-09-26T19:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2019-09-26T09:34:00Z</lastmod>
+  <lastmod>2019-09-26T19:45:00Z</lastmod>
  </sitemap>
 </sitemapindex>
