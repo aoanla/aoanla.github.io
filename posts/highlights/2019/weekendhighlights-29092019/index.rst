@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 29 September 2019 (Sunday)
 .. slug: weekendhighlights-29092019
-.. date: 2019-09-26 14:30:00 UTC+01:00
-.. tags: weekend highlights, sunday addendum, british roller derby, nso clinics, argentine roller derby, australian roller derby, south african roller derby, bootcamps, scottish roller derby, german roller derby
+.. date: 2019-09-26 10:00:00 UTC+01:00
+.. tags: weekend highlights, sunday addendum, british roller derby, nso clinics, argentine roller derby, australian roller derby, south african roller derby, bootcamps, scottish roller derby, german roller derby, argentine roller derby
 .. category:
 .. link:
 .. description:
@@ -148,6 +148,26 @@ they're joining in the celebration in the second scrimmage of the day. Ticket pr
 Event starts: 1800 Sunday (first whistle)
 
 Venue: Avenida Curapaligüe 1100, Buenos Aires, Argentina
+
+Sun: Puerto Río Gallegos, Santa Cruz, Argentina
+--------------------------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+`[INSTAGRAM LINK (flyer)]`__
+
+.. __: https://www.facebook.com/fenixriogallegos/photos/a.579209108941788/1104052293124131/?type=3
+.. __: https://www.instagram.com/p/B214ObCnJFI/
+
+`Fenix Roller Derby`_ host a bootcamp (times not public) by 2x4's Tropical Mechanica, followed by an open scrimmage. This event is organised by the Patagonian roller derby community, and helps to build roller derby in the region.
+
+.. _Fenix Roller Derby: https://www.instagram.com/fenix_rollerderby/
+
+- Black Versus White open scrimmage
+
+Event starts: 1830 Sunday (scrimmage)
+
+Venue: Polideportivo de Sindicado Petrotero y Gas Privado de Santa Cruz,  Puerto Río Gallegos, Santa Cruz, Argentina
+
 
 ..
   Sat-Sun:

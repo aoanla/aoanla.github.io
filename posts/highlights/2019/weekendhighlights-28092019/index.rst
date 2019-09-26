@@ -8,7 +8,7 @@
 .. type: text
 .. author: aoanla
 
-This is another really busy weekend, but weirdly less so in Latin America on Saturday. We have two 10th birthdays of leagues, several bootcamps and tournaments (including possibly our favourite one, the Hot Chilli Cup - providing both Junior derby bootcamp and tournament in Australia). As there are so many deserving events, we'll be having an addendum to cover significant things in the Sunday-Monday period later in the week.
+This is another really busy weekend, but weirdly less so in Latin America on Saturday [edit: this turned out to be just that the events were harder to find]. We have two 10th birthdays of leagues, several bootcamps and tournaments (including possibly our favourite one, the Hot Chilli Cup - providing both Junior derby bootcamp and tournament in Australia), and a bunch of exciting derby in Argentina. As there are so many deserving events, we'll be having an addendum to cover significant things in the Sunday-Monday period later in the week.
 
 We've also switched to a better map projection (Eckert IV) for this edition, to more accurately represent the scale of the countries and continents of the world.
 
@@ -355,6 +355,24 @@ Neuquén's `Malditas X`_ host a double-header picadito (friendly), for all conte
 Event starts: 1750 Saturday
 
 Venue: Collón Cura y Calle 5, Neuquén, Argentina
+
+Sat-Sun: Buenos Aires, Argentina
+--------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+`[EVENT Programme]`__
+
+.. __: https://www.facebook.com/berazategui.rollerderby/photos/a.831706133590395/2473798436047815/?type=3&permPage=1
+.. __: http://www.unq.edu.ar/agenda/4115-juegos-universitarios-regionales-2019.php
+
+`Kamikazes Roller Derby`_ and `Chat Noir`_ will be playing a "demonstration bout" at the prestigious annual Juegos Universitarios Regionales (Regional University Games), a great opportunity for outreach for the sport.
+
+.. _Kamikazes Roller Derby: https://www.instagram.com/kamikazesrollerderby/
+.. _Chat Noir: https://www.instagram.com/chatnoir.rd/
+
+Event starts: ?? (see agenda and programme when complete)
+
+Venue: Roque Sáenz Peña 352, Bernal, Buenos Aires, Argentina
 
 
 Sat: San Luis Potosí, Mexico
