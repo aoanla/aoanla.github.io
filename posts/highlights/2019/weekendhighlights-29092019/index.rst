@@ -158,7 +158,7 @@ Sun: Puerto Río Gallegos, Santa Cruz, Argentina
 .. __: https://www.facebook.com/fenixriogallegos/photos/a.579209108941788/1104052293124131/?type=3
 .. __: https://www.instagram.com/p/B214ObCnJFI/
 
-`Fenix Roller Derby`_ host a bootcamp (times not public) by 2x4's Tropical Mechanica, followed by an open scrimmage. This event is organised by the Patagonian roller derby community, and helps to build roller derby in the region.
+`Fenix Roller Derby`_ host a bootcamp (times not public) by 2x4's Tropical Mecánica, followed by an open scrimmage. This event is organised by the Patagonian roller derby community, and helps to build roller derby in the region.
 
 .. _Fenix Roller Derby: https://www.instagram.com/fenix_rollerderby/
 
