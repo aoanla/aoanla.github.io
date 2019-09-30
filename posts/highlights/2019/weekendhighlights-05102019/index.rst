@@ -242,7 +242,7 @@ Sun: Buenos Aires, Argentina
 `Alianza Rebelde`_ are celebrating their 8th anniversary with a special double-header event. Most details are still in planning, but this is what we know so far. Those interested might get more details closer to the event from our friends at `5 Segundos`_.
 
 .. _Alianza Rebelde: https://www.instagram.com/alianzarebelde.rd/
-.. _5 Segundos:
+.. _5 Segundos: https://ar.ivoox.com/es/perfil-5-segundos_aj_6715716_1.html
 
 - Kamikazes Roller Derby versus Chat Noir Roller Derby
 - Alianza Rebelde versus ??
