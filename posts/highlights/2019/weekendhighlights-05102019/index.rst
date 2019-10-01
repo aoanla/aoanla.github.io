@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 05 October 2019
 .. slug: weekendhighlights-05102019
 .. date: 2019-09-30 14:30:00 UTC+01:00
-.. tags: weekend highlights, australian roller derby, british roller derby, national tournament, mexican roller derby, continental cup, finnish roller derby, german roller derby, swiss roller derby, swedish roller derby, argentine roller derby, big blether
+.. tags: weekend highlights, australian roller derby, british roller derby, national tournament, mexican roller derby, continental cup, finnish roller derby, german roller derby, swiss roller derby, swedish roller derby, argentine roller derby, big blether, uruguayan roller derby, new zealand roller derby, italian roller derby, indonesian roller derby
 .. category:
 .. link:
 .. description:
@@ -29,6 +29,24 @@ Locations are roughly organised East-West (with things before the weekend out se
   :width: 100 %
 
 .. TEASER_END
+
+Sat: Auckland, New Zealand
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/971255733212560/
+
+`Auckland Roller Derby League`_ host a double header event, featuring teams from across New Zealand, to close their season. The first game sees ARDL's development team play their opposite numbers from Hamilton, whilst the second bout sees Team Crazylegs Aotearoa take on Pirate City.
+
+.. _Auckland Roller Derby League: https://www.instagram.com/aucklandrollerderby/
+
+- Sparks (Auckland "development") versus Bat City (Hamilton)
+- Pirate City Rollers (Auckland) versus Team Crazylegs Aotearoa (team representing skaters with mental or otherwise invisible illnesses)
+
+Event starts: 1715 Saturday (doors open)
+
+Venue: ActivZone Indoor Sports Arena, Downing Street, Auckland, New Zealand
 
 Sat-Mon: Mt Warren Park, QLD, Australia
 -----------------------------------------
@@ -66,6 +84,20 @@ Event starts: 0815 Saturday
 
 Venue: Mt Warren Sports Centre, 2 Milne Street, Mount Warren Park, QLD, Australia
 
+Fri: Badung, Bali, Indonesia
+--------------------------------
+
+`[INSTAGRAM LINK (video)]`__
+
+.. __: https://www.instagram.com/p/B3FBRZxnxds/
+
+`HOT LAVA Rollers`_ are raising consciousness, and funds, ahead of their Bootcamp with Baller Shot-Caller on the 12th, with a bit of a party: a Karaoke Roller Disco, with a "Back to the 80s" theme.
+
+.. _HOT LAVA Rollers: https://www.instagram.com/hotlavarollers
+
+Event starts: 1900 Friday
+
+Venue: Plus Bar Bali, North Kuta, Badung Regency, Bali, Indonesia
 
 Sat-Sun: Helsinki, Finland
 --------------------------------
@@ -95,6 +127,22 @@ This is a standard 8 team single elimination bracket, with consolation-style "pl
 Event starts: 0800 Saturday (doors open)
 
 Venue: Urheiluhallit Pasila (Pasilan Urheiluhalli), Radiokatu 22, Helsinki, Finland
+
+Sun: Udine, Italy
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/414591199414890/
+
+The `Banshees`_ of Roller Derby Udine are present at the 4th birthday party for their sponsor, `blud`_ , with a demonstration of the sport. This event is an all day programme, hosting all of the various endeavours which blud sponsor or promote.
+
+.. _Banshees: https://www.instagram.com/bansheesrollerderby/
+.. _blud: http://blud.life/
+
+Event starts: 1000 Sunday
+
+Venue: Backyardie, Via Pier Paolo Pasolini n.8 Int. 12, Pradamano, Italy
 
 Sat-Sun: Norrköping, Sweden
 --------------------------------
@@ -231,6 +279,21 @@ Sun: Penzance, UK
 Event starts: 1120 Sunday (first whistle)
 
 Venue: Penzance Leisure Centre, St Clare, Penzance, Cornwall, UK
+
+Sat: Montevideo, Uruguay
+--------------------------------
+
+`[INSTAGRAM LINK (flyer)]`__
+
+.. __: https://www.instagram.com/p/B3CRBhIn0iT/
+
+`Tempestad Roller Derby`_ host a last-minute-announced event, including a public roller derby bout with participants from all three leagues in Montevideo (Pajaros Pintados, Tempestad and Cesope, in order of formation). This is intended to raise the profile of Roller Derby in Uruguay, and also develop their level towards Tempestad competing in this year's Piratas del Asfalto tournament (Sailor City Rollers' annual end of year event).
+
+.. _Tempestad Roller Derby: https://www.instagram.com/tempestadrd
+
+Event starts: 1900 Saturday
+
+Venue: Cuadrado del Parque Rodó, Montevideo, Uruguay
 
 Sun: Buenos Aires, Argentina
 --------------------------------
