@@ -1,7 +1,7 @@
 .. title: Mea Culpa (29Sept)
 .. slug: meaculpa290919
 .. date: 2019-10-04 08:55:00 UTC+01:00
-.. tags: mea culpa, brazilian roller derby, gray city rollers, capivaras roller derby, pacific roller derby, roller derby hawaii, sundsvall roller derby, finnish roller derby, suomi cup, uppsala roller derby, maui roller girls
+.. tags: mea culpa, brazilian roller derby, gray city rollers, capivaras roller derby, pacific roller derby, roller derby hawaii, sundsvall roller derby, swedish roller derby, uppsala roller derby, maui roller girls
 .. category:
 .. link:
 .. description:
@@ -21,7 +21,7 @@ We'd like to return to a few events we missed last weekend, though, just to rest
 
 ----
 
-Firstly, in Uppsala, first fixtures of the Division 2 Suomi Cup series for 2019/20 saw the hosts ( `Jackdaw City Rollers`_ ) compete in a round robin with Örebro's Nerike Knockouts and Sundsvall's Demolition Rollers, over 2 days.
+Firstly, in Uppsala, first fixtures of the Division 2 Swedish Nationals series for 2019/20 saw the hosts ( `Jackdaw City Rollers`_ ) compete in a round robin with Örebro's Nerike Knockouts and Sundsvall's Demolition Rollers, over 2 days.
 
 `[FACEBOOK LINK]`__
 `[FTS EVENT]`__
@@ -35,7 +35,7 @@ Firstly, in Uppsala, first fixtures of the Division 2 Suomi Cup series for 2019/
 
 The entire event was streamed on the Sweden-based Solidsport platform, and at the time of writing, "replays" [saved copies of the stream] are available at: https://solidsport.com/uppsala-roller-derby/replays although registration is required to view them.
 
-.. csv-table:: Div 2 Suomi Cup
+.. csv-table:: Div 2 Swedish Nationals
   :header: Team1, Score1, Score2, Team2
 
   Uppsala, 350, 63, Örebro
