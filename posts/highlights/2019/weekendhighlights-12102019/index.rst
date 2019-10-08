@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 12 October 2019
 .. slug: weekendhighlights-12102019
 .. date: 2019-10-08 08:00:00 UTC+01:00
-.. tags: weekend highlights, australian roller derby, japanese roller derby, derby nights 4x4, indonesian roller derby, bootcamp, finnish roller derby, austrian roller derby, german roller derby, danish roller derby, chilean roller derby, argentine roller derby, ecuadorian roller derby, french roller derby, british roller derby, mrda, mrda championships, ota, roller derby sevens
+.. tags: weekend highlights, australian roller derby, japanese roller derby, derby nights 4x4, indonesian roller derby, bootcamp, finnish roller derby, austrian roller derby, german roller derby, danish roller derby, chilean roller derby, argentine roller derby, ecuadorian roller derby, french roller derby, british roller derby, mrda, mrda championships, ota, roller derby sevens, hungarian roller derby
 .. category:
 .. link:
 .. description:
@@ -132,6 +132,22 @@ Sat: Helsinki, Finland
 Event starts: 1400 Saturday (doors open)
 
 Venue: Urheiluhallit Pasila, Radiokatu 22, Helsinki, Finland
+
+Sat: Budapest, Hungary
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2974414419450354/
+
+`Budapest Roller Derby`_ are hosting a pre-winter season closing get together in a skate park.
+
+.. _Budapest Roller Derby: http://rollerderby-budapest.blogspot.com/
+
+Event starts: 1400 Saturday
+
+Venue: Darudomb,  Duna dűlő, Cespel, Budapest, Hungary
+
 
 Sat: Linz, Austria
 --------------------------------
