@@ -392,12 +392,12 @@ This event will be live-streamed (`link`_).
 
 - First games (all Friday):
 
-  # Austin Anarchy versus Ground Control (Denver M)
-  # Golden State Heat (Los Angeles area M) versus *Kamiquadz* (Montpellier M)
-  # Southern Discomfort (London M) versus Texas Men's Roller Derby (Denton M)
-  # Vancouver Murder versus New Wheeled Order (Manchester M)
-  # Saint Louis Gatekeepers versus Winner #1
-  # Magic City Misfits (Jacksonville M) versus Winner #2
+  #. Austin Anarchy versus Ground Control (Denver M)
+  #. Golden State Heat (Los Angeles area M) versus *Kamiquadz* (Montpellier M)
+  #. Southern Discomfort (London M) versus Texas Men's Roller Derby (Denton M)
+  #. Vancouver Murder versus New Wheeled Order (Manchester M)
+  #. Saint Louis Gatekeepers versus Winner #1
+  #. Magic City Misfits (Jacksonville M) versus Winner #2
 
 Event starts: 0900 Friday
 
