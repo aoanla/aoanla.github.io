@@ -73,13 +73,13 @@ Venue: Westbury Town Hall, Franklin Street, Westbury, TAS, Australia
 Fri: Tokyo, Japan
 --------------------------------
 
-`[FACEBOOK LINK (penidng)]`__
+`[FACEBOOK LINK (pending)]`__
 
 .. __: pending
 
-Derby Nights host the next edition of Japan's unique short-format endurance tournament, the Derby Nights 4x4 series. As with all Derby Nights 4x4 events, this is very hard to find information about - we only know about it thanks to the help of the Neon Roller Monsters and Spiral Cats teams. We'll edit this entry as we get any firm physical evidence of the event.
+Derby Nights host the next edition of Japan's unique short-format endurance tournament, the Derby Nights 4x4 series. As with all Derby Nights 4x4 events, this is very hard to find information about - we only know about it thanks to the help of the Neon Roller Monsters and Spiral Cats teams. [edit: thanks to Kamikaze Badass, we have confirmation of this bout, and the opponents.]
 
-- Kamikaze Badass Roller Derby Tokyo versus "Derby Night Team"
+- Kamikaze Badass Roller Derby Tokyo versus "Derby Night Team" (Yokosuka Sushi Rollers + Spiral Cats (WorldSkate Tokyo team))
 - ??
 
 Event starts: ??
