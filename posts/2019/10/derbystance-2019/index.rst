@@ -35,7 +35,7 @@ Unlike most physical conferences, a benefit of the virtual nature is that all Se
 .. figure:: /images/2019/10/Derbystance2019.jpg
   :alt: 3x4 Checkerboard of portraits (with names) of all of the Derby Stance 2019 speakers and workshop leaders, with Rule56 logo in the middle.
 
-  Photo credits: Nadia Kean and Jennifer B Gaskins (by Zakas Photography); Devoida Mercy (by Louise O'Rourke Photography); Furrocious (by No limit Lien); Dr. Astrid Coxon (by Martin Quadling); Squirrel Power (by Robin Dodd / Purple Turtle Photography); Miss Tea Maven (by David Dyte); Kaio-Kensi (by Owen Clayton); all other photos uncredited.
+  Photo credits: Nadia Kean and Jennifer B Gaskins (by Zakas Photography); Devoida Mercy (by Louise O'Rourke Photography); Furrocious (by No limit Lien); Dr. Astrid Coxon (by Martin Quadling); Squirrel Power (by Robin Dodd / Purple Turtle Photography); Miss Tea Maven (by David Dyte); Kaio-kensi (by Owen Clayton); all other photos uncredited.
 
 
 Any Conference or Summit lives and dies by its roster of speakers, and this year's Derby Stance has a very exciting line-up:
@@ -65,7 +65,7 @@ Any Conference or Summit lives and dies by its roster of speakers, and this year
 
   - Coaching mixed-level practices in Adult and Junior programs (Seminar)
 
-- Kaio-Kensi (Montreal Roller Derby)
+- Kaio-kensi (Montreal Roller Derby)
 
   - Organic Drill Design - replicating real game scenarios in drills. (Seminar)
   - Building a healthier brain safety culture (Seminar)
