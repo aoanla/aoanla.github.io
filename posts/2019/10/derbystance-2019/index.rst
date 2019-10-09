@@ -25,15 +25,18 @@ The 2018 Derby Stance was extremely successful, with attendees describing it wit
 The Derby Stance Online Coaching Summit is returning for 2019, and Rule 56 have continued to build on and improve on what has been before. As the name suggests, this is, once more, a virtual-only event.
 
 As with 2018's edition, individual "webinars" which make up the entire 3 day event, are separately bookable; you can buy tickets for just the sessions you're interested in. (If you're planning on attending a lot of the event, though, there's also whole-weekend tickets available, for a discount.).
-In a change from last year, these are organised into two types: *"Seminars"* (60 minute presentations, with time for questions) and *"Workshops"* (90 minute interactive sessions lead by the session leader; these are limited to *20* attendees each).
+In a change from last year, these are organised into two types: *"Seminars"* (60 minute presentations, with time for questions) and *"Workshops"* (90 minute interactive sessions led by the session leader; these are limited to *20* attendees each).
 (Regular attendees of EROC, the European Roller derby Organisational Conference, will recognise this division from there, where it is pretty effective at supporting different kinds of interaction.)
 
 But that's not all: just like a physical conference, the 2019 Derby Stance will have fringe and break-out events, organised as ad-hoc Facebook Live mini-streams. (Rule56 has already been trialing this with a series of "5 minutes with ..." events over the past year, and they work very well.)
 
 Unlike most physical conferences, a benefit of the virtual nature is that all Seminars (but not Workshops) will be available after the fact as recordings if you miss them; and simultaneous automated real-time transcriptions will be available during each session, including translated into a range of languages, to aid inclusion and understanding. (For those who can't attend at all, "watch-later" tickets will also be available to access all the content purely post-hoc).
 
-.. image:: /images/2019/10/Derbystance2019.jpg
+.. figure:: /images/2019/10/Derbystance2019.jpg
   :alt: 3x4 Checkerboard of portraits (with names) of all of the Derby Stance 2019 speakers and workshop leaders, with Rule56 logo in the middle.
+
+  Photo credits: Nadia Kean and Jennifer B Gaskins (by Zakas Photography); Devoida Mercy (by Louise O'Rourke Photography); Furrocious (by No limit Lien); Dr. Astrid Coxon (by Martin Quadling); Squirrel Power (by Robin Dodd / Purple Turtle Photography); Miss Tea Maven (by David Dyte); Kaio-Kensi (by Owen Clayton); all other photos uncredited.
+
 
 Any Conference or Summit lives and dies by its roster of speakers, and this year's Derby Stance has a very exciting line-up:
 
