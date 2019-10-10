@@ -1,6 +1,6 @@
 .. title: South Africa's National Derby Fest 2019
 .. slug: nationalderbyfest-102019
-.. date: 2019-10-10 08:55:00 UTC+01:00
+.. date: 2019-10-15 08:55:00 UTC+01:00
 .. tags: south african roller derby,
 .. category:
 .. link:
@@ -14,7 +14,7 @@ As we covered in our article on the South African roller derby community `earlie
 .. _last year: https://www.scottishrollerderbyblog.com/posts/2018/10/31/south-africas-national-derby-fest-2018-three-years-of-festivals/
 .. _earlier this year: https://www.scottishrollerderbyblog.com/posts/2019/06/rollerderby-za-2019/
 
-This year's National Derby Fest shows the results of some of that growth, 
+This year's National Derby Fest shows the results of some of that growth,
 
 https://www.facebook.com/events/403124207306199/
 

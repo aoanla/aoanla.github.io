@@ -1,6 +1,6 @@
 .. title: Short Track Update October 2019
 .. slug: shorttrack-102019
-.. date: 2019-10-10 08:55:00 UTC+01:00
+.. date: 2019-10-11 08:55:00 UTC+01:00
 .. tags: short track roller derby, vendaval roller derby, latin american roller derby, argentine derby, all-in community roller derby, rolla skate club, worcester wyldings, low contact roller derby,
 .. category:
 .. link:
