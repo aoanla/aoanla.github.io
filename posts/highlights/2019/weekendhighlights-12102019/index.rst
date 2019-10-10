@@ -75,7 +75,7 @@ Fri: Tokyo, Japan
 
 `[FACEBOOK LINK (pending)]`__
 
-.. __: pending
+.. __: https://www.facebook.com/kamikazebadassrollerderbyjapan/photos/a.591420657675520/1371500586334186/?type=3
 
 Derby Nights host the next edition of Japan's unique short-format endurance tournament, the Derby Nights 4x4 series. As with all Derby Nights 4x4 events, this is very hard to find information about - we only know about it thanks to the help of the Neon Roller Monsters and Spiral Cats teams. [edit: thanks to Kamikaze Badass, we have confirmation of this bout, and the opponents.]
 
