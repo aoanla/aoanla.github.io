@@ -87,7 +87,7 @@ On the back of this successful outreach, future Short Track events are being pla
 Europe
 -----------
 
-Whilst we know there's Short Track in mainland Europe (for example, Copenhagen Ladybugs have been experimenting with it, and both Russian leagues - St Petersburg Roller Derby, and Raptors Derby Moscow - use it for some events), the two upcoming events we're aware of are both in the UK, and on the same day!
+Whilst we know there's Short Track in mainland Europe (for example, Copenhagen Ladybugs have been experimenting with it, and both Russian leagues - St Petersburg Roller Derby, and Raptors Derby Moscow - use it for some events, whilst Poland's Chrome Sirens have hosted public events with the ruleset), the two upcoming events we're aware of are both in the UK, and on the same day!
 
 Following up on their successful Short Track Experiment, and the subsequent Short Track Scrimmage, `ALL IN: Community Roller Derby`_ are hosting a
 
@@ -131,7 +131,7 @@ Short Track Roller Derby continues to develop in Asia and the Middle East:
 
 After the `successful bootcamp`_ hosted by Hong Kong Roller Derby, we're not aware of any further activity in China. However, a short video documentary about that bootcamp is available on the Chinese video hosting service Youku, which we've embedded here:
 
-{{% media url=https://v.youku.com/v_show/id_XNDM2MjI3NzA2OA %}}
+.. media:: https://v.youku.com/v_show/id_XNDM2MjI3NzA2OA
 
 .. _successful bootcamp: https://www.scottishrollerderbyblog.com/posts/2019/07/rollerderby-bei-2019/
 
@@ -143,8 +143,8 @@ After the `successful bootcamp`_ hosted by Hong Kong Roller Derby, we're not awa
 This is not standard Short Track Rules - OH modify the ruleset because of a desire to let their skaters more easily play WFTDA rules when they transfer away.
 The upcoming scrimmage is... possibly free entry... and starts at **midday** at the **Turner Fitness Gym**, USAG Humphreys.
 
-.. figure:: /images/2019/10/CapeTownShortTrack_PaperBulletPhotography.jpg
-  :alt: Action shot of Cape Town Rollergirl's third Short Track bout; pack in two halves, white jammer held at front by blockers, black jammer held at back.
+.. figure:: /images/2019/10/CapeTownShortTrack_PaperBulletPhotgraphy.jpg
+  :alt: Action shot of Cape Town Rollergirls' third Short Track bout; pack in two halves, white jammer held at front by blockers, black jammer held at back.
 
   Action from Cape Town Rollergirls' third public Short Track bout. (Photo, rights: `Paper Bullet Photography`_ )
 
