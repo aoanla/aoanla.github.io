@@ -158,6 +158,7 @@ Over the past year, both `Durban Roller Derby`_ and `Cape Town Rollergirls`_ hav
 
 On **October 19th**, Cape Town will hold their `third such event`__ (and 4th Short Track bout in total), as always paired with a Roller Disco.
 
+
 .. figure:: /images/2019/10/CapeTownShortTrack_PaperBulletPhotgraphy.jpg
   :alt: Action shot of Cape Town Rollergirls' third Short Track bout; pack in two halves, white jammer held at front by blockers, black jammer held at back.
 
