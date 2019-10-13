@@ -131,9 +131,13 @@ Short Track Roller Derby continues to develop in Asia and the Middle East:
 
 After the `successful bootcamp`_ hosted by Hong Kong Roller Derby, we're not aware of any further activity in China. However, a short video documentary about that bootcamp is available on the Chinese video hosting service Youku, which we've embedded here:
 
-.. media:: http://player.youku.com/embed/XNDM2MjI3NzA2OA==
+.. raw:: html
+
+  <iframe height=498 width=510 src='http://player.youku.com/embed/XNDM2MjI3NzA2OA==' frameborder=0 'allowfullscreen'></iframe>
 
 .. _successful bootcamp: https://www.scottishrollerderbyblog.com/posts/2019/07/rollerderby-bei-2019/
+
+
 
 `OH! Roller Derby`_ (Korea's only Roller Derby league, based around the Osan Humphreys USAG base) have taken strongly to Short Track, and held several public and internal scrimmages with the ruleset. Their `upcoming public game`__ on the **19th October** is played under Short Track rules. (This is a suitably spooky-themed event for close to Halloween, and has a Monsters versus Aliens team theming.)
 
@@ -143,12 +147,6 @@ After the `successful bootcamp`_ hosted by Hong Kong Roller Derby, we're not awa
 This is not standard Short Track Rules - OH modify the ruleset because of a desire to let their skaters more easily play WFTDA rules when they transfer away.
 The upcoming scrimmage is... possibly free entry... and starts at **midday** at the **Turner Fitness Gym**, USAG Humphreys.
 
-.. figure:: /images/2019/10/CapeTownShortTrack_PaperBulletPhotgraphy.jpg
-  :alt: Action shot of Cape Town Rollergirls' third Short Track bout; pack in two halves, white jammer held at front by blockers, black jammer held at back.
-
-  Action from Cape Town Rollergirls' third public Short Track bout. (Photo, rights: `Paper Bullet Photography`_ )
-
-.. _Paper Bullet Photography: https://www.facebook.com/PBPclickbang/
 
 Africa
 ---------
@@ -159,6 +157,13 @@ Over the past year, both `Durban Roller Derby`_ and `Cape Town Rollergirls`_ hav
 .. _Cape Town Rollergirls: https://www.scottishrollerderbyblog.com/posts/2019/07/rollerderby-bei-2019/
 
 On **October 19th**, Cape Town will hold their `third such event`__ (and 4th Short Track bout in total), as always paired with a Roller Disco.
+
+.. figure:: /images/2019/10/CapeTownShortTrack_PaperBulletPhotgraphy.jpg
+  :alt: Action shot of Cape Town Rollergirls' third Short Track bout; pack in two halves, white jammer held at front by blockers, black jammer held at back.
+
+  Action from Cape Town Rollergirls' third public Short Track bout. (Photo, rights: `Paper Bullet Photography`_ )
+
+.. _Paper Bullet Photography: https://www.facebook.com/PBPclickbang/
 
 Short Track helps both Durban and Cape Town to hold more events, with its smaller roster sizes and reduced officiating requirements; but the shorter duration and lower complexity of the game have also helped engage spectators. (Plus, having a 30 minute game before a Roller Disco means that most people will turn up that 30 minutes early to see the entire game.)
 
