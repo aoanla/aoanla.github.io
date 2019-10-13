@@ -131,7 +131,7 @@ Short Track Roller Derby continues to develop in Asia and the Middle East:
 
 After the `successful bootcamp`_ hosted by Hong Kong Roller Derby, we're not aware of any further activity in China. However, a short video documentary about that bootcamp is available on the Chinese video hosting service Youku, which we've embedded here:
 
-.. media:: https://v.youku.com/v_show/id_XNDM2MjI3NzA2OA
+.. media:: http://player.youku.com/embed/XNDM2MjI3NzA2OA==
 
 .. _successful bootcamp: https://www.scottishrollerderbyblog.com/posts/2019/07/rollerderby-bei-2019/
 
