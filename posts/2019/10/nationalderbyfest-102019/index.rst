@@ -14,7 +14,16 @@ As we covered in our article on the South African roller derby community `earlie
 .. _last year: https://www.scottishrollerderbyblog.com/posts/2018/10/31/south-africas-national-derby-fest-2018-three-years-of-festivals/
 .. _earlier this year: https://www.scottishrollerderbyblog.com/posts/2019/06/rollerderby-za-2019/
 
-This year's National Derby Fest shows the results of some of that growth,
+In last year's NDF, Johannesburg's Golden City Rollers, Durban Roller Derby, and Cape Town Rollergirls competed in a round-robin for the final rankings:
+
+#.
+#.
+#.
+
+This year's National Derby Fest has a change of format, designed to maximise the amount of game play each team got. As such, this is National Derby Fest is a double round robin: each team will play the others *twice*, in half-length games (two 15 minute periods). As numbers for all teams are a little low this year, this will allow everyone to
+The fourth league in South Africa, Pretoria's P-Town Roller Derby, will be donating a skater to the Cape Town team, and we assume will be donating volunteers.
+
+The winners on points will go forward to play each other in a full-length WFTDA-regulation Final.
 
 https://www.facebook.com/events/403124207306199/
 
