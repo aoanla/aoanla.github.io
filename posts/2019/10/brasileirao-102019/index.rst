@@ -1,6 +1,6 @@
 .. title: Brasileirão 2019
 .. slug: brasileirao-102019
-.. date: 2019-10-13 08:55:00 UTC+01:00
+.. date: 2019-10-15 08:55:00 UTC+01:00
 .. tags: brazilian roller derby,
 .. category:
 .. link:
