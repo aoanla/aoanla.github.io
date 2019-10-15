@@ -12,6 +12,8 @@ This is a surprisingly really exceptionally busy weekend, so we're definitely go
 
 We're not even mentioning the Short Track Roller Derby events this weekend to save space - they're all in `this roundup post`__ if you want to catch up with them (although we've marked them on the map). They're all highlights, but this is a super busy weekend, so something has to give.
 
+.. __: https://www.scottishrollerderbyblog.com/posts/2019/10/shorttrack-102019/
+
 The 3rd fixture of the Chilean national tournament happens this weekend, as does the final of the New Zealand Top 10 Championshops 2019; as well as a number of large tournament events (perhaps the largest being in Sydney, Australia, and Lille, France). There's charity derby in Teesside, and even an international roller derby bootcamp up north in Iceland!
 
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
