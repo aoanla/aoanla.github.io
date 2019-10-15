@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.scottishrollerderbyblog.com/</loc>
-  <lastmod>2019-09-20T13:29:00Z</lastmod>
+  <lastmod>2019-10-15T22:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/2011/</loc>
@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2019-10-13T10:24:00Z</lastmod>
+  <lastmod>2019-10-15T22:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -175,7 +175,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/</loc>
-  <lastmod>2019-10-13T10:24:00Z</lastmod>
+  <lastmod>2019-10-15T22:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/2011-blood-thunder-roller-derby-world-cup/</loc>
@@ -1462,6 +1462,10 @@
   <lastmod>2019-08-27T12:11:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/icelandic-roller-derby/</loc>
+  <lastmod>2019-10-15T22:05:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/image/</loc>
   <lastmod>2019-08-27T12:11:00Z</lastmod>
  </url>
@@ -2044,6 +2048,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/northern-fights/</loc>
   <lastmod>2019-08-27T12:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/northern-irish-roller-derby/</loc>
+  <lastmod>2019-10-15T22:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/northern-isles/</loc>
@@ -4134,7 +4142,11 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-97.html</loc>
-  <lastmod>2019-10-13T10:24:00Z</lastmod>
+  <lastmod>2019-10-15T22:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/index-98.html</loc>
+  <lastmod>2019-10-15T22:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/it/</loc>
@@ -8094,8 +8106,8 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-09-06T13:35:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="it" href="https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/UKRDANeedYou2019/</loc>
@@ -8256,6 +8268,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-19052019/</loc>
   <lastmod>2019-08-27T12:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-19102019/</loc>
+  <lastmod>2019-10-15T22:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-20072019/</loc>

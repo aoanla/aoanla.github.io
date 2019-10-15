@@ -119,6 +119,13 @@ This scrimmage will be held at **Tudor Grange Academy, Worcester** , starting at
 
 This is also a bit of a testing of the waters: The Wyldlings are interested in hosting a larger, mini-tournament later in the year, if this introductory scrimmage is a success.
 
+*EDITED TO ADD*
+
+In Russia, `St Petersburg Roller Derby`_ (link to VK) are hosting a Short Track open game for their Baltic Witches (C/rec team) for Halloween.
+
+This event will be on the **30th October** at **7.30pm** at **наб. Обводного Канала 134-136-138** ( **Obvodny Canal Embankment, 134-136-138** ).
+
+.. _St Petersburg Roller Derby: https://vk.com/wall-59330463_1855
 
 Asia and the Middle East
 ----------------------------
