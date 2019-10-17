@@ -1,6 +1,6 @@
 .. title: South Africa's National Derby Fest 2019
 .. slug: nationalderbyfest-102019
-.. date: 2019-10-16 08:55:00 UTC+01:00
+.. date: 2019-10-18 08:55:00 UTC+01:00
 .. tags: south african roller derby,
 .. category:
 .. link:

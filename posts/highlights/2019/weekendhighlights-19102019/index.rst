@@ -20,7 +20,7 @@ The rules are, as usual: highlights limited to 1 event per country, with an "ext
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
 
-We've bent the rules a bit this time, because it's important to highlight derby in regions which need more attention, and because it's quiet enough that we have the space.
+We've bent the rules a bit this time, because it's important to highlight derby in regions which need more attention.
 
 In a bid to make this list as useful as possible, we've avoided links to Facebook except where noted.
 (Links to Teams are to non-Facebook resources - Instagram, or actual team pages - we'd strongly recommend that Teams
@@ -370,8 +370,8 @@ Sat: Leeds, UK
 .. __: tba
 
 
-`Leeds Roller Derby`_ host their own annual tournament: the Great Yorkshire Showdown 2019; also a 6 teams tournament run as 2 groups of 3 into a a Grand Final for the two group winners.
-  In this case, group games will be run as single period, 30 minute games, with the grand final a full 2 period regulation bout.
+`Leeds Roller Derby`_ host their own annual tournament: the Great Yorkshire Showdown 2019; also a 6 teams tournament run as 2 groups of 3 into a Grand Final for the two group winners.
+In this case, group games will be run as single period, 30 minute games, with the grand final a full 2 period regulation bout.
 
 .. _Leeds Roller Derby: https://leedsrollerderby.com/
 
