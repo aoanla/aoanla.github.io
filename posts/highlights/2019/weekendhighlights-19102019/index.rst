@@ -480,6 +480,28 @@ Event starts: 1000 Saturday (first whistle)
 
 Venue: Gimnasio de Complejo deportivo Quilamapu, Chillán, Chile
 
+Sat: Mexico City, Mexico
+--------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/520063115481016/
+.. __: tba
+
+
+`Quimeras`_ and `Minotauros`_ co-host a double header of Roller Derby in Mexico City, with somewhat late notice..
+
+.. _Quimeras: https://www.instagram.com/quimeras_lrdcm
+.. _Minotauros: https://www.instagram.com/minotauros_lrdcm
+
+- Minotauros (LRDCM M) versus Bastardos (San Luis Potosí M)
+- Quimeras (LRDCM) versus Bastardos
+
+Event starts: 1300 Saturday
+
+Venue: Parque Rosendo Arnaiz, Calle Miguel Ángel Y Av San Antonino, Col. Mixcoac, Mexico City, Mexico
+
 
 ..
   Sat-Sun:
