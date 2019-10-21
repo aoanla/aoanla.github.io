@@ -136,7 +136,7 @@ Sat: Gdańsk, Poland
 `[FACEBOOK LINK (bout)]`__
 `[FACEBOOK LINK (rollerdisco)]`__
 
-.. __: pending
+.. __: https://www.facebook.com/events/406902766919585/
 .. __: https://www.facebook.com/events/533379997465575/
 
 

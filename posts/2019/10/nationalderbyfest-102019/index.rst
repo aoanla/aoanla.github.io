@@ -1,6 +1,6 @@
 .. title: South Africa's National Derby Fest 2019
 .. slug: nationalderbyfest-102019
-.. date: 2019-10-21 20:00:00 UTC+01:00
+.. date: 2019-10-21 19:30:00 UTC+01:00
 .. tags: south african roller derby, golden city rollers, national derby fest
 .. category:
 .. link:
@@ -9,7 +9,7 @@
 .. author: aoanla
 
 The South African National Roller Derby Festival ("National Derby Fest") may be the smallest of the National Tournaments we covered `last year`_ , but it's also potentially one of the more important to its community.
-As we covered in our article on the South African roller derby community `earlier this year`_ ,
+As we covered in our article on the South African roller derby community `earlier this year`_ , the population of South Africa is concentrated in a small number of widely-separated areas, so it's very expensive for the teams to play each other (let alone teams from other nations). As such, having this one big event at the end of the year is an achievable focus, and the community time it provides is all the valuable for it.
 
 .. _last year: https://www.scottishrollerderbyblog.com/posts/2018/10/31/south-africas-national-derby-fest-2018-three-years-of-festivals/
 .. _earlier this year: https://www.scottishrollerderbyblog.com/posts/2019/06/rollerderby-za-2019/
