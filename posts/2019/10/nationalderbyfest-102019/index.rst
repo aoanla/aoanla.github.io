@@ -9,6 +9,7 @@
 .. author: aoanla
 
 The South African National Roller Derby Festival ("National Derby Fest") may be the smallest of the National Tournaments we covered `last year`_ , but it's also potentially one of the more important to its community.
+
 As we covered in our article on the South African roller derby community `earlier this year`_ , the population of South Africa is concentrated in a small number of widely-separated areas, so it's very expensive for the teams to play each other (let alone teams from other nations). As such, having this one big event at the end of the year is an achievable focus, and the community time it provides is all the valuable for it.
 
 .. _last year: https://www.scottishrollerderbyblog.com/posts/2018/10/31/south-africas-national-derby-fest-2018-three-years-of-festivals/
@@ -26,7 +27,8 @@ In last year's NDF, Johannesburg's `Golden City Rollers`_ , and Cape Town Roller
 .. image:: /images/2019/10/NDF2019.jpg
   :alt: The flyer image for this National Derby Fest: crouched jammer ready to sprint at start of whistle (in black and white, with red star), against horizontally divided yellow and red background box; yellow bar at top of flyer, red at bottom. Second box (positioned "on top" of the background, but "behind" the skater) reads "National Roller Derby Festival 2019". The logos of all three leagues with full teams are aligned along the bottom of the flyer.
 
-This year's `National Derby Fest`_ has a change of format, designed to maximise the amount of game play each team got. As such, this is National Derby Fest is a double round robin: each team will play the others *twice*, in half-length games (two 15 minute periods). As numbers for all teams are a little low this year, this will allow everyone to
+This year's `National Derby Fest`_ has a change of format, designed to maximise the amount of game play each team got. As such, this is National Derby Fest is a double round robin: each team will play the others *twice*, in half-length games (two 15 minute periods). As numbers for all teams are a little low this year, this will allow everyone to participate in as much derby as possible, whilst still playing WFTDA-rules otherwise.
+
 The fourth league in South Africa, Pretoria's P-Town Roller Derby, will be donating a skater to the Cape Town team, and we assume will be donating volunteers.
 
 The winners on points will go forward to play each other in a full-length WFTDA-regulation Final.
