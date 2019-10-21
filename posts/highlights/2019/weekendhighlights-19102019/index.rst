@@ -470,7 +470,7 @@ this will be two full days of roller derby - 4 bouts on the Saturday, and 3 on t
   - Deskarriadas vs Tacones Bandidos
   - Chillanrolleras vs Metropolitan All Star
 
-- Sunday:
+- Sunday: [NOTE: these were cancelled on the day, due to the mass protests across Chile over the cost of living]
 
   - Chillanrolleras vs Tacones Bandidos
   - Metropolitan All Star vs Deskarriadas
