@@ -145,7 +145,7 @@ Sat: Gdańsk, Poland
 .. _Gdańsk Chrome Sirens: https://www.instagram.com/chromesirensrollerderby
 .. _Short Track Roller Derby: https://rollaskateclub.com/short-track-roller-derby-resources/
 
-- Short Track home-teams bout:
+- Short Track home-teams bout: 🔮GORE SIRENS🔮 versus ✨GLAM MERMAIDS✨
 
 Event starts: 1930 Saturday (first whistle)
 
