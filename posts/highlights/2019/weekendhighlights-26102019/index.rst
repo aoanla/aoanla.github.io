@@ -442,6 +442,32 @@ Event starts: pending
 
 Venue: UAQ Campus Juriquilla, Av. de las Ciencias Sin Número Campus Juriquilla Juriquilla, Querétaro, Mexico
 
+
+Also of interest, due to their attendees:
+===========================================
+
+Sat: Sylmar, CA, USA
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/487654821819932/
+.. __: http://flattrackstats.com/node/112065
+
+
+`San Fernando Valley Roller Derby`_ host a double header of interest to us due to the attendance of Baja California's `Baja Roller Derby`_
+
+.. _San Fernando Valley Roller Derby: http://sfvrollerderby.com/
+.. _Baja Roller Derby: https://www.instagram.com/baja.rollerderby/
+
+- Golden State Heat (Bakersfield M) home teams
+- SFV the Like OMG's (Sylmar) versus Baja Roller Derby
+
+Event starts: 1800 Saturday (doors open)
+
+Venue: 12900 Bradley Ave, Sylmar, CA, USA
+
 ..
   Sat-Sun:
   --------------------------------
