@@ -130,6 +130,29 @@ Event starts: 1900 Friday (doors open)
 
 Venue: Apn Portuguese Club, 5 Wright Place, Durban, KwaZulu-Natal
 
+Sat: Kouvola, Finland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK (SM)]`__
+`[FTS LINK (D1)]`__
+
+.. __: https://www.facebook.com/events/912654442453310/
+.. __: http://flattrackstats.com/tournaments/111488
+.. __: http://flattrackstats.com/tournaments/111451
+
+`Kouvola Roller Derby`_ host the next fixtures in the 2019/20 Suomi Cup - both Elite and Division 1 series.
+
+.. _Kouvola Roller Derby: https://www.kouvolarollerderby.com/
+
+- Kouvola Rock n Rollers versus Ruined River Rollers [D1]
+- Tampere Roller Derby B versus Kuopio Roller Derby [D1]
+- Kallio Rolling Rainbow B versus  Dirty River Roller Derby [Elite/"SM series"]
+
+Event starts: 1200 Saturday (doors open)
+
+Venue: Kuusankosken Urheilutalo, Uimahallintie 10, Kuusankoski, Finland
+
 Sat: Gdańsk, Poland
 --------------------------------
 
