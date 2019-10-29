@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 02 Nov 2019
 .. slug: weekendhighlights-02112019
 .. date: 2019-10-29 10:00:00 UTC+00:00
-.. tags: weekend highlights, chinese roller derby, australian roller derby, estonian roller derby, german roller derby, belgian roller derby, french roller derby, british roller derby, uruguayan roller derby, colombian roller derby, argentine roller derby, mexican roller derby, chilean roller derby, sur5al
+.. tags: weekend highlights, chinese roller derby, australian roller derby, estonian roller derby, german roller derby, belgian roller derby, french roller derby, british roller derby, uruguayan roller derby, colombian roller derby, argentine roller derby, mexican roller derby, chilean roller derby, sur5al, costa rican roller derby
 .. category:
 .. link:
 .. description:
@@ -404,6 +404,22 @@ Event starts: 1000 Sunday
 
 Venue: Municipalidad de Osorno
 Juan Mackenna 851, 5310600 Osorno, Chile
+
+Wed: San José, Costa Rica
+--------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+
+.. __: https://www.facebook.com/liga.roller.derby.cr/photos/a.318968528280215/1431406350369755/?type=3
+
+`Liga Costa Rica Roller Derby`_ host a Wednesday "Open Skate & Costume party" for Halloween.
+
+.. _Liga Costa Rica Roller Derby: https://www.instagram.com/ligarollerderbycostarica/
+
+Event starts: 2000 Wednesday
+
+Venue: De la Iglesia Santa Teresita en B°Aranjuez, 300 metros Nortes y 300 metros Oeste, bajando la cuesta, San José, Costa Rica
+
 
 Sat: Monterrey, Mexico
 --------------------------------
