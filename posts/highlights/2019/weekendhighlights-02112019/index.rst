@@ -394,6 +394,8 @@ Sun: Osorno, Chile
 
 .. __: https://www.facebook.com/events/2347134485410072/
 
+**THIS EVENT CANCELLED AFTER WE WENT TO PRESS, DUE TO SAFETY CONCERNS OVER THE CHILEAN GOVERNMENT'S ACTIONS AGAINST ITS POPULACE**
+
 The `Deskarriadas`_ host their 4th Skating Family (Patinetada Familiar Osorno) event, where they will be skating a 3 km course (but the community on wheels, big or small are all invited to take part).
 
 We believe that this event is still taking place, despite the recent protests, and oppressive response from the Chilean government; signs are that the Government has stood down from their response, so far, this week.
