@@ -1,7 +1,7 @@
 .. title: Brasileirão 2019
 .. slug: brasileirao-102019
-.. date: 2019-10-25 08:55:00 UTC+01:00
-.. tags: brazilian roller derby,
+.. date: 2019-10-29 14:55:00 UTC+01:00
+.. tags: brazilian roller derby, brasileirao, iron ladies, national tournament
 .. category:
 .. link:
 .. description:
@@ -20,19 +20,22 @@ As we discussed `last year`_ , the Brasileirão is now in its 8th year, and cont
 #. Thunder Rats Derby Squad (Santos)
 #. Iron Ladies (Blumenau) / Capivaras Roller Derby (Piracicaba) [no placement game]
 
+.. image:: /images/2019/10/Brasileirao.jpg
+  :alt: the 8th Brasileirão flyer: green patterned background with Brasilian skater shown facing right in profile (head only), wearing helmet with yellow jammer cover and white star. Her head is tilted slightly up, and she has a mildly anticipatory expression, with eyes half closed. Above the head, and half obscured by it, a red flower with green leaves. Around the head in a 3/4s halo, a scroll reading "8º Brasileirão de Roller Derby".
+
 .. _last year: https://www.scottishrollerderbyblog.com/posts/2018/10/11/the-brasileirao-brazils-national-championships-at-8/
 
 This year's Brasileirão is hosted in Blumenau, by the `Iron Ladies`_ , as a three-day event, interleaving a 4 team round robin tournament with competitors from across Brazil, with mixed scrimmage events for other competitors. (This is a change to the previous tournament structures, which were run as single-elimination events.)
 
-.. _Iron Ladies:
+.. _Iron Ladies: https://www.instagram.com/ironladiesbnu/
 
 
 Last year, in a change from previous competition, there was no representation from Rio de Janeiro, with 6 competitors in total; this was, we assume, related to the formation of a second league in Rio around the time of applications (Avas Roller Derby). This year, whilst the number of competitors has reduced; with Santos and Piracicaba out of the list; there is renewed representation from Rio, as the newer team, Avas, is attending this year. (The field is still reduced by 2 in total, as out of the two leagues representing São Paulo in 2018, only Gray City Rebels are attending this year.)
 
-Over the last several months, we've spoken to the Brazilian roller derby community on this, and other planned events, and unfortunately, this decrease in size is a marker for a more general difficulty for the sport in this country. As people are hopefully now more aware, the cost of Roller Derby - economically, and in other ways - in South America is much higher than it is in most of the USA and other wealthy Western countries. (This isn't just cost, it's also issues like practice space, accessibility of kit, and even accessibility of the bulk of writing about Roller Derby, which is mostly in English)
+Over the last several months, we've spoken to the Brazilian roller derby community on this, and other planned events, and unfortunately, this decrease in size is a marker for a more general difficulty for the sport in this country, and in other Latin American nations. As people are hopefully now more aware, the cost of Roller Derby - economically, and in other ways - in South America is much higher than it is in most of the USA and other wealthy Western countries. (This isn't just cost, it's also issues like practice space, accessibility of kit, and even accessibility of the bulk of writing about Roller Derby, which is mostly in English). The Copa Libertadoras, which would have been a second Brazil-hosted, Latin America scoped, tournament at the end of this year, recently announced that it was unable to proceed, and would be attempting a 2020 event instead.
 
-This, however, is also why the continuing organisation of events like the Brasileirão are so important, to keep the roller derby community connected and part of something big.
+These difficulties, however, are also why the continuing organisation of events like the Brasileirão are so important, to keep the roller derby community connected and part of something big.
 
+-----
 
-
-The 8th edition of the Brasileirão will run from **15 - 17 November 2019**, in **Blumenau, SC, Brazil**. ( EEB Professor João Widemann - Rua 4 de Fevereiro, 64 - Itoupava Norte, Blumenau/SC)
+The 8th edition of the Brasileirão will run from **15 - 17 November 2019**, in **Blumenau, SC, Brazil**. ( EEB Professor João Widemann - Rua 4 de Fevereiro, 64 - Itoupava Norte, Blumenau/SC )
