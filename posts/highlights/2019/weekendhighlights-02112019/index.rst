@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 02 Nov 2019
 .. slug: weekendhighlights-02112019
-.. date: 2019-09-29 10:00:00 UTC+00:00
+.. date: 2019-10-29 10:00:00 UTC+00:00
 .. tags: weekend highlights, chinese roller derby, australian roller derby, estonian roller derby, german roller derby, belgian roller derby, french roller derby, british roller derby, uruguayan roller derby, colombian roller derby, argentine roller derby, mexican roller derby, chilean roller derby, sur5al
 .. category:
 .. link:

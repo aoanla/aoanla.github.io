@@ -1,6 +1,6 @@
 .. title: RNR 2019
 .. slug: RNR-102019
-.. date: 2019-10-28 08:55:00 UTC+01:00
+.. date: 2019-10-31 08:55:00 UTC+01:00
 .. tags: colombian roller derby,
 .. category:
 .. link:
