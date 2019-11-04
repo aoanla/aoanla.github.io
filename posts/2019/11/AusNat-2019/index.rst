@@ -1,6 +1,6 @@
 .. title: Australian Nationals 2019
 .. slug: AusNat-2019
-.. date: 2019-11-04 20:55:00 UTC+01:00
+.. date: 2019-11-05 20:55:00 UTC+01:00
 .. tags: australian roller derby, national tournaments
 .. category:
 .. link:

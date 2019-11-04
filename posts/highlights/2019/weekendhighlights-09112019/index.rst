@@ -281,7 +281,7 @@ Sat-Sun: Brussels, Belgium
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
+`[FTS LINK 1]`__
 
 .. __: https://www.facebook.com/events/2496472280637806/
 .. __: tba
@@ -291,8 +291,16 @@ Sat-Sun: Brussels, Belgium
 
 .. _Brussels Roller Derby League: https://www.instagram.com/brussels_rollerderby
 
-- Saturday ??
-- Sunday: Open To All genders tournament
+- Saturday:
+
+  - Atomium Kittens (Brussels B) versus All Stars (Metz)
+  - "Fun Game"
+  - Pixies (Brussels) versus Switchblades (Lille)
+
+- Sunday: Open To All genders tournament 1300 to 1800
+
+  - 6 games probably Sevens rules given timings.
+  - 3rd and 1st place games.
 
 Event starts: 1000 Saturday ??
 
