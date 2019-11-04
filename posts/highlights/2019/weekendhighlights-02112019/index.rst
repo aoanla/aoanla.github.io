@@ -237,6 +237,8 @@ Sun: East Calder, Scotland
 
 .. __: https://www.facebook.com/events/1606085619534634/
 
+**POSTPONED TO NEXT WEEK TO AVOID CONFLICTS WITH MEAN CITY**
+
 `New Town Roller Derby`_ host an open C-level WFTDA-gender policy scrimmage opportunity, as they get in extra practice ahead of their scheduled bout against Lucerne later in the year. Signed up skaters will play NTRD as a "the world" team.
 
 .. _New Town Roller Derby: https://www.instagram.com/NewTownRollerDerby/
