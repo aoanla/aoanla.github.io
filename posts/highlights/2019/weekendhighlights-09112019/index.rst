@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 09 Nov 2019
 .. slug: weekendhighlights-09112019
 .. date: 2019-11-04 16:20:00 UTC+00:00
-.. tags: weekend highlights, australian roller derby, national tournament, finnish roller derby, swedish roller derby, south african roller derby, german roller derby, italian roller derby, belgian roller derby, dutch roller derby, british roller derby, scottish roller derby, portuguese roller derby, french roller derby, irish roller derby, brazilian roller derby, argentine roller derby, short track roller derby, colombian roller derby, austrian roller derby
+.. tags: weekend highlights, australian roller derby, national tournament, finnish roller derby, swedish roller derby, south african roller derby, german roller derby, italian roller derby, belgian roller derby, dutch roller derby, british roller derby, scottish roller derby, portuguese roller derby, french roller derby, irish roller derby, brazilian roller derby, argentine roller derby, short track roller derby, colombian roller derby, austrian roller derby, new zealand roller derby
 .. category:
 .. link:
 .. description:
@@ -29,6 +29,25 @@ Locations are roughly organised East-West (with things before the weekend out se
   :width: 100 %
 
 .. TEASER_END
+
+Sat: Wellington, New Zealand
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/553878492041307/
+
+
+`Richter City Roller Derby`_ host a double header, with Juniors interleague, and then the Final of the Richter City home teams season for 2019!
+
+.. _Richter City Roller Derby: http://www.richtercity.co.nz/
+
+- Rolling Dead (Christchurch J) versus Sk8PUNKS (Wellington J)
+- Comic Slams versus Brutal Pageant [Richter City Home Teams Final]
+
+Event starts: 1600 Saturday (doors open)
+
+Venue: Kilbirnie Recreation Centre, 101 Kilbirnie Crescent, Wellington, New Zealand
 
 Fri-Sun: Brisbane, QLD, Australia
 -----------------------------------
