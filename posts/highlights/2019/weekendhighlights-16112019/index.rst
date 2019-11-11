@@ -28,7 +28,7 @@ get themselves an actual webpage [we can help host one if you need help]).
 
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
-.. image:: /images/2019/11/09Nov-wkly-map.png
+.. image:: /images/2019/11/16Nov-wkly-map.png
   :alt: Map of all events (coded by type)
   :width: 100 %
 
