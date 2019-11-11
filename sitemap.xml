@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.scottishrollerderbyblog.com/</loc>
-  <lastmod>2019-10-24T19:06:00Z</lastmod>
+  <lastmod>2019-11-11T19:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/2011/</loc>
@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2019-11-05T14:20:00Z</lastmod>
+  <lastmod>2019-11-11T19:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -175,7 +175,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/</loc>
-  <lastmod>2019-11-05T14:21:00Z</lastmod>
+  <lastmod>2019-11-11T19:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/2011-blood-thunder-roller-derby-world-cup/</loc>
@@ -1544,6 +1544,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/iron-ladies/</loc>
   <lastmod>2019-10-29T15:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/israeli-roller-derby/</loc>
+  <lastmod>2019-11-11T19:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/italian-derby/</loc>
@@ -4170,7 +4174,11 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-98.html</loc>
-  <lastmod>2019-11-05T14:20:00Z</lastmod>
+  <lastmod>2019-11-11T19:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/index-99.html</loc>
+  <lastmod>2019-11-11T19:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/it/</loc>
@@ -8312,6 +8320,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-16062019/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-16112019/</loc>
+  <lastmod>2019-11-11T19:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-17082019/</loc>
