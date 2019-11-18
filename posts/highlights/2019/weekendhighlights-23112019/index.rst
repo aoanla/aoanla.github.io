@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 23 Nov 2019
 .. slug: weekendhighlights-23112019
 .. date: 2019-11-18 19:20:00 UTC+00:00
-.. tags: weekend highlights, new zealand roller derby, australian roller derby, japanese roller derby, national tournament, roller derby sevens, german roller derby, french roller derby, belgian roller derby, danish roller derby, argentine roller derby, british roller derby, italian roller derby, refereeing clinic, spanish roller derby, norwegian roller derby,
+.. tags: weekend highlights, new zealand roller derby, australian roller derby, japanese roller derby, national tournament, roller derby sevens, german roller derby, french roller derby, belgian roller derby, danish roller derby, argentine roller derby, british roller derby, italian roller derby, refereeing clinic, spanish roller derby, norwegian roller derby, polish roller derby
 .. category:
 .. link:
 .. description:
@@ -117,6 +117,29 @@ Sat: Mirrabooka, WA, Australia
 Event starts: 1900 Saturday
 
 Venue: Herb Graham Recreation Centre, 38 Ashbury Crescent, Mirrabooka, WA, Australia
+
+Sat: Gdańsk, Poland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2354926177949280/
+
+
+`Gdańsk Chrome Sirens`_ host "Fall Hit'n' Roll", a short-format all day tournament. This is a double-round-robin (each team plays each other twice), with single 20-minute games, 8 skater rosters, and no foulouts!
+
+.. _Gdańsk Chrome Sirens: https://www.instagram.com/chromesirensrollerderby
+
+- Teams:
+
+  - Vratislavia MadChix
+  - Roller Derby Brno Freakshow
+  - Gdańsk Chrome Sirens
+
+Event starts: 1230 Saturday
+
+Venue: Szkoła Podstawowa nr 92 w Gdańsku, Startowa 9, Gdansk, Poland
+
 
 
 Sat-Sun: Rome, Italy
