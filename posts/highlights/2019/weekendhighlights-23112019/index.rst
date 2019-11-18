@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 23 Nov 2019
 .. slug: weekendhighlights-23112019
 .. date: 2019-11-18 19:20:00 UTC+00:00
-.. tags: weekend highlights, new zealand roller derby, australian roller derby, japanese roller derby, national tournament, roller derby sevens, german roller derby, french roller derby, belgian roller derby, danish roller derby, argentine roller derby, british roller derby, italian roller derby, refereeing clinic, spanish roller derby, norwegian roller derby, polish roller derby
+.. tags: weekend highlights, new zealand roller derby, australian roller derby, japanese roller derby, national tournament, roller derby sevens, german roller derby, french roller derby, belgian roller derby, danish roller derby, argentine roller derby, british roller derby, italian roller derby, refereeing clinic, spanish roller derby, norwegian roller derby, polish roller derby, emirates roller derby
 .. category:
 .. link:
 .. description:
@@ -117,6 +117,22 @@ Sat: Mirrabooka, WA, Australia
 Event starts: 1900 Saturday
 
 Venue: Herb Graham Recreation Centre, 38 Ashbury Crescent, Mirrabooka, WA, Australia
+
+Sat: Dubai, United Arab Emirates
+------------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2446194309032687/
+
+`UAE Roller Derby All-Stars`_ host their November bootcamp, covering acceleration and deceleration, and toe-stop work; followed by 30 minutes of 3 on 3, low-contact scrimmage. (NSOing and Refereeing opportunities also available)
+
+.. _UAE Roller Derby All-Stars: https://www.instagram.com/uaerollerderby
+
+Event starts: 1400 Saturday
+
+Venue: Aktiv Nation, Al Quoz, Dubai, United Arab Emirates
+
 
 Sat: Gdańsk, Poland
 --------------------------------
