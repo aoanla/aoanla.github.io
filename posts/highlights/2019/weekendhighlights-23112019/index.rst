@@ -436,6 +436,24 @@ Event starts: 1600 Saturday
 
 Venue: Paseo de la plata y castañar 7, Madrid, Spain
 
+Thurs?: Montevideo, Uruguay
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/pajarospintados.derby/photos/a.233667046787773/1437353466419119/?type=3
+
+
+`Pájaros Pintados`_, Montevideo's first Roller Derby team, host a friendly intraleague for their rookies, to also bid a team member farewell. This is currently advertised as being on "Thursday, 20 November" (the 20th is a Wednesday), so we're not sure exactly when it is.
+
+.. _Pájaros Pintados: https://www.instagram.com/pajarospintadosderby/
+
+- Rookies Intraleague
+
+Event starts: 2100 Thursday
+
+Venue: ??, Montevideo, Uruguay
+
 Sat-Sun: San Salvador de Jujuy, Argentina
 --------------------------------------------
 
