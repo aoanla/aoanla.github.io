@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/aoanla.xml</loc>
-  <lastmod>2019-11-19T10:09:00Z</lastmod>
+  <lastmod>2019-11-20T08:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/caleykapowski.xml</loc>
@@ -331,7 +331,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/austrian-roller-derby.xml</loc>
-  <lastmod>2019-11-06T08:25:00Z</lastmod>
+  <lastmod>2019-11-20T08:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/autralian-roller-derby.xml</loc>
@@ -1068,6 +1068,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/fear-maidens.xml</loc>
   <lastmod>2019-10-24T19:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/fearless-bruisers.xml</loc>
+  <lastmod>2019-11-20T08:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/fenix-roller-derby.xml</loc>
@@ -1935,7 +1939,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/national-tournaments.xml</loc>
-  <lastmod>2019-11-11T19:21:00Z</lastmod>
+  <lastmod>2019-11-20T08:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/new-bouters.xml</loc>
@@ -3851,10 +3855,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2019-11-19T10:09:00Z</lastmod>
+  <lastmod>2019-11-20T08:51:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2019-11-19T10:09:00Z</lastmod>
+  <lastmod>2019-11-20T08:51:00Z</lastmod>
  </sitemap>
 </sitemapindex>
