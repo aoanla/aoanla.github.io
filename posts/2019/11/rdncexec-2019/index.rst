@@ -8,6 +8,7 @@
 .. type: text
 .. author: aoanla
 
+.. TEASER_END
 
 Central and South America Regional Rep: Maki
 ----------------------------------------------

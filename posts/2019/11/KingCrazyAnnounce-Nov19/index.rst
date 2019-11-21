@@ -1,12 +1,16 @@
 .. title: A basic announcing guide - before the whistle: King Crazy
 .. slug: KingCrazyAnnounce-Nov19
-.. date: 2019-11-21 19:20:00 UTC+00:00
-.. tags: announcing
+.. date: 2019-11-21 16:00:00 UTC+00:00
+.. tags: announcing, guest posts
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: SRD
+
+There's not enough writing about Announcing strategy in roller derby, so we're very pleased to be able to host this guest post from the very experienced King Crazy.
+
+----
 
 
 Hey all! I'm King Crazy, an announcer and bench coach. I've been involved in derby for about 9 years, announced around 300 games and benched around 80.
@@ -14,7 +18,14 @@ I've been lucky enough to work 4 World Cups (1 as co-tournament head announcer),
 
 This is my guide to what I do to prepare to announce **BEFORE** the whistle goes.
 
-----
+.. figure:: /images/2019/11/KingCrazy-byJasonRuffell.jpg
+  :alt: Photograph of King Crazy, by Jason Ruffell [Roller Derby on Film]
+
+  King Crazy [Photo: `Roller Derby on Film / Jason Ruffell`__ ]
+
+.. __: http://www.roller-derby-on-film.co.uk/
+
+.. TEASER_END
 
 For this example, I am going to say it's a single game between 2 teams I'm not familiar with.
 
@@ -35,7 +46,7 @@ I then speak to the head ref to find out how Official Reviews are being communic
 If you don't know the teams, WATCH THE WARM UPS!!! This is key.
 I'll be looking to see who the jammers are firstly, but I'll also be looking for ways to identify skaters.
 
-As an example, I've heard many announcers make mistakes with London Roller Derby, getting Esther Arocha, Gaz, Shaolynn Scarlett and Trisha Smackenawa confused, as they all have similar frames. When I was fortunate enough to announce them, watching their warm up gave me ways to tell then apart e.g. Arocha had pink Skates, Gaz was wearing shorts, Shaolynn had leggings, Trisha wore shin pads. All little things that helped know who was who! This is why I watch the warm ups, little things like that can stand out and the difference between correctly naming a skater instantly, or having to umm and err your way through until you see a number.
+As an example, I've heard many announcers make mistakes with London Roller Derby, getting Esther Arocha, Gaz, Shaolynn Scarlett and Trisha Smackenawa confused, as they all look similar from a distance. When I was fortunate enough to announce them, watching their warm up gave me ways to tell then apart e.g. Arocha had pink Skates, Gaz was wearing shorts, Shaolynn had leggings, Trisha wore shin pads. All little things that helped know who was who! This is why I watch the warm ups, little things like that can stand out and the difference between correctly naming a skater instantly, or having to umm and err your way through until you see a number.
 
 I will also try to speak to a member of the coaching team, to see who will be jamming, but more importantly to check names/numbers/pronunciations/pronouns. This is also very important. The skater may have family and friends in the audience, and it would suck to hear their name pronounced wrong throughout the game!
 
