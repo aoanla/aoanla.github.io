@@ -27,7 +27,7 @@ This is my guide to what I do to prepare to announce **BEFORE** the whistle goes
 
 .. TEASER_END
 
-For this example, I am going to say it's a single game between 2 teams I'm not familiar with.
+For this example, I am going to say it's a single game between 2 teams I'm not familiar with, and a solo call.
 
 I'll start by asking for the roster 7-14 days in advance. I don't need the exact 15, the full charter will do. Once I have this, I'll read through it a few times, before writing it out in a way that I like, which is numerical order (1, 2, 9, 10 ...) rather than derby order (1, 10, 12, 1997, 2 ...). My reason for this is that when I see someone do something on the track, I find it easier to look their name up to give them the credit they deserve. Writing the names and numbers also helps me to learn them, and bring to my attention any pronunciation issues that I may have.
 
