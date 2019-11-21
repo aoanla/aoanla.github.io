@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 24 Nov 2019 (SUNDAY)
 .. slug: weekendhighlights-24112019
 .. date: 2019-11-20 20:00:00 UTC+00:00
-.. tags: weekend highlights, sunday addendum, australian roller derby, british roller derby, argentine roller derby, south african roller derby, swiss roller derby, dutch roller derby
+.. tags: weekend highlights, sunday addendum, australian roller derby, british roller derby, argentine roller derby, south african roller derby, swiss roller derby, dutch roller derby, norwegian roller derby, costa rican roller derby
 .. category:
 .. link:
 .. description:
@@ -79,6 +79,8 @@ Event starts: 0800 Sunday
 Venue: Afro's Chicken Shop, South Beach, Durban, KwaZulu-Natal, South Africa
 
 
+
+
 Sun: Uttigen, Switzerland
 --------------------------------
 
@@ -93,6 +95,21 @@ Sun: Uttigen, Switzerland
 Event starts: 1800 Sunday
 
 Venue: Rollhockeyhalle Uttigen, Uttigen, Switzerland
+
+Sun: Stavanger, Norway
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/527644691410297/
+
+`Oil City Rollers`_ host a meet-and-greet and fundraiser at the Lighthouse at Tungenes, which is also a cultural museum.
+
+.. _Oil City Rollers: https://www.instagram.com/oilcityrollers/
+
+Event starts: 1200 Sunday
+
+Venue: Tungenes fyr, Tungenesveien 217, Randaberg, Norway
 
 Sun: Amsterdam, Netherlands
 --------------------------------
@@ -198,6 +215,21 @@ Sun: Lanús, Argentina
 Event starts: 1300 Sunday (first whistle)
 
 Venue: Club le Amistad, Cordero 675, R. de Escalada, Lanús, Argentina
+
+Sun: San José, Costa Rica
+--------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+
+.. __: https://www.facebook.com/darksiderollerderby/posts/1372943352880553?
+
+`Dark Side Roller Derby`_ host their second "introductory workshop" on Roller Derby, open to anyone who wants to know more about the sport (and maybe sign up). A limited amount of kit is available for attendees who don't have their own.
+
+.. _Dark Side Roller Derby: https://darksiderollergirl.wixsite.com/darksiderollerderby/quienes-somos
+
+Event starts: 1100 Sunday
+
+Venue: Polideportivo Aranjeuz, San José, Costa Rica
 
 ..
   Sun:
