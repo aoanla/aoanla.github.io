@@ -458,19 +458,21 @@ Sat-Sun: San Salvador de Jujuy, Argentina
 --------------------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/2433309043610212/
-.. __: tba
-
 
 `Mortal Kollas Roller Derby`_ host the 4th Juguemos Pué! tournament, serving the leagues of Northern Argentina. We've reached out to Mortal Kollas for more info, and will update this when we know more.
+
+UPDATE: as far as we can tell, this is now maybe just a Sunday event, and we've added the timings we know for the 24th.
 
 .. _Mortal Kollas Roller Derby: https://www.instagram.com/mortalkollasrollerderby
 
 - PENDING INFO FROM MORTAL KOLLAS
 
-Event starts: ??
+- Open Subs WFTDA-gender policy bout
+- Open Subs OTA-gender policy bout
+
+Event starts: 1500 Sunday (first whistle)
 
 Venue: Rectorado Unju, Avenida Bolivia 1239, San Salvador de Jujuy, Argentina
 
