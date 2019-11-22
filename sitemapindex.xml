@@ -107,7 +107,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/srd.xml</loc>
-  <lastmod>2019-11-21T19:34:00Z</lastmod>
+  <lastmod>2019-11-22T09:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/thejammingpony.xml</loc>
@@ -340,6 +340,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/autralian-roller-derby.xml</loc>
   <lastmod>2019-10-24T19:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/awards.xml</loc>
+  <lastmod>2019-11-22T09:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/ayrshire-roller-derby.xml</loc>
@@ -1000,6 +1004,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/end-of-year-review.xml</loc>
   <lastmod>2019-10-24T19:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/end-of-year.xml</loc>
+  <lastmod>2019-11-22T09:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/england-mens-roller-derby.xml</loc>
@@ -2010,6 +2018,10 @@
   <lastmod>2019-10-24T19:06:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/nominations.xml</loc>
+  <lastmod>2019-11-22T09:46:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/norfolk-brawds.xml</loc>
   <lastmod>2019-10-24T19:06:00Z</lastmod>
  </sitemap>
@@ -2478,6 +2490,10 @@
   <lastmod>2019-10-24T19:06:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/scottish-roller-derby-blog.xml</loc>
+  <lastmod>2019-11-22T09:46:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/scottish-roller-derby.xml</loc>
   <lastmod>2019-11-14T08:22:00Z</lastmod>
  </sitemap>
@@ -2695,7 +2711,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/talk-derby-to-me.xml</loc>
-  <lastmod>2019-10-24T19:06:00Z</lastmod>
+  <lastmod>2019-11-22T09:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/tampere-rollin-bros.xml</loc>
@@ -3859,10 +3875,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2019-11-21T19:34:00Z</lastmod>
+  <lastmod>2019-11-22T09:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2019-11-21T19:34:00Z</lastmod>
+  <lastmod>2019-11-22T09:46:00Z</lastmod>
  </sitemap>
 </sitemapindex>
