@@ -10,6 +10,31 @@
 
 .. TEASER_END
 
+Northern Europe Regional Rep: Hazzard
+----------------------------------------
+
+.. image:: /images/2019/11/HazelMochan-byLauraMacdonald.jpg
+  :alt: Photograph of Hazzard (Photo: Laura Macdonald / AbstractCat)
+
+Hazel Mochan / Hazzard - she/her
+
+UKRDA Vice Chair
+
+**Tell us a bit about yourself...**
+
+I’ve been skating and involved in Roller Derby for 8 years now. Over the course of my time I’ve been involved in the formation and growth of a league [New Town Roller Derby], managing a National Squad for the 2018 [Roller Derby] World Cup, and most recently was elected to the UKRDA Board of Directors where my remit is Membership and National Squads.
+
+**Why did you apply as a Regional Rep for the RDNC?**
+
+I wanted to apply for the North European National Chair Role to help further the efforts towards the next World Cup and to help shape the future of international roller derby!
+
+I'm really excited to get involved and hopefully bring something fresh to the role!
+
+**What are your hopes and plans for the Roller Derby Nations Committee?**
+
+I especially wanted to try and bring some Scottish Roller Derby flair to the rest of Europe and the world, as we have a really lovely close-knit community ranging from big WFTDA+MRDA member leagues, down to smaller leagues who all have such passion for the sport and for helping each other!
+
+
 Central and South America Regional Rep: Maki
 ----------------------------------------------
 

@@ -47,10 +47,13 @@ We will be using the following categories:
 #. Bootcamp
 #. Media (*individual* articles/podcasts/etc only, *not* a whole blog)
 #. Hall of Fame
+#. Rising Star (Junior or young community members in any area)
 
 You can nominate the same thing in multiple categories, if they are eligible. (So, a Roller Derby Sevens tournament could be nominated in Tournament and (Non-Regulation) Tournament; a skater who also referees could be nominated in both categories; and so on).
 
 **Hall of Fame** is a category which anything can be nominated for, as long as it is considered deserving.
+
+Thanks to *Skye MacIntyre* for suggesting the Rising Star category.
 
 If we get more than one nomination for the same thing in the same category, we will combine all the justifications given into one entry. This may require editing the text provided.
 
