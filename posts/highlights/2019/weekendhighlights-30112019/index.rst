@@ -399,7 +399,7 @@ Event starts: 1930 Thursday
 
 Venue: St Andrews Brewing Co, Caird Hall, 2-3 Shore Terrace, Dundee, Scotland
 
-Sat-Sun: Salford, UK
+Sat: Salford, UK
 --------------------------------
 
 `[FACEBOOK LINK]`__
