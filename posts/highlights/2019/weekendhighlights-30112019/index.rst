@@ -470,3 +470,20 @@ Fri: Bray, Ireland
 Event starts: 1900 Friday
 
 Venue: St Killian's Sports Complex, Ballywaltrim, Bray, Ireland
+
+
+Sat: Tampico, Mexico
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2591904070888282/
+
+The `Jaibronas`_ host an Officiating Clinc coached by Macha (Nuevo León Roller Derby). This is open to all interested parties, including people who just want to see what it's all about. Free entry.
+
+.. _Jaibronas: https://www.instagram.com/jaibronas.ig
+
+
+Event starts: 1000 Saturday
+
+Venue: Unidad Deportiva de Tampico, Campo de Futbol Rapido, Tampico, Mexico
