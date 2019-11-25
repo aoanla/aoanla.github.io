@@ -1,6 +1,6 @@
 .. title: Meet the (new) Roller Derby Nations Committee Exec
 .. slug: rdncexec-2019
-.. date: 2019-11-23 19:20:00 UTC+00:00
+.. date: 2019-11-28 19:20:00 UTC+00:00
 .. tags: roller derby nations committee, interviews, roller derby world cup
 .. category:
 .. link:
