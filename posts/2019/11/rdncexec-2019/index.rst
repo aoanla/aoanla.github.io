@@ -1,6 +1,6 @@
 .. title: Meet the (new) Roller Derby Nations Committee Exec
 .. slug: rdncexec-2019
-.. date: 2019-11-28 19:20:00 UTC+00:00
+.. date: 2019-11-26 10:00:00 UTC+00:00
 .. tags: roller derby nations committee, interviews, roller derby world cup
 .. category:
 .. link:
@@ -10,6 +10,10 @@
 
 Those who've been following the news this year will be aware that the `Roller Derby Nations Committee`_ - the body representing all of the National Teams in designing, planning and delivering the Roller Derby World Cups - has recently elected new Regional Representatives.
 
+These Regional Representatives each sit on the Executive of the RDNC, and are responsible for representing all of the Nations in their Region, and, conversely, representing the RDNC Exec to those same Nations, via each Nation's Representative. As such, having a full set of Regional Representatives is essential in order to make progress with National Teams business worldwide.
+
+.. _Roller Derby Nations Committee: http://www.rollerderbynationscommittee.org
+
 With 4 of the 7 seats on the RDNC Exec newly elected, we thought we'd let you get to know them all a little better with some self-provided profiles.
 
 .. TEASER_END
@@ -18,9 +22,9 @@ Northern Europe Regional Rep: Hazzard
 ----------------------------------------
 
 .. figure:: /images/2019/11/HazelMochan-byLauraMacdonald.jpg
-  :alt: Photograph of Hazzard (Photo: Laura Macdonald / AbstractCat)
+  :alt: Photograph of Hazzard (Photo: Laura Macdonald)
 
-  Photo by Laura MacDonald / Abstract Cat Photography
+  Photo by Laura MacDonald
 
 *Hazel Mochan / Hazzard - she/her*
 
@@ -83,7 +87,7 @@ I'm here to help and work hard. I think we should raise awareness what RDNC is s
 
 And also I want to give “my region” a strong voice, make it more visible. Show how wonderful people make roller derby here and how awesome it comes out despite all obstacles. And maybe also find a way to make it a little bit easier for them.
 
-My dream long term plan is to see one day roller derby world cup at the national stadium in Warsaw :)
+My dream long term plan is to see one day, a Roller Derby World Cup at the national stadium in Warsaw :)
 
 North America Regional Rep: Jumpy McGee
 ---------------------------------------------
@@ -110,7 +114,7 @@ I am in my 6th season of playing derby and just keep falling more in love with t
 
 **Why did you apply as a Regional Rep for the RDNC?**
 
-I wanted to join the RDNC as I wanted there to be a voice present for those teams who may be non-traditional, may be seeking support in how to work within the system when they are borderless or fall under the revised definition of a nation.  I recognize that this sport has a lot of privilege and many of those with privilege are in positions of power and influence.
+I wanted to join the RDNC as I wanted there to be a voice present for those teams who may be non-traditional, may be seeking support in how to work within the system when they are borderless or fall under the revised definition of a Nation.  I recognize that this sport has a lot of privilege and many of those with privilege are in positions of power and influence.
 
 I wanted to be a representative that can work within many different groups, including those marginalized and underrepresented and elevate those voices within the committee.
 
@@ -149,13 +153,13 @@ When not doing derby I'm a social worker in the making, history nerd to an unnec
 
 The nomination came to me as a surprise from a Latin American team located in Uruguay.
 
-I had previously seen the ballot opening in the page, but hesitated to apply to it since I did not know I'd make the cut or had the necessary qualifications for the task. This team's vote of trust on me pushed me to believe that I was up to the task and I'm thankful they did. Being a representative for LatAm is not only a huge responsability but a honor and I can't wait to work together with the Committee to make stuff happen for everyone.
+I had previously seen the ballot opening in the page, but hesitated to apply to it since I did not know I'd make the cut or had the necessary qualifications for the task. This team's vote of trust on me pushed me to believe that I was up to the task and I'm thankful they did. Being a representative for LatAm is not only a huge responsibility but a honor and I can't wait to work together with the Committee to make stuff happen for everyone.
 
 **What are your hopes and plans for the Roller Derby Nations Committee?**
 
-Coming into the table with my fellow regional chairs, my hope is to bring into the discussion an insight on emerging nations and geographically isolated regions in a way that we can work out a system that everyone can benefit for— no matter the country where you're located.
+Coming into the table with my fellow Regional chairs, my hope is to bring into the discussion an insight on Emerging Nations and geographically-isolated regions in a way that we can work out a system that everyone can benefit from, no matter the country where you're located.
 
-Great talents are arising in the non central regions and it's up to us to create spaces where they are heard, considered and granted the space they so heavily need and deserve.
+Great talents are arising in the non-Central regions and it's up to us to create spaces where they are heard, considered and granted the space they so heavily need and deserve.
 
 In the times that we are living it's on us to create a community where all the Nations come together and WFTDA's motto is key: real, strong, athletic, revolutionary and most of all, diverse.
 

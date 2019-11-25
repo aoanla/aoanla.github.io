@@ -118,7 +118,7 @@ Sat: Copenhagen, Denmark
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/2815714168463062/
-.. __:
+.. __: http://www.flattrackstats.com/node/110670
 
 `Copenhagen Roller Derby`_ host an international single header, as Roller Derby Madrid fly up north to play them!
 
