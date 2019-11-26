@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 30 Nov 2019
 .. slug: weekendhighlights-30112019
 .. date: 2019-11-25 14:26:00 UTC+00:00
-.. tags: weekend highlights, australian roller derby, finnish roller derby, austrian roller derby, german roller derby, swiss roller derby, spanish roller derby, irish roller derby, scottish roller derby, british roller derby, french roller derby, national tournament, bootcamp, dutch roller derby, danish roller derby
+.. tags: weekend highlights, australian roller derby, finnish roller derby, austrian roller derby, german roller derby, swiss roller derby, spanish roller derby, irish roller derby, scottish roller derby, british roller derby, french roller derby, national tournament, bootcamp, dutch roller derby, danish roller derby, argentine roller derby, mexican roller derby
 .. category:
 .. link:
 .. description:
@@ -470,6 +470,21 @@ Fri: Bray, Ireland
 Event starts: 1900 Friday
 
 Venue: St Killian's Sports Complex, Ballywaltrim, Bray, Ireland
+
+Sat: Mar del Plata, Argentina
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/476228949916135/
+
+The `MDQueens`_ host a friendly WFTDA-gender policy open-subscription game (sort of like a public open scrimmage) on Friday. Referees and NSOs also welcome to sign up.
+
+.. _MDQueens: https://www.instagram.com/mdqueens_roller_derby/
+
+Event starts: 2200 Friday
+
+Venue: Club Atlético Mar del Plata, Rivadavia 3358, Mar del Plata, Argentina
 
 
 Sat: Tampico, Mexico
