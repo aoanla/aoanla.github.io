@@ -412,7 +412,7 @@ Sat: Salford, UK
 .. __: http://www.flattrackstats.com/node/112466
 .. __: http://www.flattrackstats.com/node/112467
 
-`Manchester Roller Derby`_ hosts a triple-header of MRDA-policy derby, as teams from Scotland and France visit to play their B team.
+`Manchester Roller Derby`_ hosts a triple-header of MRDA-policy derby, as teams from Scotland and Belgium visit to play their B team.
 
 .. _Manchester Roller Derby: https://www.manchesterrollerderby.org/
 
@@ -471,7 +471,7 @@ Event starts: 1900 Friday
 
 Venue: St Killian's Sports Complex, Ballywaltrim, Bray, Ireland
 
-Sat: Mar del Plata, Argentina
+Fri: Mar del Plata, Argentina
 --------------------------------
 
 `[FACEBOOK LINK]`__
