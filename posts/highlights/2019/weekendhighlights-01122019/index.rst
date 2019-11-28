@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 01 Dec 2019 (SUNDAY)
 .. slug: weekendhighlights-01122019
-.. date: 2019-11-28 20:00:00 UTC+00:00
-.. tags: weekend highlights, sunday addendum, mexican rolller derby, french roller derby, british roller derby, colombian roller derby, argentine roller derby, australian roller derby, short track roller derby
+.. date: 2019-11-28 08:00:00 UTC+00:00
+.. tags: weekend highlights, sunday addendum, mexican roller derby, french roller derby, british roller derby, colombian roller derby, argentine roller derby, australian roller derby, short track roller derby
 .. category:
 .. link:
 .. description:
@@ -9,6 +9,8 @@
 .. author: aoanla
 
 This is the Sunday addendum to our weekly highlights, giving events on the 1st a bit of space to breathe!
+
+As well as action in Colombia as part of the 10th anniversary of Roller Derby in the country, there's also a bunch of open scrims in Australia and the UK, a triple header in France, action in Mexico and Argentina... and more chances to try Short Track Roller Derby in Worcester, UK.
 
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
@@ -40,7 +42,7 @@ Sun: Keysborough, VIC, Australia
 
 .. _Kingston City Rollers: https://www.kingstoncityrollers.com.au/
 
-- Kingston City Rollers versus Penny Dreadfuls (Mornington Peninsula \| Frankston)
+- Kingston City Rollers B versus Penny Dreadfuls (Mornington Peninsula \| Frankston)
 
 Event starts: 1700 Sunday (doors open?)
 
@@ -54,7 +56,7 @@ Sun: West Footscray, VIC, Australia
 
 .. __: https://www.facebook.com/events/418606715514678/
 
-`WestSide Derby Dollz`_ host the first of their three-part "Summer Slam" series of open "Amber" scrimmages. (For those not familiar with the colour-coding scrimmage system, "Amber" is low-contact, intermediate between "Green" and "Red" (full contact)).
+`WestSide Derby Dollz`_ host the first of their three-part "Summer Slam" series of open "Amber" scrimmages. (For those not familiar with the colour-coding scrimmage system, "Amber" is low-contact, intermediate between "Green" and "Red" (full contact)). Players will retain their teams for the following two parts of the series, to allow a better feel for their progress.
 
 .. _WestSide Derby Dollz: https://www.instagram.com/westsidederbydollz/
 
@@ -113,7 +115,7 @@ Sun: La Rochelle, France
 .. __: http://www.flattrackstats.com/node/112374
 
 
-`Roller Derby La Rochelle`_ host a triple header of Roller Derby, "Poulpy`s Party", including some open subscription games.
+`Roller Derby La Rochelle`_ host a triple header of Roller Derby, "Poulpy`s Party", including some open subscription games, and covering all gender policies.
 
 .. _Roller Derby La Rochelle: http://www.larochellerollerderby.com/
 
@@ -134,7 +136,7 @@ Sun: Lanús, Argentina
 .. __: https://www.facebook.com/events/424645978469082/
 
 
-`Atomic Bombs Roller Derby`_ host a double header this Sunday,
+`Atomic Bombs Roller Derby`_ host a double header this Sunday, with both Open To All genders and WFTDA-gender bouts.
 
 .. _Atomic Bombs Roller Derby: https://www.instagram.com/atomicbombsrollerderby/
 
@@ -157,7 +159,7 @@ Sun: Bogotá, Colombia
 
 .. _Rock N Roller Queens: https://www.instagram.com/rollerqueens/
 
-- Categories:
+- Challenge Categories:
 
   - Mejor Año Viejo (best costume for the Old Year)
   - Vuelta a La Manzana Ovalada (fastest lap of the track, whilst carrying items?)
