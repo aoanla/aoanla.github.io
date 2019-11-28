@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 30 Nov 2019
 .. slug: weekendhighlights-30112019
 .. date: 2019-11-25 14:26:00 UTC+00:00
-.. tags: weekend highlights, australian roller derby, finnish roller derby, austrian roller derby, german roller derby, swiss roller derby, spanish roller derby, irish roller derby, scottish roller derby, british roller derby, french roller derby, national tournament, bootcamp, dutch roller derby, danish roller derby, argentine roller derby, mexican roller derby
+.. tags: weekend highlights, australian roller derby, finnish roller derby, austrian roller derby, german roller derby, swiss roller derby, spanish roller derby, irish roller derby, scottish roller derby, british roller derby, french roller derby, national tournament, bootcamp, dutch roller derby, danish roller derby, argentine roller derby, mexican roller derby, swedish roller derby
 .. category:
 .. link:
 .. description:
@@ -110,6 +110,32 @@ short-format games (2x20min period).
 Event starts: ??
 
 Venue: ??, Turku, Finland
+
+Sat-Sun: Malmö, Sweden
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK (Swedish Elite)]`__
+`[FTS LINK (Swedish D2)]`__
+
+.. __: https://www.facebook.com/events/1397975153704681/
+.. __: http://flattrackstats.com/tournaments/111400/overview
+.. __: http://flattrackstats.com/tournaments/111774/overview
+
+`Crime City Rollers`_ host their round of the Swedish Nationals Elite tier fixtures for this 2019-20 season, along with a Sunday Division 2 bout as a bonus!
+
+.. _Crime City Rollers: http://crimecityrollers.com/
+
+- Royal Swedish Roller Derby (Stockholm) versus Dock City Rollers B (Gothenburg)
+- Crime City Rollers B (Malmö B) versus Royal Swedish Roller Derby
+- Crime City Rollers B versus Dock City Rollers B
+
+- Helltown Hellcats (Helsingborg) versus Uppsala [Division 2]
+
+Event starts: 1100 Saturday
+
+Venue: Kopparbergsgatan 8, Malmö, Sweden
+
 
 Sat: Copenhagen, Denmark
 --------------------------------
