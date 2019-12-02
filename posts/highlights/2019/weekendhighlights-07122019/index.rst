@@ -437,7 +437,7 @@ In addition to the headlining triple header, this event will also feature NSOing
 
   - Invasores (Calafate O)
   - Fenix Roller Derby (Puerto Río Gallegos)
-  - ??
+  - Ushuaia Roller Derby
 
 Event starts: 0900 Saturday
 
