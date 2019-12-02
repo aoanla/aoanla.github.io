@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 07 Dec 2019
 .. slug: weekendhighlights-07122019
 .. date: 2019-12-02 20:26:00 UTC+00:00
-.. tags: weekend highlights, japanese roller derby, thai roller derby, bootcamps, australian roller derby, finnish roller derby, polish roller derby, swiss roller derby, german roller derby, french roller derby, scottish roller derby, british roller derby, argentine roller derby, chilean roller derby, austrian roller derby, belgian roller derby, portuguese roller derby,
+.. tags: weekend highlights, japanese roller derby, thai roller derby, bootcamps, australian roller derby, finnish roller derby, polish roller derby, swiss roller derby, german roller derby, french roller derby, scottish roller derby, british roller derby, argentine roller derby, chilean roller derby, austrian roller derby, belgian roller derby, portuguese roller derby, czech roller derby
 .. category:
 .. link:
 .. description:
@@ -154,6 +154,20 @@ Event starts: 1430 Saturday (doors open)
 
 Venue: HAKOAH, Wehlistraße 326, Vienna, Austria
 
+Sat: Prague, Czech Republic
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/492312581377474/
+
+The `Prague City Roller Derby`_ host a festive Santa versus Grinch game, following their tradition of the last 5 years!
+
+.. _Prague City Roller Derby: https://www.roller-derby.cz/
+
+Event starts: 1530 Saturday (first whistle)
+
+Venue: Na Třebešíně 3215/1, Praha 3, Prague, Czech Republic
 
 Sat: Hannover, Germany
 --------------------------------
