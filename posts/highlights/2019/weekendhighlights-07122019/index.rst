@@ -87,6 +87,23 @@ Event starts: 1800? Friday; bout is 1830 Saturday
 
 Venue: Rollerdome, Emporium,  (bout)
 
+Thurs: Durban, South Africa
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/879577362458078/
+
+`Durban Roller Derby`_ host a "Festive Beatings" bout, announced just 2 days before it is due.
+
+At present, there are few details about this event other than time, date, and sponsor...
+
+.. _Durban Roller Derby: https://www.instagram.com/durbanrollerderby/
+
+Event starts: 1900 Thursday (doors open)
+
+Venue: 5 Station Drive, Durban, KwaZulu-Natal, South Africa
+
 
 Sat-Sun: Helsinki, Finland
 --------------------------------
