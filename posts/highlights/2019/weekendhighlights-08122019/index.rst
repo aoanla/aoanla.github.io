@@ -45,15 +45,15 @@ Event starts: 1900 Sunday
 
 Venue: Kapiti College, Margaret Road, Raumati Beach, Paraparaumu, New Zealand
 
-Sun: Keysborough, VIC, Australia
-----------------------------------
+Sun: Keysborough, VIC, Australia [CANCELLED]
+----------------------------------------------
 
 `[FACEBOOK LINK]`__
 
 .. __: https://www.facebook.com/events/459128127979862/
 
 
-`Kingston City Rollers`_ host another of their regular KCR Mixers open scrimmages. As always, these mixer events are open to all skaters, and also open to people trying out bench roles as well. KCR use the traffic lights system for scrimmage, and offer all three levels: a non-contact scrimmage, a "prebouting" scrimmage, and a full-contact bouting scrimmage.
+`Kingston City Rollers`_ host another of their regular KCR Mixers open scrimmages. As always, these mixer events are open to all skaters, and also open to people trying out bench roles as well. KCR use the traffic lights system for scrimmage, and offer all three levels: a non-contact scrimmage, a "prebouting" scrimmage, and a full-contact bouting scrimmage. *THIS EVENT MARKED CANCELLED ON 6 DEC 2019, WITH NO REASON GIVEN*
 
 .. _Kingston City Rollers: https://www.kingstoncityrollers.com.au/
 

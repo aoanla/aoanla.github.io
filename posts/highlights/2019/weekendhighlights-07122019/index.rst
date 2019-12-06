@@ -406,13 +406,15 @@ Sat-Sun: Lanús, Argentina
 
 `ORDA`_ (Oficiales Roller Derby Argentina) host another edition of Un Sol para lxs Oficalxs; the mini tournament series which raises funds for Argentina's officials to travel to support tournaments in the country. This edition raises travel funds to support officiating at the QuadBeer tournament next week in Bariloche.
 
-This event is a cuadrangular (4 team round robin) MRDA-gender event, which is also a rare thing for Argentina, although none of the teams have been announced at the time of going to press.
+This event is a triangular (3 team round robin) MRDA-gender event, which is also a rare thing for Argentina, although none of the teams have been announced at the time of going to press. (This was previously announced as a quadrangular, but the final team proved impossible to commit.)
 
 .. _ORDA: https://www.instagram.com/oficialesrollerderbyargentina
 
 - Teams:
 
-  - ?
+  - Chacabuco Roller Derby (Parque Chacabuco) 
+  - Facones Galácticos Roller Derby (Zona Norte Buenos Aires)
+  - Rayo Naranja (Tucumán)
 
 Event starts: 1000 Saturday
 
