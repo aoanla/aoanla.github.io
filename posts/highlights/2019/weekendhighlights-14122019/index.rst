@@ -331,6 +331,24 @@ Event starts: 1600 Saturday
 
 Venue: Valsheimili, Reykjavík, Iceland
 
+Fri: San Miguel de Tucumán, Tucumán, Argentina
+-----------------------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/819432035143800/
+
+`Independencia Roller Derby`_ host a fundraising event in order to raise money to repair their track!
+
+As well as the headline bout, featuring skaters from across Argentina, there will be live music from local bands Tourquiza, Los Papachos, Gus Lezcano, Critical Haze and The Innocent Boy, and Antifa Crew, as well as many stalls and other entertainments.
+
+.. _Independencia Roller Derby: https://www.instagram.com/independencia.rd
+
+- Gatitos versus Dinosaurios [mixed open subs bout]
+
+Event starts: 1500 Friday
+
+Venue: Complejo Deportivo General Belgrano, San Miguel de Tucumán, Tucumán, Argentina
 
 Sat-Sun: Bariloche, Argentina
 -----------------------------------------------
