@@ -88,23 +88,6 @@ Event starts: 1200 Saturday
 Venue: Turner Fitness Gym, Camp Humphreys, 83-2 Dodu-ri, Paengseong-eup, Pyeongtaek-si, Gyeonggi-do, South Korea
 
 
-Thurs: Norrköping, Sweden
---------------------------------
-
-`[FACEBOOK LINK]`__
-
-.. __: https://www.facebook.com/events/366158644185384/
-
-`Norrköping Roller Derby`_ host their last event of the season, as There's Snow Place Like Home sees festive teams formed from their A, B and C rosters on track together.
-
-.. _Norrköping Roller Derby: http://norrkopingrollerderby.se/
-
-- Festive mashup teams game
-
-Event starts: 1930 Thursday
-
-Venue: Ektorpshallen, Trestegsgatan 4, 603 73 Norrköping, Sweden
-
 Sat: Gothenburg, Sweden
 -----------------------------------------------
 
