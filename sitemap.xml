@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2019-12-10T10:36:00Z</lastmod>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -175,7 +175,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/</loc>
-  <lastmod>2019-12-10T10:36:00Z</lastmod>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/2011-blood-thunder-roller-derby-world-cup/</loc>
@@ -296,6 +296,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/announcements/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/announcer/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/announcers/</loc>
@@ -772,6 +776,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/co-ed-roller-derby/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/coach/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/coaches/</loc>
@@ -1398,6 +1406,10 @@
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/hall-of-fame/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/hallam-hellcats-roller-derby/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
@@ -1714,6 +1726,10 @@
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/league/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/leeds-roller-derby/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
@@ -1832,6 +1848,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/mean-city/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/media/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/men-behaving-derby/</loc>
@@ -2078,6 +2098,14 @@
   <lastmod>2019-11-22T09:46:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/non-regulation-tournament/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/non-skating-official/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/norfolk-brawds/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
@@ -2226,6 +2254,10 @@
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/photographer/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/pictures/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
@@ -2342,6 +2374,10 @@
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/referee/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/refereeing-clinic/</loc>
   <lastmod>2019-11-18T19:32:00Z</lastmod>
  </url>
@@ -2388,6 +2424,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/riga-roller-derby/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/rising-star/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/rising-stars/</loc>
@@ -2616,6 +2656,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/skatefast-club/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/skater/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/skating/</loc>
@@ -3306,8 +3350,16 @@
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/volunteer/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/voodoo-roller-dollies/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/votes/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/vratislavia-madchix/</loc>
@@ -3834,7 +3886,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-100.html</loc>
-  <lastmod>2019-12-10T10:36:00Z</lastmod>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-11.html</loc>
@@ -4399,12 +4451,68 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/" />
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/listings/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-announcer-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-bootcamp-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-coach-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-halloffame-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-league-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-media-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-nonregtournament-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-nso-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-photographer-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-referee-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-risingstar-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-skater-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-tournament-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/pages/2019/srdbawards-volunteer-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/pages/about/</loc>
@@ -8182,8 +8290,8 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="it" href="https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="it" href="https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/" />
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/UKRDANeedYou2019/</loc>
@@ -8256,6 +8364,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/11/srdbawards-nom-2019/</loc>
   <lastmod>2019-11-21T16:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/2019/12/srdbawards-hub-2019/</loc>
+  <lastmod>2019-12-11T11:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2561/</loc>
