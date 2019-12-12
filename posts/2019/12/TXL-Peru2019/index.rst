@@ -1,6 +1,6 @@
 .. title: Toxic Lima: Roller Derby in Peru 2019
 .. slug: TXL-Peru2019
-.. date: 2019-12-12 20:00:00 UTC+01:00
+.. date: 2019-12-13 20:00:00 UTC+01:00
 .. tags: peruvian roller derby, toxic lima roller derby
 .. category:
 .. link:

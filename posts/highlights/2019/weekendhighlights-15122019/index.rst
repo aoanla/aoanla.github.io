@@ -182,7 +182,7 @@ Event starts: 1400 Sunday
 
 Venue: Craigswood Sports Centre, Livingston, West Lothian, Scotland
 
-Sun: Grangemouth, Scotland
+Sun: Grangemouth, Scotland [CANCELLED]
 -----------------------------------------------
 
 `[FACEBOOK LINK]`__
@@ -190,6 +190,8 @@ Sun: Grangemouth, Scotland
 .. __: https://www.facebook.com/events/392333374812929/
 
 `Power of Scotland`_ are offering an opportunity to practice with them for their last training session of the year. This session, as with all of their Sunday training sessions, includes a full-length scrimmage. The session is open to 18+, MRDA-gender policy aligned skaters - minimum-skills required, experience recommended.
+
+This is CANCELLED due to low numbers as of Wednesday. :(
 
 .. _Power of Scotland: https://www.instagram.com/powerofscotland
 

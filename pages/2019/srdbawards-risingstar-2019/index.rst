@@ -54,17 +54,13 @@ Nominee: Cal-Amity [Rollerstop Juniors, ex Fierce Valley Roller Cubs]
 She's shown a serious commitment to training for Team GB and making friendships with juniors and building relationships with teams down South which hopefully will benefit all the Junior teams in Scotland with regards to future games. She shows leadership in her own team, actively passing on advice and things she has learned to her teammates. She has also been featured in the Scottish Roller Derby blog as a joint interview with myself (her sister) on their views on Jnr derby, what they hope for the future and their own ambition.
 Currently Team GB has not made their team known, 2nd round of try outs are on the 30th Nov, I do not know of the team announcement will be out before nominations close, but I feel that after 5 years fully committed to junior roller derby in Scotland, going through the folding of the FVRC and still sticking with it, she deserves a nomination." *Note: Cal-Amity did make the Team GB Roster after this nomination was made.*
 
-Nominee: Deady Bear
-====================================
 
-"Always tries never givers up and trains with adults to push her skills further"
-
-Nominee: Madison Thomas [Lincolnshire Bombinos]
-=================================================
+Nominee: Madison Thomas (Deady Bear) [Lincolnshire Bombinos]
+=============================================================
 
 "At only 16 she is now training with the adult team as well as with the juniors. She has so much fight and determination and will always take the star, and annoyingly right now has out grown the juniors but can't play in adult games for another 2 years.
 The Lincolnshire Bombinos are proud of her and now the Lincolnshire Bombers get to see how awesome she is too.
-I nominate her as she deserves recognition for still putting 100% in knowing she can't play an adult game yet. But watch out for when she does!"
+I nominate her as she deserves recognition for still putting 100% in knowing she can't play an adult game yet. But watch out for when she does! Always tries never givers up and trains with adults to push her skills further."
 
 Nominee: red rOWEch (Owen Squires) [Newcastle Junior Roller Derby (Australia)]
 ===================================================================================

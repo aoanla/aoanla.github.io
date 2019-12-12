@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 14 Dec 2019
 .. slug: weekendhighlights-14122019
 .. date: 2019-12-09 20:26:00 UTC+00:00
-.. tags: weekend highlights, french roller derby, swedish roller derby, new zealand roller derby, australian roller derby, korean roller derby, swiss roller derby, belgian roller derby, spanish roller derby, british roller derby, icelandic roller derby, argentine roller derby, open scrimmage
+.. tags: weekend highlights, french roller derby, swedish roller derby, new zealand roller derby, australian roller derby, korean roller derby, swiss roller derby, belgian roller derby, spanish roller derby, british roller derby, icelandic roller derby, argentine roller derby, open scrimmage, japanese roller derby
 .. category:
 .. link:
 .. description:
@@ -66,6 +66,25 @@ Event starts: 1230 Saturday
 
 Venue: Truscott Reserve, Murdock St, Bendigo, VIC, Australia
 
+Fri: Tokyo, Japan
+-----------------------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+
+.. __: https://www.facebook.com/NRMonsters/photos/a.1042517289111942/2831180263578960/?type=3
+
+
+The Derby Night group are hosting another event, which we know about thanks to `Neon Roller Monsters`_ . This is a Christmas Scrimmage, with skaters from all Tokyo's teams playing together. This event is free admission for spectators.
+
+(Neon Roller Monsters have also recently rebranded and launched a striking new website. We'll be trying to catch up about this over the end of year period.)
+
+.. _Neon Roller Monsters: https://carou.work/neons/
+
+- Team Black versus Team White (Derby Night mixed Tokyo teams scrimmage)
+
+Event starts: 2130 Friday (doors open)
+
+Venue: Tokyo Dome Roller Skate Arena, 4F Bunkyo , Tokyo, Japan
 
 Sat: Camp Humphreys, Pyeongtaek, South Korea
 -----------------------------------------------
@@ -85,7 +104,7 @@ Sat: Camp Humphreys, Pyeongtaek, South Korea
 
 Event starts: 1200 Saturday
 
-Venue: Turner Fitness Gym, Camp Humphreys, 83-2 Dodu-ri, Paengseong-eup, Pyeongtaek-si, Gyeonggi-do, South Korea
+Venue: Collier Gym, Camp Humphreys, 83-2 Dodu-ri, Paengseong-eup, Pyeongtaek-si, Gyeonggi-do, South Korea
 
 
 Sat: Gothenburg, Sweden
