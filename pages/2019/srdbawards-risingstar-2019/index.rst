@@ -32,7 +32,7 @@ Everyone gets *a single submission* (with as many boxes ticked as they want); we
 Nominees for RISING STAR
 --------------------------
 
-Nominee: Ace of Sk8s (Manik Khaiya) [Rollerstop Juniors Team]
+Nominee: Ace of Sk8s (Manik Khadiya) [Rollerstop Juniors Team]
 ================================================================
 
 "Comes to training every week, gives 100% every week. Also made Team GB and follows instructions. Very hardworking."

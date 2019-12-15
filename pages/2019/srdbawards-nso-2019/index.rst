@@ -54,7 +54,7 @@ Nominee: Lou (Dundee Roller Derby)
 
 "An amazing NSO who was head NSO for her first game this year and dealt with difficult situations in a calm and professional manner. She also took great care of her crew."
 
-Nominee: Lizz Frizzle (Lyssa Wizks) (Warsaw Hellcats / Warsaw Hellbadgers)
+Nominee: Liz Frizzle (Lyssa Wizks) (Warsaw Hellcats / Warsaw Hellbadgers)
 ===============================================================================
 
 "For being at almost every game in Europe I've heard of. For amazing job she's doing with Warsaw Hellbadgers making them better every year. For organizing workouts and sessions for less experienced officials in Poland. Always being helpful and professional. For spreading good words about Warsaw Hellcats due to which we never have problems with completing officials crew for our events. For being amazing travel buddy, queen of puns and always have amazing hair! "
