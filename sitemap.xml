@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2019-12-11T11:15:00Z</lastmod>
+  <lastmod>2019-12-16T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -3886,7 +3886,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-100.html</loc>
-  <lastmod>2019-12-11T11:15:00Z</lastmod>
+  <lastmod>2019-12-16T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-11.html</loc>
@@ -4451,8 +4451,8 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="en" href="https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/listings/</loc>
@@ -8290,8 +8290,8 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="it" href="https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/UKRDANeedYou2019/</loc>
@@ -8552,6 +8552,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-20102027/</loc>
   <lastmod>2019-10-24T19:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-20192020/</loc>
+  <lastmod>2019-12-16T20:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/highlights/2019/weekendhighlights-21092019/</loc>
