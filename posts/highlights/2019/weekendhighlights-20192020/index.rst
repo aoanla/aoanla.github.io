@@ -286,10 +286,10 @@ Venue: Rectorado Unju, Avenida Bolivia 1239, San Salvador de Jujuy, Argentina
 Sun 22: Neuquén, Argentina
 -----------------------------------------------
 
-`[FACEBOOK LINK (flyer)]`__
+`[FACEBOOK LINK]`__
 `[INSTAGRAM LINK (flyer)]`__
 
-.. __: https://www.facebook.com/photo.php?fbid=1181651062224858&set=a.447067885683183&type=3
+.. __: https://www.facebook.com/events/765430343969771/
 .. __: https://www.instagram.com/p/B581cLqngck/
 
 `Barderas Insurrectas`_ host a double-header of games with open subscriptions to close out the year.
