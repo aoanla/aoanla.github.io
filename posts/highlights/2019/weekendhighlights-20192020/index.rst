@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 2019-2020 End of Year
 .. slug: weekendhighlights-20192020
 .. date: 2019-12-16 20:15:00 UTC+00:00
-.. tags: weekend highlights, french roller derby, swedish roller derby, british roller derby, belgian roller derby, argentine roller derby, icelandic roller derby, austrian roller derby, dutch roller derby, spanish roller derby, short track roller derby, open scrimmage, bootcamp
+.. tags: weekend highlights, french roller derby, swedish roller derby, british roller derby, belgian roller derby, argentine roller derby, icelandic roller derby, austrian roller derby, dutch roller derby, spanish roller derby, short track roller derby, open scrimmage, bootcamp, uae roller derby, emirati roller derby
 .. category:
 .. link:
 .. description:
@@ -42,6 +42,23 @@ Sat 21: Ballarat, VIC, Australia
 Event starts: 1000 Saturday (21 Dec)
 
 Venue: Doug Deans Sports Stadium, 16 Nandiriog Dr, Ballarat, VIC, Australia
+
+
+Sat 21: Al Quoz, Dubai, United Arab Emirates
+-----------------------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+
+.. __: https://www.instagram.com/p/B6KTXcgnKFr/
+
+`UAE Roller Derby`_ host another of their "Friends and Family" open scrimmages on the 21st, also open to spectators. This is a training session, but the following scrimmage is open.
+
+.. _UAE Roller Derby: https://www.instagram.com/uaerollerderby/
+
+
+Event starts: 1400 Saturday (21 Dec)
+
+Venue: Aktiv Nation, Al Quoz, Dubai, United Arab Emirates
 
 Thurs 19: Norrköping, Sweden
 -----------------------------------------------
