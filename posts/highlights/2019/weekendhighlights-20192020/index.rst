@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 2019-2020 End of Year
 .. slug: weekendhighlights-20192020
 .. date: 2019-12-16 20:15:00 UTC+00:00
-.. tags: weekend highlights, french roller derby, swedish roller derby, british roller derby, belgian roller derby, argentine roller derby, icelandic roller derby, austrian roller derby, dutch roller derby, spanish roller derby, short track roller derby, open scrimmage, bootcamp, uae roller derby, emirati roller derby
+.. tags: weekend highlights, french roller derby, swedish roller derby, british roller derby, belgian roller derby, argentine roller derby, icelandic roller derby, austrian roller derby, dutch roller derby, spanish roller derby, short track roller derby, open scrimmage, bootcamp, uae roller derby, emirati roller derb, chilean roller derbyy
 .. category:
 .. link:
 .. description:
@@ -319,6 +319,22 @@ Sun 22: Neuquén, Argentina
 Event starts: 1600 Sunday (22 Dec)
 
 Venue: Escuela de Enfermia, Neuquén, Argentina
+
+Wed 18: Temuco, Chile
+-----------------------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/NativasRD/photos/a.469710923100159/3255610071176883/?type=3
+
+
+`Nativas Roller Derby`_ host, at very late notice, an open public scrimmage on the 18th (Wed)
+
+.. _Nativas Roller Derby: https://www.instagram.com/rollerderbytemuco/
+
+Event starts: 1900 Wed (18 Dec)
+
+Venue: estadio Germán B, Av. Pablo Neruda 1110, Temuco, Chile
 
 =======
 
