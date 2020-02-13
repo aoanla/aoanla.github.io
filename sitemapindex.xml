@@ -107,7 +107,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/srd.xml</loc>
-  <lastmod>2020-01-01T11:32:00Z</lastmod>
+  <lastmod>2020-02-13T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/thejammingpony.xml</loc>
@@ -866,6 +866,10 @@
   <lastmod>2019-10-24T19:06:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/derby-drama.xml</loc>
+  <lastmod>2020-02-13T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/derby-life.xml</loc>
   <lastmod>2019-10-24T19:06:00Z</lastmod>
  </sitemap>
@@ -1220,6 +1224,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/fvrg.xml</loc>
   <lastmod>2019-10-24T19:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/games.xml</loc>
+  <lastmod>2020-02-13T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/gcb.xml</loc>
@@ -2134,6 +2142,10 @@
   <lastmod>2019-10-24T19:06:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/ohio-valley-roller-girls.xml</loc>
+  <lastmod>2020-02-13T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/okinawa-roller-derby.xml</loc>
   <lastmod>2019-10-24T19:06:00Z</lastmod>
  </sitemap>
@@ -2406,6 +2418,10 @@
   <lastmod>2019-10-24T19:06:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/role-playing-games.xml</loc>
+  <lastmod>2020-02-13T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/rolla-skate-club.xml</loc>
   <lastmod>2019-10-24T19:06:00Z</lastmod>
  </sitemap>
@@ -2471,7 +2487,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/roller-derby.xml</loc>
-  <lastmod>2019-10-24T19:06:00Z</lastmod>
+  <lastmod>2020-02-13T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/roller-grrrls.xml</loc>
@@ -3951,10 +3967,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2020-01-01T11:32:00Z</lastmod>
+  <lastmod>2020-02-13T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2020-01-01T11:32:00Z</lastmod>
+  <lastmod>2020-02-13T20:38:00Z</lastmod>
  </sitemap>
 </sitemapindex>
