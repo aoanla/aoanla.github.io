@@ -21,7 +21,7 @@ Since 2010, Perú has hosted Roller Derby in the form of its only league, `Toxic
 
 Perú, as with many of the countries of South America, has a strongly concentrated economy and population: the majority of both localised along the coastal region, and within that, concentrated mainly around their capital city, Lima, which is host to about a third of the total population! As such, it is unsurprising that, if Roller Derby is anywhere in Perú, it lives there.
 
-.. figure:: /images/2019/12/PERU_POP_byHuhsunqu_CCBYSA.webp
+.. figure:: /images/2019/12/PERU_POP_byHuhsunqu_CCBYSA.png
   :alt: Colour-coded map of Perú's regions, showing population density by darker reds. There is a box-out to zoom in on Lima. Together, the map shows that the coast has a much denser population than inland, and that Lima has a denser population than everywhere else in the country.
 
   Population density map of Perú [Image: Huhsunqu/Wikimedia Commons licensed CC\:BY-SA]
