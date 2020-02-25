@@ -107,7 +107,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/srd.xml</loc>
-  <lastmod>2020-02-13T20:38:00Z</lastmod>
+  <lastmod>2020-02-25T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/thejammingpony.xml</loc>
@@ -1679,7 +1679,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/latin-american-roller-derby.xml</loc>
-  <lastmod>2019-10-24T19:06:00Z</lastmod>
+  <lastmod>2020-02-25T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/ldd.xml</loc>
@@ -2224,6 +2224,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/patagonian-roller-derby.xml</loc>
   <lastmod>2019-10-24T19:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/peruvian-roller-derby.xml</loc>
+  <lastmod>2020-02-25T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/photographer.xml</loc>
@@ -2954,6 +2958,10 @@
   <lastmod>2019-10-24T19:06:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/team-peru.xml</loc>
+  <lastmod>2020-02-25T21:05:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-philippines-roller-derby.xml</loc>
   <lastmod>2019-10-24T19:06:00Z</lastmod>
  </sitemap>
@@ -3171,7 +3179,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/toxic-lima-roller-derby.xml</loc>
-  <lastmod>2019-10-24T19:06:00Z</lastmod>
+  <lastmod>2020-02-25T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/trackkarma.xml</loc>
@@ -3967,10 +3975,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2020-02-13T20:38:00Z</lastmod>
+  <lastmod>2020-02-25T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2020-02-13T20:38:00Z</lastmod>
+  <lastmod>2020-02-25T21:05:00Z</lastmod>
  </sitemap>
 </sitemapindex>
