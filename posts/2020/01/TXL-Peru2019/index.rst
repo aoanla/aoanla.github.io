@@ -44,10 +44,15 @@ Even getting to that point was hard, though, as assumptions in Perú about sport
 
 In common with most of Roller Derby outside of North America and Western Europe, there are still hard economic issues for Toxic Lima. Roller Skating isn't really a popular activity - especially on quad skates - so all Roller Derby kit is specialist equipment, needing import from the USA or Mexico. Given the average income in Perú, and the weakness of the Peruvian Sol, this is horrifically expensive. As such, Toxic Lima are one of many leagues to have had some support from `Derby without Borders`_ ' charitable efforts to support international roller derby.
 
-  Derby Without Borders contacted us 2 years ago, and it was awesome because they sent us things that we really need. It's hard to get kit, it makes [rookies] quit derby because they can't get kit fast or they don't have the money. We had help from 2x4, they transported the donations, and Barracuda, who was the president of TXL, went to Argentina because she had to work there and met up and brought the kit back. We appreciated that, because they helped bring us stuff - and it was heavy!
+  Derby Without Borders contacted us 2 years ago, and it was awesome because they sent us things that we really need. It's hard to get kit, it makes [rookies] quit derby because they can't get kit fast or they don't have the money. We had help from [Huevo @ Sailor City], they transported the donations, and Barracuda, who was the president of TXL, went to Argentina because she had to work there and met up and brought the kit back. We appreciated that, because they helped bring us stuff - and it was heavy!
 
 .. _Derby without Borders: https://derbywithoutborders.org
 
+.. figure:: /images/2020/02/HuevoTXL.jpg
+  :alt: Sailor City Rollers' Huevo with Derby Without Borders donation to Toxic Lima arrayed around her.
+
+  Sailor City Rollers' Huevo with Derby Without Borders donation to Toxic Lima arrayed around her.
+  
 On top of that, however, travel and space continue to be the biggest issues for Roller Derby in Lima. TXL have tried to foster the growth of the sport in other cities in Peru; helping one initiative in Arequipa (a city in the south of Perú), and a later one in the north of the country... but neither bore fruit in the end. Twerkin Pony is almost resigned to this situation,
 
    We were planning things with [our contact in Arequiba], but she just quit because there was no other support there, so it didn't happen. In Perú, everything just happens in Lima; it's the capital, other cities are much smaller, they're really agro-cities. They're not like Lima; there's a big difference in culture and education and economy between Lima and the other cities.
@@ -61,10 +66,6 @@ And, conversely, it also means that visiting coaches or teams are cherished for 
 
   Even if we have the difficulty of being alone in our country, we appreciate it so much when people come to visit us and teach us so many things.
 
-.. figure:: /images/2020/02/TXLGroupPhoto.jpeg
-  :alt: Group photo of Toxic Lima Roller Derby, lined up in arrow formation.
-
-  Toxic Lima Roller Derby (July 2018), taken in honour of their WFTDA Apprenticeship [Photo by: Lucia Yap (Copyright reserved)]
 
 In 2019, this would have culminated in TXL hosting their own Latin American tournament, but tragedy struck when the municipality responsible for their only training venue changed management, and decided that they would not be renewing their contract. Without a venue, it was obviously impossible to host a tournament - or even train effectively.
 
@@ -89,6 +90,11 @@ Toxic Lima are also WFTDA members, having been "auto-graduated" as part of cohor
   We've been working on [WFTDA membership] since late 2016, because we wanted to be Apprentices, so we did all the paperwork and meetings and things.  We travelled to Colombia to play Bogotá Bone Breakers for our graduation game in 2018: that was a big step for TXL. We went there with just 9 girls, and BX3 [had a full roster] so it was a hard game, but it was really fun, they were really really nice to us and taught us a lot... It was just after that that WFTDA paused the Apprentice program, and graduated everyone. It was [a surprise] we went there and had the game, and everything, but because WFTDA said that it wasn't going to be necessary...
 
   Since we graduated, we haven't been able to do much because of the rough months that we've had.
+
+.. figure:: /images/2020/02/TXLGroupPhoto.jpeg
+  :alt: Group photo of Toxic Lima Roller Derby, lined up in arrow formation.
+
+  Toxic Lima Roller Derby (July 2018), taken in honour of their WFTDA Apprenticeship [Photo by: Lucia Yap (Copyright reserved)]
 
 Of course, there's more to Roller Derby than just the skating and membership: there's also the culture and politics. Roller Derby's feminist, diverse and inclusive roots are still deeply important to TXL's members - and to our interviewee Twerkin Pony personally, too. All Latin American countries have complex relationships with their inherently diverse populations - depending upon the country, the relationship between the indigenous natives, descendants of Spanish and Portuguese settlers, and later incoming populations can be fraught. In the case of Perú, a majority of citizens identify as Mestizx, a category which acknowledges that they have a mix of native Peruvian and European-Spanish ancestry; the next largest category define as Quechua, the dominant cultural group amongst the original inhabitants of Peru.
 
