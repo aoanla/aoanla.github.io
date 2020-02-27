@@ -67,6 +67,20 @@ Another advantage of doing it Sevens style was that we could do it in one day, m
 
 Aalborg Roller derby also invited all Danish skaters and officials to a Bootcamp the next day. We came up with the idea because we wanted to include even more of the Derby people than just the ones getting to play or officiate the championship and it was a huge success with a lot of participants.
 
+---
+
+We talked to Raven, representing Roskilde Roller Derby to get their impression of the event, which was very positive.
+
+*As a whole, the event was really well run (Aalborg Combat Bullies are known to run amazing roller derby events), and for smaller teams (Roskilde included) it was great it was held in Sevens format. This way we had a chance to participate, without having to loan skaters from other leagues. We could train, build up to the event, and it made us feel even more like a team, to be preparing for it.*
+
+*It was also so great to meet old and new derby people from all over Denmark. It’s a small country, so almost everyone knows each other in some way, and the Derby spirit and love was all around*
+
+*The only thing [Roskilde] talked about we that we would change, was the seeding [which was based on FTS ratings]. Because we are only 7-9 skaters in some of the small leagues, we don’t get to play full games as a team [so] we will be in the bottom of the rankings, but it doesn’t reflect how well we play in a Sevens format.*
+
+*All in all we (in Roskilde) had an amazing time, great games, lots of fun and derby love!*
+
+---
+
 **What does it mean to Denmark, or you, or Aalborg, to have their own National Championships?**
 
 Denmark:
