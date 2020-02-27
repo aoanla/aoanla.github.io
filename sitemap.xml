@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.scottishrollerderbyblog.com/</loc>
-  <lastmod>2020-01-01T11:31:00Z</lastmod>
+  <lastmod>2020-02-27T12:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/2011/</loc>
@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2020-02-25T21:04:00Z</lastmod>
+  <lastmod>2020-02-27T12:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -3909,8 +3909,8 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="it" href="https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="en" href="https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="it" href="https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/" />
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/galleries/</loc>
@@ -3926,7 +3926,11 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-100.html</loc>
-  <lastmod>2020-02-25T21:04:00Z</lastmod>
+  <lastmod>2020-02-27T12:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/index-101.html</loc>
+  <lastmod>2020-02-27T12:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-11.html</loc>
@@ -8420,6 +8424,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2020/01/srdbawards-awards-2019/</loc>
   <lastmod>2019-12-26T08:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/2020/02/DanishChamps2020/</loc>
+  <lastmod>2020-02-25T21:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2020/02/DerbyDrama2020/</loc>
