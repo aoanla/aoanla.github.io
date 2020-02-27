@@ -96,7 +96,8 @@ Us:
 Aalborg:
   We have had a lot of PR on this including local radio host joining our practice. We hope that by hosting the championship it will make the citizens of Aalborg more aware of what roller derby can do for them. They can either get a fun action packed day by watching our games or get the full experience of hard physical work, challenge their minds with the strategies, have the greatest friends and the feeling of community if they join our league.
 
-**What was attendance like? **
+
+**What was attendance like?**
 
 It was great. We had a lot of officials, skaters volunteers, medics and vendors and we had 100+ spectators.
 There where quite a few spectators that we have not seen before at all, and also some attendees we know but this was first time they came to see a game.
