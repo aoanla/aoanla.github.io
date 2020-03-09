@@ -15,7 +15,7 @@ In 2020, though, we already have a very strong candidate, as Egypt's `CaiRollers
 .. _CaiRollers: https://cairollers.com
 .. _Golden City Rollers: https://www.goldencityrollers.com/
 
-As we've written about `previously`_, South African roller derby exists in its own geographical bubble, far from other nations; but the CaiRollers have had almost as much trouble finding regular opponents (despite being just across the Mediterranean from Greece, and not that far from Italy and Austria). After making history with the first MENA game (against Abu Dhabi Roller Derby in Janrary 2017), and playing Marseille's Bloody Skulls in mid 2017, the CaiRollers have had no other international opponents.
+As we've written about `previously`_, South African roller derby exists in its own geographical bubble, far from other nations; but the CaiRollers have had almost as much trouble finding regular opponents (despite being just across the Mediterranean from Greece, and not that far from Italy and Austria). After making history with the first MENA game (against Abu Dhabi Roller Derby in Janurary 2017), and playing Marseille's Bloody Skulls in mid 2017, the CaiRollers have had no other international opponents.
 
 .. _previously: https://scottishrollerderbyblog.com/posts/2019/06/rollerderby-za-2019/
 
