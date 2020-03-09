@@ -20,8 +20,7 @@ As a mathematician and physicist by training, I tend to think naturally of rules
 We can imagine, in this model, "Roller Derby" as a region in this space of all possible sporting rules. We have, as with Wittgenstein and "games", a bunch of examples of concrete rules which are
 definitely (or at least, strongly debatably) within this region, and I'd like to use comparison of their various differences to discuss what we can say about the range of possible rulesets which *could exist*.
 
-The rulesets I'm mostly going to be comparing to are: all WFTDA rulesets (from v1 through to 2019), the current JRDA rulesets, the USARS/World Skate rulesets, the RDCL rulesets, the Japanese Roller Game, Roller Derby Sevens, Sur5al, PivotStar rules,
-Short Track Roller Derby, and the German "Street Roller Derby" ruleset. I'll also sometimes point at variant rules which have only really been used as one-offs in experiments or fun bouts, mostly to establish limits to various changes.
+The rulesets I'm mostly going to be comparing to are: all WFTDA rulesets (from v1 through to 2019), the current JRDA rulesets, the USARS/World Skate rulesets, the RDCL rulesets, the Japanese Roller Game, Roller Derby Sevens, Sur5al, PivotStar rules, Short Track Roller Derby, and the German "Street Roller Derby" ruleset. I'll also sometimes point at variant rules which have only really been used as one-offs in experiments or fun bouts, mostly to establish limits to various changes. For the WFTDA rulesets I'll use numbers and symbols in parentheses after WFTDA to specify if I mean a particular subset - (YEAR) is that year's edition only, (YEAR+) is that year and later rulesets, (YEAR-) is that year and previous rulesets.
 
 Axioms
 =======
@@ -75,9 +74,9 @@ We could imagine longer or shorter "Sur5al variants" based on other Jam duration
 
 *What effect does changing Jam duration have?*
 
-Changing Jam duration has some obvious, and some not quite as obvious effects. Most directly, it determines the length of time that skaters (and skating officials!) must be physically exerting themselves, and mentally focused. Shorter jams allow for more intense bursts of activity and concentration; but can also make it harder for skaters to flip in-and-out of "focus mode".
-Conversely, lengthening the jam duration makes competition more of an endurance sport, but is simultaneously more tiring on referees, who must also focus for longer periods without a break.
-Slightly less obviously, longer jams (especially without call-offs, see below), reduce the amount of "luck" in the game -
+Changing Jam duration has some obvious, and some not quite as obvious effects. Most directly, it determines the length of time that skaters (and skating officials!) must be physically exerting themselves, and mentally focused. Shorter Jams allow for more intense bursts of activity and concentration; but can also make it harder for skaters to flip in-and-out of "focus mode".
+Conversely, lengthening the Jam duration makes competition more of an endurance sport, but is simultaneously more tiring on referees, who must also focus for longer periods without a break.
+Slightly less obviously, longer Jams (especially without call-offs, see below), reduce the amount of "luck" in the game (other than penalties) - if we consider a Jam as a series of measurements of how effectively the two Jammers can get through the pack [one measurement per pass], then having longer Jams gives more measurements, and therefore a better set of statistics (variance of the sample mean). Longer Jams without call-offs also allow *very* mismatched teams to avoid scoreless blowouts for the lower-rated team, by giving their Jammers more time to eventually break through the pack at all.
 
 Call-offs.
 ___________
@@ -260,12 +259,66 @@ Special Rules
 ---------------
 
 Exchange
+_________
+
+An unusual special rule, which we've seen used in a small number of "fun games", and is also a component of the recently publicised "`Roller Derby X`_", is *exchange*. Rather than having skaters assigned to the track for an entire jam, *exhange* allows them to "tap out", swapping with another skater on their roster, whilst the jam continues.
+
+.. _Roller Derby X:
+
+We'd expect rulesets implementing exchange to require more Officials than rulesets without, as the exchange process will require its own monitoring.
+
+Exchange also requires changes to
+
+Endurance..
 
 Alternate Direction
+_______________________
+
+Almost all revival rulesets on flat tracks inherit some version of the "tapered" track which appears in the earliest formalised versions of the rule. This tapered track implies a particular rotational direction - the tapers make it easier to corner when moving "derby direction", which is usually counter-clockwise.
+
+There is, of course, no reason why a particular ruleset needs to use "derby direction" as counter-clockwise - you could just mirror the track tapers and skate clockwise instead. Mirroring has no effect on the rules themselves, although skaters who have *trained* on an oppositely-handed track for years will themselves have an unevenness in development.
+
+If, instead, the track is made perfectly symmetric - removing the tapers on the straightaways so that they're just straight corridors - there is no longer an inherent bias towards a particular direction.
+Rulesets with a non-tapered track can therefore alternate direction of play between units of play.
+
+The only extant ruleset which does this is Short Track Roller Derby; the first period is played clockwise, and the second counter-clockwise. (The Short Track is also physically *smaller* than the WFTDA and other standard tracks, as well as being symmetric.)
+
+You can easily imagine rulesets which alternate direction every *jam*, although this would involve more potential error in tracking the orientation of play between jams. Alternating direction between *periods*, as in Short Track, adds almost no officiating overhead.
+
+The effect of alternating direction within a game is limited with respect to the gameplay itself. (Reality itself appears to have no bias between clockwise and anticlockwise motion, physically.) However, on a training level, alternating directions "evens out" the exercise bias which players are exposed to - leaving them more symmetrically developed, and potentially reducing long-term issues in development.
 
 Pivots
+___________
+
+Most revival rulesets include the third player type - the Pivot - who act as a Blocker usually, but have some Condition which allows them to replace the Jammer as the Active Scorer. (In all rulesets with this rule, the Jammer loses the ability to score once the Pivot has activated via this Condition.)
+
+In WFTDA-family rulesets, Pivots "activate" by physically receiving the Jammer's helmet cover (with a star on it).
+In USARS-family ruleset, Pivots "activate"
+
+There is no particular reason why a ruleset needs to allow Pivots, of course. Short Track Roller Derby does not have a Pivot position - skaters are either Blockers or Jammers.
+
+Rulesets with Pivots are harder to officiate; referees must be aware of the Active Scorer changing [and determine if the change itself was legal], and officials tracking lineup positions, and scoring data, must also be aware of these shifts.
+
+Tactically, rulesets with Pivots make it easier to get your scorer through the pack. (They do this both by giving the Jammer the opportunity to pass over their role; but also by forcing defensive play to pay attention to both the Pivot and Jammer positions, if the Conditions for Pivots to become active look likely.) For rulesets which allow the Lead Jammer to end a Jam early, this should have the effect of causing Jams to run slightly shorter (on average) than without a Pivot - the second Active Scorer is less likely to be held longer after the Lead Jammer gets out; it may not actually help the lower rated team to *score* more effectively, due to the call-offs themselves. For rulesets without call-offs, we'd expect scores to be slightly closer; although the effect of a Pivot change is most significant for only 1 pass in the Jam.
 
 Surfaces / Skates
+___________________
+
+The name "Roller Derby" implies some aspect of "Rolling"; but many leagues have also used variants of their favoured ruleset in which players wear no wheels on their feet. "Sock Derby" is the common name for this variant, which is usually used as a training tool to teach the tactics of "Roller Derby" to trainees whose ability to skate is still developing. However, there's no obvious reason why you couldn't play "Sock Derby" versions of any of the Rulesets in this article in a competitive mode.
+
+Moving from "skating" to "running" as the mode of locomotion would affect many things about the dynamic of the game (velocity and acceleration) and make blocking easier (because feet and shoes have better sliding resistance than roller skates), but the game would remain recognisable as in the same family as "Roller Derby."
+
+(There's a philosophical argument here as to if this is a sufficient change to stop the sport being a kind of "Roller Derby", but it is clearly very closely related.)
+
+Similarly, by analogy with the existence of both Roller Hockey and Ice Hockey, one can imagine an "Ice Derby" differing principally by being played on an ice rink, by players on ice skates. (Exactly one test of something like this is publicly known: ). Given the sharpness of ice skates, and the risk of serious injuries, we would expect a putative Ice Derby to require additional protective gear - similar to the gear worn in Ice Hockey.
+
+Despite the significant increase in injury risk, the other change to the dynamics of ice derby would be in blocking effectiveness. The sliding friction on ice for good ice skates is x compared to the rolling friction of quad skates y.
+
+Finally, there are Wheel-chair versions of many sports, including full-contact sports like Rugby. As Roller Derby is already played with the assumption of Rolling motion, one can imagine a "Wheelchair Derby" ruleset family being possible, with players all on contact-sport-compatible wheelchairs. This change would almost certainly require changes to the track dimensions - wheelchairs are wider than most people on roller skates - and additional alterations to the contact rules, as contact zones clearly do not map to competitors in chairs.
+
+In all of the above cases, we would expect that the officating load would remain almost the same as in the "Roller Derby" they are modified from.
+
+
 
 Unexplored Variants
 ===========================
