@@ -32,7 +32,9 @@ This has always been a collaborative effort between Golden City Rollers and the 
 
 This also makes this the first year that South Africa will host two tournaments with teams from across their own country: normally this happens just the once, in their end-of-year Derbyfest. As with Derbyfest last year, this will be a three-teams round-robin, followed by a "finals" playoff for the top two teams from that stage.
 
-We are assured that there will be a complete livestream for all games in the tournament schedule, although the link for this is yet to be distributed. (We'd keep an eye on GCR's `Facebook`_ event page for more info.)
+The entire tournament will be streamed on the GCR `YouTube`_ channel. (We'd keep an eye on GCR's `Facebook`_ event page for more info.)
+
+.. _YouTube: https://www.youtube.com/channel/UChpT56bZ-6bgrZL1slDXNVA
 
 .. _Facebook: https://www.facebook.com/events/228775404810943/
 

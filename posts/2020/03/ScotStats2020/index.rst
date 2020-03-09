@@ -1,4 +1,4 @@
-.. title: Statistics of Roller Derby in Scotland 2020
+git .. title: Statistics of Roller Derby in Scotland 2020
 .. slug: ScotStats2020
 .. date: 2020-03-30 08:30:00 UTC+01:00
 .. tags: scottish roller derby, surveys, statistics
