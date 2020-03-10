@@ -25,10 +25,14 @@ Whilst we can't predict the future, this will give the best guess of what teams 
 
 As well as attaining a minimum ranking, teams also need to play at least 4 bouts within the eligibility period (December 2019 to June 2029), and we'll be tracking their progress on this measure, too.
 
+.. TEASER_END
+
+
 The list, updated for this month: (# is number of bouts contributing to the ranking, whilst #El is the number of bouts contributing to their eligibility for playoffs). We'll :red:`colour` teams to indicate when they've played their minimum number of games for eligibility, but as yet, it's too early for anyone to have met this. We've eliminated any teams which have played less than 2 games since July 2019 here. Teams which have shifted rating (or entered the chart for the first time) since the last article are in **BOLD**
 
 .. csv-table:: The Road to Playoffs March 2020
   :header: Rk.,	Team,	Continental Cup,	#,	Points,	#El
+  :widths: 10,200,70,10,70,10
 
   1,Rose City Rollers,NA West,6,1577.26,0
   2,Victorian Roller Derby League,NA West,6,1231.78,0
