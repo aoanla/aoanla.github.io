@@ -3,7 +3,7 @@
  &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
  &lt;img alt="Creative Commons License BY-NC-SA"
  style="border-width:0; margin-bottom:12px;"
- src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Tue, 10 Mar 2020 12:47:35 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Guest Series: "The Road To Playoffs - March 2020 edition"</title><link>https://www.scottishrollerderbyblog.com/posts/2020/03/guest-series-the-road-to-playoffs-march-2020-edition/</link><dc:creator>SRD</dc:creator><description>&lt;div&gt;&lt;p&gt;Last year, we ran a series of "&lt;a class="reference external" href="https://www.scottishrollerderbyblog.com/categories/road-to-playoffs/"&gt;Road To Playoffs&lt;/a&gt;" posts, providing an alternative view of the WFTDA Rankings as a way to predict which teams are likely to make Playoffs. We're happy with how this went, so we're going ahead with the same plan this year...&lt;/p&gt;
+ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Tue, 10 Mar 2020 13:15:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Guest Series: "The Road To Playoffs - March 2020 edition"</title><link>https://www.scottishrollerderbyblog.com/posts/2020/03/guest-series-the-road-to-playoffs-march-2020-edition/</link><dc:creator>SRD</dc:creator><description>&lt;div&gt;&lt;p&gt;Last year, we ran a series of "&lt;a class="reference external" href="https://www.scottishrollerderbyblog.com/categories/road-to-playoffs/"&gt;Road To Playoffs&lt;/a&gt;" posts, providing an alternative view of the WFTDA Rankings as a way to predict which teams are likely to make Playoffs. We're happy with how this went, so we're going ahead with the same plan this year...&lt;/p&gt;
 &lt;p&gt;Speedy Convalesce, one of the two primary Derby Scoreboard Developers, and founder of the Star Track "league without skaters" in Germany, has recalculated the &lt;a class="reference external" href="https://stats.wftda.com/rankings?r=2986"&gt;ratings&lt;/a&gt; for every team in WFTDA - as if their rating was calculated at &lt;strong&gt;June 30th 2020&lt;/strong&gt; [the ranking which will be used to decide Qualifications and seedings into both WFTDA Playoffs, and the Continental Cups].. (Aficionados of the WFTDA rating will know that it applies a "decay factor" to older games, which is what we're tweaking here.) This helps to give a feel for how important the games each team has played in the season are, so far.&lt;/p&gt;
 &lt;div class="figure"&gt;
 &lt;img alt="All the locations with teams in our top 100 (larger stars mean more than one team is in the list in that location)" src="https://www.scottishrollerderbyblog.com/images/2020/03/RoadToPlayoffs-100320.png"&gt;
@@ -15,13 +15,12 @@
 &lt;table border="1" class="docutils"&gt;
 &lt;caption&gt;The Road to Playoffs March 2020&lt;/caption&gt;
 &lt;colgroup&gt;
-&lt;col width="14%"&gt;
-&lt;col width="14%"&gt;
-&lt;col width="14%"&gt;
-&lt;col width="14%"&gt;
-&lt;col width="14%"&gt;
-&lt;col width="14%"&gt;
-&lt;col width="14%"&gt;
+&lt;col width="17%"&gt;
+&lt;col width="17%"&gt;
+&lt;col width="17%"&gt;
+&lt;col width="17%"&gt;
+&lt;col width="17%"&gt;
+&lt;col width="17%"&gt;
 &lt;/colgroup&gt;
 &lt;thead valign="bottom"&gt;
 &lt;tr&gt;&lt;th class="head"&gt;Rk.&lt;/th&gt;
@@ -30,7 +29,6 @@
 &lt;th class="head"&gt;#&lt;/th&gt;
 &lt;th class="head"&gt;Points&lt;/th&gt;
 &lt;th class="head"&gt;#El&lt;/th&gt;
-&lt;th class="head"&gt; &lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody valign="top"&gt;
@@ -40,7 +38,6 @@
 &lt;td&gt;6&lt;/td&gt;
 &lt;td&gt;1577.26&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;Victorian Roller Derby League&lt;/td&gt;
@@ -48,7 +45,6 @@
 &lt;td&gt;6&lt;/td&gt;
 &lt;td&gt;1231.78&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;Denver Roller Derby&lt;/td&gt;
@@ -56,7 +52,6 @@
 &lt;td&gt;9&lt;/td&gt;
 &lt;td&gt;1183.03&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;Arch Rival Roller Derby&lt;/td&gt;
@@ -64,7 +59,6 @@
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;1151.78&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;Gotham Girls Roller Derby&lt;/td&gt;
@@ -72,7 +66,6 @@
 &lt;td&gt;7&lt;/td&gt;
 &lt;td&gt;1063.68&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;6&lt;/td&gt;
 &lt;td&gt;Angel City Derby&lt;/td&gt;
@@ -80,7 +73,6 @@
 &lt;td&gt;7&lt;/td&gt;
 &lt;td&gt;949.15&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;7&lt;/td&gt;
 &lt;td&gt;Montréal Roller Derby&lt;/td&gt;
@@ -88,7 +80,6 @@
 &lt;td&gt;7&lt;/td&gt;
 &lt;td&gt;929.18&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;8&lt;/td&gt;
 &lt;td&gt;Philly Roller Derby&lt;/td&gt;
@@ -96,7 +87,6 @@
 &lt;td&gt;6&lt;/td&gt;
 &lt;td&gt;841.42&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;9&lt;/td&gt;
 &lt;td&gt;Texas Rollergirls&lt;/td&gt;
@@ -104,7 +94,6 @@
 &lt;td&gt;6&lt;/td&gt;
 &lt;td&gt;837.47&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;10&lt;/td&gt;
 &lt;td&gt;Helsinki Roller Derby&lt;/td&gt;
@@ -112,7 +101,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;763.06&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;11&lt;/td&gt;
 &lt;td&gt;Atlanta Roller Derby&lt;/td&gt;
@@ -120,7 +108,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;758.73&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;12&lt;/td&gt;
 &lt;td&gt;Jacksonville Rollergirls&lt;/td&gt;
@@ -128,7 +115,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;758.59&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;13&lt;/td&gt;
 &lt;td&gt;2x4 Roller Derby&lt;/td&gt;
@@ -136,7 +122,6 @@
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;752.46&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;14&lt;/td&gt;
 &lt;td&gt;Rainy City Roller Derby&lt;/td&gt;
@@ -144,7 +129,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;688.07&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;15&lt;/td&gt;
 &lt;td&gt;Crime City Rollers&lt;/td&gt;
@@ -152,7 +136,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;679.1&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;16&lt;/td&gt;
 &lt;td&gt;London Roller Derby&lt;/td&gt;
@@ -160,7 +143,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;663.17&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;17&lt;/td&gt;
 &lt;td&gt;Rat City Roller Derby&lt;/td&gt;
@@ -168,7 +150,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;660.98&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;18&lt;/td&gt;
 &lt;td&gt;Queen City Roller Girls&lt;/td&gt;
@@ -176,7 +157,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;644.31&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;19&lt;/td&gt;
 &lt;td&gt;Sailor City Rollers&lt;/td&gt;
@@ -184,7 +164,6 @@
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;627.87&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;20&lt;/td&gt;
 &lt;td&gt;Santa Cruz Derby Girls&lt;/td&gt;
@@ -192,7 +171,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;627.64&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;21&lt;/td&gt;
 &lt;td&gt;Bay Area Derby&lt;/td&gt;
@@ -200,7 +178,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;617.76&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;22&lt;/td&gt;
 &lt;td&gt;Windy City Rollers&lt;/td&gt;
@@ -208,7 +185,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;601.27&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;23&lt;/td&gt;
 &lt;td&gt;Sun State Roller Derby&lt;/td&gt;
@@ -216,7 +192,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;590.71&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;24&lt;/td&gt;
 &lt;td&gt;Paris Rollergirls&lt;/td&gt;
@@ -224,7 +199,6 @@
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;579.35&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;25&lt;/td&gt;
 &lt;td&gt;Bear City Roller Derby&lt;/td&gt;
@@ -232,7 +206,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;571.41&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;26&lt;/td&gt;
 &lt;td&gt;Arizona Roller Derby&lt;/td&gt;
@@ -240,7 +213,6 @@
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;561.71&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;27&lt;/td&gt;
 &lt;td&gt;Ann Arbor Roller Derby&lt;/td&gt;
@@ -248,7 +220,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;539.64&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;28&lt;/td&gt;
 &lt;td&gt;Calgary Roller Derby&lt;/td&gt;
@@ -256,7 +227,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;539.02&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;29&lt;/td&gt;
 &lt;td&gt;Detroit Roller Derby&lt;/td&gt;
@@ -264,7 +234,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;533.81&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;Boston Roller Derby&lt;/td&gt;
@@ -272,7 +241,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;527.58&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;31&lt;/td&gt;
 &lt;td&gt;Antwerp Roller Derby&lt;/td&gt;
@@ -280,7 +248,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;512.71&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;32&lt;/td&gt;
 &lt;td&gt;Tampa Roller Derby&lt;/td&gt;
@@ -288,7 +255,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;495.96&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;33&lt;/td&gt;
 &lt;td&gt;Dock City Rollers&lt;/td&gt;
@@ -296,7 +262,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;491&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;34&lt;/td&gt;
 &lt;td&gt;Lomme Roller Girls&lt;/td&gt;
@@ -304,7 +269,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;488.7&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;35&lt;/td&gt;
 &lt;td&gt;Tiger Bay Brawlers&lt;/td&gt;
@@ -312,7 +276,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;485.96&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;36&lt;/td&gt;
 &lt;td&gt;Minnesota Roller Derby&lt;/td&gt;
@@ -320,7 +283,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;479.46&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;37&lt;/td&gt;
 &lt;td&gt;Des Moines Roller Derby&lt;/td&gt;
@@ -328,7 +290,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;477.49&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;38&lt;/td&gt;
 &lt;td&gt;E-Ville Roller Derby&lt;/td&gt;
@@ -336,7 +297,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;475.81&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;39&lt;/td&gt;
 &lt;td&gt;Stockholm Roller Derby&lt;/td&gt;
@@ -344,7 +304,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;456.59&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;40&lt;/td&gt;
 &lt;td&gt;Kallio Rolling Rainbow&lt;/td&gt;
@@ -352,7 +311,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;445.89&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;41&lt;/td&gt;
 &lt;td&gt;Rocky Mountain Rollergirls&lt;/td&gt;
@@ -360,7 +318,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;428.75&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;42&lt;/td&gt;
 &lt;td&gt;Blue Ridge Rollergirls&lt;/td&gt;
@@ -368,7 +325,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;428.14&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;43&lt;/td&gt;
 &lt;td&gt;Happy Valley Derby Darlins&lt;/td&gt;
@@ -376,7 +332,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;422.67&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;44&lt;/td&gt;
 &lt;td&gt;Central City Roller Derby&lt;/td&gt;
@@ -384,7 +339,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;417.08&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;45&lt;/td&gt;
 &lt;td&gt;Adelaide Roller Derby&lt;/td&gt;
@@ -392,7 +346,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;412.67&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;46&lt;/td&gt;
 &lt;td&gt;Auld Reekie Roller Derby&lt;/td&gt;
@@ -400,7 +353,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;406.87&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;47&lt;/td&gt;
 &lt;td&gt;Dublin Roller Derby&lt;/td&gt;
@@ -408,7 +360,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;406.49&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;48&lt;/td&gt;
 &lt;td&gt;Perth Roller Derby&lt;/td&gt;
@@ -416,7 +367,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;402.18&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;49&lt;/td&gt;
 &lt;td&gt;Ohio Roller Derby&lt;/td&gt;
@@ -424,7 +374,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;397.2&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;50&lt;/td&gt;
 &lt;td&gt;North Star Roller Derby&lt;/td&gt;
@@ -432,7 +381,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;396.25&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;51&lt;/td&gt;
 &lt;td&gt;Naptown Roller Derby&lt;/td&gt;
@@ -440,7 +388,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;392.4&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;52&lt;/td&gt;
 &lt;td&gt;Red Stick Roller Derby&lt;/td&gt;
@@ -448,7 +395,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;388.69&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;53&lt;/td&gt;
 &lt;td&gt;Tri-City Roller Derby&lt;/td&gt;
@@ -456,7 +402,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;385.34&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;54&lt;/td&gt;
 &lt;td&gt;Jet City Roller Derby&lt;/td&gt;
@@ -464,7 +409,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;383.07&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;55&lt;/td&gt;
 &lt;td&gt;Madison Roller Derby&lt;/td&gt;
@@ -472,7 +416,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;369.59&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;56&lt;/td&gt;
 &lt;td&gt;Columbia Roller Derby&lt;/td&gt;
@@ -480,7 +423,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;369.25&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;57&lt;/td&gt;
 &lt;td&gt;Roller Derby Madrid&lt;/td&gt;
@@ -488,7 +430,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;362.05&lt;/td&gt;
 &lt;td&gt;3&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;58&lt;/td&gt;
 &lt;td&gt;Amsterdam Roller Derby&lt;/td&gt;
@@ -496,7 +437,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;359.89&lt;/td&gt;
 &lt;td&gt;3&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;59&lt;/td&gt;
 &lt;td&gt;Sacramento Roller Derby&lt;/td&gt;
@@ -504,7 +444,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;354.58&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;60&lt;/td&gt;
 &lt;td&gt;Gem City Roller Derby&lt;/td&gt;
@@ -512,7 +451,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;340.8&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;61&lt;/td&gt;
 &lt;td&gt;Toronto Roller Derby&lt;/td&gt;
@@ -520,7 +458,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;336.12&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;62&lt;/td&gt;
 &lt;td&gt;Pirate City Rollers&lt;/td&gt;
@@ -528,7 +465,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;303.74&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;63&lt;/td&gt;
 &lt;td&gt;Brussels Derby Pixies&lt;/td&gt;
@@ -536,7 +472,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;278.85&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;64&lt;/td&gt;
 &lt;td&gt;Rebellion Roller Derby&lt;/td&gt;
@@ -544,7 +479,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;269.33&lt;/td&gt;
 &lt;td&gt;3&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;65&lt;/td&gt;
 &lt;td&gt;West Virginia Roller Derby&lt;/td&gt;
@@ -552,7 +486,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;261.89&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;66&lt;/td&gt;
 &lt;td&gt;Chattanooga Roller Girls&lt;/td&gt;
@@ -560,7 +493,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;260.36&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;67&lt;/td&gt;
 &lt;td&gt;Wasatch Roller Derby&lt;/td&gt;
@@ -568,7 +500,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;256.05&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;68&lt;/td&gt;
 &lt;td&gt;V-Town Derby Dames&lt;/td&gt;
@@ -576,7 +507,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;254.62&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;69&lt;/td&gt;
 &lt;td&gt;Dead End Derby&lt;/td&gt;
@@ -584,7 +514,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;252.42&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;70&lt;/td&gt;
 &lt;td&gt;Nantes Derby Girls&lt;/td&gt;
@@ -592,7 +521,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;252.22&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;71&lt;/td&gt;
 &lt;td&gt;Humboldt Roller Derby&lt;/td&gt;
@@ -600,7 +528,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;242.92&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;72&lt;/td&gt;
 &lt;td&gt;Pikes Peak Derby Dames&lt;/td&gt;
@@ -608,7 +535,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;239.86&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;73&lt;/td&gt;
 &lt;td&gt;Nashville Roller Derby&lt;/td&gt;
@@ -616,7 +542,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;229.97&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;74&lt;/td&gt;
 &lt;td&gt;Cherry City Roller Derby&lt;/td&gt;
@@ -624,7 +549,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;225.87&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;75&lt;/td&gt;
 &lt;td&gt;Bellingham Roller Betties&lt;/td&gt;
@@ -632,7 +556,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;219.34&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;76&lt;/td&gt;
 &lt;td&gt;Richter City Roller Derby&lt;/td&gt;
@@ -640,7 +563,6 @@
 &lt;td&gt;6&lt;/td&gt;
 &lt;td&gt;210.11&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;77&lt;/td&gt;
 &lt;td&gt;SoCal Derby&lt;/td&gt;
@@ -648,7 +570,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;207.07&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;78&lt;/td&gt;
 &lt;td&gt;Whakatane Roller Derby&lt;/td&gt;
@@ -656,7 +577,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;206.99&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;79&lt;/td&gt;
 &lt;td&gt;Namur Roller Girls&lt;/td&gt;
@@ -664,7 +584,6 @@
 &lt;td&gt;9&lt;/td&gt;
 &lt;td&gt;206.28&lt;/td&gt;
 &lt;td&gt;3&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;80&lt;/td&gt;
 &lt;td&gt;Dockyard Derby Dames&lt;/td&gt;
@@ -672,7 +591,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;203.28&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;81&lt;/td&gt;
 &lt;td&gt;Cape Fear Roller Girls&lt;/td&gt;
@@ -680,7 +598,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;203.22&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;82&lt;/td&gt;
 &lt;td&gt;San Fernando Valley Roller Derby&lt;/td&gt;
@@ -688,7 +605,6 @@
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;199.24&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;83&lt;/td&gt;
 &lt;td&gt;Gorge Roller Derby&lt;/td&gt;
@@ -696,7 +612,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;196.98&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;84&lt;/td&gt;
 &lt;td&gt;Newcastle Roller Derby (UK)&lt;/td&gt;
@@ -704,7 +619,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;193.14&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;85&lt;/td&gt;
 &lt;td&gt;Dunedin Derby&lt;/td&gt;
@@ -712,7 +626,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;182.01&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;86&lt;/td&gt;
 &lt;td&gt;Norrköping Roller Derby&lt;/td&gt;
@@ -720,7 +633,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;181.63&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;87&lt;/td&gt;
 &lt;td&gt;Vette City Roller Derby&lt;/td&gt;
@@ -728,7 +640,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;176.29&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;88&lt;/td&gt;
 &lt;td&gt;Flint Roller Derby&lt;/td&gt;
@@ -736,7 +647,6 @@
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;174.83&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;89&lt;/td&gt;
 &lt;td&gt;Rockin' City Rollergirls&lt;/td&gt;
@@ -744,7 +654,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;174.6&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;90&lt;/td&gt;
 &lt;td&gt;Bradentucky Bombers&lt;/td&gt;
@@ -752,7 +661,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;174.12&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;91&lt;/td&gt;
 &lt;td&gt;Coastal Assassins Roller Derby&lt;/td&gt;
@@ -760,7 +668,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;173&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;92&lt;/td&gt;
 &lt;td&gt;Muddy River Rollers&lt;/td&gt;
@@ -768,7 +675,6 @@
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;164.1&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;93&lt;/td&gt;
 &lt;td&gt;Melbourne Northside Rollers&lt;/td&gt;
@@ -776,7 +682,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;162.25&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;94&lt;/td&gt;
 &lt;td&gt;Cornfed Derby Dames&lt;/td&gt;
@@ -784,7 +689,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;161.85&lt;/td&gt;
 &lt;td&gt;3&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;95&lt;/td&gt;
 &lt;td&gt;Zürich City Roller Derby&lt;/td&gt;
@@ -792,7 +696,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;160.66&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;96&lt;/td&gt;
 &lt;td&gt;Akron Roller Derby&lt;/td&gt;
@@ -800,7 +703,6 @@
 &lt;td&gt;4&lt;/td&gt;
 &lt;td&gt;155.84&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;97&lt;/td&gt;
 &lt;td&gt;Bakersfield Diamond Divas&lt;/td&gt;
@@ -808,7 +710,6 @@
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;155.16&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;98&lt;/td&gt;
 &lt;td&gt;Bux-Mont Roller Derby Dolls&lt;/td&gt;
@@ -816,7 +717,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;154.53&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;99&lt;/td&gt;
 &lt;td&gt;Vicenza Roller Derby&lt;/td&gt;
@@ -824,7 +724,6 @@
 &lt;td&gt;3&lt;/td&gt;
 &lt;td&gt;152.62&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;100&lt;/td&gt;
 &lt;td&gt;Convict City Rollers&lt;/td&gt;
@@ -832,7 +731,6 @@
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;152.37&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
