@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2020-03-10T12:36:00Z</lastmod>
+  <lastmod>2020-03-11T12:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -179,7 +179,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/</loc>
-  <lastmod>2020-03-10T10:42:00Z</lastmod>
+  <lastmod>2020-03-11T12:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/2011-blood-thunder-roller-derby-world-cup/</loc>
@@ -964,6 +964,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/derbyfest/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/derbystatseu/</loc>
+  <lastmod>2020-03-11T12:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/desalmadas/</loc>
@@ -2096,6 +2100,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/new-zealand-roller-derby/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/newcastle-roller-derby/</loc>
+  <lastmod>2020-03-11T12:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/newcastle-roller-girls/</loc>
@@ -3938,7 +3946,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-101.html</loc>
-  <lastmod>2020-03-10T12:47:00Z</lastmod>
+  <lastmod>2020-03-11T12:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-11.html</loc>
@@ -8342,8 +8350,8 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="it" href="https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="it" href="https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/" />
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/UKRDANeedYou2019/</loc>
@@ -8444,6 +8452,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2020/03/AfricanGoodTimePre/</loc>
   <lastmod>2020-03-10T10:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/2020/03/EuroClash2020/</loc>
+  <lastmod>2020-03-10T10:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2020/03/guest-series-the-road-to-playoffs-march-2020-edition/</loc>
