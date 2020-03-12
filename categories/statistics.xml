@@ -3,7 +3,15 @@
  &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
  &lt;img alt="Creative Commons License BY-NC-SA"
  style="border-width:0; margin-bottom:12px;"
- src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Tue, 10 Mar 2020 13:21:35 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Guest Series: "The Road To Playoffs - March 2020 edition"</title><link>https://www.scottishrollerderbyblog.com/posts/2020/03/guest-series-the-road-to-playoffs-march-2020-edition/</link><dc:creator>SRD</dc:creator><description>&lt;div&gt;&lt;p&gt;Last year, we ran a series of "&lt;a class="reference external" href="https://www.scottishrollerderbyblog.com/categories/road-to-playoffs/"&gt;Road To Playoffs&lt;/a&gt;" posts, providing an alternative view of the WFTDA Rankings as a way to predict which teams are likely to make Playoffs. We're happy with how this went, so we're going ahead with the same plan this year...&lt;/p&gt;
+ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Thu, 12 Mar 2020 09:39:30 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>COVID-19 and Roller Derby</title><link>https://www.scottishrollerderbyblog.com/posts/2020/03/COVID19/</link><dc:creator>SRD</dc:creator><description>&lt;div&gt;&lt;p&gt;It's hard not to be aware of the effect that the SARS-CoV-2 pandemic is causing on all human activity, globally, and Roller Derby is not exempt. COVID-19, the disease caused by
+SARS-CoV-2, is stretching the health services of several nations. In order to control its spread, an increasing number of internal and external travel and gathering restrictions are being applied.&lt;/p&gt;
+&lt;p&gt;In Italy and China, where all non-essential gatherings are currently banned, Roller Derby has stopped along with everything else. The Chinese leagues have not been able to practice since the lockdown in their
+country in February (with restrictions now slowly being lifted); in Italy since the increasingly escalating actions in the last week or two.&lt;/p&gt;
+&lt;p&gt;An increasing number of tournaments are now beginning to cancel. In Italy, the Anguanas' March and April Sanctioned triple-headers have been cancelled; but even in countries with less internal restrictions, there are cancellations. Copenhagen Ladybugs have had to cancel their upcoming Sevens extravaganza due to the Danish advice, for example; and there are a host of cancellations across the continental USA, despite their government's lacklustre response to ongoing events.&lt;/p&gt;
+&lt;p&gt;We have yet to have a public update on the status of the Men's Roller Derby World Cup or Rollercon, both highly-international events this year, but given the breaking news restrictions placed by the US President on travel from Schengen countries in Europe, it seems increasingly likely that there will be &lt;em&gt;some&lt;/em&gt; knock-on effect. (They are both scheduled far enough in the future that it is &lt;em&gt;possible&lt;/em&gt; that we could have a pandemic peak before they happen; but once an infectious disease goes pandemic, it becomes much harder to eradicate quickly.)&lt;/p&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://resources.wftda.org/covid-19/"&gt;WFTDA&lt;/a&gt; has published risk-management guidelines for reducing the spread of SARS-CoV-2 infections if you do hold public games during this period. They essentially reduce to the usual advice that minimising physical contact, and maintaining proper hygiene standards is the most effective way to reduce the spread of the virus, along with recommendations to cancel non-essential events and follow your country's own guidelines and restrictions. (As with other examples of force majeure, WFTDA will not penalise members for cancelling Sanctioned events due to public health concerns around COVID-19.)&lt;/p&gt;
+&lt;p&gt;We're hoping to chat to some of the most affected regions and at least help keep their Roller Derby in the public eye a bit, even if they can't play...&lt;/p&gt;
+&lt;p&gt;...but if you want to help track all the effects on Roller Derby (or just see the results of this), we're linking to Axis of Stevil's &lt;a class="reference external" href="https://docs.google.com/spreadsheets/d/1mZhFN7i7s1vTUCE5g0gfy_YqFNDaUq0sAvWhI0nT1so/edit?usp=sharing"&gt;public Google Doc&lt;/a&gt; for this purpose. Stevil is part of WFTDA's "COVID19 Taskforce", who are working in managing the response to the pandemic and its medical and political effects relating to the sport and its participants.&lt;/p&gt;&lt;/div&gt;</description><category>cancellations</category><category>covid19</category><category>epidemiology</category><category>international roller derby</category><category>oronaviruses</category><category>roller derby</category><category>statistics</category><category>tournaments</category><category>training</category><guid>https://www.scottishrollerderbyblog.com/posts/2020/03/COVID19/</guid><pubDate>Thu, 12 Mar 2020 07:30:00 GMT</pubDate></item><item><title>Guest Series: "The Road To Playoffs - March 2020 edition"</title><link>https://www.scottishrollerderbyblog.com/posts/2020/03/guest-series-the-road-to-playoffs-march-2020-edition/</link><dc:creator>SRD</dc:creator><description>&lt;div&gt;&lt;p&gt;Last year, we ran a series of "&lt;a class="reference external" href="https://www.scottishrollerderbyblog.com/categories/road-to-playoffs/"&gt;Road To Playoffs&lt;/a&gt;" posts, providing an alternative view of the WFTDA Rankings as a way to predict which teams are likely to make Playoffs. We're happy with how this went, so we're going ahead with the same plan this year...&lt;/p&gt;
 &lt;p&gt;Speedy Convalesce, one of the two primary Derby Scoreboard Developers, and founder of the Star Track "league without skaters" in Germany, has recalculated the &lt;a class="reference external" href="https://stats.wftda.com/rankings?r=2986"&gt;ratings&lt;/a&gt; for every team in WFTDA - as if their rating was calculated at &lt;strong&gt;June 30th 2020&lt;/strong&gt; [the ranking which will be used to decide Qualifications and seedings into both WFTDA Playoffs, and the Continental Cups].. (Aficionados of the WFTDA rating will know that it applies a "decay factor" to older games, which is what we're tweaking here.) This helps to give a feel for how important the games each team has played in the season are, so far.&lt;/p&gt;
 &lt;div class="figure"&gt;
 &lt;img alt="All the locations with teams in our top 100 (larger stars mean more than one team is in the list in that location)" src="https://www.scottishrollerderbyblog.com/images/2020/03/RoadToPlayoffs-100320.png"&gt;
@@ -3526,165 +3534,4 @@ Whilst we can't predict the future, this will give the best guess of what teams 
 &lt;span style="font-weight:400;"&gt;There are a number of under-ranked teams in Europe, and the WFTDA Rankings Algorithm makes it very hard for these teams to find their appropriate ranking without using SFC games. There’s also very few SFC games taking place in Europe at all, (probably because it’s not a heavily-advertised programme). Having more SFC games in Europe will improve the rankings of a lot of teams, and is recommended particularly for anyone who is aiming to get into the Continental Cups and WFTDA Playoffs. One can also use alternate rankings systems like FTS (or SRDRank &lt;a href="http://aoanla.pythonanywhere.com/SRDRank.html"&gt;http://aoanla.pythonanywhere.com/SRDRank.html&lt;/a&gt;) to help find suitable opponents for SFC games.&lt;/span&gt;
 &lt;hr&gt;
 
-&lt;p&gt;&lt;i&gt;&lt;span style="font-weight:400;"&gt;*Note: The FTS rankings algorithm is different from the WFTDA rankings algorithm, and the FTS-Euro uses a different set of data (all recorded Sanctioned &amp;amp; Regulation games between European teams). Because of this, one much always be careful when making comparisons between FTS and WFTDA rankings. I’m gonna do it anyway, but take my analysis with a pinch of salt ;)&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;</description><category>articles</category><category>guest articles</category><category>rankings</category><category>statistics</category><category>wftda</category><guid>https://www.scottishrollerderbyblog.com/posts/2018/11/09/guest-article-strength-factor-challenges-for-europeans/</guid><pubDate>Fri, 09 Nov 2018 09:58:32 GMT</pubDate></item><item><title>MRDWC 2018: Post-Mortem</title><link>https://www.scottishrollerderbyblog.com/posts/2018/04/25/mrdwc-2018-post-mortem/</link><dc:creator>aoanla</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;As is traditional (&lt;a href="https://www.scottishrollerderbyblog.com/posts/2014/12/20/roller-derby-international-rankings-2014/"&gt;&lt;strong&gt;2014&lt;/strong&gt;&lt;/a&gt;, &lt;a href="https://www.scottishrollerderbyblog.com/posts/2016/07/30/mrdwc2016-rankings-and-statistics/"&gt;&lt;strong&gt;2016&lt;/strong&gt;&lt;/a&gt;), we like to take a look at the &lt;a href="http://mrdwc.com/"&gt;&lt;strong&gt;Men's Roller Derby World Cup&lt;/strong&gt; &lt;/a&gt;post-facto, and see how it has done in terms of fairly ranking teams. This time around, this is of particular interest because of the unusual approach to seeding "wild card" teams into brackets, on the basis of points-difference between groups.&lt;/p&gt;
-&lt;p&gt;To recap: teams were assigned to one of 6 groups (named by the colours of the rainbow - &lt;span style="color:#ff0000;"&gt;&lt;strong&gt;RED&lt;/strong&gt;&lt;/span&gt;, &lt;span style="color:#ff6600;"&gt;&lt;strong&gt;ORANGE&lt;/strong&gt;&lt;/span&gt;, &lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt;YELLOW&lt;/strong&gt;&lt;/span&gt;, &lt;span style="color:#008000;"&gt;&lt;strong&gt;GREEN&lt;/strong&gt;&lt;/span&gt;, &lt;span style="color:#0000ff;"&gt;&lt;strong&gt;BLUE&lt;/strong&gt;&lt;/span&gt;, &lt;span style="color:#800080;"&gt;&lt;strong&gt;PURPLE&lt;/strong&gt;&lt;/span&gt;), with one "Top seed", and one "Second seed" in each group, the remainder of the places determined by lottery.
-The winners of each Group went through to the Top 8, leaving two spots free.
-The teams placing 2nd in each Group were compared by their points-difference (ignoring their worst game - usually against the Group winner), and the two highest also entered the Top 8. [The remaining 4 played for positions 9 through 12].
-The top 4 of the teams placing 3rd-in-Group (by the same metric) played for positions 13 through 16.
-The bottom 2 of the 3rd-in-Groups played the top 2 of the 4th-in-Groups for 17th through 20th; the remaining teams 4th-in-Group played for 21st through 24th.&lt;/p&gt;
-&lt;p&gt;Obviously, this kind of involved "cross-group-rating" is very sensitive to the relative difficulty of the Groups - if one Group is a lot easier than the others, then their 2nd place team will have a relatively larger Points-difference due to their environment, rather than their relative skill; conversely for a Group which is harder than the others. Because we ignore results against the Top team, the most important thing to make a Group "hard" for the Top 8 wildcards is the relative strength of the weakest teams in the Groups - as they are where the other teams get more of their points difference.&lt;/p&gt;
-&lt;p&gt;As MRDWC used Points-difference, we'll be doing most of our inference also using Points-difference. We'll colour teams by the colour of the group they were assigned to in all of our charts, to make it easy to judge where each group "spanned" in terms of its components - the group winner we'll also italicise. We're also normalising the scores to 30 minutes by dividing the scores for full length games by 2 - so, if you compare two teams' estimated strengths, the difference will be about half the score difference you'd expect in a full length game between them.
-&lt;/p&gt;&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center;" colspan="3"&gt;Strength Estimates (by Linear Regression) after each Day's play, equal weighting for each game.&lt;/td&gt;
-&lt;td style="text-align:center;"&gt;Final Tourney Order&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Days 1+2&lt;/td&gt;
-&lt;td&gt;Days 1,2,3&lt;/td&gt;
-&lt;td&gt;All Days&lt;/td&gt;
-&lt;td&gt; (official ordering)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;&lt;span style="color:#008000;"&gt;POL:-200&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#800080;"&gt;DEN:-130&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#800080;"&gt;NZ:-120&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#ff6600;"&gt;CHI:-108&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#008000;"&gt;GER:-99&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#0000ff;"&gt;PHI:-94&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#ff6600;"&gt;SWE:-93&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#ff6600;"&gt;ESP:-81&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#ff0000;"&gt;JPN:-76&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#ffff00;background:#000000;"&gt;COL:-75&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#ff0000;"&gt;NED:-35&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#0000ff;"&gt;IRE:-28&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#ffff00;background:#000000;"&gt;ITA:-17&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#0000ff;"&gt;FIN:10&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#800080;"&gt;WAL:37&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#008000;"&gt;MEX:54&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt; &lt;span style="color:#ff0000;"&gt;BEL:58&lt;/span&gt;&lt;/strong&gt;
-&lt;em&gt;&lt;strong&gt; &lt;span style="color:#008000;"&gt;CAN:69&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
-&lt;em&gt;&lt;strong&gt; &lt;span style="color:#800080;"&gt;ARG:97&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
-&lt;strong&gt; &lt;span style="color:#ffff00;background:#000000;"&gt;SCO:113&lt;/span&gt;&lt;/strong&gt;
-&lt;em&gt;&lt;strong&gt; &lt;span style="color:#ff6600;"&gt;ENG:138&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
-&lt;em&gt; &lt;strong&gt; &lt;span style="color:#0000ff;"&gt;FRA:151&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
-&lt;em&gt; &lt;strong&gt; &lt;span style="color:#ffff00;background:#000000;"&gt;AUS:173&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
-&lt;em&gt; &lt;strong&gt; &lt;span style="color:#ff0000;"&gt;USA:257&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;span style="color:#008000;"&gt;&lt;strong&gt;POL:-174&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;strong&gt; DEN:-148&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;strong&gt; NZ:-143&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;strong&gt; JPN:-129&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;strong&gt; PHI:-109&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;strong&gt; NED:-96&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt; COL:-86&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#008000;"&gt;&lt;strong&gt; GER:-70&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;strong&gt; CHI:-38&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;strong&gt; IRE:-36&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt; ITA:-31&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;strong&gt; SWE:-15&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;strong&gt; ESP:-4&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;strong&gt; BEL:-3&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;strong&gt; WAL:6&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;strong&gt; FIN:7&lt;/strong&gt;&lt;/span&gt;
-&lt;em&gt;&lt;span style="color:#800080;"&gt;&lt;strong&gt; ARG:68&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;
-&lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt; SCO:94&lt;/strong&gt;&lt;/span&gt;
-&lt;em&gt;&lt;span style="color:#008000;"&gt;&lt;strong&gt; CAN:94&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;
-&lt;span style="color:#008000;"&gt;&lt;strong&gt; MEX:96&lt;/strong&gt;&lt;/span&gt;
-&lt;em&gt;&lt;span style="color:#0000ff;"&gt;&lt;strong&gt; FRA:137&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;
-&lt;em&gt; &lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt; AUS:162&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;
-&lt;em&gt; &lt;span style="color:#ff6600;"&gt;&lt;strong&gt; ENG:196&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;
-&lt;em&gt; &lt;span style="color:#ff0000;"&gt;&lt;strong&gt; USA:218&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;&lt;span style="color:#008000;"&gt;POL:-174&lt;/span&gt;&lt;/strong&gt;
-&lt;span style="color:#800080;"&gt;&lt;strong&gt;DEN:-150&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;strong&gt; NZ:-143&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;strong&gt;JPN:-124&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;strong&gt;PHI:-112&lt;/strong&gt;&lt;/span&gt;
-&lt;strong&gt;&lt;span style="color:#ffff00;background:#000000;"&gt;COL:-97&lt;/span&gt;&lt;/strong&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;strong&gt;NED:-88&lt;/strong&gt;&lt;/span&gt;
-&lt;strong&gt;&lt;span style="color:#008000;"&gt;GER:-69&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt;&lt;span style="color:#ffff00;background:#000000;"&gt;ITA:-51&lt;/span&gt;&lt;/strong&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;strong&gt;IRE:-48&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;strong&gt;CHI:-23&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;strong&gt;ESP:-5&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;strong&gt;WAL:2&lt;/strong&gt;&lt;/span&gt;
-&lt;strong&gt;&lt;span style="color:#ff6600;"&gt;SWE:4&lt;/span&gt;&lt;/strong&gt;
-&lt;strong&gt;&lt;span style="color:#ff0000;"&gt;BEL:10&lt;/span&gt;&lt;/strong&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;strong&gt;FIN:14&lt;/strong&gt;&lt;/span&gt;
-&lt;em&gt;&lt;strong&gt;&lt;span style="color:#800080;"&gt;ARG:72&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
-&lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt;SCO:77&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#008000;"&gt;&lt;strong&gt;MEX:95&lt;/strong&gt;&lt;/span&gt;
-&lt;em&gt;&lt;span style="color:#008000;"&gt;&lt;strong&gt; CAN:96&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;
-&lt;em&gt; &lt;span style="color:#0000ff;"&gt;&lt;strong&gt;FRA:140&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;
-&lt;em&gt; &lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt;AUS:152&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;
-&lt;em&gt; &lt;span style="color:#ff6600;"&gt;&lt;strong&gt;ENG:195&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;
-&lt;em&gt; &lt;span style="color:#ff0000;"&gt;&lt;strong&gt;USA:228&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;&lt;span style="color:#008000;"&gt;POL&lt;/span&gt; &lt;/strong&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;b&gt;PHI&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;b&gt;DEN&lt;/b&gt;&lt;/span&gt;
-&lt;strong&gt;&lt;span style="color:#ffff00;background:#000000;"&gt;COL&lt;/span&gt;&lt;/strong&gt;
-&lt;span style="color:#800080;"&gt;&lt;b&gt;NZ&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;b&gt;JPN&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#ffff00;background:#000000;"&gt;&lt;b&gt;ITA&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;b&gt;CHI&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;b&gt;NED&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#008000;"&gt;&lt;b&gt;GER&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;b&gt;IRE&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;b&gt;SWE&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;b&gt;ESP&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;b&gt;BEL&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#ffff00;background:#000000;"&gt;&lt;b&gt;SCO&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;b&gt;WAL&lt;/b&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;em&gt;&lt;b&gt;ARG&lt;/b&gt;&lt;/em&gt;&lt;/span&gt;
-&lt;span style="color:#008000;"&gt;&lt;strong&gt;MEX&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#008000;"&gt; &lt;em&gt;&lt;strong&gt; CAN&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;em&gt; &lt;strong&gt;FRA&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;
-&lt;span style="color:#ffff00;background:#000000;"&gt;&lt;em&gt; &lt;strong&gt;AUS&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;em&gt; &lt;strong&gt;ENG&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;em&gt; &lt;strong&gt;USA&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Range: 457&lt;/td&gt;
-&lt;td&gt; Range: 392&lt;/td&gt;
-&lt;td&gt; Range: 402&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-These ratings are calculated with equal weighting for the short and long games, and therefore are more distorted by the higher randomness in shorter games. (The short games also poorly represent the strength of the strongest teams in the tournament, as teams which expected to win their group had no need to maximise their points difference - unlike the three other teams competing with them - and so almost certainly saved their strength. A good example of this almost backfiring would be the Scotland / Australia bout, where a complacent Australia took a few jams to realise that Scotland was playing at a high enough level to challenge their initial level of engagement, before turning on the jets and treating them like an actual threat.)
-&lt;p&gt;Weighting the short games less (proportionately to their relative error), we get the following expected final rating and ranking - in general, this is very similar to the unweighted version in ranking order, except where ratings were very close.
-&lt;/p&gt;&lt;p style="text-align:center;"&gt;&lt;span style="color:#008000;"&gt;&lt;strong&gt;POL:-180&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;strong&gt;DEN:-146&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;strong&gt;NZ:-141&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;strong&gt;JPN:-126&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;strong&gt;PHI:-114&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt;COL:-95&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;strong&gt;NED:-91&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#008000;"&gt;&lt;strong&gt;GER:-71&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt;ITA:-53&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;strong&gt;IRE:-50&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;strong&gt;CHI:-19&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;strong&gt;ESP:-8&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;strong&gt;WAL:-3&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;strong&gt;BEL:10&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;strong&gt;SWE:12&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;strong&gt;FIN:21&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#800080;"&gt;&lt;strong&gt;ARG:71&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt;SCO:73&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#008000;"&gt;&lt;strong&gt;CAN:95&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#008000;"&gt;&lt;strong&gt;MEX:97&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#0000ff;"&gt;&lt;strong&gt;FRA:141&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt;AUS:154&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff6600;"&gt;&lt;strong&gt;ENG:189&lt;/strong&gt;&lt;/span&gt;
-&lt;span style="color:#ff0000;"&gt;&lt;strong&gt;USA:235&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-Comparing this rating to the final tournament rating, we do see some points of agreement - the lowest and highest rated teams are where they should be by performance, and, where teams did play each other, the ordering is generally the same. (A notable exception is &lt;span style="color:#ff6600;"&gt;&lt;strong&gt;Spain&lt;/strong&gt;&lt;/span&gt; and &lt;strong&gt;&lt;span style="color:#ff6600;"&gt;Sweden&lt;/span&gt;&lt;/strong&gt;, who swap positions in our ranking - something which is impossible in the tournament itself, due to Sweden losing by a single point to Spain. Draws, or near-draws, are difficult things for tournaments to deal with, and in this case, whilst Spain did beat the Swedish roster they faced; Sweden did also underestimate the Spanish team &lt;em&gt;strategically&lt;/em&gt;, playing a stronger roster might have given them the predicted score difference here.
-We also place &lt;span style="color:#008000;"&gt;&lt;strong&gt;Mexico&lt;/strong&gt;&lt;/span&gt; and &lt;span style="color:#008000;"&gt;&lt;strong&gt;Canada&lt;/strong&gt;&lt;/span&gt; closer in rating (and opposite in ranking) to the final result, which is more of a problem - Canada defeated Mexico more strongly in the group stage than in their placement bout, and our de-emphasis of this allows Canada and Mexico's performance in their previous games to push the result the other way.)
-&lt;p&gt;Another way in which there is general agreement between the tournament results (constrained as they are by the structure of the brackets themselves), and our inferred ratings, is in that they show the groups were not of comparable difficulty. Both the &lt;em&gt;tournament&lt;/em&gt; and both of our ratings show &lt;span style="color:#800080;"&gt;&lt;strong&gt;Purple&lt;/strong&gt;&lt;/span&gt; with &lt;em&gt;two&lt;/em&gt; teams in the bottom 5 - the only group with two teams in that situation.
-As the 2nd place teams are compared by their points difference relative to the lower two teams in their groups, this implies that &lt;span style="color:#800080;"&gt;&lt;strong&gt;Wales&lt;/strong&gt;&lt;/span&gt; had a measurable advantage compared to their peers in other groups - this is bourne out in both the inferred rating (which places Wales outside the Top 8), and in the final tournament ranking (which placed Wales at #8, their lowest possible place as a qualifier, after bruising losses to &lt;span style="color:#008000;"&gt;&lt;strong&gt;Canada&lt;/strong&gt;&lt;/span&gt; and &lt;span style="color:#800080;"&gt;&lt;strong&gt;Argentina&lt;/strong&gt;&lt;/span&gt; - the latter the largest point-differential in any of the placement games).&lt;/p&gt;
-&lt;p&gt;&lt;img class="alignnone size-full wp-image-26648" src="https://www.scottishrollerderbyblog.com/2018/04/mrdwcgroupdiff.png" alt="MRDWCGroupdiff" width="334" height="696"&gt; Rankings of teams, with CIRCLES added to represent average difficulty of group for 2nd Place teams (mean of 3rd and 4th Place team positions), and STARS to represent average difficulty of group for 4th Place teams (mean of 2nd and 3rd Place team positions). &lt;/p&gt;
-&lt;p&gt;By comparison, groups &lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt;Yellow&lt;/strong&gt;&lt;/span&gt;, &lt;strong&gt;&lt;span style="color:#ff6600;"&gt;Orange&lt;/span&gt;&lt;/strong&gt; and &lt;span style="color:#0000ff;"&gt;&lt;strong&gt;Blue&lt;/strong&gt;&lt;/span&gt; can all claim to have been more challenging than average, in terms of the relative strengths of the weakest two teams - and the other large movers in the top half of the table in comparison with the official results are indeed the second place teams in those groups. (&lt;span style="color:#ff6600;"&gt;&lt;strong&gt;Sweden&lt;/strong&gt;&lt;/span&gt;, despite having a harder group, suffer still for their performance against &lt;span style="color:#ff6600;"&gt;&lt;strong&gt;Spain&lt;/strong&gt;&lt;/span&gt;, so their final placement is perhaps still a slight underestimate.)
-&lt;strong&gt;&lt;span style="color:#ffff00;background:#000000;"&gt;Scotland&lt;/span&gt;&lt;/strong&gt;, notably, is predicted in both ratings to have been close to &lt;span style="color:#800080;"&gt;&lt;strong&gt;Argentina&lt;/strong&gt;&lt;/span&gt; - the #7 ranked tournament team - which is also backed by, again, their two performances against Australia, ending in rather similar scores.&lt;/p&gt;
-&lt;p&gt;Similar effects apply in the reverse direction for the lowest strength teams in each group: the group with the strongest 2nd and 3rd place teams penalises the weakest team relative to the other groups. In this case, this mostly affected &lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt;Colombia&lt;/strong&gt;&lt;/span&gt;, who had the bad luck to be in the group with &lt;span style="color:#ffff00;background:#000000;"&gt;&lt;strong&gt;Scotland&lt;/strong&gt;&lt;/span&gt;; and &lt;span style="color:#ff6600;"&gt;&lt;strong&gt;Chile&lt;/strong&gt;&lt;/span&gt;, who were in the tightest group for a 4th place team (although not the hardest), with equally-strong &lt;span style="color:#ff6600;"&gt;&lt;strong&gt;Sweden&lt;/strong&gt;&lt;/span&gt; and &lt;span style="color:#ff6600;"&gt;&lt;strong&gt;Spain&lt;/strong&gt;&lt;/span&gt; to face. (In general, Latin American teams other than Mexico and Argentina had pretty hard times of it, due to their relative newness on the "international" scene, compared to their actual ability - Roller Derby has been going a long time in all of Latin America, it's just expensive to get to North America or Europe from there!) &lt;span style="color:#008000;"&gt;&lt;strong&gt;Poland&lt;/strong&gt;&lt;/span&gt; actually had the &lt;em&gt;hardest&lt;/em&gt; group, but they would have been unable to qualify in the top 2 spots of the 4th Place teams even in an easier group.&lt;/p&gt;
-&lt;p&gt;In general, MRDWC 2018 did fairly well at rating teams overall, but we believe the 6 Groups into Top 8s system was too sensitive to inter-group difficulty balancing to work as well as the simpler group systems did in the previous two MRDWCs. Coupled with the geometrically increasing difficulty of making any tournament fair as the number of competitors increase, this means that at least some placements will be more likely to be off from the relative abilities of the teams. (Readers may disagree as to which teams those are, of course.)
-With the number of teams at future MRDWCs likely to grow - we know of at least four teams, and potentially as many as six, additional teams already which are aiming for a 2020 appearance - the next MRDWC will have to adopt a new system (and potentially add a third track) in order to scale fairly to meet the organisational challenge!&lt;/p&gt;&lt;/div&gt;</description><category>articles</category><category>mrdwc 2018</category><category>statistics</category><guid>https://www.scottishrollerderbyblog.com/posts/2018/04/25/mrdwc-2018-post-mortem/</guid><pubDate>Wed, 25 Apr 2018 09:52:20 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;i&gt;&lt;span style="font-weight:400;"&gt;*Note: The FTS rankings algorithm is different from the WFTDA rankings algorithm, and the FTS-Euro uses a different set of data (all recorded Sanctioned &amp;amp; Regulation games between European teams). Because of this, one much always be careful when making comparisons between FTS and WFTDA rankings. I’m gonna do it anyway, but take my analysis with a pinch of salt ;)&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;</description><category>articles</category><category>guest articles</category><category>rankings</category><category>statistics</category><category>wftda</category><guid>https://www.scottishrollerderbyblog.com/posts/2018/11/09/guest-article-strength-factor-challenges-for-europeans/</guid><pubDate>Fri, 09 Nov 2018 09:58:32 GMT</pubDate></item></channel></rss>

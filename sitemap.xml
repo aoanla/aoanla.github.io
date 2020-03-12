@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2020-03-11T12:45:00Z</lastmod>
+  <lastmod>2020-03-12T09:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -179,7 +179,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/</loc>
-  <lastmod>2020-03-11T12:45:00Z</lastmod>
+  <lastmod>2020-03-12T09:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/2011-blood-thunder-roller-derby-world-cup/</loc>
@@ -650,6 +650,10 @@
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/cancellations/</loc>
+  <lastmod>2020-03-12T09:36:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/cannie-gingers/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
@@ -848,6 +852,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/costa-rican-roller-derby/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/covid19/</loc>
+  <lastmod>2020-03-12T09:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/craft-fayre/</loc>
@@ -1108,6 +1116,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/england-mens-roller-derby/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/epidemiology/</loc>
+  <lastmod>2020-03-12T09:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/eroc/</loc>
@@ -2252,6 +2264,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/orkney-viqueens/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/oronaviruses/</loc>
+  <lastmod>2020-03-12T09:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/oslo-roller-derby/</loc>
@@ -3946,7 +3962,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-101.html</loc>
-  <lastmod>2020-03-11T12:45:00Z</lastmod>
+  <lastmod>2020-03-12T09:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-11.html</loc>
@@ -4511,8 +4527,8 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/" />
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/listings/</loc>
@@ -8452,6 +8468,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2020/03/AfricanGoodTimePre/</loc>
   <lastmod>2020-03-10T10:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/2020/03/COVID19/</loc>
+  <lastmod>2020-03-12T09:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2020/03/EuroClash2020/</loc>
