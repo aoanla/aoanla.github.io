@@ -107,7 +107,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/srd.xml</loc>
-  <lastmod>2020-03-20T17:14:00Z</lastmod>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/thejammingpony.xml</loc>
@@ -240,6 +240,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/analytics.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/anguanas.xml</loc>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/annoucements.xml</loc>
@@ -812,6 +816,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/creative-commons.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/criminal-bullets.xml</loc>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/critical-hit.xml</loc>
@@ -1418,6 +1426,10 @@
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/harpies-roller-derby-milano.xml</loc>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/helgin-roller-derby.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
@@ -1579,7 +1591,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/italian-roller-derby.xml</loc>
-  <lastmod>2020-03-10T12:47:00Z</lastmod>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/italian.xml</loc>
@@ -2286,6 +2298,10 @@
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/poison-kittens.xml</loc>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/poland.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
@@ -2372,6 +2388,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/rdwc.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/rdwc2018.xml</loc>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/react.xml</loc>
@@ -2519,7 +2539,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/roller-derby-world-cup.xml</loc>
-  <lastmod>2020-03-10T12:47:00Z</lastmod>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/roller-derby.xml</loc>
@@ -2950,6 +2970,10 @@
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/team-italy-roller-derby.xml</loc>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-italy.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
@@ -3364,6 +3388,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/violentango.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/vodcasts.xml</loc>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/volunteer.xml</loc>
@@ -4007,10 +4035,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2020-03-20T17:14:00Z</lastmod>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2020-03-20T17:14:00Z</lastmod>
+  <lastmod>2020-03-24T18:33:00Z</lastmod>
  </sitemap>
 </sitemapindex>
