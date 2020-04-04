@@ -18,7 +18,7 @@ As a mathematician and physicist by training, I tend to think naturally of rules
 
 
 We can imagine, in this model, "Roller Derby" as a region in this space of all possible sporting rules. We have, as with Wittgenstein and "games", a bunch of examples of concrete rules which are
-definitely (or at least, strongly debatably) within this region, and I'd like to use comparison of their various differences to discuss what we can say about the range of possible rulesets which *could exist*.
+definitely (or at least, strongly debate-ably) within this region, and I'd like to use comparison of their various differences to discuss what we can say about the range of possible rulesets which *could exist*.
 
 The rulesets I'm mostly going to be comparing to are: all WFTDA rulesets (from v1 through to 2019), the current JRDA rulesets, the USARS/World Skate rulesets, the RDCL rulesets, the Japanese Roller Game, Roller Derby Sevens, Sur5al, PivotStar rules, Short Track Roller Derby, and the German "Street Roller Derby" ruleset. I'll also sometimes point at variant rules which have only really been used as one-offs in experiments or fun bouts, mostly to establish limits to various changes. For the WFTDA rulesets I'll use numbers and symbols in parentheses after WFTDA to specify if I mean a particular subset - (YEAR) is that year's edition only, (YEAR+) is that year and later rulesets, (YEAR-) is that year and previous rulesets.
 
@@ -31,13 +31,17 @@ Our axioms are:
 
   - Roller Derby "Games" are subdivided into 1 or more "Period(s)", each of which is further subdivided into 1 or more "Jam(s)".
   - Roller Derby is played on a Playfield, which is an approximately Oval annulus: two Semicircular annuli connected by approximately Straight lanes (which may taper along their length).
+
     - That Playfield may be on a flat surface, or banked. (The majority of rulesets are flat track, and we'll focus more on these as banked tracks are inherently self-limiting in popularity due to the infrastructure requirements.)
+
   - Games are contests between 2 or more Teams, each consisting of a Roster of Skaters (who will mostly use Quad Skates).
   - Each Jam, at least 2 Teams field Skaters into the Playfield.
   - The Skaters are divided into two classes: "Blockers" and "Jammers".
+
     - Jammers score points by lapping the opposition.
     - Blockers from both teams must stay within a certain distance of each other, to form "The Pack".
     - There may be a class of Blocker called the "Pivot", who can in some circumstances, replace the Jammer as point scorer.
+
   - During play, there may be only 1 Jammer per Team on track.
   - During play, there will be at least 1 Blocker per Team on track.
   - Skaters may engage in [physical contact of some kind] in order to impede opposition skaters, especially the opposition Jammer.
@@ -70,12 +74,14 @@ We could imagine longer or shorter "Sur5al variants" based on other Jam duration
   MADE, 90, Yes
   USARS, 90, Yes
   RDCL, 60, Yes
+  Street Roller Derby, 120, No
   Short Track Roller Derby, 60, No
 
 *What effect does changing Jam duration have?*
 
 Changing Jam duration has some obvious, and some not quite as obvious effects. Most directly, it determines the length of time that skaters (and skating officials!) must be physically exerting themselves, and mentally focused. Shorter Jams allow for more intense bursts of activity and concentration; but can also make it harder for skaters to flip in-and-out of "focus mode".
 Conversely, lengthening the Jam duration makes competition more of an endurance sport, but is simultaneously more tiring on referees, who must also focus for longer periods without a break.
+
 Slightly less obviously, longer Jams (especially without call-offs, see below), reduce the amount of "luck" in the game (other than penalties) - if we consider a Jam as a series of measurements of how effectively the two Jammers can get through the pack [one measurement per pass], then having longer Jams gives more measurements, and therefore a better set of statistics (variance of the sample mean). Longer Jams without call-offs also allow *very* mismatched teams to avoid scoreless blowouts for the lower-rated team, by giving their Jammers more time to eventually break through the pack at all.
 
 Call-offs.
@@ -87,7 +93,7 @@ WFTDA-family rulesets differ from the MADE and USARS rulesets as to how "Lead Ja
 
 The two families of Ruleset also differ as to when a Lead Jammer may use their ability to "call off" a Jam: WFTDA-family rules allow this at any point, even if the skater is out of bounds or out of play; MADE/USARS family rules have additional requirements (usually that they be in play).
 
-Some rulesets, most notably Short Track Roller Derby out of the active rulesets, do not use Lead Jammer status: all Jams run exactly to their specified duration (unless injuries or other emergencies require a stop of play).
+Some rulesets, most notably Short Track Roller Derby and Street Roller Derby, do not use Lead Jammer status: all Jams run exactly to their specified duration (unless injuries or other emergencies require a stop of play).
 
 *What difference does allowing call-offs have on the dynamics of the game?*
 
@@ -110,10 +116,11 @@ Most rulesets prefer to specify the total duration of a Period in Time, and then
 
 Whilst many rulesets have either 1 or 2 Periods per Game, there are a few which have options for more than 2. In these cases, it's almost always the case that the total Game duration is conserved, and Periods get evenly distributed fractions of this.
 (So, for the case of MADE, for example, a Game consists of 60 minutes of playtime - but you may play 2 Periods of 30 minutes, 3 of 20 minutes or 4 of 15 minutes.)
+
 RDCL is a bit unusual in that it provides a 2 Period version which simply halves the length of the result game (we've tabulated this as RDCL(Short) below).
 
 .. csv-table:: Periods,Jams,Time per Game
-  :header: Ruleset, N Periods per Game, Period Duration, Game Duration (track time)
+  :header: Ruleset, # Periods per Game, Period Duration, Game Duration (track time)
 
   RDCL, 4, 15min, 60min
   MADE, 2-4, 30-15min, 60min
@@ -139,11 +146,12 @@ We can express other Rostering limits for rulesets in terms of the multiple of "
 .. csv-table:: Roster sizes (as multiple of lineup size)
   :header: Ruleset, Roster size, Multiple of Lineup size
 
-  WFTDA (<2018), 14, 2 4/5
+  WFTDA (2017-), 14, 2 4/5
   WFTDA (2018+), 15, 3
   RDCL,14,2 4/5
   USARS,15, 3
   Roller Derby Sevens, 7, 1 2/5
+  Street Roller Derby (small), 6, 1 1/2
   Short Track, 7, 2 1/3
   Sur5al, 5, 1
 
@@ -158,7 +166,11 @@ It's worth noting that exactly one example of a track significantly smaller than
 
 At the larger end, Helsinki Coast Quads possess the only "Big Track" - a Roller Derby track erroneously laid in one of their venues to a larger scale than the standard WFTDA, World Skate sizes. They've, mostly for fun, explored various alternative rules for playing on such a large playfield,
 
+Street Roller Derby is interesting in having an explicit "small" variant - called out explicitly in the table above - which alters the lineup size when there are only 6 skater rosters. For 7+ skater rosters (the rules don't specify a maximum roster size), lineups are the standard 4+1; for 6 skater rosters, they reduce to 3+1. Unlike Short Track Roller Derby, there is no change to the track size when making this change, and we would expect the resulting games to have more successful passes than 7+ roster games (perhaps counterbalanced slightly by the increased exertion needed to run a full game with just 6 skaters).
+
+
 There are *also* combinatorial effects on the number of blockers on track during a jam: more blockers allows more possible combinations and coordinations between them. The currently popular braced-wall needs 3 blockers to do - the equivalent as a dyad is less effective due to the lack of "width" provided by a single player, as much as any other factor.
+
 
 Teams
 ------
@@ -175,7 +187,7 @@ If we increase the number of Teams in a Game by allowing all of them to have ska
 It's hard to model precisely how much harder it will be to pass a pack with additional skaters provided by more than 2 teams, but if we consider the worst case of linear scaling (that is, doubling the number of skaters doubles the width we need), then we can make a chart of how pack sizes (per team) would scale using a standard WFTDA-width Playfield.
 
 .. csv-table:: N-Team Derby (Simultaneous)
-  :header: N Teams, N Blockers, Total Skaters on Track (inc Jammers)
+  :header: # Teams, # Blockers, Total Skaters on Track (inc Jammers)
 
   2, 4, 10
   3, 2, 9
@@ -232,7 +244,7 @@ The JRDA rulesets provide alternative definitions of "permissible contact" for L
 
 This same approach has been copied over in some regions as a modification to WFTDA rules play. Especially in Australia, you see "LOCO" bouts advertised, which essentially use the same modifications as Level 2 JRDA but playing otherwise WFTDA regulation games. These are especially popular for introductory or rookie games or scrimmages.
 
-In a similar way, the Short Track Roller Derby ruleset has "No-Contact" and "Low-Contact" variants, again using the same changes as JRDA uses for Level 1 and Level 2 contact.
+In a similar way, the Short Track Roller Derby ruleset has "No-Contact" and "Low-Contact" variants, again using a subset of the changes that JRDA uses for Level 1 and Level 2 contact.
 
 Track Cuts?
 ___________________
@@ -242,17 +254,25 @@ Where do we talk about track cut relativity?
 Foul-outs
 ____________
 
+Almost all Roller Derby rulesets have a concept of a maximum number of permissible penalties, after which a skater is permanently removed from play. (They almost all also allow for immediate permanent removal for exceptionally dangerous or egregious acts).
+
+Numbers for Foul-outside
+
+
+German Street Derby does not have Foul-outs at all - the rules justify this by arguing that heavily offending skaters are punished by the increasing loss of track time. However, it could be argued that this misunderstands the essential contract being imposed by "officating" - penalties are there to make play safer and more fun for others, and Foul-outs exist to protect players from obviously dangerous others, not just to "punish". (The same argument of protection versus punishment, of course, is a core discussion in all justice systems.)
+
 
 Serving
 _________
 
 Most modern rulesets follow the WFTDA & World Skate models of penalties being issued and served **during play**.  Penalised skaters leave the track and head immediately to a penalty area, where they sit for a period of time (60 seconds in WFTDA(2014-), 30 seconds in almost all rulesets now).
 
+German Street Derby is highly unusual in that issued penalties are served by an uneven amount of time - the penalised skater sits out for the remaining duration of the jam. (This can mean that they serve between 120 seconds and 0 seconds, depending on when they foul.) This clearly makes officiating penalties much easier, as there's no need for a penalty timer, but it isn't clear if the inconsistency in time served would lead to anomalies in skater tactics.
+
 RDCL does not require penalties to be served during play [except when it would be dangerous not to remove them]. Instead, skaters serve a penalty by sitting out for the **subsequent** jam [or later jams if the penalty box is full for their team already], requiring their team to skate with 1 fewer skater in the lineup.
 
 Short Track Roller Derby is unusual in that penalties are served by **subtraction of 2 points** from their team's score. (As Short Track is a 1 point per pass game, this is a significant effect on their team's total points.) Skaters do not leave the track except in cases of expulsion.
 
-German Street Derby
 
 
 Special Rules
@@ -261,9 +281,11 @@ Special Rules
 Exchange
 _________
 
-An unusual special rule, which we've seen used in a small number of "fun games", and is also a component of the recently publicised "`Roller Derby X`_", is *exchange*. Rather than having skaters assigned to the track for an entire jam, *exhange* allows them to "tap out", swapping with another skater on their roster, whilst the jam continues.
+An unusual special rule, which we've seen used in a small number of "fun games", and is also a component of the recently publicised "`Roller Derby X`_", is *exchange*. Rather than having skaters assigned to the track for an entire jam, *exchange* allows them to "tap out", swapping with another skater on their roster, whilst the jam continues.
 
 .. _Roller Derby X:
+
+Unfortunately, the planned public demo of Roller D
 
 We'd expect rulesets implementing exchange to require more Officials than rulesets without, as the exchange process will require its own monitoring.
 
@@ -295,7 +317,7 @@ Most revival rulesets include the third player type - the Pivot - who act as a B
 In WFTDA-family rulesets, Pivots "activate" by physically receiving the Jammer's helmet cover (with a star on it).
 In USARS-family ruleset, Pivots "activate"
 
-There is no particular reason why a ruleset needs to allow Pivots, of course. Short Track Roller Derby does not have a Pivot position - skaters are either Blockers or Jammers.
+There is no particular reason why a ruleset needs to allow Pivots, of course. Short Track Roller Derby does not have a Pivot position - skaters are either Blockers or Jammers - and the same is true in German Street Derby.
 
 Rulesets with Pivots are harder to officiate; referees must be aware of the Active Scorer changing [and determine if the change itself was legal], and officials tracking lineup positions, and scoring data, must also be aware of these shifts.
 
