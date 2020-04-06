@@ -12,7 +12,11 @@ As with many of our readers, we at SRDB have been trying to make the best of the
 
 In this vein, then, we're launching a new Vodcast series - hopefully a long-lived run of video chats with skaters around the world about derby in their country. As our opening episode, we caught up with 6 members of the Italian Roller Derby community to discuss the sport in their country, a new initiative for bringing the leagues together; and also to watch one of the 30-minute games from the 2018 Roller Derby World Cup - as Italy took on Team Indigenous!
 
-You can catch the Vodcast on YouTube here: https://youtu.be/DbMufElqL8c  and we'll be updating this with an audio-only version in the future.
+You can catch the Vodcast here, or on YouTube:
+
+.. youtube:: DbMufElqL8c
+
+and we'll be updating this with an audio-only version in the future.
 
 The entire Series Playlist is here, if you don't want to miss out on future episodes: https://www.youtube.com/playlist?list=PLsfV1BOiVrnF5TiOOxaWE696A_59gz1sp
 
