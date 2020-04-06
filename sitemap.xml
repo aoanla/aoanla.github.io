@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.scottishrollerderbyblog.com/</loc>
-  <lastmod>2020-03-27T10:42:00Z</lastmod>
+  <lastmod>2020-04-06T10:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/2011/</loc>
@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/archive.html</loc>
-  <lastmod>2020-04-04T10:15:00Z</lastmod>
+  <lastmod>2020-04-06T10:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/authors/</loc>
@@ -179,7 +179,7 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/</loc>
-  <lastmod>2020-04-04T10:15:00Z</lastmod>
+  <lastmod>2020-04-06T10:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/2011-blood-thunder-roller-derby-world-cup/</loc>
@@ -624,6 +624,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/british-roller-derby/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/brno-freakshow/</loc>
+  <lastmod>2020-04-06T10:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/bundesliga/</loc>
@@ -2562,6 +2566,10 @@
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/roller-derby-ostrava/</loc>
+  <lastmod>2020-04-06T10:13:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/roller-derby-sevens/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
  </url>
@@ -2960,6 +2968,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-crazy-legs/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/categories/team-czech-roller-derby/</loc>
+  <lastmod>2020-04-06T10:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-czech/</loc>
@@ -3994,7 +4006,11 @@
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-101.html</loc>
-  <lastmod>2020-04-04T10:15:00Z</lastmod>
+  <lastmod>2020-04-06T10:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/index-102.html</loc>
+  <lastmod>2020-04-06T10:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/index-11.html</loc>
@@ -4559,8 +4575,8 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/" />
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/listings/</loc>
@@ -8398,8 +8414,8 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/Banshees-multilingual/</loc>
   <lastmod>2019-10-23T20:57:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="it" href="https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/" />
   <xhtml:link rel="alternate" hreflang="fur" href="https://www.scottishrollerderbyblog.com/fur/posts/2019/09/Banshees-multilingual/" />
+  <xhtml:link rel="alternate" hreflang="it" href="https://www.scottishrollerderbyblog.com/it/posts/2019/09/Banshees-multilingual/" />
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2019/09/UKRDANeedYou2019/</loc>
@@ -8536,6 +8552,10 @@
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2020/04/NatTourn-COVID19/</loc>
   <lastmod>2020-04-04T10:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.scottishrollerderbyblog.com/posts/2020/04/Vodcasts-Czech/</loc>
+  <lastmod>2020-04-06T09:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.scottishrollerderbyblog.com/posts/2020/04/WFTDA-COVID19/</loc>

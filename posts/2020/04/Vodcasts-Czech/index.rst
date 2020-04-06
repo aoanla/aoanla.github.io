@@ -1,6 +1,6 @@
 .. title: SRDB - Vodcasts - Czech Roller Derby
 .. slug: Vodcasts-Czech
-.. date: 2020-04-26 11:00:00 UTC+01:00
+.. date: 2020-04-06 11:00:00 UTC+01:00
 .. tags: vodcasts, czech roller derby, rdwc2018, roller derby world cup, prague city roller derby, hard breaking dolls, brno freakshow, roller derby ostrava, team czech roller derby
 .. category:
 .. link:
