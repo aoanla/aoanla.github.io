@@ -1,6 +1,6 @@
 .. title: SRDB - Vodcasts - Baltic  and Russian Roller Derby
 .. slug: Vodcasts-BalticRus
-.. date: 2020-04-28 11:00:00 UTC+01:00
+.. date: 2020-04-24 16:00:00 UTC+01:00
 .. tags: vodcasts, baltic roller derby, russian roller derby, ingria rollers, white night furies, team russia roller derby, baltic witches, st petersburg roller derby, riga roller derby, tallin roller derby, tartu roller derby, estonian roller derby, lativian roller derby, roller derby eesti liit, fab slav, roller derby sevens, short track roller derby
 .. category:
 .. link:
@@ -12,13 +12,14 @@ A few weeks ago, we debuted the first of a planned series of SRDB Vodcasts, as w
 
 We're back today with the fourth edition, featuring the Roller Derby community in the Baltic States (Latvia and Estonia) and Russia.
 
-Highlights include footage from 2019's Fab Slav (the 3rd Baltic/Slavic Roller Derby Sevens tournament, hosted by Warsaw Roller Derby), an extended discussion of Short Track roller derby, and a conversation about the best skate shop in Riga.
+Highlights include footage from 2019's Fab Slav (the 3rd Baltic/Slavic Roller Derby Sevens tournament, hosted by Warsaw Roller Derby), an extended discussion of Short Track Roller Derby, and a conversation about the best skate shop in Riga.
 
 Due to technical issues (the laptop we use for the video call bluescreened in the middle of the call), there's an edit about 12 minutes in. We apologise for this issue.
 
 We've embedded the video here so you can watch it without needing to go to YouTube:
 
-.. youtube:: xxxxxx
+.. youtube:: tEfrr-Oe5XA
+
 
 and we'll be updating this with an audio-only version in the future.
 
