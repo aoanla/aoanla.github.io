@@ -107,7 +107,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/srd.xml</loc>
-  <lastmod>2020-05-02T13:06:00Z</lastmod>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/thejammingpony.xml</loc>
@@ -246,6 +246,10 @@
   <lastmod>2020-04-06T10:31:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/aniquiladoras.xml</loc>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/annoucements.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
@@ -299,7 +303,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/asociacion-mexicana-de-roller-derby.xml</loc>
-  <lastmod>2020-03-10T12:47:00Z</lastmod>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/astros.xml</loc>
@@ -682,6 +686,10 @@
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/central-mexico.xml</loc>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/championnat-de-france.xml</loc>
   <lastmod>2020-04-04T10:15:00Z</lastmod>
  </sitemap>
@@ -934,6 +942,10 @@
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/derby-wife.xml</loc>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/derby-without-borders.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
@@ -964,6 +976,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/disc.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/discordias.xml</loc>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/distrital.xml</loc>
@@ -1064,6 +1080,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/ella-bella-bang-bang.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/emexrd.xml</loc>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/emirates-roller-derby.xml</loc>
@@ -1240,6 +1260,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/fts.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/fugaz-roller-derby.xml</loc>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/fundraiser-event.xml</loc>
@@ -1754,6 +1778,10 @@
   <lastmod>2020-04-24T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/lcmrd.xml</loc>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/ldd.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
@@ -1970,8 +1998,12 @@
   <lastmod>2020-03-10T12:47:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/mexico-city-roller-derby.xml</loc>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/mexico.xml</loc>
-  <lastmod>2020-03-10T12:47:00Z</lastmod>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/middle-east.xml</loc>
@@ -2408,6 +2440,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/quad-wars.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/quimeras.xml</loc>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/quiz.xml</loc>
@@ -3463,7 +3499,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/vodcasts.xml</loc>
-  <lastmod>2020-05-02T13:06:00Z</lastmod>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/volunteer.xml</loc>
@@ -4111,10 +4147,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2020-05-02T13:06:00Z</lastmod>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2020-05-02T13:06:00Z</lastmod>
+  <lastmod>2020-05-09T09:03:00Z</lastmod>
  </sitemap>
 </sitemapindex>
