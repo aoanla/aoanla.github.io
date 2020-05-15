@@ -107,7 +107,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/srd.xml</loc>
-  <lastmod>2020-05-09T09:03:00Z</lastmod>
+  <lastmod>2020-05-15T16:49:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/thejammingpony.xml</loc>
@@ -376,6 +376,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/bad-omens.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/bad-rangers-poznan-roller-derby.xml</loc>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/bairn-city-rollers.xml</loc>
@@ -1115,7 +1119,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/eroc.xml</loc>
-  <lastmod>2020-03-10T12:47:00Z</lastmod>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/estonian-roller-derby.xml</loc>
@@ -1151,7 +1155,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/fab-slav.xml</loc>
-  <lastmod>2020-04-24T15:25:00Z</lastmod>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/facebook.xml</loc>
@@ -1324,6 +1328,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/gcrg.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/gdansk-chrome-sirens-roller-derby.xml</loc>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/gdansk-chrome-sirens.xml</loc>
@@ -2383,7 +2391,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/poland.xml</loc>
-  <lastmod>2020-03-10T12:47:00Z</lastmod>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/polish-derby.xml</loc>
@@ -2595,7 +2603,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/roller-derby-sevens.xml</loc>
-  <lastmod>2020-04-24T15:25:00Z</lastmod>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/roller-derby-shop.xml</loc>
@@ -2751,7 +2759,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/short-track-roller-derby.xml</loc>
-  <lastmod>2020-04-24T15:25:00Z</lastmod>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/silver-city-cup.xml</loc>
@@ -2804,6 +2812,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/smarty-pants.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/smokin-wheels-krakow-roller-derby.xml</loc>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/smrdn.xml</loc>
@@ -3128,6 +3140,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-poland-mens-roller-derby.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/team-poland-roller-derby.xml</loc>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/team-poland.xml</loc>
@@ -3499,7 +3515,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/vodcasts.xml</loc>
-  <lastmod>2020-05-09T09:03:00Z</lastmod>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/volunteer.xml</loc>
@@ -3512,6 +3528,10 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/votes.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/vratislavia-madchix-roller-squad.xml</loc>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/vratislavia-madchix.xml</loc>
@@ -3532,6 +3552,14 @@
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/warriarrgs.xml</loc>
   <lastmod>2020-03-10T12:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/warsaw-hellbadgers-officials-squad.xml</loc>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/categories/warsaw-hellcats-roller-derby.xml</loc>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/warsaw-hellcats.xml</loc>
@@ -4147,10 +4175,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
-  <lastmod>2020-05-09T09:03:00Z</lastmod>
+  <lastmod>2020-05-15T16:49:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
-  <lastmod>2020-05-09T09:03:00Z</lastmod>
+  <lastmod>2020-05-15T16:50:00Z</lastmod>
  </sitemap>
 </sitemapindex>
