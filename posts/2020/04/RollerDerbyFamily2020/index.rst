@@ -1,6 +1,6 @@
 .. title: "Roller Derby" as a family of rulesets: Limits and Boundaries
 .. slug: RollerDerbyFamily2020
-.. date: 2020-05-30 20:00:00 UTC+01:00
+.. date: 2020-06-30 20:00:00 UTC+01:00
 .. tags: roller derby, rulesets, philosophy, analysis
 .. category:
 .. link:
