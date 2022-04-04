@@ -42,7 +42,12 @@
 
         </span>
         </div>
+<<<<<<< HEAD
+    <div>
+<p>A few weeks ago, we debuted the first of a planned series of SRDB Vodcasts, as we host chats with the Roller Derby community around the World.</p>
+=======
     <p>A few weeks ago, we debuted the first of a planned series of SRDB Vodcasts, as we host chats with the Roller Derby community around the World.</p>
+>>>>>>> tmp
 <p>We're back today with the eighth edition, featuring the Roller Derby community in Argentina, with reps from Buenos Aires' Sailor City Rollers, Cordoba's Hiedras Roller Derby, Jujuy's Mortal Kollas, and Ushuaia's Piratas del Beagle.</p>
 <p>Highlights include footage from Ushuaia's Torneo Patagonia Rebelde (the most southerly Roller Derby tournament in the world), the very first Torneo Violentango, and the 2x4 Roller Derby versus Sailor City Rollers game from 2018's WFTDA Continental Cup.</p>
 <p>We've embedded the video here so you can watch it without needing to go to YouTube:</p>
@@ -52,14 +57,21 @@
 <p>and we'll be updating this with an audio-only version in the future.</p>
 <p>The entire Series Playlist is here, if you don't want to miss out on future episodes: <a class="reference external" href="https://www.youtube.com/playlist?list=PLsfV1BOiVrnF5TiOOxaWE696A_59gz1sp">https://www.youtube.com/playlist?list=PLsfV1BOiVrnF5TiOOxaWE696A_59gz1sp</a></p>
 <p>If your region would like to be part of this project, please email us at <a class="reference external" href="mailto:scottishrollerderby@gmail.com">scottishrollerderby@gmail.com</a> to discuss, or get in touch via our Instagram or Facebook pages - we'd love to hear from you (and help the world hear about you too)! We're currently working on 3 regions for new Vodcasts, but we don't have a limit as yet.</p>
+<<<<<<< HEAD
+</div>
+=======
+>>>>>>> tmp
     
         <ul class="pager hidden-print">
 <li class="previous">
                 <a href="../../05/Vodcasts-Poland/" rel="prev" title="SRDB - Vodcasts - Polish Roller Derby">Previous post</a>
             </li>
+<<<<<<< HEAD
+=======
             <li class="next">
                 <a href="../../04/ScotStats2020/" rel="next" title="Statistics of Roller Derby in Scotland 2020">Next post</a>
             </li>
+>>>>>>> tmp
         </ul>
 </div>
 
@@ -116,7 +128,11 @@
             </ul>
 </div>
         <div id="footer">
+<<<<<<< HEAD
+            Contents © 2020         <a href="mailto:scottishrollerderby@gmail.com">SRD</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+=======
             Contents © 2022         <a href="mailto:scottishrollerderby@gmail.com">SRD</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+>>>>>>> tmp
  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
  <img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
             

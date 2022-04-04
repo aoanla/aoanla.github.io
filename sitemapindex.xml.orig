@@ -107,7 +107,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/srd.xml</loc>
+<<<<<<< HEAD
+  <lastmod>2020-06-02T10:00:00Z</lastmod>
+=======
   <lastmod>2022-04-04T19:50:00Z</lastmod>
+>>>>>>> tmp
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/authors/thejammingpony.xml</loc>
@@ -287,7 +291,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/argentine-roller-derby.xml</loc>
+<<<<<<< HEAD
+  <lastmod>2020-06-02T10:00:00Z</lastmod>
+=======
   <lastmod>2022-04-04T19:50:00Z</lastmod>
+>>>>>>> tmp
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/arrg.xml</loc>
@@ -815,7 +823,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/continental-cup.xml</loc>
+<<<<<<< HEAD
+  <lastmod>2020-06-02T10:00:00Z</lastmod>
+=======
   <lastmod>2022-04-04T19:50:00Z</lastmod>
+>>>>>>> tmp
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/copenhagen-roller-derby.xml</loc>
@@ -3563,7 +3575,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/vodcasts.xml</loc>
+<<<<<<< HEAD
+  <lastmod>2020-06-02T10:00:00Z</lastmod>
+=======
   <lastmod>2022-04-04T19:50:00Z</lastmod>
+>>>>>>> tmp
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/volunteer.xml</loc>
@@ -3691,7 +3707,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/wftda.xml</loc>
+<<<<<<< HEAD
+  <lastmod>2020-06-02T10:00:00Z</lastmod>
+=======
   <lastmod>2022-04-04T19:50:00Z</lastmod>
+>>>>>>> tmp
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/categories/wheely-wonka.xml</loc>
@@ -4223,10 +4243,18 @@
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/rss.xml</loc>
+<<<<<<< HEAD
+  <lastmod>2020-06-02T10:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
+  <lastmod>2020-06-02T10:00:00Z</lastmod>
+=======
   <lastmod>2022-04-04T19:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.scottishrollerderbyblog.com/sitemap.xml</loc>
   <lastmod>2022-04-04T19:52:00Z</lastmod>
+>>>>>>> tmp
  </sitemap>
 </sitemapindex>

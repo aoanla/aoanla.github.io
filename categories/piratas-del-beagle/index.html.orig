@@ -3,26 +3,26 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>Posts about hiedras roller derby | Scottish Roller Derby Blog</title>
+<title>Posts about piratas del beagle | Scottish Roller Derby Blog</title>
 <link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (de)" href="../../de/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (it)" href="../../it/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (fur)" href="../../fur/rss.xml">
-<link rel="canonical" href="https://www.scottishrollerderbyblog.com/categories/hiedras-roller-derby/">
-<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="RSS for tag hiedras roller derby (en)" hreflang="en" href="../hiedras-roller-derby.xml">
+<link rel="canonical" href="https://www.scottishrollerderbyblog.com/categories/piratas-del-beagle/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="RSS for tag piratas del beagle (en)" hreflang="en" href="../piratas-del-beagle.xml">
 </head>
 <body class="home blog">
     <div id="wrap" style="width:850px">
         <div id="container" style="width:560px">
             
             
-<article class="tagpage"><header><h1>Posts about hiedras roller derby</h1>
+<article class="tagpage"><header><h1>Posts about piratas del beagle</h1>
         <div class="metadata">
             
                 <p class="feedlink">
                         
-            <a href="../hiedras-roller-derby.xml" hreflang="en" type="application/rss+xml">RSS feed (hiedras roller derby, en)</a>
+            <a href="../piratas-del-beagle.xml" hreflang="en" type="application/rss+xml">RSS feed (piratas del beagle, en)</a>
 
                 </p>
 
@@ -87,7 +87,11 @@
             </ul>
 </div>
         <div id="footer">
+<<<<<<< HEAD
+            Contents © 2020         <a href="mailto:scottishrollerderby@gmail.com">SRD</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+=======
             Contents © 2022         <a href="mailto:scottishrollerderby@gmail.com">SRD</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+>>>>>>> tmp
  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
  <img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
             
